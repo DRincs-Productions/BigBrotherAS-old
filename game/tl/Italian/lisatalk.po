@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 13:35\n"
+"PO-Revision-Date: 2022-08-04 21:47\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/lisatalk.rpy:26 #-#-# translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -1066,7 +1066,7 @@ msgstr "[Lisa_00] A proposito di chi?!"
 
 # game/dialogues/lisatalk.rpy:919 #-#-# translate crowdin Lisa_MorningWoodCont_98701acf:
 msgid "[Max_01] О Большом Максе, на которого ты, с таким интересом, смотрела утром."
-msgstr "[Max_01] About Big Max, che tu, con tanto interesse, hai guardato al mattino."
+msgstr "[Max_01] A proposito di Big Max che hai visto con tanto interesse questa mattina."
 
 # game/dialogues/lisatalk.rpy:920 #-#-# translate crowdin Lisa_MorningWoodCont_56152c0c:
 msgid "[Lisa_02] Ага! Так значит я была права! Раз у него есть имя, значит он и правда живёт своей жизнью..."
