@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 13:35\n"
+"PO-Revision-Date: 2022-08-14 20:11\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/alicetalk.rpy:12 #-#-# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -2158,11 +2158,11 @@ msgstr "[Alice_07] Grazie, Max! Sei come... Non lo so nemmeno, sono solo sciocca
 
 # game/dialogues/alicetalk.rpy:2293 #-#-# translate crowdin gift_dress_35ab4b16:
 msgid "[Alice_02] Так и знала, что есть какой-то подвох... И что ты хочешь за него? [nointeract]"
-msgstr "[Alice_02] sapevo che c'era un problema... E cosa vuoi per lui? [nointeract]"
+msgstr "[Alice_02] Sapevo che c'era una fregatura... E cosa vuoi in cambio? [nointeract]"
 
 # game/dialogues/alicetalk.rpy:2297 #-#-# translate crowdin gift_dress_7b2bcf43:
 msgid "[Alice_05] Ты хочешь, чтобы я его примерила прямо при тебе?"
-msgstr "[Alice_05] Vuoi che lo provi proprio in faccia?"
+msgstr "[Alice_05] Vuoi che lo provi proprio davanti a te?"
 
 # game/dialogues/alicetalk.rpy:2298 #-#-# translate crowdin gift_dress_d7db6238:
 msgid "[Max_03] Конечно! Я это и хочу!"
@@ -2170,7 +2170,7 @@ msgstr "[Max_03] Certo! Questo è quello che voglio!"
 
 # game/dialogues/alicetalk.rpy:2299 #-#-# translate crowdin gift_dress_2e058c06:
 msgid "[Alice_03] Макс... А жить... хочешь?"
-msgstr "[Alice_03] Max... E per vivere... Volere?"
+msgstr "[Alice_03] Max... Tu... Vuoi vivere?"
 
 # game/dialogues/alicetalk.rpy:2300 #-#-# translate crowdin gift_dress_126ef8d6:
 msgid "[Max_07] Эй, что за угрозы?"
@@ -2186,7 +2186,7 @@ msgstr "[Max_04] Non per niente!"
 
 # game/dialogues/alicetalk.rpy:2326 #-#-# translate crowdin gift_dress_newdress_show_44aafd4e:
 msgid "[Alice_03] Жди за дверью. Я сейчас надену платье и тебе покажу, так уж и быть... [nointeract]"
-msgstr "[Alice_03] Aspetta fuori dalla porta. Ora indosserò un vestito e ti mostrerò, così sia... [nointeract]"
+msgstr "[Alice_03] Aspettate fuori dalla porta. Adesso mi metto il vestito e ti faccio un piccolo spettacolo, va bene... [nointeract]"
 
 # game/dialogues/alicetalk.rpy:2335 #-#-# translate crowdin gift_dress_newdress_show_c73d3c3a:
 msgid "[Alice_05] Ну как, Макс? Мне идёт?"
@@ -7945,7 +7945,7 @@ msgstr "Niente, aspetta..."
 
 # game/dialogues/alicetalk.rpy:2292
 msgid "Устрой мне показ в нём..."
-msgstr "Dammi uno spettacolo in esso..."
+msgstr "Mi fai uno spettacolino..."
 
 # game/dialogues/alicetalk.rpy:2325
 msgid "Э... Хорошо..."
