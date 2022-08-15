@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-08-04 21:47\n"
+"PO-Revision-Date: 2022-08-15 20:18\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/lisatalk.rpy:26 #-#-# translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -18,7 +18,7 @@ msgstr "[Lisa_13] Max, ti ho detto di stare indietro! Non voglio parlare con te.
 
 # game/dialogues/lisatalk.rpy:31 #-#-# translate crowdin LisaTalkStart_9200635d:
 msgid "[Lisa_00] Макс, решил поболтать? [nointeract]"
-msgstr "[Lisa_00] Max, ha deciso di chattare? [nointeract]"
+msgstr "[Lisa_00] Max, vuoi chiaccherare? [nointeract]"
 
 # game/dialogues/lisatalk.rpy:61 #-#-# translate crowdin Lisa_badbadmood_da371c18:
 msgid "[Lisa_09] Макс, уйди. Не хочу тебя видеть! [nointeract]"
@@ -270,7 +270,7 @@ msgstr "[Lisa_02] E quando aspettare questo tuo... curriculum?"
 
 # game/dialogues/lisatalk.rpy:238 #-#-# translate crowdin MorningWoodCont_821133d2:
 msgid "[Max_04] Скоро. Очень."
-msgstr "[Max_04] Presto. Moltissimo."
+msgstr "[Max_04] Presto. Molto presto."
 
 # game/dialogues/lisatalk.rpy:239 #-#-# translate crowdin MorningWoodCont_435acdee:
 msgid "[Lisa_01] Хорошо, Макс. Будет любопытно понаблюдать за тем, как ты... обучаешь..."
@@ -1394,7 +1394,7 @@ msgstr "[Lisa_03] Beh, vedi! Oh, quanto sei disattento, Max. Ma comunque, grazie
 
 # game/dialogues/lisatalk.rpy:1198 #-#-# translate crowdin Lisa_HomeWork_make_bag_71e49abd:
 msgid "[Max_01] Не за что!"
-msgstr "[Max_01] Non per niente!"
+msgstr "[Max_01] Non c'è di che!"
 
 # game/dialogues/lisatalk.rpy:1204 #-#-# translate crowdin Lisa_HomeWork_make_bag_3cf4b2ea:
 msgid "[Lisa_02] [succes!t]Да? Ну ладно. Тебе виднее... Не буду проверять даже. Спасибо за помощь, Макс!"
@@ -1402,7 +1402,7 @@ msgstr "[Lisa_02] [succes!t] Eh? Ok. Lo sai meglio... Non controllerò nemmeno. 
 
 # game/dialogues/lisatalk.rpy:1206 #-#-# translate crowdin Lisa_HomeWork_make_bag_71e49abd_1:
 msgid "[Max_01] Не за что!"
-msgstr "[Max_01] Non per niente!"
+msgstr "[Max_01] Non c'è di che!"
 
 # game/dialogues/lisatalk.rpy:1209 #-#-# translate crowdin Lisa_HomeWork_make_bag_bbf49f04:
 msgid "[Lisa_13] [failed!t]Нет, Макс, ты не прав. Тут надо всё совсем не так решать. Спасибо за помощь, но я уже разобралась..."
@@ -4648,7 +4648,7 @@ msgstr "[Lisa_01] Tutto sommato, grazie, Max. Leggerò prima di andare a letto. 
 
 # game/dialogues/lisatalk.rpy:3616 #-#-# translate crowdin gift_sexbook_71e49abd:
 msgid "[Max_01] Не за что!"
-msgstr "[Max_01] Non per niente!"
+msgstr "[Max_01] Non c'è di che!"
 
 # game/dialogues/lisatalk.rpy:3643 #-#-# translate crowdin MorningWoodCont2_var1_8c16bd79:
 msgid "[Lisa_01] Эй, Макс, просыпайся, а то в школу опоздаешь! Там сегодня важный день, надо на уроке Биологии всем твой стоящий член показать!"
@@ -5288,23 +5288,23 @@ msgstr "[Max_09] {m}Forse è meglio interrompere le nostre lezioni di baci con L
 
 # game/dialogues/lisatalk.rpy:3905 #-#-# translate crowdin about_boy3_3785b052:
 msgid "[Lisa_00] Да, что насчёт него? Появились какие-то мысли?"
-msgstr "[Lisa_00] sì, e lui? Qualche pensiero?"
+msgstr "[Lisa_00] Sì, che ne dici di lui? Hai qualche idea?"
 
 # game/dialogues/lisatalk.rpy:3906 #-#-# translate crowdin about_boy3_2317bd16:
 msgid "[Max_01] Ага, могу предложить кое-что..."
-msgstr "[Max_01] sì, posso offrire qualcosa..."
+msgstr "[Max_01] Sì, posso suggerirti qualcosa..."
 
 # game/dialogues/lisatalk.rpy:3907 #-#-# translate crowdin about_boy3_7df1d7f0:
 msgid "[Lisa_01] Супер! Я тебя слушаю..."
-msgstr "[Lisa_01] Super! Ti sto ascoltando..."
+msgstr "[Lisa_01] Super! Ti ascolto..."
 
 # game/dialogues/lisatalk.rpy:3908 #-#-# translate crowdin about_boy3_157d8a4e:
 msgid "[Max_07] Думаю, тебе стоит подружиться с Оливией."
-msgstr "[Max_07] Penso che dovresti essere amico di Olivia."
+msgstr "[Max_07] Penso che dovresti fare amicizia con Olivia."
 
 # game/dialogues/lisatalk.rpy:3909 #-#-# translate crowdin about_boy3_c933d2ee:
 msgid "[Lisa_09] С Оливией?! Дружить? По-моему, дружить с девочкой, которая встречается с парнем, который мне интересен, не самая лучшая идея."
-msgstr "[Lisa_09] con Olivia?! Essere amici? Secondo me, essere amico di una ragazza che esce con un ragazzo che mi interessa non è l'idea migliore."
+msgstr "[Lisa_09] Con Olivia?! Fare amicizia? Non credo che essere amica di una ragazza che esce con il ragazzo che mi interessa sia una buona l'idea."
 
 # game/dialogues/lisatalk.rpy:3910 #-#-# translate crowdin about_boy3_44f9090c:
 msgid "[Max_09] Разве?"
@@ -5312,15 +5312,15 @@ msgstr "[Max_09] Davvero?"
 
 # game/dialogues/lisatalk.rpy:3911 #-#-# translate crowdin about_boy3_59f8b5d7:
 msgid "[Lisa_10] Ну, как своей подружке, она ведь явно будет рассказывать, чем они с Алексом занимаются... А я не уверена, что хочу знать! Особенно в подробностях..."
-msgstr "[Lisa_10] Beh, come sua ragazza, ovviamente ti dirà cosa stanno facendo lei e Alex... E non sono sicuro di volerlo sapere! Soprattutto nei dettagli..."
+msgstr "[Lisa_10] Beh, essendo la tua ragazza, è ovvio che mi dirà cosa stanno facendo lei e Alex... Non sono sicura di volerlo sapere! Soprattutto nei dettagli..."
 
 # game/dialogues/lisatalk.rpy:3912 #-#-# translate crowdin about_boy3_de4ad589:
 msgid "[Max_03] В том и смысл! Если ты будешь общаться с Алексом сама, то ещё не известно, каким он себя покажет. А вот через дружбу с Оливией ты сможешь узнать, действительно ли он так хорош, как тебе кажется."
-msgstr "[Max_03] Questo è il punto! Se comunichi con Alex da solo, non si sa ancora come si mostrerà. Ma attraverso l'amicizia con Olivia, puoi scoprire se è davvero bravo come pensi."
+msgstr "[Max_03] Questo è il punto! Se parli con Alex da sola, non sai come sarà. Ma attraverso l'amicizia con Olivia, si può scoprire se è così fedele come pensi."
 
 # game/dialogues/lisatalk.rpy:3913 #-#-# translate crowdin about_boy3_a8df8b20:
 msgid "[Lisa_00] А знаешь, может быть ты и прав. Есть правда одно но... Даже если мы с ней подружимся, она ведь не выдаст о нём всё, что только знает и думает. Для такой дружбы нужно время..."
-msgstr "[Lisa_00] E sai, forse hai ragione. C'è una verità ma... Anche se diventiamo amici con lei, non darà tutto ciò che sa e pensa a lui. Una tale amicizia richiede tempo..."
+msgstr "[Lisa_00] Forse hai ragione. C'è solo una cosa... Anche se diventassimo sua amica, non è che mi dirà tutto quello che sa e pensa di lui. Un'amicizia del genere richiede tempo..."
 
 # game/dialogues/lisatalk.rpy:3914 #-#-# translate crowdin about_boy3_2b4e8f98:
 msgid "[Max_07] Да, но это лучше, чем попытаться их, например, рассорить или ещё чего... Если Оливия очень нравится Алексу и из-за тебя они расстанутся, он вообще тебя может возненавидеть."
@@ -7121,7 +7121,7 @@ msgstr "Succede la mattina, non sono di proposito..."
 
 # game/dialogues/lisatalk.rpy:198
 msgid "{i}подождать{/i}"
-msgstr "{i}wait{/i}"
+msgstr "{i}aspetta{/i}"
 
 # game/dialogues/lisatalk.rpy:198
 msgid "Да трогай уже, он не кусается!"
