@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-08-04 21:47\n"
+"PO-Revision-Date: 2022-08-15 20:19\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/breakfast.rpy:14 #-#-# translate crowdin typical_breakfast_32286f7d:
 msgid "[Ann_00] Всех ещё раз с добрым утром, всем приятного аппетита! Давайте сегодня покушаем в тишине, если вы не возражаете... [nointeract]"
@@ -690,7 +690,7 @@ msgstr "[Alice_09] Max! Non è più divertente. Legare con l'interrogatorio. La 
 
 # game/dialogues/breakfast.rpy:641 #-#-# translate crowdin breakfast_5_e1ca2730:
 msgid "[Ann_00] Да, Алиса. Если вы все подружитесь с Эриком, я буду очень рада. Для меня это очень важно. Ну а пока, хватит о нём. Думаю, завтрак окончен. Всем большое спасибо!"
-msgstr "[Ann_00] sì, Alice. Se tutti voi facciate amicizia con Eric, sarei molto felice. È molto importante per me. Nel frattempo, basta con lui. Penso che la colazione sia finita. Grazie mille a tutti!"
+msgstr "[Ann_00] Sì, Alice. Se tutti voi facciate amicizia con Eric, sarei molto felice. È molto importante per me. Nel frattempo, basta con lui. Penso che la colazione sia finita. Grazie mille a tutti!"
 
 # game/dialogues/breakfast.rpy:642 #-#-# translate crowdin breakfast_5_37c01b98:
 msgid "[Max_00] Спасибо..."
