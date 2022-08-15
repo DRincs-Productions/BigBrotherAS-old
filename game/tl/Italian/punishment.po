@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 13:35\n"
+"PO-Revision-Date: 2022-08-15 20:18\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/punishment.rpy:99 #-#-# translate crowdin StartPunishment_42b2fac4:
 msgid "[Ann_16] Прежде, чем мы начнём, кое-кто заслуживает наказания и сейчас все на это посмотрят..."
@@ -402,15 +402,15 @@ msgstr "[Ann_12] Lisa, spero che tu abbia imparato una lezione da questa punizio
 
 # game/dialogues/punishment.rpy:619 #-#-# translate crowdin punishment_alice_d88fc265:
 msgid "[Ann_16] Подходи, подходи, Алиса, чего ты там мнешься. Штаны снимай, есть разговор!"
-msgstr "[Ann_16] Vieni, vieni su, Alice, cosa stai facendo lì. Togliti i pantaloni, c'è una conversazione!"
+msgstr "[Ann_16] Vieni, Vieni, Alice, cosa stai pensando. Togliti i pantaloni, c'è un accordo!"
 
 # game/dialogues/punishment.rpy:621 #-#-# translate crowdin punishment_alice_d608324e:
 msgid "[Ann_16] Подходи, подходи, Алиса, чего ты там мнешься. Снимай шорты, есть разговор!"
-msgstr "[Ann_16] Vieni, vieni su, Alice, cosa stai facendo lì. Togliti i pantaloncini, c'è una conversazione!"
+msgstr "[Ann_16] Dai, dai, Alice, cosa stai facendo? Togliti i pantaloncini, c'è un accordo!"
 
 # game/dialogues/punishment.rpy:622 #-#-# translate crowdin punishment_alice_8e33c890:
 msgid "[Alice_12] Мам, за что? Что я такого сделала?"
-msgstr "[Alice_12] mamma, per cosa? Cosa ho fatto?"
+msgstr "[Alice_12] Mamma, perché? Che cosa ho fatto?"
 
 # game/dialogues/punishment.rpy:628 #-#-# translate crowdin punishment_alice_a4b257c5:
 msgid "[Ann_18] [_text!t]"
@@ -446,7 +446,7 @@ msgstr "[Alice_13] Mamma... Non sono le mie sigarette... Non fumo, onestamente..
 
 # game/dialogues/punishment.rpy:652 #-#-# translate crowdin punishment_alice_3761a8bd:
 msgid "[Ann_14] Не твои? А чьи они тогда? Быстро снимай штаны!"
-msgstr "[Ann_14] Non è tuo? E di chi sono allora? Togliti i pantaloni velocemente!"
+msgstr "[Ann_14] Non è il tuo? Di chi sono allora? Toglietevi subito i pantaloni!"
 
 # game/dialogues/punishment.rpy:654 #-#-# translate crowdin punishment_alice_194e9daf:
 msgid "[Alice_06] Мам, но я сегодня без трусиков... Пусть Макс уйдёт или отвернётся, хотя бы..."
@@ -546,7 +546,7 @@ msgstr "[Max_04] {m}Adoro quando Alice viene punita... È un po' stronza, ma è 
 
 # game/dialogues/punishment.rpy:765 #-#-# translate crowdin punishment_alice_9e2ea44b:
 msgid "[Ann_17] Я знаю, что не будешь. Заслужила наказание, терпи!"
-msgstr "[Ann_17] So che non lo farai. Meritata punizione, sopportare!"
+msgstr "[Ann_17] So che non lo farai. Meriti la tua punizione, sopportatela!"
 
 # game/dialogues/punishment.rpy:767 #-#-# translate crowdin punishment_alice_be504ff7:
 msgid "[Alice_15] Ай! Ма-ам! Больно же! Мам, я больше не буду!!!"
@@ -558,11 +558,11 @@ msgstr "[Ann_16] Non facciamo la mamma qui! So che non lo farai. Meritata punizi
 
 # game/dialogues/punishment.rpy:786 #-#-# translate crowdin punishment_alice_7f307a07:
 msgid "[Ann_12] Так, всё, надевай свои джинсы. Надеюсь, ты осознала свои поступки и следующего раза не будет..."
-msgstr "[Ann_12] Quindi, questo è tutto, indossa i jeans. Spero che tu abbia realizzato le tue azioni e la prossima volta non sarà..."
+msgstr "[Ann_12] Ok, basta così, mettiti i jeans. Spero che tu abbia capito cosa hai fatto e che non ci sarà un'altra volta..."
 
 # game/dialogues/punishment.rpy:788 #-#-# translate crowdin punishment_alice_06c1e8de:
 msgid "[Ann_12] Так, всё, надевай свои шорты. Надеюсь, ты осознала свои поступки и следующего раза не будет..."
-msgstr "[Ann_12] Quindi, questo è tutto, indossa i pantaloncini. Spero che tu abbia realizzato le tue azioni e la prossima volta non sarà..."
+msgstr "[Ann_12] Ok, basta così, mettiti i pantaloncini. Spero che tu abbia capito cosa hai fatto e che non ci sarà un'altra volta..."
 
 # game/dialogues/punishment.rpy:790 #-#-# translate crowdin punishment_alice_3006a77e:
 msgid "[Ann_12] Ну что, получила урок? Стыдно? Правильно. Должно быть стыдно. Надеюсь, это больше не повторится. А теперь, одевайся..."
@@ -673,7 +673,7 @@ msgstr "Sorprendentemente! Anche Max ti aiuta, e tu afferri i deuces!"
 
 # game/dialogues/punishment.rpy:624
 msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла штаны и легла на мои колени, кому сказала!"
-msgstr "Alice, stai scherzando? Ho trovato sigarette nella tua stanza! Fumi di nuovo! Si tolse rapidamente i pantaloni e si sdraiò sulle mie ginocchia, a cui raccontò!"
+msgstr "Alice, stai scherzando? Ho trovato delle sigarette nella tua stanza! Stai fumando di nuovo! Togliti subito i pantaloni e sdraiati sulle mie ginocchia, chi te l'ha detto!"
 
 # game/dialogues/punishment.rpy:626
 msgid "Алиса, ты издеваешься? Я нашла сигареты у тебя в комнате! Ты опять куришь! Быстро сняла шорты и легла на мои колени, кому сказала!"
@@ -685,7 +685,7 @@ msgstr "{i}Difendete Alice{/i}"
 
 # game/dialogues/punishment.rpy:688
 msgid "Теперь ложись побыстрее, ужин стынет..."
-msgstr "Ora vai a letto velocemente, la cena è asciutta..."
+msgstr "Ora sdraiati subito, la cena si sta raffreddando..."
 
 # game/dialogues/punishment.rpy:691
 msgid "Ну как, Алиса, стыдно тебе? Молчишь? Вот подумай о своём поступке, пока я буду наказывать тебя на глазах у всех... Ложись на мои колени!"
