@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
+﻿# TODO: Translation updated at 2022-09-25 19:46
 
 # game/dialogues/anntalk.rpy:22
 translate crowdin AnnTalkStart_11c2aa45:
@@ -528,1129 +528,1129 @@ translate crowdin ann_tv_casual_r_34583ab7:
     # Max_02 "Очень надеюсь, что так и будет." nointeract
     Max_02 "Очень надеюсь, что так и будет." nointeract
 
-# game/dialogues/anntalk.rpy:574
+# game/dialogues/anntalk.rpy:576
 translate crowdin ann_tv_casual_r_9db23388:
 
     # Max_06 "[ann_good_mass!t]{m}Неплохой у меня вид открывается! Под полотенцем слегка виднеются её аппетитные сосочки... Это возбуждает ещё сильнее. Вот бы её полотенце начало сползать... Возможно, она бы даже не сразу это поняла, особенно, если ей очень понравился массаж.{/m}"
     Max_06 "[ann_good_mass!t]{m}Неплохой у меня вид открывается! Под полотенцем слегка виднеются её аппетитные сосочки... Это возбуждает ещё сильнее. Вот бы её полотенце начало сползать... Возможно, она бы даже не сразу это поняла, особенно, если ей очень понравился массаж.{/m}"
 
-# game/dialogues/anntalk.rpy:581
+# game/dialogues/anntalk.rpy:583
 translate crowdin ann_tv_casual_r_4ccbb069:
 
     # Ann_07 "Ой, Макс! Это чудесно... Такая лёгкость. Ты знаешь как сделать приятно. Мне очень понравилось... Обязательно буду ждать следующего раза!"
     Ann_07 "Ой, Макс! Это чудесно... Такая лёгкость. Ты знаешь как сделать приятно. Мне очень понравилось... Обязательно буду ждать следующего раза!"
 
-# game/dialogues/anntalk.rpy:582
+# game/dialogues/anntalk.rpy:584
 translate crowdin ann_tv_casual_r_3f435f31:
 
     # Max_01 "Класс! Я тоже буду ждать, мам. Отдыхай."
     Max_01 "Класс! Я тоже буду ждать, мам. Отдыхай."
 
-# game/dialogues/anntalk.rpy:594
+# game/dialogues/anntalk.rpy:596
 translate crowdin ann_tv_casual_r_4969c11a:
 
     # Ann_14 "[ann_bad_mass!t]Ой, Макс... Нет, теперь уже не так хорошо... Что-то даже мышцам немного больно стало. Давай в другой раз продолжим... Но всё равно, спасибо!"
     Ann_14 "[ann_bad_mass!t]Ой, Макс... Нет, теперь уже не так хорошо... Что-то даже мышцам немного больно стало. Давай в другой раз продолжим... Но всё равно, спасибо!"
 
-# game/dialogues/anntalk.rpy:595
+# game/dialogues/anntalk.rpy:597
 translate crowdin ann_tv_casual_r_40d1e45e:
 
     # Max_10 "Извини. Наверно, на сериал засмотрелся... Я пойду."
     Max_10 "Извини. Наверно, на сериал засмотрелся... Я пойду."
 
-# game/dialogues/anntalk.rpy:617
+# game/dialogues/anntalk.rpy:619
 translate crowdin ann_tv_continuation_massage_513fb7a2:
 
     # Max_06 "{m}Неплохой у меня вид открывается! Под полотенцем слегка виднеются её аппетитные сосочки... Это возбуждает ещё сильнее. Вот бы её полотенце начало сползать... Возможно, она бы даже не сразу это поняла, особенно, если ей очень понравился массаж.{/m}"
     Max_06 "{m}Неплохой у меня вид открывается! Под полотенцем слегка виднеются её аппетитные сосочки... Это возбуждает ещё сильнее. Вот бы её полотенце начало сползать... Возможно, она бы даже не сразу это поняла, особенно, если ей очень понравился массаж.{/m}"
 
-# game/dialogues/anntalk.rpy:622
+# game/dialogues/anntalk.rpy:624
 translate crowdin ann_tv_continuation_massage_4a0638de:
 
     # Ann_07 "Ой, Макс! Это чудесно... Ты знаешь как сделать приятно. Мне очень понравилось... Ты большой молодец у меня!" nointeract
     Ann_07 "Ой, Макс! Это чудесно... Ты знаешь как сделать приятно. Мне очень понравилось... Ты большой молодец у меня!" nointeract
 
-# game/dialogues/anntalk.rpy:626
+# game/dialogues/anntalk.rpy:628
 translate crowdin ann_tv_continuation_massage_3a615788:
 
     # Ann_05 "Обожаю массаж спины... Не знаю, хватит ли у тебя для этого силы, но давай попробуем. Может у тебя уже было достаточно практики и ты со мной справишься..."
     Ann_05 "Обожаю массаж спины... Не знаю, хватит ли у тебя для этого силы, но давай попробуем. Может у тебя уже было достаточно практики и ты со мной справишься..."
 
-# game/dialogues/anntalk.rpy:627
+# game/dialogues/anntalk.rpy:629
 translate crowdin ann_tv_continuation_massage_fb2c93bc:
 
     # Max_04 "Ты не пожалеешь!"
     Max_04 "Ты не пожалеешь!"
 
-# game/dialogues/anntalk.rpy:633
+# game/dialogues/anntalk.rpy:635
 translate crowdin ann_tv_continuation_massage_5bae27a4:
 
     # Ann_14 "Ох, даже не знаю, как лучше развернуть это полотенце, чтобы ты мог до моей спины спокойно добраться. Ты лучше глаза закрой, а то мало ли у меня не получится..."
     Ann_14 "Ох, даже не знаю, как лучше развернуть это полотенце, чтобы ты мог до моей спины спокойно добраться. Ты лучше глаза закрой, а то мало ли у меня не получится..."
 
-# game/dialogues/anntalk.rpy:634
+# game/dialogues/anntalk.rpy:636
 translate crowdin ann_tv_continuation_massage_be58c6be:
 
     # Max_02 "{m}Как же здорово будет, если не получится! У меня только от одних мыслей об этом член стоит, как гора, а уж если она что-нибудь засветит...{/m}"
     Max_02 "{m}Как же здорово будет, если не получится! У меня только от одних мыслей об этом член стоит, как гора, а уж если она что-нибудь засветит...{/m}"
 
-# game/dialogues/anntalk.rpy:638
+# game/dialogues/anntalk.rpy:640
 translate crowdin ann_tv_continuation_massage_561a8483:
 
     # Ann_02 "Вот так, мне кажется, будет нормально... Только хочу тебя сразу предупредить, я совсем голая под полотенцем. Я там не сильно... открыта?"
     Ann_02 "Вот так, мне кажется, будет нормально... Только хочу тебя сразу предупредить, я совсем голая под полотенцем. Я там не сильно... открыта?"
 
-# game/dialogues/anntalk.rpy:639
+# game/dialogues/anntalk.rpy:641
 translate crowdin ann_tv_continuation_massage_87f09816:
 
     # Max_03 "Нет. Открыто именно то, что мне надо!" nointeract
     Max_03 "Нет. Открыто именно то, что мне надо!" nointeract
 
-# game/dialogues/anntalk.rpy:642
+# game/dialogues/anntalk.rpy:644
 translate crowdin ann_tv_continuation_massage_215bab6f:
 
     # Ann_05 "Конечно! Когда дело доходит до моей спины, я очень требовательна, сынок, потому что обожаю это. Надеюсь, ты справишься."
     Ann_05 "Конечно! Когда дело доходит до моей спины, я очень требовательна, сынок, потому что обожаю это. Надеюсь, ты справишься."
 
-# game/dialogues/anntalk.rpy:643
+# game/dialogues/anntalk.rpy:645
 translate crowdin ann_tv_continuation_massage_fb2c93bc_1:
 
     # Max_04 "Ты не пожалеешь!"
     Max_04 "Ты не пожалеешь!"
 
-# game/dialogues/anntalk.rpy:649
+# game/dialogues/anntalk.rpy:651
 translate crowdin ann_tv_continuation_massage_5bae27a4_1:
 
     # Ann_14 "Ох, даже не знаю, как лучше развернуть это полотенце, чтобы ты мог до моей спины спокойно добраться. Ты лучше глаза закрой, а то мало ли у меня не получится..."
     Ann_14 "Ох, даже не знаю, как лучше развернуть это полотенце, чтобы ты мог до моей спины спокойно добраться. Ты лучше глаза закрой, а то мало ли у меня не получится..."
 
-# game/dialogues/anntalk.rpy:650
+# game/dialogues/anntalk.rpy:652
 translate crowdin ann_tv_continuation_massage_be58c6be_1:
 
     # Max_02 "{m}Как же здорово будет, если не получится! У меня только от одних мыслей об этом член стоит, как гора, а уж если она что-нибудь засветит...{/m}"
     Max_02 "{m}Как же здорово будет, если не получится! У меня только от одних мыслей об этом член стоит, как гора, а уж если она что-нибудь засветит...{/m}"
 
-# game/dialogues/anntalk.rpy:654
+# game/dialogues/anntalk.rpy:656
 translate crowdin ann_tv_continuation_massage_561a8483_1:
 
     # Ann_02 "Вот так, мне кажется, будет нормально... Только хочу тебя сразу предупредить, я совсем голая под полотенцем. Я там не сильно... открыта?"
     Ann_02 "Вот так, мне кажется, будет нормально... Только хочу тебя сразу предупредить, я совсем голая под полотенцем. Я там не сильно... открыта?"
 
-# game/dialogues/anntalk.rpy:655
+# game/dialogues/anntalk.rpy:657
 translate crowdin ann_tv_continuation_massage_87f09816_1:
 
     # Max_03 "Нет. Открыто именно то, что мне надо!" nointeract
     Max_03 "Нет. Открыто именно то, что мне надо!" nointeract
 
-# game/dialogues/anntalk.rpy:658
+# game/dialogues/anntalk.rpy:660
 translate crowdin ann_tv_continuation_massage_42d57509:
 
     # Max_01 "Спасибо за похвалу! Жду не дождусь следующего раза, мам. Отдыхай." nointeract
     Max_01 "Спасибо за похвалу! Жду не дождусь следующего раза, мам. Отдыхай." nointeract
 
-# game/dialogues/anntalk.rpy:668
+# game/dialogues/anntalk.rpy:670
 translate crowdin ann_tv_continuation_massage_massage_f3601d08:
 
     # Ann_03 "[ann_good_mass!t]Да, Макс... Твои руки приносят мне огромное удовольствие. В смысле, у тебя получается очень хорошо... Как будто сходила к профессионалу..."
     Ann_03 "[ann_good_mass!t]Да, Макс... Твои руки приносят мне огромное удовольствие. В смысле, у тебя получается очень хорошо... Как будто сходила к профессионалу..."
 
-# game/dialogues/anntalk.rpy:669
+# game/dialogues/anntalk.rpy:671
 translate crowdin ann_tv_continuation_massage_massage_49ee9ac5:
 
     # Max_06 "{m}Вау... Какая у неё шикарная и почти голая попка! Блин, как же хочется прижаться к ней членом, прямо по серединке, и тереться... Но лучше не отвлекаться, а то запросто можно массаж запороть!{/m}" nointeract
     Max_06 "{m}Вау... Какая у неё шикарная и почти голая попка! Блин, как же хочется прижаться к ней членом, прямо по серединке, и тереться... Но лучше не отвлекаться, а то запросто можно массаж запороть!{/m}" nointeract
 
-# game/dialogues/anntalk.rpy:677
+# game/dialogues/anntalk.rpy:679
 translate crowdin ann_tv_continuation_massage_massage_ffdec8ce:
 
     # Ann_09 "[ann_good_mass!t]Ох, как здорово, сынок... Такие нежные, но сильные руки у тебя! Но они уже опустились так низко, а я не чувствую по полотенцу, что оно тебе хоть как-то мешает. Оно там не сползло слишком низко?" nointeract
     Ann_09 "[ann_good_mass!t]Ох, как здорово, сынок... Такие нежные, но сильные руки у тебя! Но они уже опустились так низко, а я не чувствую по полотенцу, что оно тебе хоть как-то мешает. Оно там не сползло слишком низко?" nointeract
 
-# game/dialogues/anntalk.rpy:682
+# game/dialogues/anntalk.rpy:684
 translate crowdin ann_tv_continuation_massage_massage_e212b960:
 
     # Ann_08 "[succes!t]Фух... А то я сижу, наслаждаюсь массажем и про всё остальное забыла. Такая лёгкость. Мне очень понравилось!" nointeract
     Ann_08 "[succes!t]Фух... А то я сижу, наслаждаюсь массажем и про всё остальное забыла. Такая лёгкость. Мне очень понравилось!" nointeract
 
-# game/dialogues/anntalk.rpy:691
+# game/dialogues/anntalk.rpy:693
 translate crowdin ann_tv_continuation_massage_massage_727fe7fb:
 
     # Ann_07 "Я обязательно буду ждать следующего раза, сынок!"
     Ann_07 "Я обязательно буду ждать следующего раза, сынок!"
 
-# game/dialogues/anntalk.rpy:692
+# game/dialogues/anntalk.rpy:694
 translate crowdin ann_tv_continuation_massage_massage_535758bb:
 
     # Max_01 "Класс! Я тоже буду ждать, мам. Отдыхай." nointeract
     Max_01 "Класс! Я тоже буду ждать, мам. Отдыхай." nointeract
 
-# game/dialogues/anntalk.rpy:703
+# game/dialogues/anntalk.rpy:705
 translate crowdin ann_tv_continuation_massage_failed_persuasion_d390c1ed:
 
     # Ann_17 "[failed!t]Обманщик ты, Макс! Это что такое?! Как тебе не стыдно! У тебя встал на собственную маму! Что у тебя в голове творится... Почему ты не сказал, что я тут голая сижу?"
     Ann_17 "[failed!t]Обманщик ты, Макс! Это что такое?! Как тебе не стыдно! У тебя встал на собственную маму! Что у тебя в голове творится... Почему ты не сказал, что я тут голая сижу?"
 
-# game/dialogues/anntalk.rpy:704
+# game/dialogues/anntalk.rpy:706
 translate crowdin ann_tv_continuation_massage_failed_persuasion_c7019911:
 
     # Max_07 "Просто засмотрелся на тебя по ходу дела. А не сказал, потому что хотел массаж закончить. Хорошо же получилось?"
     Max_07 "Просто засмотрелся на тебя по ходу дела. А не сказал, потому что хотел массаж закончить. Хорошо же получилось?"
 
-# game/dialogues/anntalk.rpy:705
+# game/dialogues/anntalk.rpy:707
 translate crowdin ann_tv_continuation_massage_failed_persuasion_d53168cf:
 
     # Ann_12 "Получилось-то хорошо, вот только... не должно так быть..."
     Ann_12 "Получилось-то хорошо, вот только... не должно так быть..."
 
-# game/dialogues/anntalk.rpy:706
+# game/dialogues/anntalk.rpy:708
 translate crowdin ann_tv_continuation_massage_failed_persuasion_e1072954:
 
     # Max_10 "Ну мам, ты же красивая! Вот я и это... возбудился... слегка..."
     Max_10 "Ну мам, ты же красивая! Вот я и это... возбудился... слегка..."
 
-# game/dialogues/anntalk.rpy:707
+# game/dialogues/anntalk.rpy:709
 translate crowdin ann_tv_continuation_massage_failed_persuasion_1371a9dd:
 
     # Ann_13 "Ничего себе, слегка! Так, ладно, представим, что ничего не было. Иди куда-нибудь, развейся..." nointeract
     Ann_13 "Ничего себе, слегка! Так, ладно, представим, что ничего не было. Иди куда-нибудь, развейся..." nointeract
 
-# game/dialogues/anntalk.rpy:716
+# game/dialogues/anntalk.rpy:718
 translate crowdin ann_tv_continuation_massage_failed_persuasion_221bc697:
 
     # Ann_14 "[failed!t]Да что ты говоришь, Макс! Почему же ты тогда возбуждён так сильно?! Ни стыда, ни совести у тебя нет!"
     Ann_14 "[failed!t]Да что ты говоришь, Макс! Почему же ты тогда возбуждён так сильно?! Ни стыда, ни совести у тебя нет!"
 
-# game/dialogues/anntalk.rpy:717
+# game/dialogues/anntalk.rpy:719
 translate crowdin ann_tv_continuation_massage_failed_persuasion_9cb21df5:
 
     # Max_07 "Ну, да... Сползло немного твоё полотенце, но не критично. Мне это не мешает. Тебе же понравился массаж?"
     Max_07 "Ну, да... Сползло немного твоё полотенце, но не критично. Мне это не мешает. Тебе же понравился массаж?"
 
-# game/dialogues/anntalk.rpy:718
+# game/dialogues/anntalk.rpy:720
 translate crowdin ann_tv_continuation_massage_failed_persuasion_8695f276:
 
     # Ann_13 "Понравился, но вот то, что у меня за спиной происходит помимо массажа... Это вот мне совсем не нравится."
     Ann_13 "Понравился, но вот то, что у меня за спиной происходит помимо массажа... Это вот мне совсем не нравится."
 
-# game/dialogues/anntalk.rpy:719
+# game/dialogues/anntalk.rpy:721
 translate crowdin ann_tv_continuation_massage_failed_persuasion_403df953:
 
     # Max_03 "Ну мам, ты же красивая! Уж извини, но воспринимай, как комплимент."
     Max_03 "Ну мам, ты же красивая! Уж извини, но воспринимай, как комплимент."
 
-# game/dialogues/anntalk.rpy:720
+# game/dialogues/anntalk.rpy:722
 translate crowdin ann_tv_continuation_massage_failed_persuasion_157b0aa7:
 
     # Ann_12 "Да уж, большой комплимент! Так, ладно, представим, что ничего не было. Иди куда-нибудь, развейся..." nointeract
     Ann_12 "Да уж, большой комплимент! Так, ладно, представим, что ничего не было. Иди куда-нибудь, развейся..." nointeract
 
-# game/dialogues/anntalk.rpy:731
+# game/dialogues/anntalk.rpy:732
 translate crowdin ann_tv_continuation_massage_failed_persuasion_21542021:
 
     # Ann_15 "Ничего себе! Ты почему сидишь и молчишь об этом, а, Макс?! Я же предупредила, что голая под ним..."
     Ann_15 "Ничего себе! Ты почему сидишь и молчишь об этом, а, Макс?! Я же предупредила, что голая под ним..."
 
-# game/dialogues/anntalk.rpy:732
+# game/dialogues/anntalk.rpy:733
 translate crowdin ann_tv_continuation_massage_failed_persuasion_c532b93a:
 
     # Max_07 "Так оно под самый конец только сползло, а я хотел массаж закончить. Хорошо же получилось?"
     Max_07 "Так оно под самый конец только сползло, а я хотел массаж закончить. Хорошо же получилось?"
 
-# game/dialogues/anntalk.rpy:739
+# game/dialogues/anntalk.rpy:740
 translate crowdin ann_tv_continuation_massage_failed_persuasion_f1a52f3f:
 
     # Ann_14 "Очень! Но в следующий раз, лучше не молчи об этом... Хорошо?"
     Ann_14 "Очень! Но в следующий раз, лучше не молчи об этом... Хорошо?"
 
-# game/dialogues/anntalk.rpy:740
+# game/dialogues/anntalk.rpy:741
 translate crowdin ann_tv_continuation_massage_failed_persuasion_5a863e60:
 
     # Max_11 "Ладно, скажу."
     Max_11 "Ладно, скажу."
 
-# game/dialogues/anntalk.rpy:741
+# game/dialogues/anntalk.rpy:742
 translate crowdin ann_tv_continuation_massage_failed_persuasion_3c049e1b:
 
     # Ann_07 "А за массаж огромное тебе спасибо, мне очень понравилось! Обязательно буду ждать следующего раза!"
     Ann_07 "А за массаж огромное тебе спасибо, мне очень понравилось! Обязательно буду ждать следующего раза!"
 
-# game/dialogues/anntalk.rpy:742
+# game/dialogues/anntalk.rpy:743
 translate crowdin ann_tv_continuation_massage_failed_persuasion_535758bb:
 
     # Max_01 "Класс! Я тоже буду ждать, мам. Отдыхай." nointeract
     Max_01 "Класс! Я тоже буду ждать, мам. Отдыхай." nointeract
 
-# game/dialogues/anntalk.rpy:757
+# game/dialogues/anntalk.rpy:758
 translate crowdin ann_tv_continuation_massage_bad_massage_fb4ffbcf:
 
     # Ann_14 "[ann_bad_mass!t]Ой, нет, Макс... Твой хвалёный массаж не так хорош, как ты рекламировал... Думаю, надо прекратить. Давай в другой раз продолжим... Но всё равно, спасибо!"
     Ann_14 "[ann_bad_mass!t]Ой, нет, Макс... Твой хвалёный массаж не так хорош, как ты рекламировал... Думаю, надо прекратить. Давай в другой раз продолжим... Но всё равно, спасибо!"
 
-# game/dialogues/anntalk.rpy:759
+# game/dialogues/anntalk.rpy:760
 translate crowdin ann_tv_continuation_massage_bad_massage_1545505c:
 
     # Max_10 "Извини. Наверно, на сериал засмотрелся... В следующий раз я буду лучше стараться." nointeract
     Max_10 "Извини. Наверно, на сериал засмотрелся... В следующий раз я буду лучше стараться." nointeract
 
-# game/dialogues/anntalk.rpy:776
+# game/dialogues/anntalk.rpy:777
 translate crowdin Ann_MorningWood_bb881ec2:
 
     # Ann_01 "Макс, не переживай ты так. Я всё прекрасно понимаю, у мальчиков это бывает..."
     Ann_01 "Макс, не переживай ты так. Я всё прекрасно понимаю, у мальчиков это бывает..."
 
-# game/dialogues/anntalk.rpy:777
+# game/dialogues/anntalk.rpy:778
 translate crowdin Ann_MorningWood_ab75b971:
 
     # Max_04 "Я рад, что ты понимаешь"
     Max_04 "Я рад, что ты понимаешь"
 
-# game/dialogues/anntalk.rpy:779
+# game/dialogues/anntalk.rpy:780
 translate crowdin Ann_MorningWood_75ea92a8:
 
     # Ann_14 "Но Макс. Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?" nointeract
     Ann_14 "Но Макс. Лиза ещё маленькая и постарайся, чтобы она не видела твой... тебя. В общем, ты меня понял, да?" nointeract
 
-# game/dialogues/anntalk.rpy:782
+# game/dialogues/anntalk.rpy:783
 translate crowdin Ann_MorningWood_4d3a269f:
 
     # Ann_04 "Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром!" nointeract
     Ann_04 "Что такого? Да то, что девочка не должна видеть здоровенный член своего брата, когда просыпается утром!" nointeract
 
-# game/dialogues/anntalk.rpy:785
+# game/dialogues/anntalk.rpy:786
 translate crowdin Ann_MorningWood_31985b42:
 
     # Ann_07 "Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу..." nointeract
     Ann_07 "Извини, что-то меня занесло. Просто, даже я в шоке была, когда увидела, а что уж говорить про Лизу..." nointeract
 
-# game/dialogues/anntalk.rpy:787
+# game/dialogues/anntalk.rpy:788
 translate crowdin Ann_MorningWood_20707248:
 
     # Ann_12 "Макс! Я конечно рада, что ты у меня уже такой... большой... Но вообще, я всё сказала. Постарайся ей не показываться в таком виде, ладно?"
     Ann_12 "Макс! Я конечно рада, что ты у меня уже такой... большой... Но вообще, я всё сказала. Постарайся ей не показываться в таком виде, ладно?"
 
-# game/dialogues/anntalk.rpy:788
+# game/dialogues/anntalk.rpy:789
 translate crowdin Ann_MorningWood_f3fba9dc:
 
     # Max_00 "Ладно, мам..."
     Max_00 "Ладно, мам..."
 
-# game/dialogues/anntalk.rpy:793
+# game/dialogues/anntalk.rpy:794
 translate crowdin Ann_MorningWood_0bac3ba4:
 
     # Ann_12 "Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?" nointeract
     Ann_12 "Ну, взрослую женщину это даже притягивает, но девочке явно рано на такое смотреть, ты меня понял?" nointeract
 
-# game/dialogues/anntalk.rpy:795
+# game/dialogues/anntalk.rpy:796
 translate crowdin Ann_MorningWood_845bcbb0:
 
     # Ann_05 "Ну, Макс! Я же не это имела в виду... В общем, этот разговор окончен. Постарайся не травмировать психику Лизы, хорошо?"
     Ann_05 "Ну, Макс! Я же не это имела в виду... В общем, этот разговор окончен. Постарайся не травмировать психику Лизы, хорошо?"
 
-# game/dialogues/anntalk.rpy:796
+# game/dialogues/anntalk.rpy:797
 translate crowdin Ann_MorningWood_26bf3db9:
 
     # Max_01 "Хорошо, мам..."
     Max_01 "Хорошо, мам..."
 
-# game/dialogues/anntalk.rpy:800
+# game/dialogues/anntalk.rpy:801
 translate crowdin Ann_MorningWood_fe9ff73d:
 
     # Ann_05 "Вот и молодец. А если такое повторится, просто прикройся, как будто ничего нет..."
     Ann_05 "Вот и молодец. А если такое повторится, просто прикройся, как будто ничего нет..."
 
-# game/dialogues/anntalk.rpy:801
+# game/dialogues/anntalk.rpy:802
 translate crowdin Ann_MorningWood_9fbd015d:
 
     # Max_03 "Ну, ты же знаешь, что мне с моим размером это трудно сделать..."
     Max_03 "Ну, ты же знаешь, что мне с моим размером это трудно сделать..."
 
-# game/dialogues/anntalk.rpy:802
+# game/dialogues/anntalk.rpy:803
 translate crowdin Ann_MorningWood_6ea36867:
 
     # Ann_12 "Да, понимаю, конечно... Но беседа ушла куда-то не туда. В общем, постарайся не травмировать её психику, хорошо?"
     Ann_12 "Да, понимаю, конечно... Но беседа ушла куда-то не туда. В общем, постарайся не травмировать её психику, хорошо?"
 
-# game/dialogues/anntalk.rpy:803
+# game/dialogues/anntalk.rpy:804
 translate crowdin Ann_MorningWood_d66e2468:
 
     # Max_00 "Хорошо, мам..."
     Max_00 "Хорошо, мам..."
 
-# game/dialogues/anntalk.rpy:817
+# game/dialogues/anntalk.rpy:818
 translate crowdin talk_about_smoking_becba3c8:
 
     # Ann_12 "Макс. Я не уверена, но мне кажется, что чувствую запах сигаретного дыма. К нам кто-то приходил?" nointeract
     Ann_12 "Макс. Я не уверена, но мне кажется, что чувствую запах сигаретного дыма. К нам кто-то приходил?" nointeract
 
-# game/dialogues/anntalk.rpy:823
+# game/dialogues/anntalk.rpy:824
 translate crowdin talk_about_smoking_812b7a4b:
 
     # Ann_00 "Точно? Макс, ты ничего не хочешь рассказать?" nointeract
     Ann_00 "Точно? Макс, ты ничего не хочешь рассказать?" nointeract
 
-# game/dialogues/anntalk.rpy:825
+# game/dialogues/anntalk.rpy:826
 translate crowdin talk_about_smoking_b75bee26:
 
     # Ann_01 "Да? Ну, может и правда показалось. Или от соседей надуло... Ладно, давайте ужинать..."
     Ann_01 "Да? Ну, может и правда показалось. Или от соседей надуло... Ладно, давайте ужинать..."
 
-# game/dialogues/anntalk.rpy:830
+# game/dialogues/anntalk.rpy:831
 translate crowdin talk_about_smoking_bc384657:
 
     # Alice_03 "Спасибо, Макс, что не сдал меня... Я это ценю." nointeract
     Alice_03 "Спасибо, Макс, что не сдал меня... Я это ценю." nointeract
 
-# game/dialogues/anntalk.rpy:833
+# game/dialogues/anntalk.rpy:834
 translate crowdin talk_about_smoking_582d9cb8:
 
     # Alice_05 "Вот можешь же быть не полным придурком... иногда..."
     Alice_05 "Вот можешь же быть не полным придурком... иногда..."
 
-# game/dialogues/anntalk.rpy:834
+# game/dialogues/anntalk.rpy:835
 translate crowdin talk_about_smoking_d217c75e:
 
     # Max_01 "Ага. Ладно, давай ужинать"
     Max_01 "Ага. Ладно, давай ужинать"
 
-# game/dialogues/anntalk.rpy:841
+# game/dialogues/anntalk.rpy:842
 translate crowdin talk_about_smoking_ae9788a4:
 
     # Alice_16 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты..." nointeract
     Alice_16 "Макс! Ты невыносим. Я уже подумала, что ты нормальный брат, а ты..." nointeract
 
-# game/dialogues/anntalk.rpy:852
+# game/dialogues/anntalk.rpy:853
 translate crowdin talk_about_smoking_82373ff8:
 
     # Alice_13 "Макс! Опять ты за своё? Не будь придурком!" nointeract
     Alice_13 "Макс! Опять ты за своё? Не будь придурком!" nointeract
 
-# game/dialogues/anntalk.rpy:863
+# game/dialogues/anntalk.rpy:864
 translate crowdin talk_about_smoking_joke_eaa2da91:
 
     # Alice_12 "Шутник... В общем, я надеюсь, что с этим вопросом разобрались. Уже пора ужинать"
     Alice_12 "Шутник... В общем, я надеюсь, что с этим вопросом разобрались. Уже пора ужинать"
 
-# game/dialogues/anntalk.rpy:864
+# game/dialogues/anntalk.rpy:865
 translate crowdin talk_about_smoking_joke_e1be1cb3:
 
     # Max_01 "Ага, пора."
     Max_01 "Ага, пора."
 
-# game/dialogues/anntalk.rpy:870
+# game/dialogues/anntalk.rpy:871
 translate crowdin talk_about_smoking_sorry_2ed806ce:
 
     # Alice_13 "Макс... А, ничего не буду говорить, бесполезно. Давай ужинать..."
     Alice_13 "Макс... А, ничего не буду говорить, бесполезно. Давай ужинать..."
 
-# game/dialogues/anntalk.rpy:871
+# game/dialogues/anntalk.rpy:872
 translate crowdin talk_about_smoking_sorry_99fabaec:
 
     # Max_01 "Ага, давай."
     Max_01 "Ага, давай."
 
-# game/dialogues/anntalk.rpy:877
+# game/dialogues/anntalk.rpy:878
 translate crowdin ann_about_kiss_38892b4b:
 
     # Ann_02 "Вот это вопрос, Макс. Неожиданный, я бы сказала... А зачем тебе? Нашёл девушку и хочешь её впечатлить?"
     Ann_02 "Вот это вопрос, Макс. Неожиданный, я бы сказала... А зачем тебе? Нашёл девушку и хочешь её впечатлить?"
 
-# game/dialogues/anntalk.rpy:878
+# game/dialogues/anntalk.rpy:879
 translate crowdin ann_about_kiss_f870de5f:
 
     # Max_01 "Да, точно!"
     Max_01 "Да, точно!"
 
-# game/dialogues/anntalk.rpy:880
+# game/dialogues/anntalk.rpy:881
 translate crowdin ann_about_kiss_060b6710:
 
     # Ann_04 "Ого! Поздравляю, Макс. Наконец-то ты нашёл кого-то. Расскажи, какая она?" nointeract
     Ann_04 "Ого! Поздравляю, Макс. Наконец-то ты нашёл кого-то. Расскажи, какая она?" nointeract
 
-# game/dialogues/anntalk.rpy:882
+# game/dialogues/anntalk.rpy:883
 translate crowdin ann_about_kiss_b3dba2cb:
 
     # Ann_05 "Макс, что-то ты хитришь. Кстати, а где ты с нею познакомился? Ты же всё время дома сидишь... Через интернет?"
     Ann_05 "Макс, что-то ты хитришь. Кстати, а где ты с нею познакомился? Ты же всё время дома сидишь... Через интернет?"
 
-# game/dialogues/anntalk.rpy:884
+# game/dialogues/anntalk.rpy:885
 translate crowdin ann_about_kiss_75d7ada9:
 
     # Ann_05 "И где ты с этой девушкой познакомился? В интернете?"
     Ann_05 "И где ты с этой девушкой познакомился? В интернете?"
 
-# game/dialogues/anntalk.rpy:885
+# game/dialogues/anntalk.rpy:886
 translate crowdin ann_about_kiss_9cfb9a3d:
 
     # Max_07 "Типа того..."
     Max_07 "Типа того..."
 
-# game/dialogues/anntalk.rpy:886
+# game/dialogues/anntalk.rpy:887
 translate crowdin ann_about_kiss_3ef7d7c6:
 
     # Ann_02 "Понятно. Ну что я могу тебе сказать. Буть естественным, будь самим собой. Девушки это ценят. Если ты попытаешься выдавать себя за ловеласа, она это раскусит и бросит тебя..."
     Ann_02 "Понятно. Ну что я могу тебе сказать. Буть естественным, будь самим собой. Девушки это ценят. Если ты попытаешься выдавать себя за ловеласа, она это раскусит и бросит тебя..."
 
-# game/dialogues/anntalk.rpy:887
+# game/dialogues/anntalk.rpy:888
 translate crowdin ann_about_kiss_f7d895a9:
 
     # Max_08 "Ну мне всё равно надо научиться..."
     Max_08 "Ну мне всё равно надо научиться..."
 
-# game/dialogues/anntalk.rpy:888
+# game/dialogues/anntalk.rpy:889
 translate crowdin ann_about_kiss_6100355b:
 
     # Ann_04 "Ну вот с этой девушкой и научишься целоваться. Лучше учителя тебе всё равно не найти!"
     Ann_04 "Ну вот с этой девушкой и научишься целоваться. Лучше учителя тебе всё равно не найти!"
 
-# game/dialogues/anntalk.rpy:889
+# game/dialogues/anntalk.rpy:890
 translate crowdin ann_about_kiss_83e97fb7:
 
     # Max_00 "Эх... Спасибо, мам..."
     Max_00 "Эх... Спасибо, мам..."
 
-# game/dialogues/anntalk.rpy:890
+# game/dialogues/anntalk.rpy:891
 translate crowdin ann_about_kiss_ad47424b:
 
     # Ann_07 "Не за что, Макс. Обращайся, если будет нужен ещё какой-то совет..."
     Ann_07 "Не за что, Макс. Обращайся, если будет нужен ещё какой-то совет..."
 
-# game/dialogues/anntalk.rpy:891
+# game/dialogues/anntalk.rpy:892
 translate crowdin ann_about_kiss_03d844e0:
 
     # Max_01 "Ага, обязательно..."
     Max_01 "Ага, обязательно..."
 
-# game/dialogues/anntalk.rpy:901
+# game/dialogues/anntalk.rpy:902
 translate crowdin ann_about_ann_secret1_09d49aac:
 
     # Ann_13 "Кира? Для чего, я не понимаю..."
     Ann_13 "Кира? Для чего, я не понимаю..."
 
-# game/dialogues/anntalk.rpy:902
+# game/dialogues/anntalk.rpy:903
 translate crowdin ann_about_ann_secret1_71994bdb:
 
     # Max_07 "Она сказала, чтобы я поговорил с тобой про какой-то случай из твоего детства..."
     Max_07 "Она сказала, чтобы я поговорил с тобой про какой-то случай из твоего детства..."
 
-# game/dialogues/anntalk.rpy:903
+# game/dialogues/anntalk.rpy:904
 translate crowdin ann_about_ann_secret1_68a27479:
 
     # Ann_14 "Кира совсем не умеет держать язык за зубами... Макс, это точно не та история, которую я хочу тебе рассказать. Давай сменим тему."
     Ann_14 "Кира совсем не умеет держать язык за зубами... Макс, это точно не та история, которую я хочу тебе рассказать. Давай сменим тему."
 
-# game/dialogues/anntalk.rpy:904
+# game/dialogues/anntalk.rpy:905
 translate crowdin ann_about_ann_secret1_38897d65:
 
     # Max_09 "Вот теперь мне ещё больше интересно!"
     Max_09 "Вот теперь мне ещё больше интересно!"
 
-# game/dialogues/anntalk.rpy:905
+# game/dialogues/anntalk.rpy:906
 translate crowdin ann_about_ann_secret1_c226a717:
 
     # Ann_16 "Макс! Я же сказала, что не хочу об этом. А теперь иди, занимайся своими делами!"
     Ann_16 "Макс! Я же сказала, что не хочу об этом. А теперь иди, занимайся своими делами!"
 
-# game/dialogues/anntalk.rpy:906
+# game/dialogues/anntalk.rpy:907
 translate crowdin ann_about_ann_secret1_ea6dbe8b:
 
     # Max_08 "Ну а тётя может мне рассказать об этом?"
     Max_08 "Ну а тётя может мне рассказать об этом?"
 
-# game/dialogues/anntalk.rpy:907
+# game/dialogues/anntalk.rpy:908
 translate crowdin ann_about_ann_secret1_e3577307:
 
     # Ann_17 "Нет, Макс. Это тебя не касается и я не хочу возвращаться к этой теме!"
     Ann_17 "Нет, Макс. Это тебя не касается и я не хочу возвращаться к этой теме!"
 
-# game/dialogues/anntalk.rpy:908
+# game/dialogues/anntalk.rpy:909
 translate crowdin ann_about_ann_secret1_150383db:
 
     # Max_11 "Я понял..."
     Max_11 "Я понял..."
 
-# game/dialogues/anntalk.rpy:928
+# game/dialogues/anntalk.rpy:929
 translate crowdin ann_yoga_with_max0_213e7a1d:
 
     # Ann_05 "Ты решил заняться йогой? Вот это да, Макс! Не ожидала! Но я буду рада твоей компании... Прямо сейчас планируешь начать?"
     Ann_05 "Ты решил заняться йогой? Вот это да, Макс! Не ожидала! Но я буду рада твоей компании... Прямо сейчас планируешь начать?"
 
-# game/dialogues/anntalk.rpy:929
+# game/dialogues/anntalk.rpy:930
 translate crowdin ann_yoga_with_max0_f662b5b1:
 
     # Max_01 "Не совсем. Мы просто очень мало времени вместе проводим, вот я и решил присоединиться."
     Max_01 "Не совсем. Мы просто очень мало времени вместе проводим, вот я и решил присоединиться."
 
-# game/dialogues/anntalk.rpy:930
+# game/dialogues/anntalk.rpy:931
 translate crowdin ann_yoga_with_max0_9e833fb7:
 
     # Ann_14 "Да, знаю сынок. Я бы и сама хотела проводить со всеми вами больше времени..."
     Ann_14 "Да, знаю сынок. Я бы и сама хотела проводить со всеми вами больше времени..."
 
-# game/dialogues/anntalk.rpy:931
+# game/dialogues/anntalk.rpy:932
 translate crowdin ann_yoga_with_max0_46fe20f5:
 
     # Max_03 "Знаешь, я бы сначала просто посмотрел, что ты делаешь. Ну и может, помог чем. Расскажешь мне об этой йоге?"
     Max_03 "Знаешь, я бы сначала просто посмотрел, что ты делаешь. Ну и может, помог чем. Расскажешь мне об этой йоге?"
 
-# game/dialogues/anntalk.rpy:943
+# game/dialogues/anntalk.rpy:944
 translate crowdin ann_yoga_with_max0_1c28cd86:
 
     # Ann_04 "Вообще-то не очень удобно, выполнять упражнения и одновременно говорить. Но так уж и быть, сегодня я сделаю исключение."
     Ann_04 "Вообще-то не очень удобно, выполнять упражнения и одновременно говорить. Но так уж и быть, сегодня я сделаю исключение."
 
-# game/dialogues/anntalk.rpy:944
+# game/dialogues/anntalk.rpy:945
 translate crowdin ann_yoga_with_max0_c0042528:
 
     # Max_07 "Тебе не больно так делать?"
     Max_07 "Тебе не больно так делать?"
 
-# game/dialogues/anntalk.rpy:945
+# game/dialogues/anntalk.rpy:946
 translate crowdin ann_yoga_with_max0_210d2429:
 
     # Ann_06 "Когда-то было, когда я только начинала это осваивать. Когда Алиса появилась на свет... Ох, как это было давно!"
     Ann_06 "Когда-то было, когда я только начинала это осваивать. Когда Алиса появилась на свет... Ох, как это было давно!"
 
-# game/dialogues/anntalk.rpy:946
+# game/dialogues/anntalk.rpy:947
 translate crowdin ann_yoga_with_max0_0ff8c00d:
 
     # Max_09 "Так в чём суть?"
     Max_09 "Так в чём суть?"
 
-# game/dialogues/anntalk.rpy:955
+# game/dialogues/anntalk.rpy:956
 translate crowdin ann_yoga_with_max0_f3131795:
 
     # Ann_07 "Ну, для начала, то что я делаю нельзя назвать йогой. Это скорее растяжка, в которой есть некоторые позы из упражнений по йоге."
     Ann_07 "Ну, для начала, то что я делаю нельзя назвать йогой. Это скорее растяжка, в которой есть некоторые позы из упражнений по йоге."
 
-# game/dialogues/anntalk.rpy:956
+# game/dialogues/anntalk.rpy:957
 translate crowdin ann_yoga_with_max0_38d1697c:
 
     # Max_04 "Для укрепления здоровья?"
     Max_04 "Для укрепления здоровья?"
 
-# game/dialogues/anntalk.rpy:957
+# game/dialogues/anntalk.rpy:958
 translate crowdin ann_yoga_with_max0_66fd055f:
 
     # Ann_08 "Да. Здесь тебе и развитие гибкости, и оздоровление организма в целом, а так же выносливость и умиротворение. В моём возрасте это всё имеет очень важное значение, сынок."
     Ann_08 "Да. Здесь тебе и развитие гибкости, и оздоровление организма в целом, а так же выносливость и умиротворение. В моём возрасте это всё имеет очень важное значение, сынок."
 
-# game/dialogues/anntalk.rpy:958
+# game/dialogues/anntalk.rpy:959
 translate crowdin ann_yoga_with_max0_873d6aa0:
 
     # Max_05 "Да ты выглядишь получше многих старшеклассниц, мам!"
     Max_05 "Да ты выглядишь получше многих старшеклассниц, мам!"
 
-# game/dialogues/anntalk.rpy:959
+# game/dialogues/anntalk.rpy:960
 translate crowdin ann_yoga_with_max0_5b94cd49:
 
     # Ann_05 "Спасибо, Макс! Приятно такое слышать. Значит, я не зря этим занимаюсь и это работает..."
     Ann_05 "Спасибо, Макс! Приятно такое слышать. Значит, я не зря этим занимаюсь и это работает..."
 
-# game/dialogues/anntalk.rpy:960
+# game/dialogues/anntalk.rpy:961
 translate crowdin ann_yoga_with_max0_892ccf62:
 
     # Max_02 "Ещё как работает! Может, я чем-то могу помочь?"
     Max_02 "Ещё как работает! Может, я чем-то могу помочь?"
 
-# game/dialogues/anntalk.rpy:967
+# game/dialogues/anntalk.rpy:968
 translate crowdin ann_yoga_with_max0_4b285dc9:
 
     # Ann_02 "Тебе со стороны должно быть хорошо видно, всё ли я делаю правильно. У меня должна быть прямая спина и прямые ноги..."
     Ann_02 "Тебе со стороны должно быть хорошо видно, всё ли я делаю правильно. У меня должна быть прямая спина и прямые ноги..."
 
-# game/dialogues/anntalk.rpy:968
+# game/dialogues/anntalk.rpy:969
 translate crowdin ann_yoga_with_max0_9ca4a1b0:
 
     # Max_01 "Ну да, почти. Разве что, ножки держи попрямее. Я тебя немножко придержу, чтобы ты лучше чувствовала, правильно ли всё делаешь..."
     Max_01 "Ну да, почти. Разве что, ножки держи попрямее. Я тебя немножко придержу, чтобы ты лучше чувствовала, правильно ли всё делаешь..."
 
-# game/dialogues/anntalk.rpy:969
+# game/dialogues/anntalk.rpy:970
 translate crowdin ann_yoga_with_max0_f9d94bca:
 
     # Ann_06 "Ага, я поняла... Здесь важно правильно выстроить позу и просто дышать, стараясь максимально расслабиться."
     Ann_06 "Ага, я поняла... Здесь важно правильно выстроить позу и просто дышать, стараясь максимально расслабиться."
 
-# game/dialogues/anntalk.rpy:970
+# game/dialogues/anntalk.rpy:971
 translate crowdin ann_yoga_with_max0_d73509bb:
 
     # Max_09 "Сложно представить, что в таком положении можно расслабиться!"
     Max_09 "Сложно представить, что в таком положении можно расслабиться!"
 
-# game/dialogues/anntalk.rpy:971
+# game/dialogues/anntalk.rpy:972
 translate crowdin ann_yoga_with_max0_277e783c:
 
     # Ann_07 "Это приходит со временем, Макс. Сам-то попробовать не хочешь?"
     Ann_07 "Это приходит со временем, Макс. Сам-то попробовать не хочешь?"
 
-# game/dialogues/anntalk.rpy:972
+# game/dialogues/anntalk.rpy:973
 translate crowdin ann_yoga_with_max0_a52325cd:
 
     # Max_07 "Пока что нет. Я лучше за тобой понаблюдаю и знаний наберусь сперва."
     Max_07 "Пока что нет. Я лучше за тобой понаблюдаю и знаний наберусь сперва."
 
-# game/dialogues/anntalk.rpy:978
+# game/dialogues/anntalk.rpy:979
 translate crowdin ann_yoga_with_max0_d00039fe:
 
     # Ann_04 "Слегка придержи меня, чтобы я равновесие нашла... Только совсем легонько."
     Ann_04 "Слегка придержи меня, чтобы я равновесие нашла... Только совсем легонько."
 
-# game/dialogues/anntalk.rpy:979
+# game/dialogues/anntalk.rpy:980
 translate crowdin ann_yoga_with_max0_4509bc5a:
 
     # Max_03 "Конечно. А ты на шпагат садишься?"
     Max_03 "Конечно. А ты на шпагат садишься?"
 
-# game/dialogues/anntalk.rpy:980
+# game/dialogues/anntalk.rpy:981
 translate crowdin ann_yoga_with_max0_89cac39b:
 
     # Ann_13 "Ох, сынок, давно не пробовала. Честно говоря, побаиваюсь. Возраст всё-таки..."
     Ann_13 "Ох, сынок, давно не пробовала. Честно говоря, побаиваюсь. Возраст всё-таки..."
 
-# game/dialogues/anntalk.rpy:981
+# game/dialogues/anntalk.rpy:982
 translate crowdin ann_yoga_with_max0_57f1fb65:
 
     # Max_04 "По-моему ты очень гибкая! Выглядишь прекрасно! И не важно сколько тебе лет, главное - на сколько ты себя чувствуешь."
     Max_04 "По-моему ты очень гибкая! Выглядишь прекрасно! И не важно сколько тебе лет, главное - на сколько ты себя чувствуешь."
 
-# game/dialogues/anntalk.rpy:982
+# game/dialogues/anntalk.rpy:983
 translate crowdin ann_yoga_with_max0_d6b30cb1:
 
     # Ann_08 "Ой, ну всё, засмущал маму своими комплиментами. Пора заканчивать..."
     Ann_08 "Ой, ну всё, засмущал маму своими комплиментами. Пора заканчивать..."
 
-# game/dialogues/anntalk.rpy:983
+# game/dialogues/anntalk.rpy:984
 translate crowdin ann_yoga_with_max0_00253c29:
 
     # Max_05 "Хорошего понемножку, да?"
     Max_05 "Хорошего понемножку, да?"
 
-# game/dialogues/anntalk.rpy:992
+# game/dialogues/anntalk.rpy:993
 translate crowdin ann_yoga_with_max0_ff65f9c4:
 
     # Ann_05 "Именно так, Макс. Спасибо за компанию, вместе куда веселее... Буду только рада, если решишь снова присоединиться ко мне."
     Ann_05 "Именно так, Макс. Спасибо за компанию, вместе куда веселее... Буду только рада, если решишь снова присоединиться ко мне."
 
-# game/dialogues/anntalk.rpy:994
+# game/dialogues/anntalk.rpy:995
 translate crowdin ann_yoga_with_max0_fb97042e:
 
     # Max_01 "Хорошо, мам. Это я с радостью!" nointeract
     Max_01 "Хорошо, мам. Это я с радостью!" nointeract
 
-# game/dialogues/anntalk.rpy:1003
+# game/dialogues/anntalk.rpy:1004
 translate crowdin yoga_after_peeping_81dfb3e8:
 
     # Ann_17 "Макс, ты мне всё настроение испортил своим подглядыванием! Даже не думай отвлекать меня!"
     Ann_17 "Макс, ты мне всё настроение испортил своим подглядыванием! Даже не думай отвлекать меня!"
 
-# game/dialogues/anntalk.rpy:1005
+# game/dialogues/anntalk.rpy:1006
 translate crowdin yoga_after_peeping_81dfb3e8_1:
 
     # Ann_17 "Макс, ты мне всё настроение испортил своим подглядыванием! Даже не думай отвлекать меня!"
     Ann_17 "Макс, ты мне всё настроение испортил своим подглядыванием! Даже не думай отвлекать меня!"
 
-# game/dialogues/anntalk.rpy:1006
+# game/dialogues/anntalk.rpy:1007
 translate crowdin yoga_after_peeping_feb3cf15:
 
     # Max_09 "Значит за тобой с Эриком смотреть можно, а засмотреться, как ты принимаешь душ, нет?!"
     Max_09 "Значит за тобой с Эриком смотреть можно, а засмотреться, как ты принимаешь душ, нет?!"
 
-# game/dialogues/anntalk.rpy:1007
+# game/dialogues/anntalk.rpy:1008
 translate crowdin yoga_after_peeping_aaccd9ee:
 
     # Ann_16 "Так, с Эриком - это совсем другое! Там это всё мы тебе показываем... для образовательных целей... А в душе или где-то ещё - это уже просто нахальство!"
     Ann_16 "Так, с Эриком - это совсем другое! Там это всё мы тебе показываем... для образовательных целей... А в душе или где-то ещё - это уже просто нахальство!"
 
-# game/dialogues/anntalk.rpy:1009
+# game/dialogues/anntalk.rpy:1010
 translate crowdin yoga_after_peeping_7d9027ce:
 
     # Max_11 "Ладно, понял..."
     Max_11 "Ладно, понял..."
 
-# game/dialogues/anntalk.rpy:1025
+# game/dialogues/anntalk.rpy:1026
 translate crowdin ann_yoga_with_maxr_6cc59cc4:
 
     # Ann_05 "Конечно, Макс, зачем спрашиваешь... Если ты ещё не созрел проверить свою гибкость, то просто смотри и помогай, если я попрошу. Ну и запоминай, что я делаю..." nointeract
     Ann_05 "Конечно, Макс, зачем спрашиваешь... Если ты ещё не созрел проверить свою гибкость, то просто смотри и помогай, если я попрошу. Ну и запоминай, что я делаю..." nointeract
 
-# game/dialogues/anntalk.rpy:1027
+# game/dialogues/anntalk.rpy:1028
 translate crowdin ann_yoga_with_maxr_77a6f27b:
 
     # Max_07 "Посмотри на себя! Какой ещё лишний вес?"
     Max_07 "Посмотри на себя! Какой ещё лишний вес?"
 
-# game/dialogues/anntalk.rpy:1028
+# game/dialogues/anntalk.rpy:1029
 translate crowdin ann_yoga_with_maxr_d6ccbb68:
 
     # Ann_04 "Вот потому я и выгляжу хорошо. И чувствую себя отлично, в тонусе, так сказать..."
     Ann_04 "Вот потому я и выгляжу хорошо. И чувствую себя отлично, в тонусе, так сказать..."
 
-# game/dialogues/anntalk.rpy:1029
+# game/dialogues/anntalk.rpy:1030
 translate crowdin ann_yoga_with_maxr_0e61fe75:
 
     # Max_09 "Ты хорошо выглядишь, потому что растяжкой занимаешься, а тело должно дышать."
     Max_09 "Ты хорошо выглядишь, потому что растяжкой занимаешься, а тело должно дышать."
 
-# game/dialogues/anntalk.rpy:1030
+# game/dialogues/anntalk.rpy:1031
 translate crowdin ann_yoga_with_maxr_1b61bbd4:
 
     # Ann_01 "И что ты предлагаешь?"
     Ann_01 "И что ты предлагаешь?"
 
-# game/dialogues/anntalk.rpy:1031
+# game/dialogues/anntalk.rpy:1032
 translate crowdin ann_yoga_with_maxr_43739b05:
 
     # Max_02 "Нужно прикупить для тебя спортивную одежду полегче, вот что."
     Max_02 "Нужно прикупить для тебя спортивную одежду полегче, вот что."
 
-# game/dialogues/anntalk.rpy:1032
+# game/dialogues/anntalk.rpy:1033
 translate crowdin ann_yoga_with_maxr_308a3cfc:
 
     # Ann_02 "Ну... может ты и прав. Пожалуй, на выходных мы с Эриком съездим и что-нибудь присмотрим."
     Ann_02 "Ну... может ты и прав. Пожалуй, на выходных мы с Эриком съездим и что-нибудь присмотрим."
 
-# game/dialogues/anntalk.rpy:1033
+# game/dialogues/anntalk.rpy:1034
 translate crowdin ann_yoga_with_maxr_b46819ec:
 
     # Max_07 "А давай я сам и за свои деньги?"
     Max_07 "А давай я сам и за свои деньги?"
 
-# game/dialogues/anntalk.rpy:1034
+# game/dialogues/anntalk.rpy:1035
 translate crowdin ann_yoga_with_maxr_192c46c7:
 
     # Ann_13 "Сам? Ну не знаю, Макс... А тебе накопленных денег разве не жалко?"
     Ann_13 "Сам? Ну не знаю, Макс... А тебе накопленных денег разве не жалко?"
 
-# game/dialogues/anntalk.rpy:1035
+# game/dialogues/anntalk.rpy:1036
 translate crowdin ann_yoga_with_maxr_00214c1a:
 
     # Max_03 "Для тебя, мам, ничего не жалко!"
     Max_03 "Для тебя, мам, ничего не жалко!"
 
-# game/dialogues/anntalk.rpy:1036
+# game/dialogues/anntalk.rpy:1037
 translate crowdin ann_yoga_with_maxr_aeb9d0fe:
 
     # Ann_04 "Ну смотри, сынок... Я, конечно, рада твоему вниманию и заботе, но ты же понимаешь, что это должно быть что-то приличное и не слишком короткое?"
     Ann_04 "Ну смотри, сынок... Я, конечно, рада твоему вниманию и заботе, но ты же понимаешь, что это должно быть что-то приличное и не слишком короткое?"
 
-# game/dialogues/anntalk.rpy:1037
+# game/dialogues/anntalk.rpy:1038
 translate crowdin ann_yoga_with_maxr_f9ba225d:
 
     # Max_04 "Естественно. Ты будешь довольна!"
     Max_04 "Естественно. Ты будешь довольна!"
 
-# game/dialogues/anntalk.rpy:1038
+# game/dialogues/anntalk.rpy:1039
 translate crowdin ann_yoga_with_maxr_a4d4efa2:
 
     # Ann_12 "Надеюсь... Так, ты меня совсем заболтал разговорами своими. Давай уже делом заниматься..."
     Ann_12 "Надеюсь... Так, ты меня совсем заболтал разговорами своими. Давай уже делом заниматься..."
 
-# game/dialogues/anntalk.rpy:1039
+# game/dialogues/anntalk.rpy:1040
 translate crowdin ann_yoga_with_maxr_be09b23d:
 
     # Max_01 "Да, давай..."
     Max_01 "Да, давай..."
 
-# game/dialogues/anntalk.rpy:1055
+# game/dialogues/anntalk.rpy:1056
 translate crowdin ann_yoga_with_maxr_dbbb3c5b:
 
     # Ann_02 "Я рада, что хоть так мы успеваем побыть вместе... Какие у тебя планы на день? Надеюсь, не за компьютером будешь всё время сидеть..."
     Ann_02 "Я рада, что хоть так мы успеваем побыть вместе... Какие у тебя планы на день? Надеюсь, не за компьютером будешь всё время сидеть..."
 
-# game/dialogues/anntalk.rpy:1056
+# game/dialogues/anntalk.rpy:1057
 translate crowdin ann_yoga_with_maxr_c8a1933c:
 
     # Max_04 "Ага... Класс..."
     Max_04 "Ага... Класс..."
 
-# game/dialogues/anntalk.rpy:1057
+# game/dialogues/anntalk.rpy:1058
 translate crowdin ann_yoga_with_maxr_9dc43457:
 
     # Ann_12 "Это в смысле - да, будешь сидеть?"
     Ann_12 "Это в смысле - да, будешь сидеть?"
 
-# game/dialogues/anntalk.rpy:1058
+# game/dialogues/anntalk.rpy:1059
 translate crowdin ann_yoga_with_maxr_b6c184b0:
 
     # Max_03 "А, что? Я просто засмотрелся и немного прослушал, что ты говорила..."
     Max_03 "А, что? Я просто засмотрелся и немного прослушал, что ты говорила..."
 
-# game/dialogues/anntalk.rpy:1066
+# game/dialogues/anntalk.rpy:1067
 translate crowdin ann_yoga_with_maxr_a8e83c1d:
 
     # Ann_04 "Макс, будь повнимательнее... Я ведь хочу, чтобы ты хоть чему-то научился от меня."
     Ann_04 "Макс, будь повнимательнее... Я ведь хочу, чтобы ты хоть чему-то научился от меня."
 
-# game/dialogues/anntalk.rpy:1067
+# game/dialogues/anntalk.rpy:1068
 translate crowdin ann_yoga_with_maxr_8e1d1dc1:
 
     # Max_02 "О, мам, поверь, я сейчас очень внимателен!"
     Max_02 "О, мам, поверь, я сейчас очень внимателен!"
 
-# game/dialogues/anntalk.rpy:1068
+# game/dialogues/anntalk.rpy:1069
 translate crowdin ann_yoga_with_maxr_86c153f3:
 
     # Ann_06 "Тогда подержишь меня немножко, чтобы я всё правильно сделала?"
     Ann_06 "Тогда подержишь меня немножко, чтобы я всё правильно сделала?"
 
-# game/dialogues/anntalk.rpy:1069
+# game/dialogues/anntalk.rpy:1070
 translate crowdin ann_yoga_with_maxr_6d56a825:
 
     # Max_01 "Да, мам. Сейчас..."
     Max_01 "Да, мам. Сейчас..."
 
-# game/dialogues/anntalk.rpy:1076
+# game/dialogues/anntalk.rpy:1077
 translate crowdin ann_yoga_with_maxr_51c20210:
 
     # Max_05 "{m}Она такая гибкая! Главное всё не испортить, хотя, как же хочется прикоснуться ко всему, что я перед собой сейчас вижу... Мама у меня конфетка!{/m}"
     Max_05 "{m}Она такая гибкая! Главное всё не испортить, хотя, как же хочется прикоснуться ко всему, что я перед собой сейчас вижу... Мама у меня конфетка!{/m}"
 
-# game/dialogues/anntalk.rpy:1077
+# game/dialogues/anntalk.rpy:1078
 translate crowdin ann_yoga_with_maxr_7a9a0790:
 
     # Ann_08 "Макс, ты чего молчишь? Это мне говорить не очень удобно, потому что я стараюсь расслабиться и сосредоточиться на дыхании..."
     Ann_08 "Макс, ты чего молчишь? Это мне говорить не очень удобно, потому что я стараюсь расслабиться и сосредоточиться на дыхании..."
 
-# game/dialogues/anntalk.rpy:1084
+# game/dialogues/anntalk.rpy:1085
 translate crowdin ann_yoga_with_maxr_a322538b:
 
     # Max_03 "Да что тут скажешь, красота да и только!"
     Max_03 "Да что тут скажешь, красота да и только!"
 
-# game/dialogues/anntalk.rpy:1092
+# game/dialogues/anntalk.rpy:1093
 translate crowdin ann_yoga_with_maxr_6a06f244:
 
     # Max_04 "Я смотрю, чтобы всё правильно делалось. Ты же этого хотела?"
     Max_04 "Я смотрю, чтобы всё правильно делалось. Ты же этого хотела?"
 
-# game/dialogues/anntalk.rpy:1093
+# game/dialogues/anntalk.rpy:1094
 translate crowdin ann_yoga_with_maxr_62c51999:
 
     # Ann_13 "А тебе, Макс, не кажется, что твои руки не совсем на месте?"
     Ann_13 "А тебе, Макс, не кажется, что твои руки не совсем на месте?"
 
-# game/dialogues/anntalk.rpy:1094
+# game/dialogues/anntalk.rpy:1095
 translate crowdin ann_yoga_with_maxr_a93a3646:
 
     # Max_07 "А по-моему, именно там где надо. Иначе ты большей гибкости не добьёшься, мам. Или тебе этого не надо?"
     Max_07 "А по-моему, именно там где надо. Иначе ты большей гибкости не добьёшься, мам. Или тебе этого не надо?"
 
-# game/dialogues/anntalk.rpy:1095
+# game/dialogues/anntalk.rpy:1096
 translate crowdin ann_yoga_with_maxr_b6a570e5:
 
     # Ann_14 "Надо, но... Меня несколько смущает, что тебе для этого нужно руками контролировать мой зад..."
     Ann_14 "Надо, но... Меня несколько смущает, что тебе для этого нужно руками контролировать мой зад..."
 
-# game/dialogues/anntalk.rpy:1096
+# game/dialogues/anntalk.rpy:1097
 translate crowdin ann_yoga_with_maxr_62ec40e5:
 
     # Max_09 "Почему? Что тут такого? Я помогаю и к тому же, легонько. Ты лучше сосредоточься на дыхании и не зажимайся."
     Max_09 "Почему? Что тут такого? Я помогаю и к тому же, легонько. Ты лучше сосредоточься на дыхании и не зажимайся."
 
-# game/dialogues/anntalk.rpy:1097
+# game/dialogues/anntalk.rpy:1098
 translate crowdin ann_yoga_with_maxr_f43aaef8:
 
     # Ann_03 "Да, Макс, верно. Мне лучше расслабиться. Продолжаем..."
     Ann_03 "Да, Макс, верно. Мне лучше расслабиться. Продолжаем..."
 
-# game/dialogues/anntalk.rpy:1098
+# game/dialogues/anntalk.rpy:1099
 translate crowdin ann_yoga_with_maxr_72b8ca17:
 
     # Max_05 "Правильно. Очень классно начинать день с такой красоты, как ты."
     Max_05 "Правильно. Очень классно начинать день с такой красоты, как ты."
 
-# game/dialogues/anntalk.rpy:1105
+# game/dialogues/anntalk.rpy:1106
 translate crowdin ann_yoga_with_maxr_6a06f244_1:
 
     # Max_04 "Я смотрю, чтобы всё правильно делалось. Ты же этого хотела?"
     Max_04 "Я смотрю, чтобы всё правильно делалось. Ты же этого хотела?"
 
-# game/dialogues/anntalk.rpy:1106
+# game/dialogues/anntalk.rpy:1107
 translate crowdin ann_yoga_with_maxr_f7366bcf:
 
     # Ann_03 "Только не держи меня так крепко, Макс! Придерживай легонько, я справлюсь."
     Ann_03 "Только не держи меня так крепко, Макс! Придерживай легонько, я справлюсь."
 
-# game/dialogues/anntalk.rpy:1107
+# game/dialogues/anntalk.rpy:1108
 translate crowdin ann_yoga_with_maxr_4a3b0f59:
 
     # Max_05 "Хорошо, придерживаю слегка. Расслабься и сосредоточься на дыхании. Ты прогибаешься просто шикарно!"
     Max_05 "Хорошо, придерживаю слегка. Расслабься и сосредоточься на дыхании. Ты прогибаешься просто шикарно!"
 
-# game/dialogues/anntalk.rpy:1113
+# game/dialogues/anntalk.rpy:1114
 translate crowdin ann_yoga_with_maxr_f2360ace:
 
     # Ann_07 "Приятно каждый раз от тебя слышать, что я не зря этим занимаюсь... Это прекрасно мотивирует."
     Ann_07 "Приятно каждый раз от тебя слышать, что я не зря этим занимаюсь... Это прекрасно мотивирует."
 
-# game/dialogues/anntalk.rpy:1114
+# game/dialogues/anntalk.rpy:1115
 translate crowdin ann_yoga_with_maxr_f49c0ca2:
 
     # Max_04 "Тебе явно эти занятия идут только на пользу. А чувствуешь себя как?"
     Max_04 "Тебе явно эти занятия идут только на пользу. А чувствуешь себя как?"
 
-# game/dialogues/anntalk.rpy:1115
+# game/dialogues/anntalk.rpy:1116
 translate crowdin ann_yoga_with_maxr_8fdf7ba4:
 
     # Ann_06 "Немного устала, но в целом, мне хорошо. Появляется такое ощущение... лёгкости..."
     Ann_06 "Немного устала, но в целом, мне хорошо. Появляется такое ощущение... лёгкости..."
 
-# game/dialogues/anntalk.rpy:1123
+# game/dialogues/anntalk.rpy:1124
 translate crowdin ann_yoga_with_maxr_6fd1e81a:
 
     # Max_05 "Здорово, мам! Ещё немного потянись и будет идеально..."
     Max_05 "Здорово, мам! Ещё немного потянись и будет идеально..."
 
-# game/dialogues/anntalk.rpy:1124
+# game/dialogues/anntalk.rpy:1125
 translate crowdin ann_yoga_with_maxr_05a9f42c:
 
     # Ann_14 "Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе..."
     Ann_14 "Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе..."
 
-# game/dialogues/anntalk.rpy:1129
+# game/dialogues/anntalk.rpy:1130
 translate crowdin ann_yoga_with_maxr_df4f32db:
 
     # Ann_04 "Фух... На этом, пожалуй, закончим. Спасибо, что составил компанию. Буду только рада, если решишь снова присоединиться ко мне."
     Ann_04 "Фух... На этом, пожалуй, закончим. Спасибо, что составил компанию. Буду только рада, если решишь снова присоединиться ко мне."
 
-# game/dialogues/anntalk.rpy:1132
+# game/dialogues/anntalk.rpy:1133
 translate crowdin ann_yoga_with_maxr_4e133757:
 
     # Max_01 "С радостью, мам! Обязательно..." nointeract
     Max_01 "С радостью, мам! Обязательно..." nointeract
 
-# game/dialogues/anntalk.rpy:1144
+# game/dialogues/anntalk.rpy:1145
 translate crowdin ann_yoga_with_maxr_6fd1e81a_1:
 
     # Max_05 "Здорово, мам! Ещё немного потянись и будет идеально..."
     Max_05 "Здорово, мам! Ещё немного потянись и будет идеально..."
 
-# game/dialogues/anntalk.rpy:1145
+# game/dialogues/anntalk.rpy:1146
 translate crowdin ann_yoga_with_maxr_a7aab14e:
 
     # Ann_05 "Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе... Но с твоей поддержкой, кажется, мне это не грозит."
     Ann_05 "Главное - не перенапрячься с утра пораньше... А то буду еле живая на работе... Но с твоей поддержкой, кажется, мне это не грозит."
 
-# game/dialogues/anntalk.rpy:1153
+# game/dialogues/anntalk.rpy:1154
 translate crowdin ann_yoga_with_maxr_bf667ebd:
 
     # Max_14 "{m}Ага, у меня сейчас в шортах такая твёрдая опора от всех этих сексуальных изгибов, что мама вот-вот заметит. А не думать о её шелковистом теле просто невозможно! И зачем я без майки этим занимаюсь?{/m}" nointeract
     Max_14 "{m}Ага, у меня сейчас в шортах такая твёрдая опора от всех этих сексуальных изгибов, что мама вот-вот заметит. А не думать о её шелковистом теле просто невозможно! И зачем я без майки этим занимаюсь?{/m}" nointeract
 
-# game/dialogues/anntalk.rpy:1167
+# game/dialogues/anntalk.rpy:1168
 translate crowdin ann_yoga_with_maxr_3dff6869:
 
     # Ann_04 "[succes_hide!t]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Буду только рада, если решишь снова присоединиться ко мне."
     Ann_04 "[succes_hide!t]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Буду только рада, если решишь снова присоединиться ко мне."
 
-# game/dialogues/anntalk.rpy:1168
+# game/dialogues/anntalk.rpy:1169
 translate crowdin ann_yoga_with_maxr_ff21d29a:
 
     # Max_01 "С радостью, мам! Обязательно..."
     Max_01 "С радостью, мам! Обязательно..."
 
-# game/dialogues/anntalk.rpy:1169
+# game/dialogues/anntalk.rpy:1170
 translate crowdin ann_yoga_with_maxr_dc624a8a:
 
     # Ann_02 "Но, давай хотя бы через день. Чтобы я могла без твоей помощи попробовать сделать то же самое."
     Ann_02 "Но, давай хотя бы через день. Чтобы я могла без твоей помощи попробовать сделать то же самое."
 
-# game/dialogues/anntalk.rpy:1170
+# game/dialogues/anntalk.rpy:1171
 translate crowdin ann_yoga_with_maxr_136c43d9:
 
     # Max_04 "Хорошо, как скажешь. До следующего раза, мам." nointeract
     Max_04 "Хорошо, как скажешь. До следующего раза, мам." nointeract
 
-# game/dialogues/anntalk.rpy:1173
+# game/dialogues/anntalk.rpy:1174
 translate crowdin ann_yoga_with_maxr_adabf90d:
 
     # Ann_04 "[succes_hide!t]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Завтра я сама попробую это повторить без тебя, а дальше присоединяйся, если захочешь. Я буду только рада."
     Ann_04 "[succes_hide!t]Ой, спасибо, сынок, что помог. Фух... На этом, пожалуй, закончим. Завтра я сама попробую это повторить без тебя, а дальше присоединяйся, если захочешь. Я буду только рада."
 
-# game/dialogues/anntalk.rpy:1174
+# game/dialogues/anntalk.rpy:1175
 translate crowdin ann_yoga_with_maxr_4e133757_1:
 
     # Max_01 "С радостью, мам! Обязательно..." nointeract
     Max_01 "С радостью, мам! Обязательно..." nointeract
 
-# game/dialogues/anntalk.rpy:1192
+# game/dialogues/anntalk.rpy:1193
 translate crowdin ann_yoga_with_maxr_failure_reassurance_5a4fa2a4:
 
     # Ann_15 "Ой, спасибо, сынок, что помог. Фух... А это что такое?! Как тебе не стыдно! Это у тебя на меня такая реакция?!"
     Ann_15 "Ой, спасибо, сынок, что помог. Фух... А это что такое?! Как тебе не стыдно! Это у тебя на меня такая реакция?!"
 
-# game/dialogues/anntalk.rpy:1193
+# game/dialogues/anntalk.rpy:1194
 translate crowdin ann_yoga_with_maxr_failure_reassurance_28026926:
 
     # Max_07 "Ну... Говорил же, красиво..."
     Max_07 "Ну... Говорил же, красиво..."
 
-# game/dialogues/anntalk.rpy:1194
+# game/dialogues/anntalk.rpy:1195
 translate crowdin ann_yoga_with_maxr_failure_reassurance_5f7de140:
 
     # Ann_14 "Макс, красивое не должно так возбуждать! Вернее, я не должна тебя так возбуждать. Другие женщины, да, но не я, сынок."
     Ann_14 "Макс, красивое не должно так возбуждать! Вернее, я не должна тебя так возбуждать. Другие женщины, да, но не я, сынок."
 
-# game/dialogues/anntalk.rpy:1195
+# game/dialogues/anntalk.rpy:1196
 translate crowdin ann_yoga_with_maxr_failure_reassurance_7301cfbe:
 
     # Max_09 "Хоть ты и моя мама, но ты так же и очень красивая женщина! Знаешь, мне кажется, что ЭТО - самый искренний комплимент твоей фигуре."
     Max_09 "Хоть ты и моя мама, но ты так же и очень красивая женщина! Знаешь, мне кажется, что ЭТО - самый искренний комплимент твоей фигуре."
 
-# game/dialogues/anntalk.rpy:1196
+# game/dialogues/anntalk.rpy:1197
 translate crowdin ann_yoga_with_maxr_failure_reassurance_35170ac6:
 
     # Ann_16 "Да уж, комплимент... Значит так, Макс! Ближайшие три дня можешь ко мне не подходить во время йоги. А в дальнейшем, можешь помогать через день. Всё понятно?"
     Ann_16 "Да уж, комплимент... Значит так, Макс! Ближайшие три дня можешь ко мне не подходить во время йоги. А в дальнейшем, можешь помогать через день. Всё понятно?"
 
-# game/dialogues/anntalk.rpy:1197
+# game/dialogues/anntalk.rpy:1198
 translate crowdin ann_yoga_with_maxr_failure_reassurance_7ac1ee79:
 
     # Max_10 "Как скажешь, мам. До следующего раза..." nointeract
     Max_10 "Как скажешь, мам. До следующего раза..." nointeract
 
-# game/dialogues/anntalk.rpy:1200
+# game/dialogues/anntalk.rpy:1201
 translate crowdin ann_yoga_with_maxr_failure_reassurance_17c6fe68:
 
     # Ann_14 "Ой, спасибо, сынок, что помог. Фух... Да что же это такое! Ты опять перевозбудился..."
     Ann_14 "Ой, спасибо, сынок, что помог. Фух... Да что же это такое! Ты опять перевозбудился..."
 
-# game/dialogues/anntalk.rpy:1201
+# game/dialogues/anntalk.rpy:1202
 translate crowdin ann_yoga_with_maxr_failure_reassurance_4b3b94d8:
 
     # Max_07 "Ага, виновен..."
     Max_07 "Ага, виновен..."
 
-# game/dialogues/anntalk.rpy:1202
+# game/dialogues/anntalk.rpy:1203
 translate crowdin ann_yoga_with_maxr_failure_reassurance_7c53d0c1:
 
     # Ann_16 "И вот что прикажешь с тобой делать?"
     Ann_16 "И вот что прикажешь с тобой делать?"
 
-# game/dialogues/anntalk.rpy:1203
+# game/dialogues/anntalk.rpy:1204
 translate crowdin ann_yoga_with_maxr_failure_reassurance_88deb7c3:
 
     # Max_09 "Понять и простить. Я же мужчина всё-таки..."
     Max_09 "Понять и простить. Я же мужчина всё-таки..."
 
-# game/dialogues/anntalk.rpy:1207
+# game/dialogues/anntalk.rpy:1208
 translate crowdin ann_yoga_with_maxr_failure_reassurance_41ff6034:
 
     # Ann_17 "Ох, Макс, горе ты моё... Значит так, в ближайшие три дня можешь ко мне не подходить во время йоги, а дальше смотри сам, можешь присоединяться, но чтобы такое не повторялось. Всё понятно?"
     Ann_17 "Ох, Макс, горе ты моё... Значит так, в ближайшие три дня можешь ко мне не подходить во время йоги, а дальше смотри сам, можешь присоединяться, но чтобы такое не повторялось. Всё понятно?"
 
-# game/dialogues/anntalk.rpy:1208
+# game/dialogues/anntalk.rpy:1209
 translate crowdin ann_yoga_with_maxr_failure_reassurance_7ac1ee79_1:
 
     # Max_10 "Как скажешь, мам. До следующего раза..." nointeract
     Max_10 "Как скажешь, мам. До следующего раза..." nointeract
 
-# game/dialogues/anntalk.rpy:1216
+# game/dialogues/anntalk.rpy:1217
 translate crowdin ann_yoga_with_maxr_failure_reassurance_6d31e3c0:
 
     # Ann_12 "Ох, пора бы тебе уже девушку себе найти и с ней время проводить. Я, конечно, не против твоей помощи, но я всё-таки твоя мама, а потому никак не смогу помочь тебе... ну, снять напряжение."
     Ann_12 "Ох, пора бы тебе уже девушку себе найти и с ней время проводить. Я, конечно, не против твоей помощи, но я всё-таки твоя мама, а потому никак не смогу помочь тебе... ну, снять напряжение."
 
-# game/dialogues/anntalk.rpy:1217
+# game/dialogues/anntalk.rpy:1218
 translate crowdin ann_yoga_with_maxr_failure_reassurance_74c82a5d:
 
     # Max_07 "Может и найду. А пока, до следующего раза..." nointeract
@@ -2112,565 +2112,565 @@ translate crowdin erofilm2_1_912bc9b4:
     # Max_01 "Ладно."
     Max_01 "Ладно."
 
-# game/dialogues/anntalk.rpy:1615
+# game/dialogues/anntalk.rpy:1616
 translate crowdin erofilm2_2_a0696e80:
 
     # Ann_01 "Ох, Макс... Как же такое не помнить. Глупо было надеяться, что ты забудешь..."
     Ann_01 "Ох, Макс... Как же такое не помнить. Глупо было надеяться, что ты забудешь..."
 
-# game/dialogues/anntalk.rpy:1622
+# game/dialogues/anntalk.rpy:1623
 translate crowdin erofilm2_2_ae88c1df:
 
     # Max_07 "Так досматриваем или ты не хочешь?"
     Max_07 "Так досматриваем или ты не хочешь?"
 
-# game/dialogues/anntalk.rpy:1623
+# game/dialogues/anntalk.rpy:1624
 translate crowdin erofilm2_2_15053045:
 
     # Ann_12 "Нет, я хочу. Просто... Меня не покидает ощущение, что я делаю что-то неправильно."
     Ann_12 "Нет, я хочу. Просто... Меня не покидает ощущение, что я делаю что-то неправильно."
 
-# game/dialogues/anntalk.rpy:1624
+# game/dialogues/anntalk.rpy:1625
 translate crowdin erofilm2_2_ebaf4a32:
 
     # Max_09 "Хочешь сказать, готовить меня ко взрослой жизни - это неправильно? Брось... По-моему, всё дело в том, что ты не хочешь, чтобы я повзрослел."
     Max_09 "Хочешь сказать, готовить меня ко взрослой жизни - это неправильно? Брось... По-моему, всё дело в том, что ты не хочешь, чтобы я повзрослел."
 
-# game/dialogues/anntalk.rpy:1634
+# game/dialogues/anntalk.rpy:1635
 translate crowdin erofilm2_2_a5a27b52:
 
     # Ann_02 "Конечно хочу, сынок. Просто... Кажется ещё недавно вы с Лизой были совсем малютками... А сейчас..."
     Ann_02 "Конечно хочу, сынок. Просто... Кажется ещё недавно вы с Лизой были совсем малютками... А сейчас..."
 
-# game/dialogues/anntalk.rpy:1635
+# game/dialogues/anntalk.rpy:1636
 translate crowdin erofilm2_2_6a7a5a24:
 
     # Max_04 "Ни одной малютки не осталось... Все выросли..."
     Max_04 "Ни одной малютки не осталось... Все выросли..."
 
-# game/dialogues/anntalk.rpy:1640
+# game/dialogues/anntalk.rpy:1641
 translate crowdin erofilm2_2_4da2a8c9:
 
     # Ann_13 "Ой, снова эротика пошла... Сюрпризы от этой героини, конечно, меня поражают всё больше и больше!"
     Ann_13 "Ой, снова эротика пошла... Сюрпризы от этой героини, конечно, меня поражают всё больше и больше!"
 
-# game/dialogues/anntalk.rpy:1641
+# game/dialogues/anntalk.rpy:1642
 translate crowdin erofilm2_2_1b30edae:
 
     # Max_02 "По мне, так классная идея, готовить в одном фартуке! Тебе стоит взять это себе на заметку, мам..."
     Max_02 "По мне, так классная идея, готовить в одном фартуке! Тебе стоит взять это себе на заметку, мам..."
 
-# game/dialogues/anntalk.rpy:1642
+# game/dialogues/anntalk.rpy:1643
 translate crowdin erofilm2_2_897665fe:
 
     # Ann_15 "Сынок, ну ты что такое говоришь!"
     Ann_15 "Сынок, ну ты что такое говоришь!"
 
-# game/dialogues/anntalk.rpy:1643
+# game/dialogues/anntalk.rpy:1644
 translate crowdin erofilm2_2_5c581d90:
 
     # Max_03 "А что? Качество твоей готовки от этого не стало бы хуже! Зато какой вид..."
     Max_03 "А что? Качество твоей готовки от этого не стало бы хуже! Зато какой вид..."
 
-# game/dialogues/anntalk.rpy:1652
+# game/dialogues/anntalk.rpy:1653
 translate crowdin erofilm2_2_f1542d5c:
 
     # Ann_17 "Так, Макс... В этот раз представим, что я ничего не слышала, но за подобные мысли я и наказать могу. И даже представлять меня не вздумай в одном лишь фартуке!"
     Ann_17 "Так, Макс... В этот раз представим, что я ничего не слышала, но за подобные мысли я и наказать могу. И даже представлять меня не вздумай в одном лишь фартуке!"
 
-# game/dialogues/anntalk.rpy:1654
+# game/dialogues/anntalk.rpy:1655
 translate crowdin erofilm2_2_6b9eb318:
 
     # Max_08 "{m}Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит...{/m}" nointeract
     Max_08 "{m}Эх, мам... Уже поздно. И о таком зрелище я точно в ближайшее время не смогу забыть! Надеюсь, она не заметит, что у меня стоит...{/m}" nointeract
 
-# game/dialogues/anntalk.rpy:1665
+# game/dialogues/anntalk.rpy:1666
 translate crowdin erofilm2_2_a4da47d1:
 
     # Ann_04 "Ой, я думала, ты и не предложишь. В прошлый раз ты так хорошо мне плечи и шею помассировал, что я буду очень рада, если ты это повторишь..."
     Ann_04 "Ой, я думала, ты и не предложишь. В прошлый раз ты так хорошо мне плечи и шею помассировал, что я буду очень рада, если ты это повторишь..."
 
-# game/dialogues/anntalk.rpy:1666
+# game/dialogues/anntalk.rpy:1667
 translate crowdin erofilm2_2_b210320a:
 
     # Max_04 "С удовольствием, мам!"
     Max_04 "С удовольствием, мам!"
 
-# game/dialogues/anntalk.rpy:1675
+# game/dialogues/anntalk.rpy:1676
 translate crowdin erofilm2_2_37c5e269:
 
     # Ann_02 "Ой, я думала, ты и не предложишь. Надеюсь, сегодня ты отнесёшься к массажу с большим вниманием, чем в прошлый раз?"
     Ann_02 "Ой, я думала, ты и не предложишь. Надеюсь, сегодня ты отнесёшься к массажу с большим вниманием, чем в прошлый раз?"
 
-# game/dialogues/anntalk.rpy:1676
+# game/dialogues/anntalk.rpy:1677
 translate crowdin erofilm2_2_38413f74:
 
     # Max_01 "Да, мам, я постараюсь..."
     Max_01 "Да, мам, я постараюсь..."
 
-# game/dialogues/anntalk.rpy:1681
+# game/dialogues/anntalk.rpy:1682
 translate crowdin erofilm2_2_46d4b822:
 
     # Ann_05 "Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
     Ann_05 "Ой, Макс! Как же чудесно... Как хорошо, что ты у меня есть... Твои руки просто нереально расслабляют!"
 
-# game/dialogues/anntalk.rpy:1682
+# game/dialogues/anntalk.rpy:1683
 translate crowdin erofilm2_2_f4b189c3:
 
     # Max_03 "Спасибо! Я рад, что тебе нравится."
     Max_03 "Спасибо! Я рад, что тебе нравится."
 
-# game/dialogues/anntalk.rpy:1689
+# game/dialogues/anntalk.rpy:1690
 translate crowdin erofilm2_2_a59077b6:
 
     # Ann_08 "У тебя это очень хорошо получается... Такая лёгкость наступает. С таким талантом ты у нас дома будешь нарасхват! Довольны будут все..."
     Ann_08 "У тебя это очень хорошо получается... Такая лёгкость наступает. С таким талантом ты у нас дома будешь нарасхват! Довольны будут все..."
 
-# game/dialogues/anntalk.rpy:1690
+# game/dialogues/anntalk.rpy:1691
 translate crowdin erofilm2_2_0aa128fe:
 
     # Max_02 "Очень надеюсь, что так и будет."
     Max_02 "Очень надеюсь, что так и будет."
 
-# game/dialogues/anntalk.rpy:1698
+# game/dialogues/anntalk.rpy:1699
 translate crowdin erofilm2_2_7f77c5f6:
 
     # Ann_06 "Не могу не признаться, но эротические моменты в этом фильме прекрасно сняты. Никогда бы не подумала, что буду говорить такое при собственном сыне. И что я за мать!"
     Ann_06 "Не могу не признаться, но эротические моменты в этом фильме прекрасно сняты. Никогда бы не подумала, что буду говорить такое при собственном сыне. И что я за мать!"
 
-# game/dialogues/anntalk.rpy:1699
+# game/dialogues/anntalk.rpy:1700
 translate crowdin erofilm2_2_523cd7df:
 
     # Max_04 "Самая лучшая на свете!"
     Max_04 "Самая лучшая на свете!"
 
-# game/dialogues/anntalk.rpy:1700
+# game/dialogues/anntalk.rpy:1701
 translate crowdin erofilm2_2_7b21baa2:
 
     # Ann_02 "Спасибо, сынок. Но вряд ли твоё мнение разделили бы нормальные родители."
     Ann_02 "Спасибо, сынок. Но вряд ли твоё мнение разделили бы нормальные родители."
 
-# game/dialogues/anntalk.rpy:1701
+# game/dialogues/anntalk.rpy:1702
 translate crowdin erofilm2_2_b40e2da0:
 
     # Max_07 "А откуда ты знаешь, что они нормальные? Ничего плохого мы сейчас не делаем."
     Max_07 "А откуда ты знаешь, что они нормальные? Ничего плохого мы сейчас не делаем."
 
-# game/dialogues/anntalk.rpy:1708
+# game/dialogues/anntalk.rpy:1709
 translate crowdin erofilm2_2_5b33305d:
 
     # Max_05 "{m}У мамы снова полотенце сползает, а она не чувствует... Надо продолжать, раз ей так нравится массаж... Или лучше сказать?{/m}" nointeract
     Max_05 "{m}У мамы снова полотенце сползает, а она не чувствует... Надо продолжать, раз ей так нравится массаж... Или лучше сказать?{/m}" nointeract
 
-# game/dialogues/anntalk.rpy:1716
+# game/dialogues/anntalk.rpy:1717
 translate crowdin erofilm2_2_faffd6fd:
 
     # Ann_13 "Ой, Макс! Хорошо, что предупредил... Чуть голой не осталась! И давно я сижу вся такая довольная без полотенца?"
     Ann_13 "Ой, Макс! Хорошо, что предупредил... Чуть голой не осталась! И давно я сижу вся такая довольная без полотенца?"
 
-# game/dialogues/anntalk.rpy:1717
+# game/dialogues/anntalk.rpy:1718
 translate crowdin erofilm2_2_c0dbd91d:
 
     # Max_01 "Не знаю. Я как заметил, так сразу и сказал."
     Max_01 "Не знаю. Я как заметил, так сразу и сказал."
 
-# game/dialogues/anntalk.rpy:1719
+# game/dialogues/anntalk.rpy:1720
 translate crowdin erofilm2_2_300645c2:
 
     # Ann_04 "Давай-ка на сегодня прервёмся с массажем... и досмотрим фильм. Это не значит, что мне не понравилось! Ты молодец!" nointeract
     Ann_04 "Давай-ка на сегодня прервёмся с массажем... и досмотрим фильм. Это не значит, что мне не понравилось! Ты молодец!" nointeract
 
-# game/dialogues/anntalk.rpy:1732
+# game/dialogues/anntalk.rpy:1733
 translate crowdin erofilm2_2_3ff92d9e:
 
     # Max_06 "[ann_good_mass!t]{m}Ммм... Полотенце сползает всё больше и больше... Вот бы однажды помассировать эти сочные дыньки! Ох, как же сложно удержаться и не запустить туда вниз свои руки...{/m}"
     Max_06 "[ann_good_mass!t]{m}Ммм... Полотенце сползает всё больше и больше... Вот бы однажды помассировать эти сочные дыньки! Ох, как же сложно удержаться и не запустить туда вниз свои руки...{/m}"
 
-# game/dialogues/anntalk.rpy:1739
+# game/dialogues/anntalk.rpy:1740
 translate crowdin erofilm2_2_2138fb99:
 
     # Ann_15 "Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась!"
     Ann_15 "Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась!"
 
-# game/dialogues/anntalk.rpy:1740
+# game/dialogues/anntalk.rpy:1741
 translate crowdin erofilm2_2_fc50443e:
 
     # Max_02 "Так я не видел! Фильм же смотрю..."
     Max_02 "Так я не видел! Фильм же смотрю..."
 
-# game/dialogues/anntalk.rpy:1741
+# game/dialogues/anntalk.rpy:1742
 translate crowdin erofilm2_2_3219b2c2:
 
     # Ann_04 "А ты молодец, если умудряешься и фильм одновременно смотреть и массаж так хорошо делать!"
     Ann_04 "А ты молодец, если умудряешься и фильм одновременно смотреть и массаж так хорошо делать!"
 
-# game/dialogues/anntalk.rpy:1742
+# game/dialogues/anntalk.rpy:1743
 translate crowdin erofilm2_2_e21f2499:
 
     # Max_01 "Ты же сама сказала - талант."
     Max_01 "Ты же сама сказала - талант."
 
-# game/dialogues/anntalk.rpy:1750
+# game/dialogues/anntalk.rpy:1751
 translate crowdin erofilm2_2_b5f39d2e:
 
     # Ann_04 "Помимо всего прочего, в фильме музыка очень хороша. Мне прямо нравится!"
     Ann_04 "Помимо всего прочего, в фильме музыка очень хороша. Мне прямо нравится!"
 
-# game/dialogues/anntalk.rpy:1757
+# game/dialogues/anntalk.rpy:1758
 translate crowdin erofilm2_2_27f6efcb:
 
     # Max_05 "{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
     Max_05 "{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
 
-# game/dialogues/anntalk.rpy:1765
+# game/dialogues/anntalk.rpy:1766
 translate crowdin erofilm2_2_3dccf94a:
 
     # Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
     Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
 
-# game/dialogues/anntalk.rpy:1770
+# game/dialogues/anntalk.rpy:1771
 translate crowdin erofilm2_2_82e6080c:
 
     # Max_04 "Да, намёки для зрителей были местами очень жирные."
     Max_04 "Да, намёки для зрителей были местами очень жирные."
 
-# game/dialogues/anntalk.rpy:1778
+# game/dialogues/anntalk.rpy:1779
 translate crowdin erofilm2_2_2d7bb75d:
 
     # Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
     Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
 
-# game/dialogues/anntalk.rpy:1780
+# game/dialogues/anntalk.rpy:1781
 translate crowdin erofilm2_2_e0c6e9b1:
 
     # Max_03 "А где ты тут детей видишь?" nointeract
     Max_03 "А где ты тут детей видишь?" nointeract
 
-# game/dialogues/anntalk.rpy:1795
+# game/dialogues/anntalk.rpy:1796
 translate crowdin erofilm2_2_e77ee6ca:
 
     # Ann_04 "[lucky!t]Да, знаю... знаю... Ты уже взрослый. Почти..."
     Ann_04 "[lucky!t]Да, знаю... знаю... Ты уже взрослый. Почти..."
 
-# game/dialogues/anntalk.rpy:1806
+# game/dialogues/anntalk.rpy:1807
 translate crowdin erofilm2_2_9d0711b1:
 
     # Ann_15 "[unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? В фильме же откровенные сцены давно были..."
     Ann_15 "[unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? В фильме же откровенные сцены давно были..."
 
-# game/dialogues/anntalk.rpy:1807
+# game/dialogues/anntalk.rpy:1808
 translate crowdin erofilm2_2_2e2a702d:
 
     # Max_08 "Я не знаю! Видимо, мысли об этих сценах ещё не выветрились из головы."
     Max_08 "Я не знаю! Видимо, мысли об этих сценах ещё не выветрились из головы."
 
-# game/dialogues/anntalk.rpy:1808
+# game/dialogues/anntalk.rpy:1809
 translate crowdin erofilm2_2_4fdbb2af:
 
     # Ann_17 "Вот я так и знала! Зря мы этот фильм смотрели!"
     Ann_17 "Вот я так и знала! Зря мы этот фильм смотрели!"
 
-# game/dialogues/anntalk.rpy:1809
+# game/dialogues/anntalk.rpy:1810
 translate crowdin erofilm2_2_58ab27de:
 
     # Max_09 "Подумаешь, возбудился... Значит фильм оправдал свою эротическую составляющую."
     Max_09 "Подумаешь, возбудился... Значит фильм оправдал свою эротическую составляющую."
 
-# game/dialogues/anntalk.rpy:1810
+# game/dialogues/anntalk.rpy:1811
 translate crowdin erofilm2_2_e3cfd08d:
 
     # Ann_13 "Макс, мама не должна видеть своего сына таким..."
     Ann_13 "Макс, мама не должна видеть своего сына таким..."
 
-# game/dialogues/anntalk.rpy:1811
+# game/dialogues/anntalk.rpy:1812
 translate crowdin erofilm2_2_89123af5:
 
     # Max_07 "А ты просто возьми и не смотри! Я же не маленький ребёнок, а..."
     Max_07 "А ты просто возьми и не смотри! Я же не маленький ребёнок, а..."
 
-# game/dialogues/anntalk.rpy:1819
+# game/dialogues/anntalk.rpy:1820
 translate crowdin erofilm2_2_684e55df:
 
     # Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
     Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
 
-# game/dialogues/anntalk.rpy:1830
+# game/dialogues/anntalk.rpy:1831
 translate crowdin erofilm2_2_7cd6006b:
 
     # Ann_15 "[ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься." nointeract
     Ann_15 "[ann_bad_mass!t]Ой! Ничего себе! Макс, ты почему не сказал, что у меня полотенце сползло?! Чуть голой не осталась! Давай-ка прервёмся с массажем... и досмотрим фильм. А то ты уж слишком много отвлекаешься." nointeract
 
-# game/dialogues/anntalk.rpy:1848
+# game/dialogues/anntalk.rpy:1849
 translate crowdin erofilm2_2_lucky_aaa808d8:
 
     # Ann_04 "[lucky!t]Помимо всего прочего, в фильме музыка очень хороша. Мне прямо нравится!"
     Ann_04 "[lucky!t]Помимо всего прочего, в фильме музыка очень хороша. Мне прямо нравится!"
 
-# game/dialogues/anntalk.rpy:1856
+# game/dialogues/anntalk.rpy:1857
 translate crowdin erofilm2_2_lucky_27f6efcb:
 
     # Max_05 "{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
     Max_05 "{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
 
-# game/dialogues/anntalk.rpy:1865
+# game/dialogues/anntalk.rpy:1866
 translate crowdin erofilm2_2_lucky_3dccf94a:
 
     # Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
     Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
 
-# game/dialogues/anntalk.rpy:1874
+# game/dialogues/anntalk.rpy:1875
 translate crowdin erofilm2_2_lucky_82e6080c:
 
     # Max_04 "Да, намёки для зрителей были местами очень жирные."
     Max_04 "Да, намёки для зрителей были местами очень жирные."
 
-# game/dialogues/anntalk.rpy:1884
+# game/dialogues/anntalk.rpy:1885
 translate crowdin erofilm2_2_lucky_2d7bb75d:
 
     # Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
     Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
 
-# game/dialogues/anntalk.rpy:1885
+# game/dialogues/anntalk.rpy:1886
 translate crowdin erofilm2_2_lucky_2e5facee:
 
     # Max_03 "А где ты тут детей видишь?"
     Max_03 "А где ты тут детей видишь?"
 
-# game/dialogues/anntalk.rpy:1893
+# game/dialogues/anntalk.rpy:1894
 translate crowdin erofilm2_2_lucky_684e55df:
 
     # Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
     Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
 
-# game/dialogues/anntalk.rpy:1904
+# game/dialogues/anntalk.rpy:1905
 translate crowdin erofilm2_2_unlucky_7cb8cd3e:
 
     # Ann_15 "[unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? Из-за фильма? А, ну да, конечно, я ещё спрашиваю..."
     Ann_15 "[unlucky!t]Макс! Это что такое?! Ты почему такой возбуждённый? Из-за фильма? А, ну да, конечно, я ещё спрашиваю..."
 
-# game/dialogues/anntalk.rpy:1905
+# game/dialogues/anntalk.rpy:1906
 translate crowdin erofilm2_2_unlucky_54519691:
 
     # Max_08 "Похоже на то. Там ведь очень откровенные сцены были, а теперь эти дамочки что-то интересное затевают..."
     Max_08 "Похоже на то. Там ведь очень откровенные сцены были, а теперь эти дамочки что-то интересное затевают..."
 
-# game/dialogues/anntalk.rpy:1914
+# game/dialogues/anntalk.rpy:1915
 translate crowdin erofilm2_2_unlucky_36717c12:
 
     # Ann_17 "Рановато тебе ещё такое смотреть! Хотя, по сравнению с тем, что ты уже увидел до этого..."
     Ann_17 "Рановато тебе ещё такое смотреть! Хотя, по сравнению с тем, что ты уже увидел до этого..."
 
-# game/dialogues/anntalk.rpy:1915
+# game/dialogues/anntalk.rpy:1916
 translate crowdin erofilm2_2_unlucky_27f6efcb:
 
     # Max_05 "{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
     Max_05 "{m}Интересно, а у мамы было что-нибудь... с женщинами... О да! За такой картиной я бы с удовольствиям подсмотрел! Хотя, не отказался бы и поучаствовать...{/m}"
 
-# game/dialogues/anntalk.rpy:1920
+# game/dialogues/anntalk.rpy:1921
 translate crowdin erofilm2_2_unlucky_3dccf94a:
 
     # Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
     Ann_05 "Судя по времени, дела идут к развязке. Забавно за ними всеми наблюдать... Как они только сейчас понимают то, что зритель понял уже давно."
 
-# game/dialogues/anntalk.rpy:1921
+# game/dialogues/anntalk.rpy:1922
 translate crowdin erofilm2_2_unlucky_82e6080c:
 
     # Max_04 "Да, намёки для зрителей были местами очень жирные."
     Max_04 "Да, намёки для зрителей были местами очень жирные."
 
-# game/dialogues/anntalk.rpy:1926
+# game/dialogues/anntalk.rpy:1927
 translate crowdin erofilm2_2_unlucky_2d7bb75d:
 
     # Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
     Ann_06 "Вот и досмотрели. Интересный детектив... Мне понравился. Но этот фильм и близко не для детей снят..."
 
-# game/dialogues/anntalk.rpy:1927
+# game/dialogues/anntalk.rpy:1928
 translate crowdin erofilm2_2_unlucky_2e5facee:
 
     # Max_03 "А где ты тут детей видишь?"
     Max_03 "А где ты тут детей видишь?"
 
-# game/dialogues/anntalk.rpy:1935
+# game/dialogues/anntalk.rpy:1936
 translate crowdin erofilm2_2_unlucky_684e55df:
 
     # Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
     Ann_04 "Да, знаю... знаю... Ты уже взрослый. Почти..."
 
-# game/dialogues/anntalk.rpy:1941
+# game/dialogues/anntalk.rpy:1942
 translate crowdin erofilm2_2_end_e67edc91:
 
     # Max_02 "В следующий раз посмотрим что-нибудь ещё подобное?"
     Max_02 "В следующий раз посмотрим что-нибудь ещё подобное?"
 
-# game/dialogues/anntalk.rpy:1942
+# game/dialogues/anntalk.rpy:1943
 translate crowdin erofilm2_2_end_7e4ad93b:
 
     # Ann_02 "Только будь поскромнее. Этот фильм оказался очень волнующим..."
     Ann_02 "Только будь поскромнее. Этот фильм оказался очень волнующим..."
 
-# game/dialogues/anntalk.rpy:1943
+# game/dialogues/anntalk.rpy:1944
 translate crowdin erofilm2_2_end_acd22c78:
 
     # Max_01 "Конечно, мам!"
     Max_01 "Конечно, мам!"
 
-# game/dialogues/anntalk.rpy:1960
+# game/dialogues/anntalk.rpy:1961
 translate crowdin ann_about_wallet_90e1fc67:
 
     # Ann_16 "Ты вернул Эрику бумажник и деньги?"
     Ann_16 "Ты вернул Эрику бумажник и деньги?"
 
-# game/dialogues/anntalk.rpy:1961
+# game/dialogues/anntalk.rpy:1962
 translate crowdin ann_about_wallet_0b099756:
 
     # Max_09 "Да не крал я у него ничего! Он всех обманывает!"
     Max_09 "Да не крал я у него ничего! Он всех обманывает!"
 
-# game/dialogues/anntalk.rpy:1962
+# game/dialogues/anntalk.rpy:1963
 translate crowdin ann_about_wallet_33bee417:
 
     # Ann_18 "Пока не вернёшь, даже не подходи ко мне, Макс! Всё настроение от тебя только портится. А уж как мне перед Эриком стыдно..."
     Ann_18 "Пока не вернёшь, даже не подходи ко мне, Макс! Всё настроение от тебя только портится. А уж как мне перед Эриком стыдно..."
 
-# game/dialogues/anntalk.rpy:1963
+# game/dialogues/anntalk.rpy:1964
 translate crowdin ann_about_wallet_a7053e1b:
 
     # Max_11 "Как скажешь, мам."
     Max_11 "Как скажешь, мам."
 
-# game/dialogues/anntalk.rpy:1977
+# game/dialogues/anntalk.rpy:1978
 translate crowdin ann_about_olivia0_2931469c:
 
     # Ann_00 "Да, Макс, что такое?"
     Ann_00 "Да, Макс, что такое?"
 
-# game/dialogues/anntalk.rpy:1978
+# game/dialogues/anntalk.rpy:1979
 translate crowdin ann_about_olivia0_0fb43d08:
 
     # Max_07 "Можно она будет приходить к нам с ночёвкой по пятницам?"
     Max_07 "Можно она будет приходить к нам с ночёвкой по пятницам?"
 
-# game/dialogues/anntalk.rpy:1979
+# game/dialogues/anntalk.rpy:1980
 translate crowdin ann_about_olivia0_ca484fbb:
 
     # Ann_13 "С ночёвкой? Ну, не знаю, сынок. А её родители, что скажут? И кто за вами будет присматривать?"
     Ann_13 "С ночёвкой? Ну, не знаю, сынок. А её родители, что скажут? И кто за вами будет присматривать?"
 
-# game/dialogues/anntalk.rpy:1980
+# game/dialogues/anntalk.rpy:1981
 translate crowdin ann_about_olivia0_7526967f:
 
     # Max_09 "За нами не нужно присматривать, мы уже взрослые. И раз это для тебя так важно, то я присмотрю за Оливией и Лизой."
     Max_09 "За нами не нужно присматривать, мы уже взрослые. И раз это для тебя так важно, то я присмотрю за Оливией и Лизой."
 
-# game/dialogues/anntalk.rpy:1981
+# game/dialogues/anntalk.rpy:1982
 translate crowdin ann_about_olivia0_070aa522:
 
     # Ann_17 "А заниматься вы чем планируете? С натуризмом Оливии даже боюсь представить..."
     Ann_17 "А заниматься вы чем планируете? С натуризмом Оливии даже боюсь представить..."
 
-# game/dialogues/anntalk.rpy:1982
+# game/dialogues/anntalk.rpy:1983
 translate crowdin ann_about_olivia0_ee58332d:
 
     # Max_01 "Мы может ТВ посмотрим или в бассейне поплаваем. Может в комнате поиграем."
     Max_01 "Мы может ТВ посмотрим или в бассейне поплаваем. Может в комнате поиграем."
 
-# game/dialogues/anntalk.rpy:1983
+# game/dialogues/anntalk.rpy:1984
 translate crowdin ann_about_olivia0_993f301a:
 
     # Ann_14 "Ох, вот насчёт бассейна я сильно сомневаюсь. Придётся не ложиться спать и караулить, как бы чего не произошло..."
     Ann_14 "Ох, вот насчёт бассейна я сильно сомневаюсь. Придётся не ложиться спать и караулить, как бы чего не произошло..."
 
-# game/dialogues/anntalk.rpy:1984
+# game/dialogues/anntalk.rpy:1985
 translate crowdin ann_about_olivia0_eefee8b2:
 
     # Max_08 "Мам, я же сказал, я за ними присмотрю. К тому же, хоть Оливия и натуристка, но во всём остальном она девочка целомудренная. Днём ты же нас не караулишь."
     Max_08 "Мам, я же сказал, я за ними присмотрю. К тому же, хоть Оливия и натуристка, но во всём остальном она девочка целомудренная. Днём ты же нас не караулишь."
 
-# game/dialogues/anntalk.rpy:1985
+# game/dialogues/anntalk.rpy:1986
 translate crowdin ann_about_olivia0_51952594:
 
     # Ann_12 "Одно дело днём, Макс, и совсем другое - ночью... Ох, не знаю..." nointeract
     Ann_12 "Одно дело днём, Макс, и совсем другое - ночью... Ох, не знаю..." nointeract
 
-# game/dialogues/anntalk.rpy:1991
+# game/dialogues/anntalk.rpy:1992
 translate crowdin ann_about_olivia0_b2ba75f7:
 
     # Ann_14 "[succes!t]Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
     Ann_14 "[succes!t]Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
 
-# game/dialogues/anntalk.rpy:1997
+# game/dialogues/anntalk.rpy:1998
 translate crowdin ann_about_olivia0_902cc700:
 
     # Ann_17 "[failed!t]Извини, Макс, но мне нужно подумать. Мне кажется, я вся изведусь, зная, что вы там ночью у бассейна играете."
     Ann_17 "[failed!t]Извини, Макс, но мне нужно подумать. Мне кажется, я вся изведусь, зная, что вы там ночью у бассейна играете."
 
-# game/dialogues/anntalk.rpy:1998
+# game/dialogues/anntalk.rpy:1999
 translate crowdin ann_about_olivia0_a744479d:
 
     # Max_09 "Ладно, подумай пару дней." nointeract
     Max_09 "Ладно, подумай пару дней." nointeract
 
-# game/dialogues/anntalk.rpy:2006
+# game/dialogues/anntalk.rpy:2007
 translate crowdin ann_about_olivia0_succes_a46cecf5:
 
     # Max_10 "Ну да, это ещё хуже."
     Max_10 "Ну да, это ещё хуже."
 
-# game/dialogues/anntalk.rpy:2007
+# game/dialogues/anntalk.rpy:2008
 translate crowdin ann_about_olivia0_succes_b91eb0ff:
 
     # Ann_12 "Но меня здесь смущает даже больше не Оливия со своим натуризмом, а то, как ты на это реагируешь. Ладно она к этому у себя дома привыкла. А Лиза?"
     Ann_12 "Но меня здесь смущает даже больше не Оливия со своим натуризмом, а то, как ты на это реагируешь. Ладно она к этому у себя дома привыкла. А Лиза?"
 
-# game/dialogues/anntalk.rpy:2008
+# game/dialogues/anntalk.rpy:2009
 translate crowdin ann_about_olivia0_succes_1c48074f:
 
     # Max_09 "А что Лиза? Ты вспомни, чему вы с Эриком её учили..."
     Max_09 "А что Лиза? Ты вспомни, чему вы с Эриком её учили..."
 
-# game/dialogues/anntalk.rpy:2009
+# game/dialogues/anntalk.rpy:2010
 translate crowdin ann_about_olivia0_succes_bb86700b:
 
     # Ann_15 "Ой! Лучше не напоминай, Макс. Что я тогда творила, ужас..."
     Ann_15 "Ой! Лучше не напоминай, Макс. Что я тогда творила, ужас..."
 
-# game/dialogues/anntalk.rpy:2010
+# game/dialogues/anntalk.rpy:2011
 translate crowdin ann_about_olivia0_succes_b0bdbf1c:
 
     # Max_07 "Вот-вот. Лизу теперь это тоже, как и Оливию, совершенно не смущает."
     Max_07 "Вот-вот. Лизу теперь это тоже, как и Оливию, совершенно не смущает."
 
-# game/dialogues/anntalk.rpy:2011
+# game/dialogues/anntalk.rpy:2012
 translate crowdin ann_about_olivia0_succes_54a6a696:
 
     # Ann_14 "Видимо, из-за Эрика я стала слишком подозрительной. Пытаюсь снова уберечь Лизу от всего на свете. Хотя, прямо перед этим, сама же такое ей показывала..."
     Ann_14 "Видимо, из-за Эрика я стала слишком подозрительной. Пытаюсь снова уберечь Лизу от всего на свете. Хотя, прямо перед этим, сама же такое ей показывала..."
 
-# game/dialogues/anntalk.rpy:2012
+# game/dialogues/anntalk.rpy:2013
 translate crowdin ann_about_olivia0_succes_a1e2dec6:
 
     # Max_09 "И вспомни, кто вывел Эрика на чистую воду? Я! И я же тебе говорю, что присмотрю за Лизой и Оливией."
     Max_09 "И вспомни, кто вывел Эрика на чистую воду? Я! И я же тебе говорю, что присмотрю за Лизой и Оливией."
 
-# game/dialogues/anntalk.rpy:2013
+# game/dialogues/anntalk.rpy:2014
 translate crowdin ann_about_olivia0_succes_e99695fc:
 
     # Ann_17 "Хорошо, я разрешу вам собираться по ночам, но! Если мне будет слишком неспокойно, я могу взять и проверить, чем вы занимаетесь."
     Ann_17 "Хорошо, я разрешу вам собираться по ночам, но! Если мне будет слишком неспокойно, я могу взять и проверить, чем вы занимаетесь."
 
-# game/dialogues/anntalk.rpy:2014
+# game/dialogues/anntalk.rpy:2015
 translate crowdin ann_about_olivia0_succes_a7934c48:
 
     # Max_01 "Не проблема, мам. Приходи в любое время."
     Max_01 "Не проблема, мам. Приходи в любое время."
 
-# game/dialogues/anntalk.rpy:2015
+# game/dialogues/anntalk.rpy:2016
 translate crowdin ann_about_olivia0_succes_573881bf:
 
     # Ann_04 "Договорились. Ведите себя хорошо." nointeract
     Ann_04 "Договорились. Ведите себя хорошо." nointeract
 
-# game/dialogues/anntalk.rpy:2025
+# game/dialogues/anntalk.rpy:2026
 translate crowdin ann_about_olivia1_282cd97e:
 
     # Ann_14 "Подумала... Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
@@ -2790,119 +2790,119 @@ translate crowdin strings:
     old "Мам, хочешь массаж?"
     new "Мам, хочешь массаж?"
 
-    # game/dialogues/anntalk.rpy:623
+    # game/dialogues/anntalk.rpy:625
     old "Массаж спины?"
     new "Массаж спины?"
 
-    # game/dialogues/anntalk.rpy:623
+    # game/dialogues/anntalk.rpy:625
     old "Полотенце приспустишь?"
     new "Полотенце приспустишь?"
 
-    # game/dialogues/anntalk.rpy:661
+    # game/dialogues/anntalk.rpy:663
     old "{i}массировать маме спину{/i}"
     new "{i}массировать маме спину{/i}"
 
-    # game/dialogues/anntalk.rpy:678
+    # game/dialogues/anntalk.rpy:680
     old "Нет, мам. Не переживай."
     new "Нет, мам. Не переживай."
 
-    # game/dialogues/anntalk.rpy:678
+    # game/dialogues/anntalk.rpy:680
     old "Нет. Видно не так уж и много..."
     new "Нет. Видно не так уж и много..."
 
-    # game/dialogues/anntalk.rpy:678
+    # game/dialogues/anntalk.rpy:680
     old "Есть немного..."
     new "Есть немного..."
 
-    # game/dialogues/anntalk.rpy:778
+    # game/dialogues/anntalk.rpy:779
     old "А что такого?"
     new "А что такого?"
 
-    # game/dialogues/anntalk.rpy:778
+    # game/dialogues/anntalk.rpy:779
     old "Хорошо, постараюсь..."
     new "Хорошо, постараюсь..."
 
-    # game/dialogues/anntalk.rpy:781
+    # game/dialogues/anntalk.rpy:782
     old "Ого, мам..."
     new "Ого, мам..."
 
-    # game/dialogues/anntalk.rpy:781
+    # game/dialogues/anntalk.rpy:782
     old "Разве это должно пугать?"
     new "Разве это должно пугать?"
 
-    # game/dialogues/anntalk.rpy:784
+    # game/dialogues/anntalk.rpy:785
     old "Значит, тебе понравилось?"
     new "Значит, тебе понравилось?"
 
-    # game/dialogues/anntalk.rpy:784
+    # game/dialogues/anntalk.rpy:785
     old "Ладно, я всё понял..."
     new "Ладно, я всё понял..."
 
-    # game/dialogues/anntalk.rpy:792
+    # game/dialogues/anntalk.rpy:793
     old "Взрослую женщину притягивает?"
     new "Взрослую женщину притягивает?"
 
-    # game/dialogues/anntalk.rpy:792
+    # game/dialogues/anntalk.rpy:793
     old "Да, я всё понял!"
     new "Да, я всё понял!"
 
-    # game/dialogues/anntalk.rpy:816
+    # game/dialogues/anntalk.rpy:817
     old "Нет, никого не было..."
     new "Нет, никого не было..."
 
-    # game/dialogues/anntalk.rpy:816
+    # game/dialogues/anntalk.rpy:817
     old "Может быть, показалось?"
     new "Может быть, показалось?"
 
-    # game/dialogues/anntalk.rpy:822
+    # game/dialogues/anntalk.rpy:823
     old "Нет, мам, нечего рассказывать"
     new "Нет, мам, нечего рассказывать"
 
-    # game/dialogues/anntalk.rpy:829
+    # game/dialogues/anntalk.rpy:830
     old "Всегда пожалуйста, сестрёнка!"
     new "Всегда пожалуйста, сестрёнка!"
 
-    # game/dialogues/anntalk.rpy:829
+    # game/dialogues/anntalk.rpy:830
     old "Может, ещё сдам..."
     new "Может, ещё сдам..."
 
-    # game/dialogues/anntalk.rpy:829
+    # game/dialogues/anntalk.rpy:830
     old "Если сделаешь кое-что, то и не сдам..."
     new "Если сделаешь кое-что, то и не сдам..."
 
-    # game/dialogues/anntalk.rpy:840
+    # game/dialogues/anntalk.rpy:841
     old "Да я пошутил..."
     new "Да я пошутил..."
 
-    # game/dialogues/anntalk.rpy:840
+    # game/dialogues/anntalk.rpy:841
     old "Извини..."
     new "Извини..."
 
-    # game/dialogues/anntalk.rpy:840
+    # game/dialogues/anntalk.rpy:841
     old "Всё в твоих руках..."
     new "Всё в твоих руках..."
 
-    # game/dialogues/anntalk.rpy:879
+    # game/dialogues/anntalk.rpy:880
     old "Да это не важно..."
     new "Да это не важно..."
 
-    # game/dialogues/anntalk.rpy:879
+    # game/dialogues/anntalk.rpy:880
     old "Ну, красивая..."
     new "Ну, красивая..."
 
-    # game/dialogues/anntalk.rpy:1024
+    # game/dialogues/anntalk.rpy:1025
     old "Тебе не жарко, мам?"
     new "Тебе не жарко, мам?"
 
-    # game/dialogues/anntalk.rpy:1024
+    # game/dialogues/anntalk.rpy:1025
     old "Продолжай, мам. Я весь во внимании..."
     new "Продолжай, мам. Я весь во внимании..."
 
-    # game/dialogues/anntalk.rpy:1154
+    # game/dialogues/anntalk.rpy:1155
     old "{i}постараться успокоиться{/i}"
     new "{i}постараться успокоиться{/i}"
 
-    # game/dialogues/anntalk.rpy:1154
+    # game/dialogues/anntalk.rpy:1155
     old "не париться"
     new "не париться"
 
@@ -2926,15 +2926,15 @@ translate crowdin strings:
     old "{i}закончить массаж и попытаться скрыть стояк{/i}"
     new "{i}закончить массаж и попытаться скрыть стояк{/i}"
 
-    # game/dialogues/anntalk.rpy:1707
+    # game/dialogues/anntalk.rpy:1708
     old "Мам, у тебя полотенце сползает..."
     new "Мам, у тебя полотенце сползает..."
 
-    # game/dialogues/anntalk.rpy:1965
+    # game/dialogues/anntalk.rpy:1966
     old "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
     new "{b}Оповещение:{/b} Анна больше не хочет взаимодействовать с Максом"
 
-    # game/dialogues/anntalk.rpy:1986
+    # game/dialogues/anntalk.rpy:1987
     old "Ну пожалуйста! Всё будет хорошо."
     new "Ну пожалуйста! Всё будет хорошо."
 

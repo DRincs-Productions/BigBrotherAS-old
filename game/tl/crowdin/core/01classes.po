@@ -1,44 +1,44 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/01classes.rpy:693
+﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/01classes.rpy:699
 msgid "Ужасное"
 msgstr "Ужасное"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Очень плохое"
 msgstr "Очень плохое"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Плохое"
 msgstr "Плохое"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Не очень"
 msgstr "Не очень"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Нейтральное"
 msgstr "Нейтральное"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Неплохое"
 msgstr "Неплохое"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Хорошее"
 msgstr "Хорошее"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Очень хорошее"
 msgstr "Очень хорошее"
 
-# game/core/01classes.rpy:693
+# game/core/01classes.rpy:699
 msgid "Прекрасное"
 msgstr "Прекрасное"
 
-# game/core/01classes.rpy:1089
+# game/core/01classes.rpy:1095
 msgid "Приобретен пакет рекламы"
 msgstr "Приобретен пакет рекламы"
 
-# game/core/01classes.rpy:1345
+# game/core/01classes.rpy:1350
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 msgstr "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
 

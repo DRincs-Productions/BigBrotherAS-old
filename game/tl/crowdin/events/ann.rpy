@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
+﻿# TODO: Translation updated at 2022-09-25 19:46
 
 # game/events/ann.rpy:11
 translate crowdin ann_sleep_6173ff68:
@@ -1128,301 +1128,301 @@ translate crowdin ann_dressed_balkon_talk2_59d69cc0:
     # Ann_01 "Обязательно!" nointeract
     Ann_01 "Обязательно!" nointeract
 
-# game/events/ann.rpy:832
+# game/events/ann.rpy:833
 translate crowdin ann_dressed_balkon_talk2_1f418bf5:
 
     # Max_09 "{m}Смущают её мои прикосновения... Ясно. Значит, нужно больше прикасаться тогда, когда это максимально естественно, чтобы она привыкла. Пожалуй, йога - то, что нужно! Стоит попробовать...{/m}"
     Max_09 "{m}Смущают её мои прикосновения... Ясно. Значит, нужно больше прикасаться тогда, когда это максимально естественно, чтобы она привыкла. Пожалуй, йога - то, что нужно! Стоит попробовать...{/m}"
 
-# game/events/ann.rpy:841
+# game/events/ann.rpy:842
 translate crowdin ann_dressed_balkon_r_4897a021:
 
     # Ann_02 "Ой, Макс! Как ты так тихо подкрадываешься? Да, любуюсь... А ты почему без дела слоняешься?" nointeract
     Ann_02 "Ой, Макс! Как ты так тихо подкрадываешься? Да, любуюсь... А ты почему без дела слоняешься?" nointeract
 
-# game/events/ann.rpy:844
+# game/events/ann.rpy:845
 translate crowdin ann_dressed_balkon_r_0a883de4:
 
     # Ann_01 "Не то, чтобы мешаешь... Иди лучше чем-нибудь продуктивным займись. Маме пока некогда."
     Ann_01 "Не то, чтобы мешаешь... Иди лучше чем-нибудь продуктивным займись. Маме пока некогда."
 
-# game/events/ann.rpy:845
+# game/events/ann.rpy:846
 translate crowdin ann_dressed_balkon_r_58738e49:
 
     # Max_00 "Ладно, не буду мешать." nointeract
     Max_00 "Ладно, не буду мешать." nointeract
 
-# game/events/ann.rpy:851
+# game/events/ann.rpy:852
 translate crowdin ann_dressed_balkon_r_2280510e:
 
     # Ann_04 "Нет. Побудь, если хочется. Я не против." nointeract
     Ann_04 "Нет. Побудь, если хочется. Я не против." nointeract
 
-# game/events/ann.rpy:858
+# game/events/ann.rpy:859
 translate crowdin ann_dressed_balkon_r_119f09c9:
 
     # Ann_02 "Как у тебя дела, Макс? Всё хорошо?"
     Ann_02 "Как у тебя дела, Макс? Всё хорошо?"
 
-# game/events/ann.rpy:859
+# game/events/ann.rpy:860
 translate crowdin ann_dressed_balkon_r_ca3ee871:
 
     # Max_04 "Да, порядок. А ты как? Не скучаешь?"
     Max_04 "Да, порядок. А ты как? Не скучаешь?"
 
-# game/events/ann.rpy:860
+# game/events/ann.rpy:861
 translate crowdin ann_dressed_balkon_r_7fdac7ed:
 
     # Ann_05 "Ох, сынок, с вами разве заскучаешь. Да и на работе дел хватает." nointeract
     Ann_05 "Ох, сынок, с вами разве заскучаешь. Да и на работе дел хватает." nointeract
 
-# game/events/ann.rpy:865
+# game/events/ann.rpy:866
 translate crowdin ann_dressed_balkon_r_55550510:
 
     # Max_07 "Ты, мам, побольше отдыхать не забывай."
     Max_07 "Ты, мам, побольше отдыхать не забывай."
 
-# game/events/ann.rpy:866
+# game/events/ann.rpy:867
 translate crowdin ann_dressed_balkon_r_081cb55f:
 
     # Ann_07 "Это я и делаю сейчас. А ты давай беги, займись чем-нибудь полезным."
     Ann_07 "Это я и делаю сейчас. А ты давай беги, займись чем-нибудь полезным."
 
-# game/events/ann.rpy:877
+# game/events/ann.rpy:878
 translate crowdin ann_dressed_balkon_r_a9420db7:
 
     # Max_07 "Ты, мам, побольше отдыхать не забывай. У нас слишком прекрасный дом, чтобы грустить."
     Max_07 "Ты, мам, побольше отдыхать не забывай. У нас слишком прекрасный дом, чтобы грустить."
 
-# game/events/ann.rpy:878
+# game/events/ann.rpy:879
 translate crowdin ann_dressed_balkon_r_874166e7:
 
     # Ann_08 "Да, здесь здорово! Маленький рай. Ты зашёл меня просто вот так подбодрить?"
     Ann_08 "Да, здесь здорово! Маленький рай. Ты зашёл меня просто вот так подбодрить?"
 
-# game/events/ann.rpy:882
+# game/events/ann.rpy:883
 translate crowdin ann_dressed_balkon_r_6b6b7f92:
 
     # Max_02 "Ну, да. Хотел напомнить, что я всегда рядом."
     Max_02 "Ну, да. Хотел напомнить, что я всегда рядом."
 
-# game/events/ann.rpy:883
+# game/events/ann.rpy:884
 translate crowdin ann_dressed_balkon_r_680063a0:
 
     # Ann_07 "Спасибо, но лучше беги, займись чем-нибудь полезным. У меня всё в порядке."
     Ann_07 "Спасибо, но лучше беги, займись чем-нибудь полезным. У меня всё в порядке."
 
-# game/events/ann.rpy:891
+# game/events/ann.rpy:892
 translate crowdin ann_dressed_balkon_r_0cc8bfb1:
 
     # Max_03 "Ладно, не буду отвлекать. Я тебя люблю, мам!"
     Max_03 "Ладно, не буду отвлекать. Я тебя люблю, мам!"
 
-# game/events/ann.rpy:892
+# game/events/ann.rpy:893
 translate crowdin ann_dressed_balkon_r_dfe00014:
 
     # Ann_06 "Я тебя тоже, сынок." nointeract
     Ann_06 "Я тебя тоже, сынок." nointeract
 
-# game/events/ann.rpy:981
+# game/events/ann.rpy:982
 translate crowdin ann_bath_fc2b25dc:
 
     # Max_00 "{m}Видимо, мама принимает ванну...{/m}" nointeract
     Max_00 "{m}Видимо, мама принимает ванну...{/m}" nointeract
 
-# game/events/ann.rpy:991
+# game/events/ann.rpy:992
 translate crowdin ann_bath_9d03c202:
 
     # Max_00 "{m}Эх... жаль, что стекло частично матовое. Так ничего не разглядеть! А если подобраться ближе, то мама может заметить...{/m}"
     Max_00 "{m}Эх... жаль, что стекло частично матовое. Так ничего не разглядеть! А если подобраться ближе, то мама может заметить...{/m}"
 
-# game/events/ann.rpy:993
+# game/events/ann.rpy:994
 translate crowdin ann_bath_7fffd1ec:
 
     # Max_09 "{m}Нужно что-нибудь придумать...{/m}" nointeract
     Max_09 "{m}Нужно что-нибудь придумать...{/m}" nointeract
 
-# game/events/ann.rpy:1000
+# game/events/ann.rpy:1001
 translate crowdin ann_bath_4a929722:
 
     # Max_01 "{m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
     Max_01 "{m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
 
-# game/events/ann.rpy:1012
+# game/events/ann.rpy:1013
 translate crowdin ann_bath_ladder_76e8b72b:
 
     # Max_04 "{m}Посмотрим, что у нас тут...{/m}"
     Max_04 "{m}Посмотрим, что у нас тут...{/m}"
 
-# game/events/ann.rpy:1022
+# game/events/ann.rpy:1023
 translate crowdin ann_bath_ladder_3a5db899:
 
     # Max_03 "{m}Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...{/m}" nointeract
     Max_03 "{m}Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...{/m}" nointeract
 
-# game/events/ann.rpy:1028
+# game/events/ann.rpy:1029
 translate crowdin ann_bath_ladder_b37e9fe1:
 
     # Max_05 "{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}" nointeract
     Max_05 "{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}" nointeract
 
-# game/events/ann.rpy:1037
+# game/events/ann.rpy:1038
 translate crowdin ann_bath_ladder_b37e9fe1_1:
 
     # Max_05 "{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}" nointeract
     Max_05 "{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}" nointeract
 
-# game/events/ann.rpy:1043
+# game/events/ann.rpy:1044
 translate crowdin ann_bath_ladder_87fd27ff:
 
     # Max_07 "{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}" nointeract
     Max_07 "{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}" nointeract
 
-# game/events/ann.rpy:1052
+# game/events/ann.rpy:1053
 translate crowdin ann_bath_about_intime_0_3aa93926:
 
     # Ann "{b}Анна:{/b} Кто там? Я принимаю ванну!"
     Ann "{b}Анна:{/b} Кто там? Я принимаю ванну!"
 
-# game/events/ann.rpy:1053
+# game/events/ann.rpy:1054
 translate crowdin ann_bath_about_intime_0_006aa2f9:
 
     # Max_07 "Это я, Макс. Можно войти?"
     Max_07 "Это я, Макс. Можно войти?"
 
-# game/events/ann.rpy:1054
+# game/events/ann.rpy:1055
 translate crowdin ann_bath_about_intime_0_765e20f4:
 
     # Ann "{b}Анна:{/b} Зачем, дорогой? Тебе что-то нужно?"
     Ann "{b}Анна:{/b} Зачем, дорогой? Тебе что-то нужно?"
 
-# game/events/ann.rpy:1055
+# game/events/ann.rpy:1056
 translate crowdin ann_bath_about_intime_0_cc4bed10:
 
     # Max_09 "Да, мам. Хотел поговорить."
     Max_09 "Да, мам. Хотел поговорить."
 
-# game/events/ann.rpy:1056
+# game/events/ann.rpy:1057
 translate crowdin ann_bath_about_intime_0_a05b810e:
 
     # Ann "{b}Анна:{/b} Если это может подождать, то я через полчасика освобожусь..." nointeract
     Ann "{b}Анна:{/b} Если это может подождать, то я через полчасика освобожусь..." nointeract
 
-# game/events/ann.rpy:1072
+# game/events/ann.rpy:1073
 translate crowdin ann_bath_about_intime_0_53cc7aca:
 
     # Ann_15 "Макс! Ты почему так нагло врываешься! Я же сказала, что скоро освобожусь! Не мог подождать?"
     Ann_15 "Макс! Ты почему так нагло врываешься! Я же сказала, что скоро освобожусь! Не мог подождать?"
 
-# game/events/ann.rpy:1073
+# game/events/ann.rpy:1074
 translate crowdin ann_bath_about_intime_0_1af3858f:
 
     # Max_08 "Нет, нужно кое-что обсудить, пока ты здесь."
     Max_08 "Нет, нужно кое-что обсудить, пока ты здесь."
 
-# game/events/ann.rpy:1078
+# game/events/ann.rpy:1079
 translate crowdin ann_bath_about_intime_0_01bf0619:
 
     # Ann_14 "И что там у тебя такого срочного?!"
     Ann_14 "И что там у тебя такого срочного?!"
 
-# game/events/ann.rpy:1079
+# game/events/ann.rpy:1080
 translate crowdin ann_bath_about_intime_0_a34fa2a4:
 
     # Max_07 "Хотел поговорить о девочках!"
     Max_07 "Хотел поговорить о девочках!"
 
-# game/events/ann.rpy:1080
+# game/events/ann.rpy:1081
 translate crowdin ann_bath_about_intime_0_197357cf:
 
     # Ann_17 "И ты считаешь, что это настолько важно, что кроме как здесь об этом говорить нельзя, да?"
     Ann_17 "И ты считаешь, что это настолько важно, что кроме как здесь об этом говорить нельзя, да?"
 
-# game/events/ann.rpy:1081
+# game/events/ann.rpy:1082
 translate crowdin ann_bath_about_intime_0_7db297d2:
 
     # Max_01 "Ну... Не просто о девочках, а том, как им... делать приятно... там, внизу..."
     Max_01 "Ну... Не просто о девочках, а том, как им... делать приятно... там, внизу..."
 
-# game/events/ann.rpy:1082
+# game/events/ann.rpy:1083
 translate crowdin ann_bath_about_intime_0_28faf8d1:
 
     # Ann_02 "Вот это вопросы у тебя, Макс! А что, у тебя девочка появилась?"
     Ann_02 "Вот это вопросы у тебя, Макс! А что, у тебя девочка появилась?"
 
-# game/events/ann.rpy:1083
+# game/events/ann.rpy:1084
 translate crowdin ann_bath_about_intime_0_4dd2948d:
 
     # Max_07 "Ещё нет, но появится же. А я хочу быть готовым! Вы мне с Эриком показали на тех уроках, как себя вести, если женщина... так сказать, ласкает мужчину, а вот как ласкать женщин - нет."
     Max_07 "Ещё нет, но появится же. А я хочу быть готовым! Вы мне с Эриком показали на тех уроках, как себя вести, если женщина... так сказать, ласкает мужчину, а вот как ласкать женщин - нет."
 
-# game/events/ann.rpy:1084
+# game/events/ann.rpy:1085
 translate crowdin ann_bath_about_intime_0_435b556c:
 
     # Ann_14 "Ой, сынок, какие же это неудобные вопросы! Я всё ещё до конца не могу осознать, что ты уже почти взрослый."
     Ann_14 "Ой, сынок, какие же это неудобные вопросы! Я всё ещё до конца не могу осознать, что ты уже почти взрослый."
 
-# game/events/ann.rpy:1085
+# game/events/ann.rpy:1086
 translate crowdin ann_bath_about_intime_0_b912cfb2:
 
     # Max_09 "Пора бы уже осознать, мам! И уроки ваши, какие-то односторонние. Как-то неправильно."
     Max_09 "Пора бы уже осознать, мам! И уроки ваши, какие-то односторонние. Как-то неправильно."
 
-# game/events/ann.rpy:1086
+# game/events/ann.rpy:1087
 translate crowdin ann_bath_about_intime_0_24e945aa:
 
     # Ann_13 "Ну... Что-то я даже не знаю..."
     Ann_13 "Ну... Что-то я даже не знаю..."
 
-# game/events/ann.rpy:1092
+# game/events/ann.rpy:1093
 translate crowdin ann_bath_about_intime_0_acd6b1b2:
 
     # Max_07 "Да ладно, я же уже такое видел с вами на тех уроках..."
     Max_07 "Да ладно, я же уже такое видел с вами на тех уроках..."
 
-# game/events/ann.rpy:1093
+# game/events/ann.rpy:1094
 translate crowdin ann_bath_about_intime_0_fdfa6acb:
 
     # Ann_12 "Ой, Макс, не напоминай. Это всё было исключительно для твоего... сексуального образования..."
     Ann_12 "Ой, Макс, не напоминай. Это всё было исключительно для твоего... сексуального образования..."
 
-# game/events/ann.rpy:1094
+# game/events/ann.rpy:1095
 translate crowdin ann_bath_about_intime_0_e2b46bea:
 
     # Max_08 "Так и это тоже для образования! Потому что я хочу не только получать ласку от девочек, но и давать её им. А это, как я понимаю, куда сложнее."
     Max_08 "Так и это тоже для образования! Потому что я хочу не только получать ласку от девочек, но и давать её им. А это, как я понимаю, куда сложнее."
 
-# game/events/ann.rpy:1095
+# game/events/ann.rpy:1096
 translate crowdin ann_bath_about_intime_0_1f40fc0d:
 
     # Ann_13 "Ох, с учётом того, чему мы с Эриком уже тебя тогда научили, твоя просьба очень логична, сынок. Так что я поговорю об этом с Эриком..."
     Ann_13 "Ох, с учётом того, чему мы с Эриком уже тебя тогда научили, твоя просьба очень логична, сынок. Так что я поговорю об этом с Эриком..."
 
-# game/events/ann.rpy:1096
+# game/events/ann.rpy:1097
 translate crowdin ann_bath_about_intime_0_ee64e187:
 
     # Max_10 "Нет, мам, я хочу только с тобой этому учиться!"
     Max_10 "Нет, мам, я хочу только с тобой этому учиться!"
 
-# game/events/ann.rpy:1097
+# game/events/ann.rpy:1098
 translate crowdin ann_bath_about_intime_0_bd74b95d:
 
     # Ann_17 "То есть, только со мной?! А Эрик тебе чем не угодил?"
     Ann_17 "То есть, только со мной?! А Эрик тебе чем не угодил?"
 
-# game/events/ann.rpy:1098
+# game/events/ann.rpy:1099
 translate crowdin ann_bath_about_intime_0_0314b6cd:
 
     # Max_09 "Мне кажется, он это... направление не особо любит. Мне же лучше, чтобы такому учила именно женщина, ведь вам виднее."
     Max_09 "Мне кажется, он это... направление не особо любит. Мне же лучше, чтобы такому учила именно женщина, ведь вам виднее."
 
-# game/events/ann.rpy:1099
+# game/events/ann.rpy:1100
 translate crowdin ann_bath_about_intime_0_ba4d6bb6:
 
     # Ann_12 "Виднее, конечно. Но без Эрика я даже не знаю... Не уверена... Ничего, если я подумаю об этом в более... комфортной обстановке?"
     Ann_12 "Виднее, конечно. Но без Эрика я даже не знаю... Не уверена... Ничего, если я подумаю об этом в более... комфортной обстановке?"
 
-# game/events/ann.rpy:1100
+# game/events/ann.rpy:1101
 translate crowdin ann_bath_about_intime_0_3a30664f:
 
     # Max_01 "Да, мам! Я не буду мешать, расслабляйся." nointeract
@@ -1538,23 +1538,23 @@ translate crowdin strings:
     old "{i}приобнять маму за попку{/i}"
     new "{i}приобнять маму за попку{/i}"
 
-    # game/events/ann.rpy:842
+    # game/events/ann.rpy:843
     old "А что, я мешаю?"
     new "А что, я мешаю?"
 
-    # game/events/ann.rpy:842
+    # game/events/ann.rpy:843
     old "С тобой хотел побыть. Или я мешаю?"
     new "С тобой хотел побыть. Или я мешаю?"
 
-    # game/events/ann.rpy:852
+    # game/events/ann.rpy:853
     old "{i}приобнять маму{/i}"
     new "{i}приобнять маму{/i}"
 
-    # game/events/ann.rpy:861
+    # game/events/ann.rpy:862
     old "{i}продолжить обнимать{/i}"
     new "{i}продолжить обнимать{/i}"
 
-    # game/events/ann.rpy:1057
+    # game/events/ann.rpy:1058
     old "{i}войти{/i}"
     new "{i}войти{/i}"
 

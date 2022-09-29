@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
+﻿# TODO: Translation updated at 2022-09-25 19:46
 
 translate crowdin strings:
 
@@ -54,19 +54,19 @@ translate crowdin strings:
     old "ВЗЯТЬ КРЕДИТ"
     new "ВЗЯТЬ КРЕДИТ"
 
-    # game/core/screens.rpy:310
+    # game/core/screens.rpy:313
     old "Что будем искать?"
     new "Что будем искать?"
 
-    # game/core/screens.rpy:381
+    # game/core/screens.rpy:384
     old "{i}{b}КУПЛЕНО{/b}{/i}"
     new "{i}{b}КУПЛЕНО{/b}{/i}"
 
-    # game/core/screens.rpy:456
+    # game/core/screens.rpy:459
     old "ОНЛАЙН-КУРСЫ"
     new "ОНЛАЙН-КУРСЫ"
 
-    # game/core/screens.rpy:474
+    # game/core/screens.rpy:477
     old "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
     new "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 
@@ -94,19 +94,19 @@ translate crowdin strings:
     old "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
     new "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
 
-    # game/core/screens.rpy:557
+    # game/core/screens.rpy:565
     old "ДОХОД ОТ ПРОСМОТРОВ"
     new "ДОХОД ОТ ПРОСМОТРОВ"
 
-    # game/core/screens.rpy:558
+    # game/core/screens.rpy:566
     old "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."
     new "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\nМинимальная сумма единоразового снятия: $100."
 
-    # game/core/screens.rpy:559
+    # game/core/screens.rpy:567
     old "На вашем счете $[paid]"
     new "На вашем счете $[paid]"
 
-    # game/core/screens.rpy:561
+    # game/core/screens.rpy:569
     old "Забрать $[paid]"
     new "Забрать $[paid]"
 
@@ -114,267 +114,267 @@ translate crowdin strings:
     old "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
     new "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
 
-    # game/core/screens.rpy:602
+    # game/core/screens.rpy:608
     old "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
     new "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
 
-    # game/core/screens.rpy:603
+    # game/core/screens.rpy:609
     old "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
     new "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\nЗа каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
 
-    # game/core/screens.rpy:605
+    # game/core/screens.rpy:611
     old "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
     new "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
 
-    # game/core/screens.rpy:709
+    # game/core/screens.rpy:701
     old "{b}РЕКЛАМА{/b}"
     new "{b}РЕКЛАМА{/b}"
 
-    # game/core/screens.rpy:712
+    # game/core/screens.rpy:704
     old "{b}ВЫВОД СРЕДСТВ{/b}"
     new "{b}ВЫВОД СРЕДСТВ{/b}"
 
-    # game/core/screens.rpy:717
+    # game/core/screens.rpy:709
     old "Расположение:"
     new "Расположение:"
 
-    # game/core/screens.rpy:718
+    # game/core/screens.rpy:710
     old "Зрителей:"
     new "Зрителей:"
 
-    # game/core/screens.rpy:719
+    # game/core/screens.rpy:711
     old "Общий доход:"
     new "Общий доход:"
 
-    # game/core/screens.rpy:720
+    # game/core/screens.rpy:712
     old "Доход сегодня:"
     new "Доход сегодня:"
 
-    # game/core/screens.rpy:921
+    # game/core/screens.rpy:918
     old "ЖДАТЬ"
     new "ЖДАТЬ"
 
-    # game/core/screens.rpy:932
+    # game/core/screens.rpy:929
     old "Зрителей: [public]"
     new "Зрителей: [public]"
 
-    # game/core/screens.rpy:983
+    # game/core/screens.rpy:1000
     old "ПОЛЕЗНОЕ"
     new "ПОЛЕЗНОЕ"
 
-    # game/core/screens.rpy:1084
+    # game/core/screens.rpy:1111
     old "ВОЗМОЖНОСТИ ([kol] / [all])"
     new "ВОЗМОЖНОСТИ ([kol] / [all])"
 
-    # game/core/screens.rpy:1098
+    # game/core/screens.rpy:1125
     old "В ПРОЦЕССЕ..."
     new "В ПРОЦЕССЕ..."
 
-    # game/core/screens.rpy:1100
+    # game/core/screens.rpy:1127
     old "ЗАВЕРШЕНЫ..."
     new "ЗАВЕРШЕНЫ..."
 
-    # game/core/screens.rpy:1102
+    # game/core/screens.rpy:1129
     old "ЗАБЛОКИРОВАНЫ..."
     new "ЗАБЛОКИРОВАНЫ..."
 
-    # game/core/screens.rpy:1105
+    # game/core/screens.rpy:1132
     old "НЕ ОТКРЫТЫ..."
     new "НЕ ОТКРЫТЫ..."
 
-    # game/core/screens.rpy:1156
+    # game/core/screens.rpy:1183
     old "Подсказка:"
     new "Подсказка:"
 
-    # game/core/screens.rpy:1166
+    # game/core/screens.rpy:1193
     old "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
     new "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
 
-    # game/core/screens.rpy:1168
+    # game/core/screens.rpy:1195
     old "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
     new "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
 
-    # game/core/screens.rpy:1247
+    # game/core/screens.rpy:1279
     old "ВЕЩИ"
     new "ВЕЩИ"
 
-    # game/core/screens.rpy:1296
+    # game/core/screens.rpy:1328
     old "Ни один предмет не выбран"
     new "Ни один предмет не выбран"
 
-    # game/core/screens.rpy:1298
+    # game/core/screens.rpy:1330
     old "В данный момент в инвентаре ничего нет"
     new "В данный момент в инвентаре ничего нет"
 
-    # game/core/screens.rpy:1359
+    # game/core/screens.rpy:1397
     old "ПЕРСОНАЖИ"
     new "ПЕРСОНАЖИ"
 
-    # game/core/screens.rpy:1412
+    # game/core/screens.rpy:1450
     old "Отношения с [char_name!t]:"
     new "Отношения с [char_name!t]:"
 
-    # game/core/screens.rpy:1423
+    # game/core/screens.rpy:1461
     old "Запас сил:"
     new "Запас сил:"
 
-    # game/core/screens.rpy:1428
+    # game/core/screens.rpy:1466
     old "Тренированность:"
     new "Тренированность:"
 
-    # game/core/screens.rpy:1433
+    # game/core/screens.rpy:1471
     old "Чистота:"
     new "Чистота:"
 
-    # game/core/screens.rpy:1440
+    # game/core/screens.rpy:1478
     old "Навыки:"
     new "Навыки:"
 
-    # game/core/screens.rpy:1443
+    # game/core/screens.rpy:1481
     old "Навык убеждения:"
     new "Навык убеждения:"
 
-    # game/core/screens.rpy:1448
+    # game/core/screens.rpy:1486
     old "Навык скрытности:"
     new "Навык скрытности:"
 
-    # game/core/screens.rpy:1454
+    # game/core/screens.rpy:1492
     old "Навык массажа:"
     new "Навык массажа:"
 
-    # game/core/screens.rpy:1460
+    # game/core/screens.rpy:1498
     old "Навык эро.массажа:"
     new "Навык эро.массажа:"
 
-    # game/core/screens.rpy:1466
+    # game/core/screens.rpy:1504
     old "Навык поцелуев:"
     new "Навык поцелуев:"
 
-    # game/core/screens.rpy:1472
+    # game/core/screens.rpy:1510
     old "Сексуальный опыт:"
     new "Сексуальный опыт:"
 
-    # game/core/screens.rpy:1484
+    # game/core/screens.rpy:1522
     old "Настроение:"
     new "Настроение:"
 
-    # game/core/screens.rpy:1490
+    # game/core/screens.rpy:1528
     old "Уровень отношений:"
     new "Уровень отношений:"
 
-    # game/core/screens.rpy:1504
+    # game/core/screens.rpy:1542
     old "Влияние Макса:"
     new "Влияние Макса:"
 
-    # game/core/screens.rpy:1511
+    # game/core/screens.rpy:1549
     old "Влияние Эрика:"
     new "Влияние Эрика:"
 
-    # game/core/screens.rpy:1522
+    # game/core/screens.rpy:1560
     old "Лучше пока не попадаться на подглядывании за Лизой в душе"
     new "Лучше пока не попадаться на подглядывании за Лизой в душе"
 
-    # game/core/screens.rpy:1526
+    # game/core/screens.rpy:1564
     old "Предпочтения в сладостях:"
     new "Предпочтения в сладостях:"
 
-    # game/core/screens.rpy:1530
+    # game/core/screens.rpy:1568
     old "Любит \"Ritter Sport\""
     new "Любит \"Ritter Sport\""
 
-    # game/core/screens.rpy:1532
+    # game/core/screens.rpy:1570
     old "Сгодится \"Raffaello\""
     new "Сгодится \"Raffaello\""
 
-    # game/core/screens.rpy:1534
+    # game/core/screens.rpy:1572
     old "Ненавидит \"Ferrero Rocher\""
     new "Ненавидит \"Ferrero Rocher\""
 
-    # game/core/screens.rpy:1539
+    # game/core/screens.rpy:1577
     old "Предпочтения в массаже:"
     new "Предпочтения в массаже:"
 
-    # game/core/screens.rpy:1542
+    # game/core/screens.rpy:1580
     old "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
     new "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
 
-    # game/core/screens.rpy:1546
+    # game/core/screens.rpy:1584
     old "Лучше пока не попадаться на подглядывании за Алисой в душе"
     new "Лучше пока не попадаться на подглядывании за Алисой в душе"
 
-    # game/core/screens.rpy:1554
+    # game/core/screens.rpy:1592
     old "Любит \"Ferrero Rocher\""
     new "Любит \"Ferrero Rocher\""
 
-    # game/core/screens.rpy:1556
+    # game/core/screens.rpy:1594
     old "Сгодится \"Ritter Sport\""
     new "Сгодится \"Ritter Sport\""
 
-    # game/core/screens.rpy:1558
+    # game/core/screens.rpy:1596
     old "Ненавидит \"Raffaello\""
     new "Ненавидит \"Raffaello\""
 
-    # game/core/screens.rpy:1562
+    # game/core/screens.rpy:1600
     old "Действие алкоголя:"
     new "Действие алкоголя:"
 
-    # game/core/screens.rpy:1569
+    # game/core/screens.rpy:1607
     old "- Не может вспомнить всё, что происходило, пока она была пьяна"
     new "- Не может вспомнить всё, что происходило, пока она была пьяна"
 
-    # game/core/screens.rpy:1575
+    # game/core/screens.rpy:1613
     old "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
     new "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
 
-    # game/core/screens.rpy:1577
+    # game/core/screens.rpy:1615
     old "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
     new "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
 
-    # game/core/screens.rpy:1579
+    # game/core/screens.rpy:1617
     old "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
     new "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
 
-    # game/core/screens.rpy:1622
+    # game/core/screens.rpy:1664
     old "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
     new "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
 
-    # game/core/screens.rpy:1720
+    # game/core/screens.rpy:1762
     old "Автосмена каждые 2 дня"
     new "Автосмена каждые 2 дня"
 
-    # game/core/screens.rpy:1731
+    # game/core/screens.rpy:1773
     old "Сделать текущей"
     new "Сделать текущей"
 
-    # game/core/screens.rpy:1779
+    # game/core/screens.rpy:1823
     old "[view_cam[1].public]"
     new "[view_cam[1].public]"
 
-    # game/core/screens.rpy:1862
+    # game/core/screens.rpy:1908
     old "ВНИМАНИЕ"
     new "ВНИМАНИЕ"
 
-    # game/core/screens.rpy:1863
+    # game/core/screens.rpy:1909
     old "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
     new "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 
-    # game/core/screens.rpy:1867
+    # game/core/screens.rpy:1913
     old "Эта игра содержит контент сексуального характера"
     new "Эта игра содержит контент сексуального характера"
 
-    # game/core/screens.rpy:1868
+    # game/core/screens.rpy:1914
     old "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
     new "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 
-    # game/core/screens.rpy:1870
+    # game/core/screens.rpy:1916
     old "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
     new "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 
-    # game/core/screens.rpy:1874
+    # game/core/screens.rpy:1920
     old "Продолжить"
     new "Продолжить"
 
-    # game/core/screens.rpy:1887
+    # game/core/screens.rpy:1944
     old "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
     new "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 
