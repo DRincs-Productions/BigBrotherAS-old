@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
+﻿# TODO: Translation updated at 2022-09-25 19:46
 
 # game/events/kira.rpy:26
 translate crowdin kira_bath_a64599ce:
@@ -4563,6 +4563,10 @@ translate crowdin strings:
     # game/events/kira.rpy:3064
     old "Я бы задержался, но нужно проверить, как там Алиса..."
     new "Я бы задержался, но нужно проверить, как там Алиса..."
+
+    # game/events/kira.rpy:3138
+    old "{i}принести Алисе полотенце{/i}"
+    new "{i}принести Алисе полотенце{/i}"
 
     # game/events/kira.rpy:3164
     old "Хочу грудью!"
