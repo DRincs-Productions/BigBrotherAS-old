@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-09-29 20:43\n"
+"PO-Revision-Date: 2022-09-30 19:14\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/events/alice.rpy:15 #-#-# translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
@@ -390,7 +390,7 @@ msgstr "[Max_04] Non ti preoccupare! Ora lo prendo e lo butto via... E sei tranq
 
 # game/events/alice.rpy:425 #-#-# translate crowdin alice_shower_spider_75632a81:
 msgid "[Alice_13] Нет уж, я не смогу пока зайти обратно... Мне нужно время, чтобы перестать думать обо всём этом кошмаре. Лучше принеси мне полотенце, оно там, в ванной... А то слишком уж тебе повезло на меня голую глазеть! [nointeract]"
-msgstr ""
+msgstr "[Alice_13] No, non posso ancora rientrare... Ho bisogno di tempo per smettere di pensare a questo incubo. Meglio che mi prendi un asciugamano, è in bagno... Sei troppo fortunato per fissarmi nuda! [nointeract]"
 
 # game/events/alice.rpy:435 #-#-# translate crowdin alice_shower_spider_5ced9acf:
 msgid "[Alice_12] Макс, ну ты где там?! Только смотри, чтобы этого монстра не было на моём полотенце! Иначе тебе будет очень-очень больно..."
@@ -2535,7 +2535,7 @@ msgstr "{i}nascondi{/i}"
 
 # game/events/alice.rpy:426
 msgid "Хорошо, сейчас принесу. Никуда не уходи..."
-msgstr ""
+msgstr "Va bene, ci penso io. Non andare da nessuna parte..."
 
 # game/events/alice.rpy:440
 msgid "{i}отдать Алисе полотенце{/i}"
