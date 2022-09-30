@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-09-29 20:42\n"
+"PO-Revision-Date: 2022-09-30 19:13\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -640,7 +640,7 @@ msgstr "Mamma, ci hai pensato?"
 
 # game/core/02init.rpy:151
 msgid "Я разжился деньгами! Идём за костюмом?"
-msgstr ""
+msgstr "Ho i soldi! Andiamo a prendere il vestito?"
 
 # game/core/02init.rpy:297
 msgid "Одежда"
