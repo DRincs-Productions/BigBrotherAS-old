@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-09-29 20:42\n"
+"PO-Revision-Date: 2022-09-30 19:13\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -2014,11 +2014,15 @@ msgid "Вот это поворот! Из-за того, что сексуаль
 "Правда, он намекнул, что если мне будет, что ему рассказать, то у меня будут и другие премиальные. \n"
 "Я сразу же рассказал Эрику о нас с Кирой и его это приятно удивило! Ещё бы, узнать, что у тебя под боком имеется порноактриса... \n"
 "Теперь нужно подыграть Эрику в ванне с Кирой, когда он якобы случайно на нас натолкнётся, чтобы и ему было с ней проще, а я за это получу возможность присутствовать во время их с мамой секса! Правда, с некоторыми оговорками. Мама меня не увидит, а я в свою очередь не должен шуметь. Думаю, я справлюсь. Ох, и круто же будет!"
-msgstr ""
+msgstr "Che colpo di scena! Poiché l'educazione sessuale di Lisa è ora affidata a me, ho perso il bonus che mi era stato promesso da Eric. Lisa, vedi, è il bonus. \n"
+"È vero, ha lasciato intendere che se avessi avuto qualcosa da dirgli, avrei avuto altri bonus. \n"
+"Ho subito raccontato a Eric di me e Kira e lui è rimasto piacevolmente sorpreso! Era sorpreso di scoprire che avevo un'attrice porno come attività secondaria... \n"
+"Ora devo stare al gioco di Eric nella vasca da bagno con Kira quando presumibilmente ci incappa per caso, in modo che anche lui possa divertirsi più facilmente con lei, e io devo essere presente durante il sesso tra lui e la mamma! È vero, con qualche riserva. La mamma non mi vedrà e io a mia volta non dovrò fare rumore. Penso di poterlo gestire. Oh, sarà fantastico!\n\n"
+"Tradotto con www. DeepL. com/Translator (versione gratuita)!"
 
 # game/core/09_opportunities.rpy:4
 msgid "Нужно лишь дождаться ночи вторника или пятницы и хорошенько поразвлечься с Кирой..."
-msgstr ""
+msgstr "Non ci resta che aspettare martedì o venerdì sera e divertirci con Kira..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Круто! Я попросил у Эрика возможность присутствовать во время их с мамой секса и он согласился это устроить! Правда, с некоторыми оговорками. Мама меня не увидит, а я в свою очередь не должен шуметь. Думаю, я справлюсь. Ох, и круто же будет! Только бы не упустить день, в который на маме будут очки для сна..."
