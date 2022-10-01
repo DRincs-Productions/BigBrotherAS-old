@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 14:09\n"
+"PO-Revision-Date: 2022-09-29 20:40\n"
 
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# #§translate crowdin strings: #|#|# # game/core/screens.rpy:165
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/screens.rpy:165
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}BOUTIQUE EN LIGNE{/b}"
 
@@ -64,19 +64,19 @@ msgstr "REMBOURSER UNE PARTIE DE LA DETTE"
 msgid "ВЗЯТЬ КРЕДИТ"
 msgstr "CONTRACTER UN PRÊT"
 
-# game/core/screens.rpy:310
+# game/core/screens.rpy:313
 msgid "Что будем искать?"
 msgstr "Qu'est ce que je recherche?"
 
-# game/core/screens.rpy:381
+# game/core/screens.rpy:384
 msgid "{i}{b}КУПЛЕНО{/b}{/i}"
 msgstr "{i}{b}AQUISITION{/b}{/i}"
 
-# game/core/screens.rpy:456
+# game/core/screens.rpy:459
 msgid "ОНЛАЙН-КУРСЫ"
 msgstr "COURS EN LIGNE"
 
-# game/core/screens.rpy:474
+# game/core/screens.rpy:477
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
 msgstr "Vous avez terminé tous les leçons et cours disponibles dans cette catégorie. Peut-être que de nouvelles leçons apparaîtront dans la prochaine version du jeu."
 
@@ -104,21 +104,21 @@ msgstr "Nombre de leçons: [text2]"
 msgid "{i}{b}ПРИОБРЕСТИ ЭТОТ КУРС ЗА: $[price]{/b}{/i}"
 msgstr "{i}{b}ACHETER CE COURS POUR: [price]${/b}{/i}"
 
-# game/core/screens.rpy:557
+# game/core/screens.rpy:565
 msgid "ДОХОД ОТ ПРОСМОТРОВ"
 msgstr "REVENUS DES VUS"
 
-# game/core/screens.rpy:558
+# game/core/screens.rpy:566
 msgid "Каждое посещение страниц вашего сайта приносит небольшой доход. Увеличивайте аудиторию и зарабатывайте на рекламе!\n\n"
 "Минимальная сумма единоразового снятия: $100."
 msgstr "Chaque visite sur les pages de votre site web génère un petit revenu. Augmentez votre audience et gagnez de l'argent avec la publicité !\n\n"
 "Montant minimum pour un retrait: 100$."
 
-# game/core/screens.rpy:559
+# game/core/screens.rpy:567
 msgid "На вашем счете $[paid]"
 msgstr "$[paid] dans votre compte"
 
-# game/core/screens.rpy:561
+# game/core/screens.rpy:569
 msgid "Забрать $[paid]"
 msgstr "Collecter [paid]$"
 
@@ -126,269 +126,269 @@ msgstr "Collecter [paid]$"
 msgid "НЕДОСТАТОЧНАЯ СУММА ДЛЯ СНЯТИЯ"
 msgstr "MONTANT INSUFFISANT POUR UN RETRAIT"
 
-# game/core/screens.rpy:602
+# game/core/screens.rpy:608
 msgid "СЕТЬ БАННЕРНОЙ РЕКЛАМЫ"
 msgstr "RÉSEAU DE BANNIÈRES PUBLICITAIRES"
 
-# game/core/screens.rpy:603
+# game/core/screens.rpy:609
 msgid "Уникальное предложение только для вас! Наша баннерная сеть предназначена для клиентов с особыми запросами и готова донести вашу рекламу до целевой аудитории.\n\n"
 "За каждый пакет, который вы оплачиваете сейчас, мы гарантируем 10000 показов рекламы вашего сайта в ближайшем будущем!"
 msgstr "Une offre unique rien que pour vous ! Notre réseau de bannières est conçu pour les clients ayant des demandes spécifiques et est prêt à diffuser votre publicité auprès de votre public cible.\n\n"
 "Pour chaque forfait que vous payez maintenant, nous garantissons 10 000 impressions publicitaires pour votre site dans un avenir proche !"
 
-# game/core/screens.rpy:605
+# game/core/screens.rpy:611
 msgid "КУПИТЬ ПАКЕТ РЕКЛАМЫ ЗА $50"
 msgstr "ACHETER UN FORFAIT D’ANNONCES POUR 50 $"
 
-# game/core/screens.rpy:709
+# game/core/screens.rpy:701
 msgid "{b}РЕКЛАМА{/b}"
 msgstr "{b}PUBLICITÉ{/b}"
 
-# game/core/screens.rpy:712
+# game/core/screens.rpy:704
 msgid "{b}ВЫВОД СРЕДСТВ{/b}"
 msgstr "{b}RETRAIT{/b}"
 
-# game/core/screens.rpy:717
+# game/core/screens.rpy:709
 msgid "Расположение:"
 msgstr "Emplacement :"
 
-# game/core/screens.rpy:718
+# game/core/screens.rpy:710
 msgid "Зрителей:"
 msgstr "Spectateurs:"
 
-# game/core/screens.rpy:719
+# game/core/screens.rpy:711
 msgid "Общий доход:"
 msgstr "Revenu total:"
 
-# game/core/screens.rpy:720
+# game/core/screens.rpy:712
 msgid "Доход сегодня:"
 msgstr "Revenus aujourd’hui :"
 
-# game/core/screens.rpy:921
+# game/core/screens.rpy:918
 msgid "ЖДАТЬ"
 msgstr "ATTENDRE"
 
-# game/core/screens.rpy:932
+# game/core/screens.rpy:929
 msgid "Зрителей: [public]"
 msgstr "Spectateurs : [public]"
 
-# game/core/screens.rpy:983
+# game/core/screens.rpy:1000
 msgid "ПОЛЕЗНОЕ"
 msgstr "UTILE"
 
-# game/core/screens.rpy:1084
+# game/core/screens.rpy:1111
 msgid "ВОЗМОЖНОСТИ ([kol] / [all])"
 msgstr "OPPORTUNITÉS ([kol] / [all])"
 
-# game/core/screens.rpy:1098
+# game/core/screens.rpy:1125
 msgid "В ПРОЦЕССЕ..."
 msgstr "DANS LE PROCESSUS..."
 
-# game/core/screens.rpy:1100
+# game/core/screens.rpy:1127
 msgid "ЗАВЕРШЕНЫ..."
 msgstr "TERMINÉ..."
 
-# game/core/screens.rpy:1102
+# game/core/screens.rpy:1129
 msgid "ЗАБЛОКИРОВАНЫ..."
 msgstr "VERROUILLÉ..."
 
-# game/core/screens.rpy:1105
+# game/core/screens.rpy:1132
 msgid "НЕ ОТКРЫТЫ..."
 msgstr "NON OUVERT..."
 
-# game/core/screens.rpy:1156
+# game/core/screens.rpy:1183
 msgid "Подсказка:"
 msgstr "Indice :"
 
-# game/core/screens.rpy:1166
+# game/core/screens.rpy:1193
 msgid "{i}{b}Поздравляем!{/b} Вы завершили данную возможность!{/i}"
 msgstr "{i}{b}Félicitations!{/b} Vous avez terminé cette fonctionnalité - 'opportunité' !{/i}"
 
-# game/core/screens.rpy:1168
+# game/core/screens.rpy:1195
 msgid "{i}{b}Провал.{/b} К сожалению, Ваш выбор привел к неудачному финалу, блокирующему дальнейшее развитие \"возможности\"{/i}"
 msgstr "{i}{b}Échec.{/b} Malheureusement, votre choix a conduit à une fin malheureuse, bloquant le développement ultérieur d'autres 'opportunités'.{/i}"
 
-# game/core/screens.rpy:1247
+# game/core/screens.rpy:1279
 msgid "ВЕЩИ"
 msgstr "EFFETS PERSONELS"
 
-# game/core/screens.rpy:1296
+# game/core/screens.rpy:1328
 msgid "Ни один предмет не выбран"
 msgstr "Aucun élément sélectionné"
 
-# game/core/screens.rpy:1298
+# game/core/screens.rpy:1330
 msgid "В данный момент в инвентаре ничего нет"
 msgstr "Il n’y a rien dans l’inventaire pour le moment"
 
-# game/core/screens.rpy:1359
+# game/core/screens.rpy:1397
 msgid "ПЕРСОНАЖИ"
 msgstr "PERSONNAGES"
 
-# game/core/screens.rpy:1412
+# game/core/screens.rpy:1450
 msgid "Отношения с [char_name!t]:"
 msgstr "Relation avec [char_name!t]:"
 
-# game/core/screens.rpy:1423
+# game/core/screens.rpy:1461
 msgid "Запас сил:"
 msgstr "Réserve de force:"
 
-# game/core/screens.rpy:1428
+# game/core/screens.rpy:1466
 msgid "Тренированность:"
 msgstr "Aptitude:"
 
-# game/core/screens.rpy:1433
+# game/core/screens.rpy:1471
 msgid "Чистота:"
 msgstr "Propreté:"
 
-# game/core/screens.rpy:1440
+# game/core/screens.rpy:1478
 msgid "Навыки:"
 msgstr "Compétences:"
 
-# game/core/screens.rpy:1443
+# game/core/screens.rpy:1481
 msgid "Навык убеждения:"
 msgstr "Force de persuasion:"
 
-# game/core/screens.rpy:1448
+# game/core/screens.rpy:1486
 msgid "Навык скрытности:"
 msgstr "Discrétion:"
 
-# game/core/screens.rpy:1454
+# game/core/screens.rpy:1492
 msgid "Навык массажа:"
 msgstr "Compétence de massage:"
 
-# game/core/screens.rpy:1460
+# game/core/screens.rpy:1498
 msgid "Навык эро.массажа:"
 msgstr "Compétence de massage érotique:"
 
-# game/core/screens.rpy:1466
+# game/core/screens.rpy:1504
 msgid "Навык поцелуев:"
 msgstr "Compétence pour embrasser:"
 
-# game/core/screens.rpy:1472
+# game/core/screens.rpy:1510
 msgid "Сексуальный опыт:"
 msgstr "Expérience sexuelle :"
 
-# game/core/screens.rpy:1484
+# game/core/screens.rpy:1522
 msgid "Настроение:"
 msgstr "Humeur:"
 
-# game/core/screens.rpy:1490
+# game/core/screens.rpy:1528
 msgid "Уровень отношений:"
 msgstr "Niveau de relation :"
 
-# game/core/screens.rpy:1504
+# game/core/screens.rpy:1542
 msgid "Влияние Макса:"
 msgstr "L’influence de Max :"
 
-# game/core/screens.rpy:1511
+# game/core/screens.rpy:1549
 msgid "Влияние Эрика:"
 msgstr "L’influence d’Eric :"
 
-# game/core/screens.rpy:1522
+# game/core/screens.rpy:1560
 msgid "Лучше пока не попадаться на подглядывании за Лизой в душе"
 msgstr "Il vaut mieux ne pas se faire prendre en train d’espionner Lisa sous la douche"
 
-# game/core/screens.rpy:1526
+# game/core/screens.rpy:1564
 msgid "Предпочтения в сладостях:"
 msgstr "Préférence de sucreries:"
 
-# game/core/screens.rpy:1530
+# game/core/screens.rpy:1568
 msgid "Любит \"Ritter Sport\""
 msgstr "Aime 'Ritter Sport'"
 
-# game/core/screens.rpy:1532
+# game/core/screens.rpy:1570
 msgid "Сгодится \"Raffaello\""
 msgstr "'Raffaello' fera l'affaire"
 
-# game/core/screens.rpy:1534
+# game/core/screens.rpy:1572
 msgid "Ненавидит \"Ferrero Rocher\""
 msgstr "Déteste 'Ferrero Rocher'"
 
-# game/core/screens.rpy:1539
+# game/core/screens.rpy:1577
 msgid "Предпочтения в массаже:"
 msgstr "Préférences de massage:"
 
-# game/core/screens.rpy:1542
+# game/core/screens.rpy:1580
 msgid "- После массажа рук Лиза может позволить массировать ей плечи (и не только их) при выполнении домашнего задания"
 msgstr "- Après un massage des mains, Lisa peut se laisser masser les épaules (et plus encore) tout en faisant ses devoirs"
 
-# game/core/screens.rpy:1546
+# game/core/screens.rpy:1584
 msgid "Лучше пока не попадаться на подглядывании за Алисой в душе"
 msgstr "Il vaut mieux ne pas se faire prendre à espionner Alice sous la douche"
 
-# game/core/screens.rpy:1554
+# game/core/screens.rpy:1592
 msgid "Любит \"Ferrero Rocher\""
 msgstr "Aime 'Ferrero Rocher'"
 
-# game/core/screens.rpy:1556
+# game/core/screens.rpy:1594
 msgid "Сгодится \"Ritter Sport\""
 msgstr "'Ritter Sport' fera l'affaire"
 
-# game/core/screens.rpy:1558
+# game/core/screens.rpy:1596
 msgid "Ненавидит \"Raffaello\""
 msgstr "Déteste 'Raffaello'"
 
-# game/core/screens.rpy:1562
+# game/core/screens.rpy:1600
 msgid "Действие алкоголя:"
 msgstr "Effet de l’alcool:"
 
-# game/core/screens.rpy:1569
+# game/core/screens.rpy:1607
 msgid "- Не может вспомнить всё, что происходило, пока она была пьяна"
 msgstr "- Je ne me souviens pas de tout ce qui s’est passé pendant qu’elle était ivre"
 
-# game/core/screens.rpy:1575
+# game/core/screens.rpy:1613
 msgid "- Если начинать массаж для Алисы во дворе со ступней, то вероятность помассировать остальное больше"
 msgstr "- Si vous commencez un massage pour Alice dans la cour par ses jambes (bas des jambes), vous avez plus de chances de masser le reste de son corps"
 
-# game/core/screens.rpy:1577
+# game/core/screens.rpy:1615
 msgid "- При помощи конфет с ликёром можно получить фут-джоб (и не только) от Алисы при массаже у ТВ"
 msgstr "- Vous pouvez masser les jambes (et plus encore) à Alice lors d'un massage devant la TV avec l'aide du chocolats à la liqueur"
 
-# game/core/screens.rpy:1579
+# game/core/screens.rpy:1617
 msgid "- Получив фут-джоб от Алисы при массаже у ТВ, есть шанс увидеть через камеру, как она мастурбирует перед сном"
 msgstr "- Si Alice s'est laissée masser les jambes devant la TV, vous pouvez la voir se masturber sur la caméra avant d'aller vous coucher"
 
-# game/core/screens.rpy:1622
+# game/core/screens.rpy:1664
 msgid "ЗАДАТЬ ОДЕЖДУ ПЕРСОНАЖА"
 msgstr "DÉFINIR LES VÊTEMENTS DU PERSONNAGE"
 
-# game/core/screens.rpy:1720
+# game/core/screens.rpy:1762
 msgid "Автосмена каждые 2 дня"
 msgstr "Changement automatique tous les 2 jours"
 
-# game/core/screens.rpy:1731
+# game/core/screens.rpy:1773
 msgid "Сделать текущей"
 msgstr "Utiliser comme vêtements actuel"
 
-# game/core/screens.rpy:1779
+# game/core/screens.rpy:1823
 msgid "[view_cam[1].public]"
 msgstr "[view_cam[1].public]"
 
-# game/core/screens.rpy:1862
+# game/core/screens.rpy:1908
 msgid "ВНИМАНИЕ"
 msgstr "ATTENTION"
 
-# game/core/screens.rpy:1863
+# game/core/screens.rpy:1909
 msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
 msgstr "CONTENU POUR ADULTES"
 
-# game/core/screens.rpy:1867
+# game/core/screens.rpy:1913
 msgid "Эта игра содержит контент сексуального характера"
 msgstr "Ce jeu contient du contenu sexuel"
 
-# game/core/screens.rpy:1868
+# game/core/screens.rpy:1914
 msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
 msgstr "En continuant, vous confirmez que vous êtes assez vieux pour un tel contenu"
 
-# game/core/screens.rpy:1870
+# game/core/screens.rpy:1916
 msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
 msgstr "Tous les personnages représentés dans ce jeu sont fictifs et âgés de plus de 18 ans"
 
-# game/core/screens.rpy:1874
+# game/core/screens.rpy:1920
 msgid "Продолжить"
 msgstr "Continuer"
 
-# game/core/screens.rpy:1887
+# game/core/screens.rpy:1944
 msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
 msgstr "LES VÊTEMENTS DES PERSONNAGES DANS LE MENU PRINCIPAL"
 

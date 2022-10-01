@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 13:33\n"
+"PO-Revision-Date: 2022-09-30 19:12\n"
 
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/kira.rpy:26 #-#-# translate crowdin kira_bath_a64599ce:
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/events/kira.rpy:26 #-#-# translate crowdin kira_bath_a64599ce:
 msgid "[Max_01] {m}Только один человек может в это время не спать и плескаться в ванне. И человек этот - Кира!{/m} [nointeract]"
 msgstr "[Max_01] {m}Une seule personne peut à ce moment-là rester éveillé et éclabousser dans le bain. Et cet homme est Kira!{/m} [nointeract]"
 
@@ -3154,6 +3154,10 @@ msgstr "C'est une tournure des événements à laquelle je ne m'attendais pas ! 
 # game/events/kira.rpy:3064
 msgid "Я бы задержался, но нужно проверить, как там Алиса..."
 msgstr "Je serais bien resté plus longtemps, mais je dois aller voir Alice..."
+
+# game/events/kira.rpy:3138
+msgid "{i}принести Алисе полотенце{/i}"
+msgstr ""
 
 # game/events/kira.rpy:3164
 msgid "Хочу грудью!"

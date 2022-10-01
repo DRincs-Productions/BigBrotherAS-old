@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 13:35\n"
+"PO-Revision-Date: 2022-08-03 21:41\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/dinner.rpy:62 #-#-# translate crowdin typical_dinner_abe1c298:
 msgid "[Ann_01] Всем приятного аппетита. Я рада, Макс, что ты закупил продуктов за свой счёт. И бассейн я вижу чистый. Молодец, что взял на себя эту ответственность, мы все это ценим. А теперь давайте ужинать... [nointeract]"
@@ -1377,7 +1377,7 @@ msgstr "E cosa c'entra Alice?"
 
 # game/dialogues/dinner.rpy:223
 msgid "Так чего жы ты такая бедная?"
-msgstr "Allora perché sei così povero?"
+msgstr "Allora perché sei così povera?"
 
 # game/dialogues/dinner.rpy:223
 msgid "И какой план?"
