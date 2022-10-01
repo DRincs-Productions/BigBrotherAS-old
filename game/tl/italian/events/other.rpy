@@ -10,7 +10,7 @@ translate italian shoping_034007bc:
 translate italian back_shoping_bd2b389d:
 
     # Lisa_02 "Привет, Макс! Мы вернулись..."
-    Lisa_02 "Ciao, Max! Siamo tornati..."
+    Lisa_02 "Ciao, Max! Siamo tornate..."
 
 # game/events/other.rpy:35
 translate italian back_shoping_cd0b2b2b:
@@ -148,7 +148,7 @@ translate italian back_shoping_7852d704:
 translate italian back_shoping_1deadd07:
 
     # Ann_05 "Привет, Макс! Мы вернулись..."
-    Ann_05 "Ciao, Max! Siamo tornati..."
+    Ann_05 "Ciao, Max! Siamo tornate..."
 
 # game/events/other.rpy:76
 translate italian back_shoping_a28c1031:

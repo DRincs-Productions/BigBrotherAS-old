@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-07-09 12:49
+# TODO: Translation updated at 2022-09-25 19:46
 
 # game/events/kira.rpy:26
 translate italian kira_bath_a64599ce:
@@ -4560,6 +4560,10 @@ translate italian kira_bath_with_eric_56dad693:
     # game/events/kira.rpy:3064
     old "Я бы задержался, но нужно проверить, как там Алиса..."
     new "Sarei in ritardo, ma ho bisogno di controllare come Alice è lì..."
+
+    # game/events/kira.rpy:3138
+    old "{i}принести Алисе полотенце{/i}"
+    new "{i}Porta ad Alice un asciugamano{/i}"
 
     # game/events/kira.rpy:3164
     old "Хочу грудью!"

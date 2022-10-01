@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-07-09 12:49
+# TODO: Translation updated at 2022-09-25 19:46
 
 # game/events/eric.rpy:13
 translate italian Eric_talk_afterdinner_84e16ca3:
@@ -2556,277 +2556,277 @@ translate italian eric_about_practice_war_2784de49:
     # Eric_06 "Вот это деловой разговор двух мужчин! Буду ждать в комнате твоей мамы..."
     Eric_06 "Questa è una conversazione d'affari tra due uomini! Aspetterò nella stanza di tua madre..."
 
-# game/events/eric.rpy:1976
+# game/events/eric.rpy:1977
 translate italian eric_about_practice_war_76a0e74b:
 
     # Max_09 "{m}Если он и правда не полезет к Лизе, если я буду платить каждую неделю, то это уже хорошо. Но как же мне уберечь от него всех остальных? Надеюсь, я найду способ...{/m}" nointeract
     Max_09 "{m}Se davvero non arriva a Lisa, se pago ogni settimana, va bene. Ma come faccio a tenere tutti gli altri fuori da esso? Spero di trovare un modo... {/m}" nointeract
 
-# game/events/eric.rpy:1981
+# game/events/eric.rpy:1982
 translate italian eric_about_practice_war_2ff7cd4a:
 
     # Eric_03 "Ну вот, хоть какую-то пользу от тебя можно заиметь. Для меня это конечно гроши, но учитывая, сколько на Лизу придётся потратить времени - это хорошая компенсация."
     Eric_03 "Beh, almeno qualche beneficio da te può essere trovato. Per me, questa è ovviamente una miseria, ma dato quanto tempo Lisa dovrà spendere - questo è un buon compenso."
 
-# game/events/eric.rpy:1982
+# game/events/eric.rpy:1983
 translate italian eric_about_practice_war_ce89f953:
 
     # Max_15 "Но смотри... Если всё равно будешь лезть к Лизе..."
     Max_15 "Ma guarda... Se hai intenzione di incasinare Lisa in ogni caso..."
 
-# game/events/eric.rpy:1984
+# game/events/eric.rpy:1985
 translate italian eric_about_practice_war_6795eebc:
 
     # Eric_04 "Пока ты платишь, Макс, и не действуешь мне на нервы - мне до Лизы нет дела. Так что не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
     Eric_04 "Finché paghi, Max, e non mi dai sui nervi, non mi importa di Lisa. Quindi non fatevi prendere dalla smania, o ve ne darò un paio di centinaia! Vattene da qui. Ci vediamo tra una settimana." nointeract
 
-# game/events/eric.rpy:1990
+# game/events/eric.rpy:1991
 translate italian eric_about_practice_war_7fade9dd:
 
     # Eric_14 "Ну так не стой и беги зарабатывай! Ты будешь платить за неделю вперёд, так что через неделю я жду от тебя удвоенную сумму. Или ты думал, что обломать мои планы на Лизу никак тебе не аукнутся?"
     Eric_14 "Beh, non fermarti a correre guadagna! Pagherai con una settimana di anticipo, quindi in una settimana mi aspetto che tu raddoppi l'importo. O pensavi che non ti sarebbe stata data una pausa dei miei piani per Lisa?"
 
-# game/events/eric.rpy:1991
+# game/events/eric.rpy:1992
 translate italian eric_about_practice_war_1cacd8b8:
 
     # Max_15 "Я постараюсь достать деньги. Но смотри... Если всё равно будешь лезть к Лизе..."
     Max_15 "cercherò di ottenere i soldi. Ma guarda... Se sali ancora a Lisa..."
 
-# game/events/eric.rpy:1993
+# game/events/eric.rpy:1994
 translate italian eric_about_practice_war_14f657ad:
 
     # Eric_01 "Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
     Eric_01 "Finché paghi, Max, e non mi dai sui nervi, non mi importa di Lisa. Quindi non fatevi prendere dalla smania, o ve ne darò un paio di centinaia! Vattene da qui. Ci vediamo tra una settimana." nointeract
 
-# game/events/eric.rpy:1999
+# game/events/eric.rpy:2000
 translate italian eric_about_practice_war_7fade9dd_1:
 
     # Eric_14 "Ну так не стой и беги зарабатывай! Ты будешь платить за неделю вперёд, так что через неделю я жду от тебя удвоенную сумму. Или ты думал, что обломать мои планы на Лизу никак тебе не аукнутся?"
     Eric_14 "Beh, non fermarti a correre guadagna! Pagherai con una settimana di anticipo, quindi in una settimana mi aspetto che tu raddoppi l'importo. O pensavi che non ti sarebbe stata data una pausa dei miei piani per Lisa?"
 
-# game/events/eric.rpy:2000
+# game/events/eric.rpy:2001
 translate italian eric_about_practice_war_315c5c07:
 
     # Max_09 "Значит, если я достану деньги, то ты больше не полезешь к Лизе?"
     Max_09 "Quindi se ottengo i soldi, non andrai più da Lisa?"
 
-# game/events/eric.rpy:2001
+# game/events/eric.rpy:2002
 translate italian eric_about_practice_war_51da6fda:
 
     # Eric_05 "По крайней мере в ближайшие две недели, за которые ты мне и заплатишь. Но и ты не станешь мешать мне в моих планах на остальных дамочек в этом доме."
     Eric_05 "non arriverò più a Lisa. Almeno nella prossima settimana, per la quale mi pagherai. Ma non interferirai con i miei piani per il resto delle signore in questa casa."
 
-# game/events/eric.rpy:2002
+# game/events/eric.rpy:2003
 translate italian eric_about_practice_war_1cacd8b8_1:
 
     # Max_15 "Я постараюсь достать деньги. Но смотри... Если всё равно будешь лезть к Лизе..."
     Max_15 "cercherò di ottenere i soldi. Ma guarda... Se sali ancora a Lisa..."
 
-# game/events/eric.rpy:2004
+# game/events/eric.rpy:2005
 translate italian eric_about_practice_war_14f657ad_1:
 
     # Eric_01 "Ты лучше беги зарабатывай, а не выёживайся тут, а то накину пару сотен! Вали давай. Жду через неделю." nointeract
     Eric_01 "Finché paghi, Max, e non mi dai sui nervi, non mi importa di Lisa. Quindi non fatevi prendere dalla smania, o ve ne darò un paio di centinaia! Vattene da qui. Ci vediamo tra una settimana." nointeract
 
-# game/events/eric.rpy:2018
+# game/events/eric.rpy:2020
 translate italian lisa_eric_zero_practice_war_6f687e90:
 
     # Max_07 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Надо обязательно подглядеть за этим! Правда, она попросила помыть за неё посуду...{/m}" nointeract
     Max_07 "{m}Lisa sta per avere una lezione pratica di educazione sessuale. Dovremmo assolutamente spiarlo! Davvero, mi ha chiesto di fare i piatti per lei...{/m}" nointeract
 
-# game/events/eric.rpy:2021
+# game/events/eric.rpy:2023
 translate italian lisa_eric_zero_practice_war_026ddd2f:
 
     # Max_07 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Надо обязательно подглядеть за этим, ведь это такое волнительное событие будет для моей сестрёнки! Правда, она попросила помыть за неё посуду...{/m}" nointeract
     Max_07 "{m}Lisa sta per avere una lezione pratica di educazione sessuale. Devo guardarlo, perché sarà molto emozionante per mia sorella! Solo che mi ha chiesto di lavare i piatti per lei...{/m}" nointeract
 
-# game/events/eric.rpy:2024
+# game/events/eric.rpy:2026
 translate italian lisa_eric_zero_practice_war_2dcab8b5:
 
     # Max_09 "{m}У Лизы сейчас должен состояться практический урок сексуального воспитания. Я должен проследить, чтобы моя младшая и наивная сестрёнка не перешла все границы! Она просила не мешать, а ещё лучше помыть за неё посуду...{/m}" nointeract
     Max_09 "{m}Lisa dovrebbe ora avere una lezione pratica di educazione sessuale. Devo assicurarmi che mia sorella minore e ingenua non attraversi tutti i confini! Ha chiesto di non interferire, e ancora meglio di lavare i piatti per lei ... {/m}" nointeract
 
-# game/events/eric.rpy:2037
+# game/events/eric.rpy:2039
 translate italian lisa_eric_zero_practice_war_d2275465:
 
     # Max_10 "{m}Нужно как можно быстрее вымыть всю посуду и бежать к своей комнате, не зазря же я выпросил у Эрика возможность подглядывать за их уроками. Ну вот и закончил...{/m}" nointeract
     Max_10 "{m}Ho dovuto lavare tutti i piatti il più velocemente possibile e correre in camera mia, perché avevo chiesto a Eric di assistere alle loro lezioni per un motivo. Ecco fatto...{/m}" nointeract
 
-# game/events/eric.rpy:2040
+# game/events/eric.rpy:2042
 translate italian lisa_eric_zero_practice_war_86a0b856:
 
     # Max_10 "{m}Нужно как можно быстрее вымыть всю посуду и бежать к своей комнате, а то Эрик может запустить свои грязные руки... А скорее всего даже не руки! Ну вот и закончил...{/m}" nointeract
     Max_10 "{m}Devi lavare tutti i piatti il più velocemente possibile e correre nella tua stanza, a parte Eric può correre le sue mani sporche ... E molto probabilmente nemmeno le mani! Beh, ho finito... {/m}" nointeract
 
-# game/events/eric.rpy:2062
+# game/events/eric.rpy:2064
 translate italian lisa_eric_zero_practice_war_36c2b900:
 
     # Max_11 "{m}Посуду лучше всё-таки помыть, а то Лиза вообще со мной ещё не скоро начнёт разговаривать...{/m}"
     Max_11 "{m}è meglio lavare i piatti dopo tutto, a parte Lisa non inizierà a parlarmi presto... {/m}"
 
-# game/events/eric.rpy:2079
+# game/events/eric.rpy:2081
 translate italian start_eric_wallet_c1ca5e1e:
 
     # Eric_00 "Было вкусно! Но прежде, чем мы разойдёмся, я бы хотел кое о чём рассказать... Это очень важно и отнеситесь к моим словам серьёзно!"
     Eric_00 "Era delizioso! Ma prima di andare, c'è qualcosa che vorrei dire... È molto importante e prendete sul serio le mie parole!"
 
-# game/events/eric.rpy:2080
+# game/events/eric.rpy:2082
 translate italian start_eric_wallet_a9a3d262:
 
     # Max_09 "Можно я пойду, а мне потом Лиза это расскажет?"
     Max_09 "Posso andare e Lisa può dirmelo dopo?"
 
-# game/events/eric.rpy:2081
+# game/events/eric.rpy:2083
 translate italian start_eric_wallet_6a754288:
 
     # Ann_12 "Макс! Тебя это тоже касается. Точнее, именно тебя это и касается. Но пусть всё скажет Эрик..."
     Ann_12 "Max! Questo riguarda anche te. O meglio, ti riguarda. Ma lasciamo parlare Eric..."
 
-# game/events/eric.rpy:2082
+# game/events/eric.rpy:2084
 translate italian start_eric_wallet_8deadb4d:
 
     # Max_07 "Опять какую-то фигню придумали?"
     Max_07 "Hanno di nuovo inventato qualche stronzata?"
 
-# game/events/eric.rpy:2083
+# game/events/eric.rpy:2085
 translate italian start_eric_wallet_630fb780:
 
     # Eric_09 "Что-то ты очень весел, Макс, для того, кто украл мой бумажник..."
     Eric_09 "Sei molto divertente, Max, per essere uno che mi ha rubato il portafoglio..."
 
-# game/events/eric.rpy:2084
+# game/events/eric.rpy:2086
 translate italian start_eric_wallet_fea122b6:
 
     # Max_08 "Что? Ничего я не крал!"
     Max_08 "Cosa? Non ho rubato niente!"
 
-# game/events/eric.rpy:2085
+# game/events/eric.rpy:2087
 translate italian start_eric_wallet_01db12a6:
 
     # Ann_17 "Макс! У Эрика есть обоснованные подозрения и просто так такими обвинениями он бросаться не станет. Так что, давай не прикидывайся дурачком. Пока не поздно, нужно всё уладить."
     Ann_17 "Max! Eric ha un ragionevole sospetto e non ha intenzione di lanciare accuse del genere. Quindi non fare il finto tonto con me. Prima che sia troppo tardi, dobbiamo risolvere la questione."
 
-# game/events/eric.rpy:2086
+# game/events/eric.rpy:2088
 translate italian start_eric_wallet_8c91f040:
 
     # Max_10 "Что уладить? Я ничего не брал!"
     Max_10 "Sistemare cosa? Non ho preso niente!"
 
-# game/events/eric.rpy:2087
+# game/events/eric.rpy:2089
 translate italian start_eric_wallet_074415cb:
 
     # Eric_13 "Именно это и сказал бы вор! В общем, в бумажнике было $ 25 000 и теперь ты должен их вернуть. Я даю тебе неделю... Как только это время истечёт, мы повторим этот разговор на этом месте и если ты не вернёшь деньги, то точно отправишься в военный лагерь. Всё понял?"
     Eric_13 "È esattamente quello che direbbe il ladro! Comunque, c'erano 25.000 dollari nel portafoglio e ora devi restituirli. Ti do una settimana... Non appena il tempo sarà scaduto, ripeteremo questa conversazione in questo luogo e se non restituisci i soldi, andrai di sicuro in un campo militare. Hai capito?"
 
-# game/events/eric.rpy:2088
+# game/events/eric.rpy:2090
 translate italian start_eric_wallet_bb073fbf:
 
     # Max_15 "Ты эту сумму с потолка взял?! А почему не миллион или миллиард?"
     Max_15 "Hai preso quella cifra dal soffitto?! Perché non un milione o un miliardo?"
 
-# game/events/eric.rpy:2089
+# game/events/eric.rpy:2091
 translate italian start_eric_wallet_970e5f65:
 
     # Ann_16 "Макс! Ты как со взрослыми разговариваешь? Если Эрик говорит, значит точно уверен в твоей виновности. Так что, давай без истерик!"
     Ann_16 "Max! Come si fa a parlare con gli adulti? Se Eric lo dice, significa che è sicuro che sei colpevole. Quindi non diventiamo isterici!"
 
-# game/events/eric.rpy:2090
+# game/events/eric.rpy:2092
 translate italian start_eric_wallet_cf89d297:
 
     # Max_16 "Так, а какие у него доказательства? Он же врёт!"
     Max_16 "Quindi quali prove ha? Sta mentendo!"
 
-# game/events/eric.rpy:2091
+# game/events/eric.rpy:2093
 translate italian start_eric_wallet_eed33a57:
 
     # Eric_14 "Ну а кто тут у нас ещё девочек разными подарками задаривает? Если прикинуть, то сумма уже приличная набегает... Или хочешь сказать, что ты в интернете столько умудряешься зарабатывать? В таком случае покажи нам, чем ты там занимаешься!"
     Eric_14 "Beh, chi altro sta dando alle ragazze tutti i tipi di regali? Se ci pensate, sono un sacco di soldi... O mi stai dicendo che fai così tanti soldi su internet? In questo caso, mostraci cosa stai facendo!"
 
-# game/events/eric.rpy:2092
+# game/events/eric.rpy:2094
 translate italian start_eric_wallet_4520c649:
 
     # Max_10 "Нет, там ничего особенного... Так, просто халтурка."
     Max_10 "No, non è niente di speciale... È solo un po' di lavoro di fantasia."
 
-# game/events/eric.rpy:2093
+# game/events/eric.rpy:2095
 translate italian start_eric_wallet_75289435:
 
     # Eric_09 "Мой бумажник пропал ещё давно и именно здесь. Я об этом ничего не говорил, потому что хотел посмотреть, у кого и что начнёт появляться. Так что это ты, Макс! Без вариантов! И сумма, которую я прошу вернуть, названа уже с примерным вычетом того, что ты потратил."
     Eric_09 "Il mio portafoglio è scomparso molto tempo fa ed è lì che si trova. Non ho detto nulla perché volevo vedere chi e cosa avrebbe iniziato a comparire. Allora sei tu, Max! Impossibile! E l'importo che chiedo indietro è già stato dato con una deduzione approssimativa di quello che avete speso."
 
-# game/events/eric.rpy:2094
+# game/events/eric.rpy:2096
 translate italian start_eric_wallet_424e7e6c:
 
     # Max_17 "Мам!!! Меня подставляют!"
     Max_17 "Mamma!!! Mi stanno incastrando!"
 
-# game/events/eric.rpy:2095
+# game/events/eric.rpy:2097
 translate italian start_eric_wallet_1833e925:
 
     # Ann_18 "Всё, Макс. Мне это надоело! Твоё слово против слова Эрика. И поверь, у тебя нет шансов. Так что, признайся и верни то, что он просит. Больше я ничего слышать не хочу. Закончили!"
     Ann_18 "Questo è tutto, Max. Sono stufo di tutto questo! È la tua parola contro quella di Eric. E credetemi, non avete alcuna possibilità. Perciò, confessa e ridammi quello che ti ha chiesto. Non voglio sentire altro. Abbiamo finito!"
 
-# game/events/eric.rpy:2096
+# game/events/eric.rpy:2098
 translate italian start_eric_wallet_40074965:
 
     # Max_11 "Да как так-то?!"
     Max_11 "Come può essere?!"
 
-# game/events/eric.rpy:2137
+# game/events/eric.rpy:2139
 translate italian start_eric_wallet_aaaab0c1:
 
     # Eric_01 "Ты уж извини... Такое следовало бы решить с глазу на глаз, но я решил, что твоя семья должна знать, что ты за человек."
     Eric_01 "Mi dispiace... Questo avrebbe dovuto essere risolto faccia a faccia, ma ho pensato che la tua famiglia dovesse sapere che tipo di uomo sei."
 
-# game/events/eric.rpy:2138
+# game/events/eric.rpy:2140
 translate italian start_eric_wallet_a0a5454a:
 
     # Max_15 "Я не брал твои деньги! Как это всё понимать?!"
     Max_15 "Non ho preso i tuoi soldi! Di cosa si tratta?!"
 
-# game/events/eric.rpy:2139
+# game/events/eric.rpy:2141
 translate italian start_eric_wallet_11bfa182:
 
     # Eric_03 "Не знаю, не знаю... Мне вот кажется, что брал! И предлагаю тебе их вернуть при всех, перед ужином. Теперь веришь, что я могу создавать проблемы?"
     Eric_03 "Non lo so, non lo so... Penso di averlo fatto! E ti consiglio di restituirli davanti a tutti, prima di cena. Ora credi che io possa causare problemi?"
 
-# game/events/eric.rpy:2140
+# game/events/eric.rpy:2142
 translate italian start_eric_wallet_8132910c:
 
     # Max_16 "Да пошёл ты..."
     Max_16 "Sì, vai..."
 
-# game/events/eric.rpy:2145
+# game/events/eric.rpy:2148
 translate italian start_eric_wallet_7db38010:
 
     # Max_09 "{m}Ну всё! Он меня достал! Так позорить меня перед всеми... Даже если я дам ему деньги, то все уже на 100%% будут считать меня вором и обманщиком. А значит пришло время избавляться от Эрика!{/m}"
     Max_09 "{m}Questo è tutto! Sono stufo di lui! Farmi vergognare così davanti a tutti... Anche se gli do i soldi, tutti penseranno che sono al 100%% un ladro e un imbroglione. Il che significa che è il momento di sbarazzarsi di Eric!{/m}"
 
-# game/events/eric.rpy:2148
+# game/events/eric.rpy:2151
 translate italian start_eric_wallet_53c2a5c1:
 
     # Max_07 "{m}Итак, у меня есть две фотографии, как Эрик дрочит... И на одной из них даже видно на кого! Но чтобы не облажаться, лучше никому не показывать эти фотографии, по крайней мере пока. Мои сёстры наверняка уже не на моей стороне, а потому увидев эти снимки, запросто могут меня сдать и как вы думаете кому... Да, сраному Эрику!{/m}"
     Max_07 "{m}Allora, ho due foto di Eric che si masturba... E si può anche vedere chi in uno di essi! Ma per non sbagliare, è meglio che non mostri queste foto a nessuno, almeno non ancora. Le mie sorelle probabilmente non sono più dalla mia parte, quindi quando vedranno queste foto potrebbero denunciarmi, e chi pensate che... Sì, al fottuto Eric!{/m}"
 
-# game/events/eric.rpy:2152
+# game/events/eric.rpy:2155
 translate italian start_eric_wallet_93fe8bc0:
 
     # Max_07 "{m}И так, у меня есть фотография, как Эрик дрочит... Но вряд ли этот снимок поможет переманить сестёр на мою сторону. Уж слишком там всё сомнительно на снимке.{/m}"
     Max_07 "{m}Allora, ho una foto di Eric che si fa una sega... Ma non credo che quella foto porterà le mie sorelle dalla mia parte. È troppo discutibile nella foto.{/m}"
 
-# game/events/eric.rpy:2156
+# game/events/eric.rpy:2159
 translate italian start_eric_wallet_e75cd485:
 
     # Max_07 "{m}Вот только у меня абсолютно ничего нет против него! И сестёр я теперь вряд ли переманю на свою сторону, чтобы они меня поддержали перед мамой.{/m}"
     Max_07 "{m}Solo che non ho assolutamente nulla contro di lui! E non è probabile che le mie sorelle si schierino dalla mia parte ora, che mi sostengano di fronte a mia madre.{/m}"
 
-# game/events/eric.rpy:2158
+# game/events/eric.rpy:2161
 translate italian start_eric_wallet_21b8e72f:
 
     # Max_14 "{m}Для начала, мне стоит попробовать поговорить с ними, чтобы понять, насколько всё плохо и есть ли у меня шансы выправить отношения с ними...{/m}"
     Max_14 "{m}Per cominciare, dovrei provare a parlare con loro per vedere quanto è grave e se ho qualche possibilità di sistemare le cose con loro...{/m}"
 
-# game/events/eric.rpy:2171
+# game/events/eric.rpy:2174
 translate italian eric_kira_night_swim_a236de17:
 
     # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать." nointeract
@@ -3155,23 +3155,23 @@ translate italian eric_kira_night_swim_a236de17:
     old "А если у меня нет таких денег?"
     new "Cosa succede se non ho quei soldi?"
 
-    # game/events/eric.rpy:1975
+    # game/events/eric.rpy:1976
     old "{i}принести Эрику деньги{/i}"
     new "{i}portare soldi a Eric{/i}"
 
-    # game/events/eric.rpy:2025
+    # game/events/eric.rpy:2027
     old "{i}сперва помыть посуду, а затем проследить{/i}"
     new "{i}lavare prima i piatti e poi seguire{/i}"
 
-    # game/events/eric.rpy:2025
+    # game/events/eric.rpy:2027
     old "{i}проследить сразу{/i}"
     new "{i}seguire immediatamente{/i}"
 
-    # game/events/eric.rpy:2041
+    # game/events/eric.rpy:2043
     old "{i}быстрее смотреть, что делают Лиза и Эрик{/i}"
     new "{i}vedere cosa stanno facendo Lisa ed Eric più velocemente{/i}"
 
-    # game/events/eric.rpy:2131
+    # game/events/eric.rpy:2133
     old "{r}Отношения Макса с семьёй значительно ухудшились. Они расстроены и не доверяют ему.{/r}"
     new "{r}Il rapporto di Max con la sua famiglia si è notevolmente deteriorato. Sono sconvolti e non si fidano di lui.{/r}"
 

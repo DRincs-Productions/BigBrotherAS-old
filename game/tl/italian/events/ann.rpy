@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-07-09 12:49
+# TODO: Translation updated at 2022-09-25 19:46
 
 # game/events/ann.rpy:11
 translate italian ann_sleep_6173ff68:
@@ -1128,301 +1128,301 @@ translate italian ann_dressed_balkon_talk2_59d69cc0:
     # Ann_01 "Обязательно!" nointeract
     Ann_01 "Assolutamente!" nointeract
 
-# game/events/ann.rpy:832
+# game/events/ann.rpy:833
 translate italian ann_dressed_balkon_talk2_1f418bf5:
 
     # Max_09 "{m}Смущают её мои прикосновения... Ясно. Значит, нужно больше прикасаться тогда, когда это максимально естественно, чтобы она привыкла. Пожалуй, йога - то, что нужно! Стоит попробовать...{/m}"
     Max_09 "{m}È imbarazzata dal mio tocco... Capisco. Quindi devo toccare di più quando è il più naturale possibile, per abituarla. Credo che lo yoga sia la via da seguire! Vale la pena provare...{/m}"
 
-# game/events/ann.rpy:841
+# game/events/ann.rpy:842
 translate italian ann_dressed_balkon_r_4897a021:
 
     # Ann_02 "Ой, Макс! Как ты так тихо подкрадываешься? Да, любуюсь... А ты почему без дела слоняешься?" nointeract
     Ann_02 "Oh, Max! Come puoi arrivare di soppiatto in questo modo? Sì, sto solo ammirando... Cosa stai facendo fuori?" nointeract
 
-# game/events/ann.rpy:844
+# game/events/ann.rpy:845
 translate italian ann_dressed_balkon_r_0a883de4:
 
     # Ann_01 "Не то, чтобы мешаешь... Иди лучше чем-нибудь продуктивным займись. Маме пока некогда."
     Ann_01 "Non che tu sia d'intralcio... È meglio che tu vada a fare qualcosa di produttivo. La mamma non ha ancora tempo per questo."
 
-# game/events/ann.rpy:845
+# game/events/ann.rpy:846
 translate italian ann_dressed_balkon_r_58738e49:
 
     # Max_00 "Ладно, не буду мешать." nointeract
     Max_00 "Va bene, vi lascio." nointeract
 
-# game/events/ann.rpy:851
+# game/events/ann.rpy:852
 translate italian ann_dressed_balkon_r_2280510e:
 
     # Ann_04 "Нет. Побудь, если хочется. Я не против." nointeract
     Ann_04 "No. Resta se vuoi. Non mi dispiace." nointeract
 
-# game/events/ann.rpy:858
+# game/events/ann.rpy:859
 translate italian ann_dressed_balkon_r_119f09c9:
 
     # Ann_02 "Как у тебя дела, Макс? Всё хорошо?"
     Ann_02 "Come va, Max? Stai bene?"
 
-# game/events/ann.rpy:859
+# game/events/ann.rpy:860
 translate italian ann_dressed_balkon_r_ca3ee871:
 
     # Max_04 "Да, порядок. А ты как? Не скучаешь?"
     Max_04 "Sì, è tutto a posto. E tu? Non si annoia?"
 
-# game/events/ann.rpy:860
+# game/events/ann.rpy:861
 translate italian ann_dressed_balkon_r_7fdac7ed:
 
     # Ann_05 "Ох, сынок, с вами разве заскучаешь. Да и на работе дел хватает." nointeract
     Ann_05 "Oh, figliolo, con te non ci si annoia mai. C'è molto da fare anche al lavoro." nointeract
 
-# game/events/ann.rpy:865
+# game/events/ann.rpy:866
 translate italian ann_dressed_balkon_r_55550510:
 
     # Max_07 "Ты, мам, побольше отдыхать не забывай."
     Max_07 "Non dimenticare di riposare di più, mamma."
 
-# game/events/ann.rpy:866
+# game/events/ann.rpy:867
 translate italian ann_dressed_balkon_r_081cb55f:
 
     # Ann_07 "Это я и делаю сейчас. А ты давай беги, займись чем-нибудь полезным."
     Ann_07 "È quello che sto facendo ora. Corri a fare qualcosa di utile."
 
-# game/events/ann.rpy:877
+# game/events/ann.rpy:878
 translate italian ann_dressed_balkon_r_a9420db7:
 
     # Max_07 "Ты, мам, побольше отдыхать не забывай. У нас слишком прекрасный дом, чтобы грустить."
     Max_07 "Non dimenticare di riposare di più, mamma. Abbiamo una casa troppo bella per essere tristi."
 
-# game/events/ann.rpy:878
+# game/events/ann.rpy:879
 translate italian ann_dressed_balkon_r_874166e7:
 
     # Ann_08 "Да, здесь здорово! Маленький рай. Ты зашёл меня просто вот так подбодрить?"
     Ann_08 "Sì, è fantastico qui! Un piccolo paradiso. Sei venuto solo per tirarmi su di morale?"
 
-# game/events/ann.rpy:882
+# game/events/ann.rpy:883
 translate italian ann_dressed_balkon_r_6b6b7f92:
 
     # Max_02 "Ну, да. Хотел напомнить, что я всегда рядом."
     Max_02 "Beh, sì. Volevo solo ricordarvi che sono sempre in giro."
 
-# game/events/ann.rpy:883
+# game/events/ann.rpy:884
 translate italian ann_dressed_balkon_r_680063a0:
 
     # Ann_07 "Спасибо, но лучше беги, займись чем-нибудь полезным. У меня всё в порядке."
     Ann_07 "Grazie, ma è meglio che tu vada a fare qualcosa di utile. Sto bene."
 
-# game/events/ann.rpy:891
+# game/events/ann.rpy:892
 translate italian ann_dressed_balkon_r_0cc8bfb1:
 
     # Max_03 "Ладно, не буду отвлекать. Я тебя люблю, мам!"
     Max_03 "Ok, non voglio interrompere. Ti voglio bene, mamma!"
 
-# game/events/ann.rpy:892
+# game/events/ann.rpy:893
 translate italian ann_dressed_balkon_r_dfe00014:
 
     # Ann_06 "Я тебя тоже, сынок." nointeract
     Ann_06 "Anche tu, figliolo." nointeract
 
-# game/events/ann.rpy:981
+# game/events/ann.rpy:982
 translate italian ann_bath_fc2b25dc:
 
     # Max_00 "{m}Видимо, мама принимает ванну...{/m}" nointeract
     Max_00 "{m}A quanto pare, la mamma sta facendo il bagno...{/m}" nointeract
 
-# game/events/ann.rpy:991
+# game/events/ann.rpy:992
 translate italian ann_bath_9d03c202:
 
     # Max_00 "{m}Эх... жаль, что стекло частично матовое. Так ничего не разглядеть! А если подобраться ближе, то мама может заметить...{/m}"
     Max_00 "{m}Eh... Peccato che il vetro sia parzialmente smerigliato. Non si vede niente! E se ti avvicini, la mamma potrebbe vedere...{/m}"
 
-# game/events/ann.rpy:993
+# game/events/ann.rpy:994
 translate italian ann_bath_7fffd1ec:
 
     # Max_09 "{m}Нужно что-нибудь придумать...{/m}" nointeract
     Max_09 "{m}Dobbiamo pensare a qualcosa...{/m}" nointeract
 
-# game/events/ann.rpy:1000
+# game/events/ann.rpy:1001
 translate italian ann_bath_4a929722:
 
     # Max_01 "{m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
     Max_01 "{m}Spero che nessuno si stia chiedendo cosa ci faccia qui la scaletta... Cosa, cosa? Certo che lo è, non si sa mai! E ora arriva la parte divertente...{/m}"
 
-# game/events/ann.rpy:1012
+# game/events/ann.rpy:1013
 translate italian ann_bath_ladder_76e8b72b:
 
     # Max_04 "{m}Посмотрим, что у нас тут...{/m}"
     Max_04 "{m}Vediamo cosa abbiamo qui...{/m}"
 
-# game/events/ann.rpy:1022
+# game/events/ann.rpy:1023
 translate italian ann_bath_ladder_3a5db899:
 
     # Max_03 "{m}Ох, как горячо! Разумеется, я не про воду, а про её внешний вид. Ухх... Мама потрясающе выглядит...{/m}" nointeract
     Max_03 "{m}Oh, è così caldo! Naturalmente, non sto parlando dell'acqua, ma del suo aspetto. Uh... La mamma ha un aspetto fantastico...{/m}" nointeract
 
-# game/events/ann.rpy:1028
+# game/events/ann.rpy:1029
 translate italian ann_bath_ladder_b37e9fe1:
 
     # Max_05 "{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}" nointeract
     Max_05 "{m}Wow, è ipnotizzante! Il trattamento dell'acqua della mamma rivaleggia con i video erotici più caldi! Quei seni sodi e quelle gambe lunghe e snelle faranno impazzire chiunque...{/m}" nointeract
 
-# game/events/ann.rpy:1037
+# game/events/ann.rpy:1038
 translate italian ann_bath_ladder_b37e9fe1_1:
 
     # Max_05 "{m}Ух ты, аж завораживает! Мамины водные процедуры могут посоперничать с самыми горячими эротическими роликами! Эта упругая грудь и эти длинные стройные ножки сведут с ума кого угодно...{/m}" nointeract
     Max_05 "{m}Wow, è ipnotizzante! Il trattamento dell'acqua della mamma rivaleggia con i video erotici più caldi! Quei seni sodi e quelle gambe lunghe e snelle faranno impazzire chiunque...{/m}" nointeract
 
-# game/events/ann.rpy:1043
+# game/events/ann.rpy:1044
 translate italian ann_bath_ladder_87fd27ff:
 
     # Max_07 "{m}Эх! Похоже, самое интересное закончилось... Хотя, смотреть как мама вытирает своё мокрое и соблазнительное тело не менее приятно! Ох, какая же у неё попка...{/m}" nointeract
     Max_07 "{m}Eh! Sembra che la parte divertente sia finita... Anche se guardare la mamma che pulisce il suo corpo bagnato e seducente è altrettanto soddisfacente! Oh, che culo che ha...{/m}" nointeract
 
-# game/events/ann.rpy:1052
+# game/events/ann.rpy:1053
 translate italian ann_bath_about_intime_0_3aa93926:
 
     # Ann "{b}Анна:{/b} Кто там? Я принимаю ванну!"
     Ann "{b}Анна:{/b} Chi c'è? Faccio il bagno!"
 
-# game/events/ann.rpy:1053
+# game/events/ann.rpy:1054
 translate italian ann_bath_about_intime_0_006aa2f9:
 
     # Max_07 "Это я, Макс. Можно войти?"
     Max_07 "Sono io, Max. Posso entrare?"
 
-# game/events/ann.rpy:1054
+# game/events/ann.rpy:1055
 translate italian ann_bath_about_intime_0_765e20f4:
 
     # Ann "{b}Анна:{/b} Зачем, дорогой? Тебе что-то нужно?"
     Ann "{b}Ann:{/b} Perché, tesoro? Hai bisogno di qualcosa?"
 
-# game/events/ann.rpy:1055
+# game/events/ann.rpy:1056
 translate italian ann_bath_about_intime_0_cc4bed10:
 
     # Max_09 "Да, мам. Хотел поговорить."
     Max_09 "Sì, mamma. Volevo parlare."
 
-# game/events/ann.rpy:1056
+# game/events/ann.rpy:1057
 translate italian ann_bath_about_intime_0_a05b810e:
 
     # Ann "{b}Анна:{/b} Если это может подождать, то я через полчасика освобожусь..." nointeract
     Ann "{b}Анна:{/b} Se può aspettare, sarò fuori tra mezz'ora..." nointeract
 
-# game/events/ann.rpy:1072
+# game/events/ann.rpy:1073
 translate italian ann_bath_about_intime_0_53cc7aca:
 
     # Ann_15 "Макс! Ты почему так нагло врываешься! Я же сказала, что скоро освобожусь! Не мог подождать?"
     Ann_15 "Max! Perché hai la faccia tosta di intrometterti! Ti avevo detto che sarei uscito presto! Non potevi aspettare?"
 
-# game/events/ann.rpy:1073
+# game/events/ann.rpy:1074
 translate italian ann_bath_about_intime_0_1af3858f:
 
     # Max_08 "Нет, нужно кое-что обсудить, пока ты здесь."
     Max_08 "No, c'è qualcosa da discutere mentre sei qui."
 
-# game/events/ann.rpy:1078
+# game/events/ann.rpy:1079
 translate italian ann_bath_about_intime_0_01bf0619:
 
     # Ann_14 "И что там у тебя такого срочного?!"
     Ann_14 "Cosa c'è di così urgente?!"
 
-# game/events/ann.rpy:1079
+# game/events/ann.rpy:1080
 translate italian ann_bath_about_intime_0_a34fa2a4:
 
     # Max_07 "Хотел поговорить о девочках!"
     Max_07 "Volevo parlare di ragazze!"
 
-# game/events/ann.rpy:1080
+# game/events/ann.rpy:1081
 translate italian ann_bath_about_intime_0_197357cf:
 
     # Ann_17 "И ты считаешь, что это настолько важно, что кроме как здесь об этом говорить нельзя, да?"
     Ann_17 "E pensi che sia così importante da non poterne parlare se non qui, vero?"
 
-# game/events/ann.rpy:1081
+# game/events/ann.rpy:1082
 translate italian ann_bath_about_intime_0_7db297d2:
 
     # Max_01 "Ну... Не просто о девочках, а том, как им... делать приятно... там, внизу..."
     Max_01 "Bene... Non solo sulle ragazze, ma su come farle... facendoli sentire bene... laggiù..."
 
-# game/events/ann.rpy:1082
+# game/events/ann.rpy:1083
 translate italian ann_bath_about_intime_0_28faf8d1:
 
     # Ann_02 "Вот это вопросы у тебя, Макс! А что, у тебя девочка появилась?"
     Ann_02 "Che domande che hai, Max! Perché, hai una ragazza?"
 
-# game/events/ann.rpy:1083
+# game/events/ann.rpy:1084
 translate italian ann_bath_about_intime_0_4dd2948d:
 
     # Max_07 "Ещё нет, но появится же. А я хочу быть готовым! Вы мне с Эриком показали на тех уроках, как себя вести, если женщина... так сказать, ласкает мужчину, а вот как ласкать женщин - нет."
     Max_07 "Non ancora, ma arriverà. E voglio essere pronto! Tu ed Eric mi avete mostrato in quel corso come comportarsi quando una donna... per così dire, accarezza un uomo, ma come accarezzare le donne no."
 
-# game/events/ann.rpy:1084
+# game/events/ann.rpy:1085
 translate italian ann_bath_about_intime_0_435b556c:
 
     # Ann_14 "Ой, сынок, какие же это неудобные вопросы! Я всё ещё до конца не могу осознать, что ты уже почти взрослый."
     Ann_14 "Oh, figliolo, che domande scomode sono queste! Non riesco ancora ad afferrare il fatto che sei quasi un adulto."
 
-# game/events/ann.rpy:1085
+# game/events/ann.rpy:1086
 translate italian ann_bath_about_intime_0_b912cfb2:
 
     # Max_09 "Пора бы уже осознать, мам! И уроки ваши, какие-то односторонние. Как-то неправильно."
     Max_09 "Era ora che te ne rendessi conto, mamma! E le sue lezioni sono un po' unilaterali. Non mi sembra giusto."
 
-# game/events/ann.rpy:1086
+# game/events/ann.rpy:1087
 translate italian ann_bath_about_intime_0_24e945aa:
 
     # Ann_13 "Ну... Что-то я даже не знаю..."
     Ann_13 "Bene... Qualcosa che non conosco nemmeno..."
 
-# game/events/ann.rpy:1092
+# game/events/ann.rpy:1093
 translate italian ann_bath_about_intime_0_acd6b1b2:
 
     # Max_07 "Да ладно, я же уже такое видел с вами на тех уроках..."
     Max_07 "Dai, l'ho già visto con te in quelle classi..."
 
-# game/events/ann.rpy:1093
+# game/events/ann.rpy:1094
 translate italian ann_bath_about_intime_0_fdfa6acb:
 
     # Ann_12 "Ой, Макс, не напоминай. Это всё было исключительно для твоего... сексуального образования..."
     Ann_12 "Oh, Max, non ricordarmelo. Tutto questo era solo per il tuo... educazione sessuale..."
 
-# game/events/ann.rpy:1094
+# game/events/ann.rpy:1095
 translate italian ann_bath_about_intime_0_e2b46bea:
 
     # Max_08 "Так и это тоже для образования! Потому что я хочу не только получать ласку от девочек, но и давать её им. А это, как я понимаю, куда сложнее."
     Max_08 "Quindi è anche per l'educazione! Perché non voglio solo ricevere affetto dalle ragazze, ma anche darglielo. E questo, da quanto ho capito, è molto più difficile."
 
-# game/events/ann.rpy:1095
+# game/events/ann.rpy:1096
 translate italian ann_bath_about_intime_0_1f40fc0d:
 
     # Ann_13 "Ох, с учётом того, чему мы с Эриком уже тебя тогда научили, твоя просьба очень логична, сынок. Так что я поговорю об этом с Эриком..."
     Ann_13 "Oh, visto quello che io ed Eric ti abbiamo già insegnato, la tua richiesta è molto logica, figliolo. Quindi ne parlerò con Eric..."
 
-# game/events/ann.rpy:1096
+# game/events/ann.rpy:1097
 translate italian ann_bath_about_intime_0_ee64e187:
 
     # Max_10 "Нет, мам, я хочу только с тобой этому учиться!"
     Max_10 "No, mamma, voglio impararlo solo con te!"
 
-# game/events/ann.rpy:1097
+# game/events/ann.rpy:1098
 translate italian ann_bath_about_intime_0_bd74b95d:
 
     # Ann_17 "То есть, только со мной?! А Эрик тебе чем не угодил?"
     Ann_17 "Vuoi dire solo io?! Cosa c'è che non va in Eric?"
 
-# game/events/ann.rpy:1098
+# game/events/ann.rpy:1099
 translate italian ann_bath_about_intime_0_0314b6cd:
 
     # Max_09 "Мне кажется, он это... направление не особо любит. Мне же лучше, чтобы такому учила именно женщина, ведь вам виднее."
     Max_09 "Non credo che sia un... Non credo che gli piaccia molto questo genere di cose. Preferirei che lo insegnasse una donna, perché lei lo sa meglio di tutti."
 
-# game/events/ann.rpy:1099
+# game/events/ann.rpy:1100
 translate italian ann_bath_about_intime_0_ba4d6bb6:
 
     # Ann_12 "Виднее, конечно. Но без Эрика я даже не знаю... Не уверена... Ничего, если я подумаю об этом в более... комфортной обстановке?"
     Ann_12 "Più al punto, naturalmente. Ma senza Eric, non so nemmeno... Non sono sicuro... Va bene se ci penso in un ambiente più... confortevole?"
 
-# game/events/ann.rpy:1100
+# game/events/ann.rpy:1101
 translate italian ann_bath_about_intime_0_3a30664f:
 
     # Max_01 "Да, мам! Я не буду мешать, расслабляйся." nointeract
@@ -1485,7 +1485,7 @@ translate italian ann_bath_about_intime_0_3a30664f:
 
     # game/events/ann.rpy:479
     old "У тебя самые зачётные сиськи, которые я видел!"
-    new "You have the coolest tits I've ever seen!"
+    new "Hai le tette più belle che abbia mai visto!"
 
     # game/events/ann.rpy:479
     old "У тебя самый потрясный зад на свете, мам!"
@@ -1535,23 +1535,23 @@ translate italian ann_bath_about_intime_0_3a30664f:
     old "{i}приобнять маму за попку{/i}"
     new "{i}abbracciare il sedere di mia madre{/i}"
 
-    # game/events/ann.rpy:842
+    # game/events/ann.rpy:843
     old "А что, я мешаю?"
     new "Sono d'intralcio?"
 
-    # game/events/ann.rpy:842
+    # game/events/ann.rpy:843
     old "С тобой хотел побыть. Или я мешаю?"
     new "Volevo stare con te. O sono di troppo?"
 
-    # game/events/ann.rpy:852
+    # game/events/ann.rpy:853
     old "{i}приобнять маму{/i}"
     new "{i}abbraccio mamma{/i}"
 
-    # game/events/ann.rpy:861
+    # game/events/ann.rpy:862
     old "{i}продолжить обнимать{/i}"
     new "{i}continuare ad abbracciare{/i}"
 
-    # game/events/ann.rpy:1057
+    # game/events/ann.rpy:1058
     old "{i}войти{/i}"
     new "{i}accedi{/i}"
 

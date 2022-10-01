@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-07-09 12:49
+# TODO: Translation updated at 2022-09-25 19:46
 
 # game/events/kira.rpy:26
 translate french kira_bath_a64599ce:
@@ -4560,6 +4560,10 @@ translate french kira_bath_with_eric_56dad693:
     # game/events/kira.rpy:3064
     old "Я бы задержался, но нужно проверить, как там Алиса..."
     new "Je serais bien resté plus longtemps, mais je dois aller voir Alice..."
+
+    # game/events/kira.rpy:3138
+    old "{i}принести Алисе полотенце{/i}"
+    new ""
 
     # game/events/kira.rpy:3164
     old "Хочу грудью!"

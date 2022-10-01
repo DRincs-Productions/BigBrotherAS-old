@@ -1991,7 +1991,7 @@ translate italian dinner_lace_lingerie_e0b844ce:
 
     # game/dialogues/dinner.rpy:223
     old "Так чего жы ты такая бедная?"
-    new "Allora perché sei così povero?"
+    new "Allora perché sei così povera?"
 
     # game/dialogues/dinner.rpy:223
     old "И какой план?"
