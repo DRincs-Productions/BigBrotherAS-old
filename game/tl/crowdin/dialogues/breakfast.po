@@ -1298,7 +1298,7 @@ msgstr "[Max_01] Мы рядом, мам, это главное."
 msgid "[Ann_01] Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
 msgstr "[Ann_01] Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
 
-#§translate crowdin strings: #|#|# # game/dialogues/breakfast.rpy:13
+# §translate crowdin strings: #|#|# # game/dialogues/breakfast.rpy:13
 msgid "Конечно, мам..."
 msgstr "Конечно, мам..."
 

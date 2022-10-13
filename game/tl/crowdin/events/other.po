@@ -1022,7 +1022,7 @@ msgstr "[Max_10] {m}Ну вот, крем закончился. Надо ещё 
 msgid "[Max_08] {m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
 msgstr "[Max_08] {m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
 
-#§translate crowdin strings: #|#|# # game/events/other.rpy:10
+# §translate crowdin strings: #|#|# # game/events/other.rpy:10
 msgid "Удачи"
 msgstr "Удачи"
 

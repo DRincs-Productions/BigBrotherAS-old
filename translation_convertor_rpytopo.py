@@ -40,7 +40,7 @@ dict = {
     r':\n\nmsgid': r':\nmsgid',
     r'rpy:(.*?)\ntranslate': r'rpy:\1 #-#-# translate',
     r'strings:\n\n# ': r'strings: #|#|# # ',
-    r'\ntranslate': r'\n#§translate',
+    r'\ntranslate': r'\n# §translate',
     r'updated at (.*?)-(.*?)-(.*?) (.*?):(.*?)\n\n# ': r'updated at \1-\2-\3 \4:\5 #|#|# # ',
     r'(.*?)-(.*?)-(.*?) (.*?):(.*?)\n\n#§': r'\1-\2-\3 \4:\5 #|#|# #§',
     # end

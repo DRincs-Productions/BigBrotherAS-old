@@ -218,7 +218,7 @@ msgstr "[Max_02] {m}Вот и всё! С Кирой долго не продер
 msgid "[Max_09] {m}Через эту камеру никого не видно... Может посмотреть через другую?{/m}"
 msgstr "[Max_09] {m}Через эту камеру никого не видно... Может посмотреть через другую?{/m}"
 
-#§translate crowdin strings: #|#|# # game/events/kira_cam.rpy:425
+# §translate crowdin strings: #|#|# # game/events/kira_cam.rpy:425
 msgid "{i}встретить их{/i}"
 msgstr "{i}встретить их{/i}"
 

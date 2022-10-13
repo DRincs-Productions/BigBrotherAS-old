@@ -1366,7 +1366,7 @@ msgstr "[Max_01] Не за что, девчонки. Мне всё понрав�
 msgid "[Lisa_03] Других пожеланий я и не ожидала."
 msgstr "[Lisa_03] Других пожеланий я и не ожидала."
 
-#§translate crowdin strings: #|#|# # game/events/olivia.rpy:37
+# §translate crowdin strings: #|#|# # game/events/olivia.rpy:37
 msgid "{i}подсмотреть{/i}"
 msgstr "{i}подсмотреть{/i}"
 

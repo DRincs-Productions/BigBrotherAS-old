@@ -950,7 +950,7 @@ msgstr "[Ann_12] Виднее, конечно. Но без Эрика я даж�
 msgid "[Max_01] Да, мам! Я не буду мешать, расслабляйся. [nointeract]"
 msgstr "[Max_01] Да, мам! Я не буду мешать, расслабляйся. [nointeract]"
 
-#§translate crowdin strings: #|#|# # game/events/ann.rpy:215
+# §translate crowdin strings: #|#|# # game/events/ann.rpy:215
 msgid "{i}Отвернуться{/i}"
 msgstr "{i}Отвернуться{/i}"
 

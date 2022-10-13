@@ -7146,7 +7146,7 @@ msgstr "[Alice_06] Звучит очень заманчиво, но я пока 
 msgid "[Max_01] Конечно. Если что, зови."
 msgstr "[Max_01] Конечно. Если что, зови."
 
-#§translate crowdin strings: #|#|# # game/dialogues/alicetalk.rpy:25
+# §translate crowdin strings: #|#|# # game/dialogues/alicetalk.rpy:25
 msgid "{i}уйти{/i}"
 msgstr "{i}уйти{/i}"
 

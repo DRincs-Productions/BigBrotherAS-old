@@ -7058,7 +7058,7 @@ msgstr "[Lisa_02] [lisa_bad_kiss!t]Ухх... Было приятно, насто
 msgid "[Max_01] Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться. [nointeract]"
 msgstr "[Max_01] Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться. [nointeract]"
 
-#§translate crowdin strings: #|#|# # game/dialogues/lisatalk.rpy:78
+# §translate crowdin strings: #|#|# # game/dialogues/lisatalk.rpy:78
 msgid "Кажется, я передумал..."
 msgstr "Кажется, я передумал..."
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/01classes.rpy:699
+﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/01classes.rpy:699
 msgid "Ужасное"
 msgstr "Ужасное"
 

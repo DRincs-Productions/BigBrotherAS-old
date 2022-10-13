@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/screens.rpy:165
+﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/screens.rpy:165
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 msgstr "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
 

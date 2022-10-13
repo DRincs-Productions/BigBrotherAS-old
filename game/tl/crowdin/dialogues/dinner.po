@@ -1250,7 +1250,7 @@ msgstr "[Ann_04] Ну, я рада, что всё так сложилось. О�
 msgid "[Max_01] Пока, мам..."
 msgstr "[Max_01] Пока, мам..."
 
-#§translate crowdin strings: #|#|# # game/dialogues/dinner.rpy:75
+# §translate crowdin strings: #|#|# # game/dialogues/dinner.rpy:75
 msgid "Как скажешь, мам..."
 msgstr "Как скажешь, мам..."
 

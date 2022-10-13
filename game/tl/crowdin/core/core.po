@@ -46,7 +46,7 @@ msgstr "[Max_07] {m}Интересно, а в чём тётя Кира буде�
 msgid "ver [current_ver], _ver [_version], conf.ver [config.version]"
 msgstr "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
-#§translate crowdin strings: #|#|# # game/core/core.rpy:370
+# §translate crowdin strings: #|#|# # game/core/core.rpy:370
 msgid "В интернет-магазине доступен новый товар."
 msgstr "В интернет-магазине доступен новый товар."
 

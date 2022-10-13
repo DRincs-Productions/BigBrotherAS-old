@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/imagemaps.rpy:36
+﻿# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/imagemaps.rpy:36
 msgid "{i}искать под кроватью{/i}"
 msgstr "{i}искать под кроватью{/i}"
 
