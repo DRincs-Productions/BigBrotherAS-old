@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 11:52\n"
+"PO-Revision-Date: 2022-10-14 07:10\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/max.rpy:4 #-#-# translate crowdin StartDialog_e88dfdc8:
 msgid "[Max_10] {m}Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил...{/m}"
@@ -552,6 +552,7 @@ msgstr ""
 msgid "[Max_09] {m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m} [nointeract]"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/events/max.rpy:31
 msgid "{i}установить будильник{/i}"
 msgstr ""
 
