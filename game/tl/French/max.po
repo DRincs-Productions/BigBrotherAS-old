@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 13:33\n"
+"PO-Revision-Date: 2022-10-14 07:10\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/max.rpy:4 #-#-# translate crowdin StartDialog_e88dfdc8:
 msgid "[Max_10] {m}Я чувствую себя слишком уставшим для этого. Было бы неплохо сначала вздремнуть и набраться сил...{/m}"
@@ -556,6 +556,7 @@ msgstr "[Max_07] {m}voici le téléphone de Lisa! J'espère qu'il y a un enregis
 msgid "[Max_09] {m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m} [nointeract]"
 msgstr "[Max_09] {m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m} [nointeract]"
 
+# §translate crowdin strings: #|#|# # game/events/max.rpy:31
 msgid "{i}установить будильник{/i}"
 msgstr "{i}mettre une alarme{/i}"
 
