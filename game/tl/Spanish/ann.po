@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-29 20:41\n"
+"PO-Revision-Date: 2022-10-14 07:10\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/events/ann.rpy:11 #-#-# translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
@@ -966,6 +966,7 @@ msgstr ""
 msgid "[Max_01] Да, мам! Я не буду мешать, расслабляйся. [nointeract]"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/events/ann.rpy:215
 msgid "{i}Отвернуться{/i}"
 msgstr ""
 
