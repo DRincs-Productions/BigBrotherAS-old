@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-09-29 20:43\n"
+"PO-Revision-Date: 2022-10-14 07:08\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/dialogues/lisatalk.rpy:26 #-#-# translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -7076,6 +7076,7 @@ msgstr "[Lisa_02] [lisa_bad_kiss!t]Ugh... Era una bella sensazione, tanto che no
 msgid "[Max_01] Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться. [nointeract]"
 msgstr "[Max_01] Sono contento che ti sia piaciuto... La prossima volta cercherò di fare con calma. [nointeract]"
 
+# §translate crowdin strings: #|#|# # game/dialogues/lisatalk.rpy:78
 msgid "Кажется, я передумал..."
 msgstr "Penso di aver cambiato idea..."
 
