@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 11:52\n"
+"PO-Revision-Date: 2022-10-14 07:08\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/oliviatalk.rpy:19 #-#-# translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
@@ -996,6 +996,7 @@ msgstr ""
 msgid "[Max_01] Тогда, до следующего раза, девчонки. [nointeract]"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr ""
 
