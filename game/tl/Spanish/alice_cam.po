@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-07-23 11:52\n"
+"PO-Revision-Date: 2022-10-14 07:10\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/alice_cam.rpy:25 #-#-# translate crowdin cam0_alice_sleep_night_8807f690:
 msgid "[Max_07] {m}Похоже, Алиса перед сном решила что-то посмотреть... Интересно, что?{/m}"
@@ -384,6 +384,7 @@ msgstr "[Max_09]  {m} Entiendo lo que está pasando entre ustedes dos, Alice est
 msgid "[Max_08] {m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
 msgstr "[Max_08]  {m} Eric está en la habitación de Alice hoy. Parece que está tratando de ayudar con el blog... Pero en realidad, solo lo hace para ver a Alice en ropa interior, lo sé... {/ m}"
 
+# §translate crowdin strings: #|#|# # game/events/alice_cam.rpy:57
 msgid "{i}Конечно{/i}"
 msgstr ""
 

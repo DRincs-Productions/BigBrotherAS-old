@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-09-29 20:42\n"
+"PO-Revision-Date: 2022-10-14 07:08\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/dialogues/lisatalk.rpy:26 #-#-# translate crowdin LisaTalkStart_e91aa3e9:
 msgid "[Lisa_13] Макс, я же просила отстать! Не хочу с тобой разговаривать. [nointeract]"
@@ -7074,6 +7074,7 @@ msgstr ""
 msgid "[Max_01] Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться. [nointeract]"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/dialogues/lisatalk.rpy:78
 msgid "Кажется, я передумал..."
 msgstr ""
 

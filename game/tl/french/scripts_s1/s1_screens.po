@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-29 20:40\n"
+"PO-Revision-Date: 2022-10-14 07:11\n"
 
-# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/scripts_s1/s1_screens.rpy:17
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/scripts_s1/s1_screens.rpy:17
 msgid "ПРЕДУПРЕЖДЕНИЕ!"
 msgstr "AVERTISSEMENT!"
 

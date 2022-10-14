@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-09-29 20:40\n"
+"PO-Revision-Date: 2022-10-14 07:08\n"
 
-# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/02init.rpy:18
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
 msgstr "{color=#00FF00}{i}Persuasion réduite!{/i}{/color}\n"
 
@@ -629,7 +629,7 @@ msgstr "Maman, tu y as pensé ?"
 
 # game/core/02init.rpy:151
 msgid "Я разжился деньгами! Идём за костюмом?"
-msgstr ""
+msgstr "J'ai l'argent ! On va chercher le costume ?"
 
 # game/core/02init.rpy:297
 msgid "Одежда"

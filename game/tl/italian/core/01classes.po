@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-09-29 20:42\n"
+"PO-Revision-Date: 2022-10-14 07:08\n"
 
-# TODO: Translation updated at 2022-09-25 19:46 #|#|# #§translate crowdin strings: #|#|# # game/core/01classes.rpy:699
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/01classes.rpy:699
 msgid "Ужасное"
 msgstr "Orribile"
 
@@ -42,7 +42,7 @@ msgstr "Buono"
 
 # game/core/01classes.rpy:699
 msgid "Очень хорошее"
-msgstr "Molto bene"
+msgstr "Molto buono"
 
 # game/core/01classes.rpy:699
 msgid "Прекрасное"
@@ -50,7 +50,7 @@ msgstr "Perfetto"
 
 # game/core/01classes.rpy:1095
 msgid "Приобретен пакет рекламы"
-msgstr "Acquistato un pacchetto pubblicitario"
+msgstr "È stato acquistato un pacchetto pubblicitario"
 
 # game/core/01classes.rpy:1350
 msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
