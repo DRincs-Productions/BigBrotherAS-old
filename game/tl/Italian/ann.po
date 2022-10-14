@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-09-29 20:43\n"
+"PO-Revision-Date: 2022-10-14 07:10\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/events/ann.rpy:11 #-#-# translate crowdin ann_sleep_6173ff68:
 msgid "[Max_00] {m}В это время мама обычно спит.\n"
@@ -870,7 +870,7 @@ msgstr "[Max_07] {m}Eh! Sembra che la parte divertente sia finita... Anche se gu
 
 # game/events/ann.rpy:1053 #-#-# translate crowdin ann_bath_about_intime_0_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
-msgstr "[Ann] {b}Анна:{/b} Chi c'è? Faccio il bagno!"
+msgstr "[Ann] {b}Anna:{/b} Chi c'è? Faccio il bagno!"
 
 # game/events/ann.rpy:1054 #-#-# translate crowdin ann_bath_about_intime_0_006aa2f9:
 msgid "[Max_07] Это я, Макс. Можно войти?"
@@ -886,7 +886,7 @@ msgstr "[Max_09] Sì, mamma. Volevo parlare."
 
 # game/events/ann.rpy:1057 #-#-# translate crowdin ann_bath_about_intime_0_a05b810e:
 msgid "[Ann] {b}Анна:{/b} Если это может подождать, то я через полчасика освобожусь... [nointeract]"
-msgstr "[Ann] {b}Анна:{/b} Se può aspettare, sarò fuori tra mezz'ora... [nointeract]"
+msgstr "[Ann] {b}Anna:{/b} Se può aspettare, sarò fuori tra mezz'ora... [nointeract]"
 
 # game/events/ann.rpy:1073 #-#-# translate crowdin ann_bath_about_intime_0_53cc7aca:
 msgid "[Ann_15] Макс! Ты почему так нагло врываешься! Я же сказала, что скоро освобожусь! Не мог подождать?"
@@ -968,6 +968,7 @@ msgstr "[Ann_12] Più al punto, naturalmente. Ma senza Eric, non so nemmeno... N
 msgid "[Max_01] Да, мам! Я не буду мешать, расслабляйся. [nointeract]"
 msgstr "[Max_01] Sì, mamma! Io rimango fuori dai piedi, rilassati. [nointeract]"
 
+# §translate crowdin strings: #|#|# # game/events/ann.rpy:215
 msgid "{i}Отвернуться{/i}"
 msgstr "{i}voltare le chiavi in giavolte{/i}"
 
