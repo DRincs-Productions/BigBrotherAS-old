@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-07-23 13:33\n"
+"PO-Revision-Date: 2022-10-14 07:09\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/kiratalk.rpy:21 #-#-# translate crowdin KiraTalkStart_14a49468:
 msgid "[Max_01] Не против компании?"
@@ -2136,6 +2136,7 @@ msgstr "[Kira_07] j'aime comment ça sonne! J'espère que les filles vont bient�
 msgid "[Max_01] Я тоже на это надеюсь!"
 msgstr "[Max_01] je l'espère aussi!"
 
+# §translate crowdin strings: #|#|# # game/dialogues/kiratalk.rpy:11
 msgid "{i}Ой, в другой раз...{/i}"
 msgstr "{i}Oh, une autre fois...{/i}"
 
