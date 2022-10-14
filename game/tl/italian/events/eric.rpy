@@ -2832,6 +2832,9 @@ translate italian eric_kira_night_swim_a236de17:
     # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать." nointeract
     Eric_13 "Perché mi arrivi di soppiatto, Max?! È notte fonda. Smetti di barcollare e vai a letto. Non disturbare il nostro riposo." nointeract
 
+translate italian strings:
+
+    # game/events/eric.rpy:17
     old "Понимаю, хорошо..."
     new "Capisco, va bene..."
 

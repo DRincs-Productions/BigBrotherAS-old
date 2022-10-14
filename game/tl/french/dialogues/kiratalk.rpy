@@ -3186,6 +3186,9 @@ translate french kira_about_showdown_95a9e818:
     # Max_01 "Я тоже на это надеюсь!"
     Max_01 "je l'espère aussi!"
 
+translate french strings:
+
+    # game/dialogues/kiratalk.rpy:11
     old "{i}Ой, в другой раз...{/i}"
     new "{i}Oh, une autre fois...{/i}"
 

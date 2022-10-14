@@ -18,6 +18,9 @@ translate french old_fix_93331e6b_1:
     # "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     "Malheureusement, l’enregistrement de cette version n’est pas pris en charge en raison d’un grand nombre de modifications internes. Démarrer une nouvelle partie ou choisir une autre sauvegarde."
 
+translate french strings:
+
+    # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
     new "{i}{b}Attention:{/b} Jusqu'à présent, c'est tout ce que l'on peut faire pour cette 'opportunité' dans la version actuelle du jeu.{/i}"
 

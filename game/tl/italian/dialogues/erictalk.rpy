@@ -2226,6 +2226,9 @@ translate italian Eric_ask_no_stockings_6fbaeb06:
     # Max_01 "Спасибо!" nointeract
     Max_01 "Grazie!" nointeract
 
+translate italian strings:
+
+    # game/dialogues/erictalk.rpy:11
     old "{i}В другой раз...{/i}"
     new "{i}Un'altra volta... {/i}"
 

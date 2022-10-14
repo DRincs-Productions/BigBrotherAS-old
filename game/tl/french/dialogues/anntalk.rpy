@@ -2676,6 +2676,9 @@ translate french ann_about_olivia1_282cd97e:
     # Ann_14 "Подумала... Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
     Ann_14 "... Comme et je veux vous l'interdire, mais on ne sait pas comment Lisa peut réagir. Elle commence à fuir la maison pour se venger..."
 
+translate french strings:
+
+    # game/dialogues/anntalk.rpy:71
     old "В другой раз..."
     new "Une autre fois..."
 

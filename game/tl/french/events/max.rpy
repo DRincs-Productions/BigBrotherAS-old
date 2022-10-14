@@ -786,6 +786,9 @@ translate french SearchPhone_yes_075e9758:
     # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}" nointeract
     Max_09 "{m}Oui, il y a un enregistreur. Maintenant, avant que Lisa ne revienne, il faut aller voir Eric et essayer de le mettre à l'eau claire...{/m}" nointeract
 
+translate french strings:
+
+    # game/events/max.rpy:31
     old "{i}установить будильник{/i}"
     new "{i}mettre une alarme{/i}"
 

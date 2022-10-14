@@ -4254,6 +4254,9 @@ translate french kira_bath_with_eric_56dad693:
     # Max_02 "{m}Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!{/m}" nointeract
     Max_02 "{m}Kira n'a pas manqué une seule goutte! Et comme si personne ne venait de sucer... Travail propre!{/m}" nointeract
 
+translate french strings:
+
+    # game/events/kira.rpy:91
     old "{i}идти к Кире{/i}"
     new "{i}aller voir Kira{/i}"
 
@@ -4563,7 +4566,7 @@ translate french kira_bath_with_eric_56dad693:
 
     # game/events/kira.rpy:3138
     old "{i}принести Алисе полотенце{/i}"
-    new ""
+    new "{i}Apporter une serviette à Alice{/i}"
 
     # game/events/kira.rpy:3164
     old "Хочу грудью!"

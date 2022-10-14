@@ -1476,6 +1476,9 @@ translate italian olivia_give_sunscreen_0860fa68:
     # Max_01 "Тогда, до следующего раза, девчонки." nointeract
     Max_01 "Alla prossima volta, allora, ragazze." nointeract
 
+translate italian strings:
+
+    # game/dialogues/oliviatalk.rpy:11
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Anche se, no... In realtà ho cose da fare..."
 

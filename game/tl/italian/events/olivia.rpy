@@ -2052,6 +2052,9 @@ translate italian olivia_lisa_sunscreen_0_c7bb4508:
     # Lisa_03 "Других пожеланий я и не ожидала."
     Lisa_03 "Non mi aspettavo altro."
 
+translate italian strings:
+
+    # game/events/olivia.rpy:37
     old "{i}подсмотреть{/i}"
     new "{i}vedere{/i}"
 

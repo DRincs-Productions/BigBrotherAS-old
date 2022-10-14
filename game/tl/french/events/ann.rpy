@@ -1428,6 +1428,9 @@ translate french ann_bath_about_intime_0_3a30664f:
     # Max_01 "Да, мам! Я не буду мешать, расслабляйся." nointeract
     Max_01 "oui, maman! Je ne vais pas vous déranger, détendez-vous." nointeract
 
+translate french strings:
+
+    # game/events/ann.rpy:215
     old "{i}Отвернуться{/i}"
     new "{i}Se retourner{/i}"
 

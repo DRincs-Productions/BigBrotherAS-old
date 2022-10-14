@@ -786,6 +786,9 @@ translate italian SearchPhone_yes_075e9758:
     # Max_09 "{m}Да, диктофон есть. Теперь, пока Лиза не вернулась, нужно идти к Эрику и попробовать вывести его на чистую воду...{/m}" nointeract
     Max_09 "{m}Sì, c'è un registratore. Ora, prima che Lisa torni, dobbiamo andare da Eric e cercare di smascherarlo...{/m}" nointeract
 
+translate italian strings:
+
+    # game/events/max.rpy:31
     old "{i}установить будильник{/i}"
     new "{i}impostare l'allarme{/i}"
 

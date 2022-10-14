@@ -72,6 +72,9 @@ translate french after_load_84f87582:
     # "ver [current_ver], _ver [_version], conf.ver [config.version]"
     "ver [current_ver], _ver [_version], conf.ver [config.version]"
 
+translate french strings:
+
+    # game/core/core.rpy:370
     old "В интернет-магазине доступен новый товар."
     new "Un nouveau produit est disponible dans la boutique en ligne."
 

@@ -1536,6 +1536,9 @@ translate italian left_cream_61f00467:
     # Max_08 "{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
     Max_08 "{m}C'è poca crema rimasta, la prossima volta potrebbe non essere sufficiente, è meglio acquistare in anticipo.{/m}"
 
+translate italian strings:
+
+    # game/events/other.rpy:10
     old "Удачи"
     new "Buona Fortuna"
 

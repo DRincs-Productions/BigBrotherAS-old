@@ -1950,6 +1950,9 @@ translate italian breakfast_after_showdown_with_eric_8d40d181:
     # Ann_01 "Спасибо всем за завтрак... Я пойду, побуду со своими мыслями наедине."
     Ann_01 "Grazie a tutti per la colazione... Vado a stare da solo con i miei pensieri."
 
+translate italian strings:
+
+    # game/dialogues/breakfast.rpy:13
     old "Конечно, мам..."
     new "Certo, mamma..."
 

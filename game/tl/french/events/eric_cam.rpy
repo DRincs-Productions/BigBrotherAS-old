@@ -366,6 +366,9 @@ translate french cam1_eric_kira_night_swim_45123771:
     # Max_10 "{m}Вот чёрт! Похоже, Кира ублажает Эрика, чтобы он нас не заложил маме...{/m}"
     Max_10 "{m}Voici les caractéristiques de la! On dirait que Kira fait plaisir à Eric pour qu'il ne nous mette pas à ma mère...{/m}"
 
+translate french strings:
+
+    # game/events/eric_cam.rpy:436
     old "{i}идти к комнате Алисы{/i}"
     new "{i}aller à la chambre d'Alice {/i}"
 

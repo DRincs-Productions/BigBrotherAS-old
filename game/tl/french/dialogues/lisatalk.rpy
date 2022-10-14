@@ -10590,6 +10590,9 @@ translate french lisa_read_with_Max_r_29e49474:
     # Max_01 "Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться." nointeract
     Max_01 "Content que tu aies aimé... La prochaine fois, je vais essayer de prendre mon temps." nointeract
 
+translate french strings:
+
+    # game/dialogues/lisatalk.rpy:78
     old "Кажется, я передумал..."
     new "Je crois que j'ai changé d'avis..."
 

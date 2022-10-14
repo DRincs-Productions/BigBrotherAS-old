@@ -4254,6 +4254,9 @@ translate italian kira_bath_with_eric_56dad693:
     # Max_02 "{m}Кира не упустила ни единой капли мимо! И как будто никто ни у кого только что смачно не отсасывал... Чистая работа!{/m}" nointeract
     Max_02 "{m}Kira non ha lasciato passare neanche una goccia! E come se nessuno avesse appena succhiato il cazzo di qualcuno... Lavoro pulito!{/m}" nointeract
 
+translate italian strings:
+
+    # game/events/kira.rpy:91
     old "{i}идти к Кире{/i}"
     new "{i}vai a Kira{/i}"
 

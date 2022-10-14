@@ -558,6 +558,9 @@ translate italian cam0_blog_with_Eric_4181192f:
     # Max_08 "{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
     Max_08 "{m}Eric è nella stanza di Alice oggi. Sembra che stia cercando di aiutare con il blog... Ma davvero, solo per guardare Alice in mutande, lo so...{/m}"
 
+translate italian strings:
+
+    # game/events/alice_cam.rpy:57
     old "{i}Конечно{/i}"
     new "{i}Certo{/i}"
 

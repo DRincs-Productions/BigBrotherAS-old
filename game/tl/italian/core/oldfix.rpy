@@ -18,6 +18,9 @@ translate italian old_fix_93331e6b_1:
     # "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
     "Sfortunatamente, il salvataggio di questa versione non è supportato a causa di un gran numero di modifiche interne. Inizia una nuova partita o scegli un salvataggio diverso."
 
+translate italian strings:
+
+    # game/core/oldfix.rpy:49
     old "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
     new "{i}{b}Nota:{/b} Finora, questo è tutto ciò che si può fare per questa \"funzione\" nella versione corrente del gioco. {/i}"
 

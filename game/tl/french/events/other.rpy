@@ -1536,6 +1536,9 @@ translate french left_cream_61f00467:
     # Max_08 "{m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
     Max_08 "{m}Il reste peu de crème, la prochaine fois que ce ne sera peut-être pas suffisant, il est préférable d’en acheter à l’avance.{/m}"
 
+translate french strings:
+
+    # game/events/other.rpy:10
     old "Удачи"
     new "Bonne chance"
 

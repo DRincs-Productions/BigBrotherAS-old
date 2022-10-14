@@ -32,7 +32,7 @@ translate italian strings:
 
     # game/core/01classes.rpy:699
     old "Очень хорошее"
-    new "Molto bene"
+    new "Molto buono"
 
     # game/core/01classes.rpy:699
     old "Прекрасное"
@@ -40,7 +40,7 @@ translate italian strings:
 
     # game/core/01classes.rpy:1095
     old "Приобретен пакет рекламы"
-    new "Acquistato un pacchetto pubblicitario"
+    new "È stato acquistato un pacchetto pubblicitario"
 
     # game/core/01classes.rpy:1350
     old "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"

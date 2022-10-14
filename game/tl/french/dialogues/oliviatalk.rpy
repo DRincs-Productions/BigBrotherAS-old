@@ -1476,6 +1476,9 @@ translate french olivia_give_sunscreen_0860fa68:
     # Max_01 "Тогда, до следующего раза, девчонки." nointeract
     Max_01 "alors, jusqu'à la prochaine fois, les filles." nointeract
 
+translate french strings:
+
+    # game/dialogues/oliviatalk.rpy:11
     old "Хотя, нет... У меня вообще-то дела есть..."
     new "Bien que, non... En fait, j'ai des choses à faire..."
 

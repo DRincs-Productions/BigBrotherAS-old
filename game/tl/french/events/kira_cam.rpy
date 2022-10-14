@@ -330,6 +330,9 @@ translate french cam1_kira_bath_with_eric_90e1f759:
     # Max_09 "{m}Через эту камеру никого не видно... Может посмотреть через другую?{/m}"
     Max_09 "{m}personne ne peut être vu Par cette caméra... Peut-être regarder à travers l'autre?{/m}"
 
+translate french strings:
+
+    # game/events/kira_cam.rpy:425
     old "{i}встретить их{/i}"
     new "{i}les rencontrer{/i}"
 

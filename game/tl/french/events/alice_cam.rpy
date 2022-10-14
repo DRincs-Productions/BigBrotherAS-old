@@ -558,6 +558,9 @@ translate french cam0_blog_with_Eric_4181192f:
     # Max_08 "{m}Эрик сегодня в комнате Алисы. Похоже, пытается помогать с блогом... Но в действительности же, чтобы поглазеть на Алису в белье, по себе знаю...{/m}"
     Max_08 "{m}Eric est dans la chambre d'Alice aujourd'hui. Il semble essayer de l'aider avec le blog... Mais en réalité, pour regarder Alice en sous-vêtements, je sais par expérience...{/m}"
 
+translate french strings:
+
+    # game/events/alice_cam.rpy:57
     old "{i}Конечно{/i}"
     new "{i}Bien sûr{/i}"
 

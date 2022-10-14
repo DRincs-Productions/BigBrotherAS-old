@@ -604,7 +604,7 @@ translate french strings:
 
     # game/core/02init.rpy:151
     old "Я разжился деньгами! Идём за костюмом?"
-    new ""
+    new "J'ai l'argent ! On va chercher le costume ?"
 
     # game/core/02init.rpy:297
     old "Одежда"

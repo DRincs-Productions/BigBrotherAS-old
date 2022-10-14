@@ -10590,6 +10590,9 @@ translate italian lisa_read_with_Max_r_29e49474:
     # Max_01 "Рад, что тебе понравилось... В следующий раз я постараюсь не торопиться." nointeract
     Max_01 "Sono contento che ti sia piaciuto... La prossima volta cercherò di fare con calma." nointeract
 
+translate italian strings:
+
+    # game/dialogues/lisatalk.rpy:78
     old "Кажется, я передумал..."
     new "Penso di aver cambiato idea..."
 

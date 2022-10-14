@@ -1282,7 +1282,7 @@ translate italian ann_bath_ladder_87fd27ff:
 translate italian ann_bath_about_intime_0_3aa93926:
 
     # Ann "{b}Анна:{/b} Кто там? Я принимаю ванну!"
-    Ann "{b}Анна:{/b} Chi c'è? Faccio il bagno!"
+    Ann "{b}Anna:{/b} Chi c'è? Faccio il bagno!"
 
 # game/events/ann.rpy:1054
 translate italian ann_bath_about_intime_0_006aa2f9:
@@ -1306,7 +1306,7 @@ translate italian ann_bath_about_intime_0_cc4bed10:
 translate italian ann_bath_about_intime_0_a05b810e:
 
     # Ann "{b}Анна:{/b} Если это может подождать, то я через полчасика освобожусь..." nointeract
-    Ann "{b}Анна:{/b} Se può aspettare, sarò fuori tra mezz'ora..." nointeract
+    Ann "{b}Anna:{/b} Se può aspettare, sarò fuori tra mezz'ora..." nointeract
 
 # game/events/ann.rpy:1073
 translate italian ann_bath_about_intime_0_53cc7aca:
@@ -1428,6 +1428,9 @@ translate italian ann_bath_about_intime_0_3a30664f:
     # Max_01 "Да, мам! Я не буду мешать, расслабляйся." nointeract
     Max_01 "Sì, mamma! Io rimango fuori dai piedi, rilassati." nointeract
 
+translate italian strings:
+
+    # game/events/ann.rpy:215
     old "{i}Отвернуться{/i}"
     new "{i}voltare le chiavi in giavolte{/i}"
 

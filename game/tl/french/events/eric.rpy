@@ -2832,6 +2832,9 @@ translate french eric_kira_night_swim_a236de17:
     # Eric_13 "Ты зачем подкрадываешься, Макс?! Ночь на дворе. Заканчивай шататься и спать иди. Не мешай нам отдыхать." nointeract
     Eric_13 "pourquoi tu te faufiles, Max?! Nuit dans la cour. Arrête de te branler et dors. Ne nous empêche pas de nous reposer." nointeract
 
+translate french strings:
+
+    # game/events/eric.rpy:17
     old "Понимаю, хорошо..."
     new "Je comprends, d’accord..."
 

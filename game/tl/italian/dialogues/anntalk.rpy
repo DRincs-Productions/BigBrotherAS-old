@@ -2676,6 +2676,9 @@ translate italian ann_about_olivia1_282cd97e:
     # Ann_14 "Подумала... Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
     Ann_14 "Ho pensato... Vorrei proibirtelo, ma non so come reagirà Lisa. Potrebbe iniziare a scappare di casa per ritorsione..."
 
+translate italian strings:
+
+    # game/dialogues/anntalk.rpy:71
     old "В другой раз..."
     new "Un'altra volta..."
 
