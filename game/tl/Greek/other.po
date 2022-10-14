@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-10-14 06:39\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/other.rpy:11 #-#-# translate crowdin shoping_034007bc:
 msgid "[Ann_05] Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -1036,6 +1036,7 @@ msgstr ""
 msgid "[Max_08] {m}Осталось мало крема, в следующий раз может не хватить, лучше купить заранее.{/m}"
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/events/other.rpy:10
 msgid "Удачи"
 msgstr ""
 
