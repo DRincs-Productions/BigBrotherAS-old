@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-07-23 11:53\n"
+"PO-Revision-Date: 2022-10-14 07:11\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/olivia.rpy:38 #-#-# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07] {m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m} [nointeract]"
@@ -1380,6 +1380,7 @@ msgstr ""
 msgid "[Lisa_03] Других пожеланий я и не ожидала."
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/events/olivia.rpy:37
 msgid "{i}подсмотреть{/i}"
 msgstr ""
 
