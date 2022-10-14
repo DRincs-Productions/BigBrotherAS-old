@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-09-29 20:41\n"
+"PO-Revision-Date: 2022-10-14 07:09\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/dialogues/anntalk.rpy:22 #-#-# translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
@@ -1796,6 +1796,7 @@ msgstr ""
 msgid "[Ann_14] Подумала... Вроде и запретить вам хочу, но не известно, как на это может Лиза отреагировать. Ещё начнёт в отместку из дома убегать..."
 msgstr ""
 
+# §translate crowdin strings: #|#|# # game/dialogues/anntalk.rpy:71
 msgid "В другой раз..."
 msgstr ""
 
