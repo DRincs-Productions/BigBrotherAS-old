@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-23 13:35\n"
+"PO-Revision-Date: 2022-10-14 07:08\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/oliviatalk.rpy:19 #-#-# translate crowdin OliviaTalkStart_26661b27:
 msgid "[Max_01] Вы не против, если я тоже позагораю?"
@@ -996,6 +996,7 @@ msgstr "[Olivia_06] Certo che lo sei! Se ti definisci un massaggiatore, fai del 
 msgid "[Max_01] Тогда, до следующего раза, девчонки. [nointeract]"
 msgstr "[Max_01] Alla prossima volta, allora, ragazze. [nointeract]"
 
+# §translate crowdin strings: #|#|# # game/dialogues/oliviatalk.rpy:11
 msgid "Хотя, нет... У меня вообще-то дела есть..."
 msgstr "Anche se, no... In realtà ho cose da fare..."
 
