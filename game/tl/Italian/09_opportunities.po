@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-10-25 14:55\n"
+"PO-Revision-Date: 2022-10-25 15:03\n"
 
 # TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -1457,11 +1457,11 @@ msgstr "Oh, che burlone si è rivelato Alice! Sdraiato lì, fingendo di dormire,
 
 # game/core/09_opportunities.rpy:4
 msgid "Всё должно сработать, как надо, если Алиса ещё хотя бы пару раз поработает ножками на трезвую голову, когда я делаю ей массаж у ТВ"
-msgstr ""
+msgstr "Dovrebbe funzionare bene se Alyssa ha almeno un altro paio di volte in cui le faccio un massaggio ai piedi da sobria vicino alla TV."
 
 # game/core/09_opportunities.rpy:4
 msgid "Всё должно сработать, как надо, если Алиса ещё хотя бы раз поработает ножками на трезвую голову, когда я делаю ей массаж у ТВ"
-msgstr ""
+msgstr "Dovrebbe funzionare tutto correttamente se Alice lavora i piedi da sobria almeno un'altra volta quando la massaggio vicino alla TV."
 
 # game/core/09_opportunities.rpy:4
 msgid "Эх, теряет Алиса хватку... Она мне и так угрожала, и этак, а мне всё ни по чём... Я просто взял и запустил свой язык в её киску! А как я её обломал на самом пике блаженства... Ну ничего, будет знать, что я тоже человек и хочу кончать... на неё... Посмотрим, задумается ли она над этим. \n"
