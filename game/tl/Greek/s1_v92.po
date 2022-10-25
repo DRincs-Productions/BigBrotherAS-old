@@ -10,1521 +10,2869 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-10-14 07:11\n"
+"PO-Revision-Date: 2022-10-25 14:58\n"
 
-# TODO: Translation updated at 2022-10-09 00:01 #|#|# # game/scripts_s1/s1_v92.rpy:8 #-#-# translate crowdin ev_v92_001_0804b56b:
+# TODO: Translation updated at 2022-10-23 23:54 #|#|# # game/scripts_s1/s1_v92.rpy:9 #-#-# translate crowdin ev_v92_001_0804b56b:
 msgid "[Alice_02] Эй, Макс... У меня тут, наконец-то, появилось настроение сходить в магазин одежды. Кое-что прикупить... Хочешь со мной?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:9 #-#-# translate crowdin ev_v92_001_7ab7e358:
+# game/scripts_s1/s1_v92.rpy:10 #-#-# translate crowdin ev_v92_001_7ab7e358:
 msgid "[Max_02] Если ты про новенькое и максимально сексуальное нижнее бельё, то я в деле!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:10 #-#-# translate crowdin ev_v92_001_c7a32d32:
+# game/scripts_s1/s1_v92.rpy:11 #-#-# translate crowdin ev_v92_001_c7a32d32:
 msgid "[Alice_05] Ну... Не совсем. Мы пойдём покупать кое-что другое."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:11 #-#-# translate crowdin ev_v92_001_3d05d387:
+# game/scripts_s1/s1_v92.rpy:12 #-#-# translate crowdin ev_v92_001_3d05d387:
 msgid "[Max_05] Ага, значит, что-то развратное - дальше некуда?!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:12 #-#-# translate crowdin ev_v92_001_d071e10a:
+# game/scripts_s1/s1_v92.rpy:13 #-#-# translate crowdin ev_v92_001_d071e10a:
 msgid "[Alice_07] Нет, и близко не развратное."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:13 #-#-# translate crowdin ev_v92_001_f80e563e:
+# game/scripts_s1/s1_v92.rpy:14 #-#-# translate crowdin ev_v92_001_f80e563e:
 msgid "[Max_11] Стало как-то совсем грустно... Давай лучше без меня."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:14 #-#-# translate crowdin ev_v92_001_892a9bb5:
+# game/scripts_s1/s1_v92.rpy:15 #-#-# translate crowdin ev_v92_001_892a9bb5:
 msgid "[Alice_06] Но мне понадобится твоё мнение по выбору костюма! Обещаю, тебе будет всё равно интересно..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:15 #-#-# translate crowdin ev_v92_001_e2e55ed3:
+# game/scripts_s1/s1_v92.rpy:16 #-#-# translate crowdin ev_v92_001_e2e55ed3:
 msgid "[Max_09] Костюм? Типа как офисный или..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:16 #-#-# translate crowdin ev_v92_001_6130d95a:
+# game/scripts_s1/s1_v92.rpy:17 #-#-# translate crowdin ev_v92_001_6130d95a:
 msgid "[Alice_05] А вот если пойдёшь со мной, то узнаешь какой. Сходим после завтрака?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:19 #-#-# translate crowdin ev_v92_001_0847d508:
+# game/scripts_s1/s1_v92.rpy:20 #-#-# translate crowdin ev_v92_001_0847d508:
 msgid "[Max_07] Я так полагаю, на этот костюмчик уйдёт приличная сумма, да?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:20 #-#-# translate crowdin ev_v92_001_1d203698:
+# game/scripts_s1/s1_v92.rpy:21 #-#-# translate crowdin ev_v92_001_1d203698:
 msgid "[Alice_06] Нууу... Я бы, на всякий случай, посоветовала тебе иметь при себе хотя бы $1500."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:21 #-#-# translate crowdin ev_v92_001_abf308f9:
+# game/scripts_s1/s1_v92.rpy:22 #-#-# translate crowdin ev_v92_001_abf308f9:
 msgid "[Max_08] Ого! Тогда мне сперва нужно подкопить деньжат. Тогда и пойдём закупаться, хорошо?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:22 #-#-# translate crowdin ev_v92_001_1f98f7b7:
+# game/scripts_s1/s1_v92.rpy:23 #-#-# translate crowdin ev_v92_001_1f98f7b7:
 msgid "[Alice_13] Давай только побыстрее..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:26 #-#-# translate crowdin ev_v92_001_836edd56:
+# game/scripts_s1/s1_v92.rpy:27 #-#-# translate crowdin ev_v92_001_836edd56:
 msgid "[Max_07] Ладно, уговорила. Сходим..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:36 #-#-# translate crowdin ev_v92_002_ba8399f6:
+# game/scripts_s1/s1_v92.rpy:38 #-#-# translate crowdin ev_v92_002_ba8399f6:
 msgid "[Alice_01] Отлично, Макс! Тогда завтра после завтрака пойдём в магазин."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:37 #-#-# translate crowdin ev_v92_002_4a548677:
+# game/scripts_s1/s1_v92.rpy:39 #-#-# translate crowdin ev_v92_002_4a548677:
 msgid "[Max_01] Супер!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:47 #-#-# translate crowdin ev_v92_003_ecc234e3:
+# game/scripts_s1/s1_v92.rpy:49 #-#-# translate crowdin ev_v92_003_ecc234e3:
 msgid "[Alice_03] Всё, Макс, я сейчас переоденусь и пойдём. Ты тоже не медли и одевайся."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:51 #-#-# translate crowdin ev_v92_003_91fc6efe:
+# game/scripts_s1/s1_v92.rpy:53 #-#-# translate crowdin ev_v92_003_91fc6efe:
 msgid "[Max_07] {m}Да мне и трёх секунд хватит, чтобы одеться. Алиса сейчас полчаса ещё будет одеваться...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:61 #-#-# translate crowdin ev_v92_003_7a046d42:
+# game/scripts_s1/s1_v92.rpy:63 #-#-# translate crowdin ev_v92_003_7a046d42:
 msgid "[Max_01] {m}Не знаю, что за костюм ей понадобился, но надеюсь, что он всё-таки будет хоть немного развратным. На учительницу Алиса не тянет, а вот на сексуальную секретаршу вполне...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:65 #-#-# translate crowdin ev_v92_003_dc14d085:
+# game/scripts_s1/s1_v92.rpy:67 #-#-# translate crowdin ev_v92_003_dc14d085:
 msgid "[Alice_05] Макс, я прекрасно вижу твою озабоченную рожу! Уши давно не болели? Если живо не свалишь, то я пойду в магазин без тебя."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:66 #-#-# translate crowdin ev_v92_003_2fb43f70:
+# game/scripts_s1/s1_v92.rpy:68 #-#-# translate crowdin ev_v92_003_2fb43f70:
 msgid "[Max_14] Упс... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:73 #-#-# translate crowdin ev_v92_003_20aa0d97:
+# game/scripts_s1/s1_v92.rpy:75 #-#-# translate crowdin ev_v92_003_20aa0d97:
 msgid "[Alice_05] Что, Макс, кого-то ждёшь? Пошли, а то тебя ведь ждём... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:80 #-#-# translate crowdin ev_v92_003_8ef8e2bd:
+# game/scripts_s1/s1_v92.rpy:82 #-#-# translate crowdin ev_v92_003_8ef8e2bd:
 msgid "[Alice_02] Сегодня, Макс, мне понадобится твоё похотливое и озабоченное мнение, когда я буду подбирать костюмчик."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:81 #-#-# translate crowdin ev_v92_003_aee03da0:
+# game/scripts_s1/s1_v92.rpy:83 #-#-# translate crowdin ev_v92_003_aee03da0:
 msgid "[Max_02] О как! Это я всегда пожалуйста! Получается, мы идём в какой-то интим-магазин?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:82 #-#-# translate crowdin ev_v92_003_e5e63a76:
+# game/scripts_s1/s1_v92.rpy:84 #-#-# translate crowdin ev_v92_003_e5e63a76:
 msgid "[Alice_03] Нет, в самый обычный магазин одежды. Ты уже наверняка напредставлял себе всякие БДСМ костюмы, но нет. Мне нужно подобрать костюм, чтобы закосплеить какого-нибудь персонажа из видеоигр. Хотелось бы, чтобы это был образ очень яркий и... сексуальный."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:83 #-#-# translate crowdin ev_v92_003_9c8adc51:
+# game/scripts_s1/s1_v92.rpy:85 #-#-# translate crowdin ev_v92_003_9c8adc51:
 msgid "[Max_09] Круто, но зачем?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:84 #-#-# translate crowdin ev_v92_003_22c0184d:
+# game/scripts_s1/s1_v92.rpy:86 #-#-# translate crowdin ev_v92_003_22c0184d:
 msgid "[Alice_05] Я хочу вести трансляции того, как я играю в видеоигры. А костюмчик при этом должен... поднимать интерес ко мне. Ты, как мальчишка, должен знать кучу женских персонажей из комиксов, игр..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:85 #-#-# translate crowdin ev_v92_003_64357765:
+# game/scripts_s1/s1_v92.rpy:87 #-#-# translate crowdin ev_v92_003_64357765:
 msgid "[Max_01] Это так. С таким выбором я охотно тебе помогу."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:89 #-#-# translate crowdin ev_v92_003_01369a19:
+# game/scripts_s1/s1_v92.rpy:91 #-#-# translate crowdin ev_v92_003_01369a19:
 msgid "[Alice_13] Осталось только определиться в какую игру мне начать играть и в какого персонажа при этом нарядиться."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:90 #-#-# translate crowdin ev_v92_003_b649a958:
+# game/scripts_s1/s1_v92.rpy:92 #-#-# translate crowdin ev_v92_003_b649a958:
 msgid "[Max_07] Как мне кажется, если ты хочешь быть яркой и запоминающейся, то это должна быть игра, созданная по мотивам комиксов Марвел. Именно в них персонажи ходят в довольно ярких костюмах."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:91 #-#-# translate crowdin ev_v92_003_8c6c682f:
+# game/scripts_s1/s1_v92.rpy:93 #-#-# translate crowdin ev_v92_003_8c6c682f:
 msgid "[Alice_01] Отличная мысль, Макс! Мне уже нравится, как это звучит. И что это за игра должна быть, как думаешь?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:92 #-#-# translate crowdin ev_v92_003_5793d123:
+# game/scripts_s1/s1_v92.rpy:94 #-#-# translate crowdin ev_v92_003_5793d123:
 msgid "[Max_04] Возможно, Человек-паук. Игры, думаю, неплохие, а человек-паук - персонаж бесспорно очень известный и яркий. И было там несколько женских персонажей в обтягивающих костюмчиках, что тебе бы очень пошло."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:93 #-#-# translate crowdin ev_v92_003_ca7b2c0a:
+# game/scripts_s1/s1_v92.rpy:95 #-#-# translate crowdin ev_v92_003_ca7b2c0a:
 msgid "[Alice_02] Тут я с тобой согласна на все сто! И кого ты мне можешь посоветовать в этом случае?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:94 #-#-# translate crowdin ev_v92_003_4edcc107:
+# game/scripts_s1/s1_v92.rpy:96 #-#-# translate crowdin ev_v92_003_4edcc107:
 msgid "[Max_03] Тебе идеально подойдёт образ Чёрной кошки. Она очень сексуальна в своём чёрном костюме."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:95 #-#-# translate crowdin ev_v92_003_efa15026:
+# game/scripts_s1/s1_v92.rpy:97 #-#-# translate crowdin ev_v92_003_efa15026:
 msgid "[Alice_07] Да, точно! Это именно то, что мне нужно! Осталось только найти такой костюм и примерить."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:96 #-#-# translate crowdin ev_v92_003_709f118d:
+# game/scripts_s1/s1_v92.rpy:98 #-#-# translate crowdin ev_v92_003_709f118d:
 msgid "[Max_01] Действуй! Если что, я всегда рядом и готов помочь, хоть с примеркой, хоть с оплатой."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:101 #-#-# translate crowdin ev_v92_003_b97daf19:
+# game/scripts_s1/s1_v92.rpy:103 #-#-# translate crowdin ev_v92_003_b97daf19:
 msgid "[Christine_03] О, Макс, привет! Надоело заказывать одежду через интернет?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:102 #-#-# translate crowdin ev_v92_003_723e66a9:
+# game/scripts_s1/s1_v92.rpy:104 #-#-# translate crowdin ev_v92_003_723e66a9:
 msgid "[Max_07] Привет! Да, сестра позвала. А я думал, ты только развозишь одежду."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:103 #-#-# translate crowdin ev_v92_003_573d8229:
+# game/scripts_s1/s1_v92.rpy:105 #-#-# translate crowdin ev_v92_003_573d8229:
 msgid "[Christine_02] Не совсем, это магазин моей старшей сестры, Эшли. Просто я её подменяю, пока она в отъезде."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:104 #-#-# translate crowdin ev_v92_003_6b7bbad5:
+# game/scripts_s1/s1_v92.rpy:106 #-#-# translate crowdin ev_v92_003_6b7bbad5:
 msgid "[Max_01] Семейный бизнес прежде всего. У тебя тоже старшая сестрёнка, как и у меня?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:105 #-#-# translate crowdin ev_v92_003_7bf63668:
+# game/scripts_s1/s1_v92.rpy:107 #-#-# translate crowdin ev_v92_003_7bf63668:
 msgid "[Christine_01] Да, Макс. Извини, я отойду, нужно помочь клиентам с выбором одежды. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:111 #-#-# translate crowdin ev_v92_003_8def9dc2:
+# game/scripts_s1/s1_v92.rpy:113 #-#-# translate crowdin ev_v92_003_8def9dc2:
 msgid "[Max_09] {m}Интересно, как там продвигаются дела у Алисы?{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:118 #-#-# translate crowdin ev_v92_003_8cee8cb3:
+# game/scripts_s1/s1_v92.rpy:120 #-#-# translate crowdin ev_v92_003_8cee8cb3:
 msgid "[Max_07] {m}Что? Алиса ещё даже толком не разделась! Похоже, эта примерка растянется надолго...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:122 #-#-# translate crowdin ev_v92_003_6e27e7c5:
+# game/scripts_s1/s1_v92.rpy:124 #-#-# translate crowdin ev_v92_003_6e27e7c5:
 msgid "[Alice_05] Ага, именно этого я и ждала! Ну-ка заходи ко мне. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:129 #-#-# translate crowdin ev_v92_003_f59888d0:
+# game/scripts_s1/s1_v92.rpy:131 #-#-# translate crowdin ev_v92_003_f59888d0:
 msgid "[Alice_02] Я была абсолютно уверена, что ты станешь подглядывать. Теперь будешь стоять здесь, спиной ко мне. У меня тут зеркало, так что ты под полным контролем."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:130 #-#-# translate crowdin ev_v92_003_ae49408d:
+# game/scripts_s1/s1_v92.rpy:132 #-#-# translate crowdin ev_v92_003_ae49408d:
 msgid "[Max_01] Думаешь, меня это остановит и я ничего не увижу?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:131 #-#-# translate crowdin ev_v92_003_0aa8f1ce:
+# game/scripts_s1/s1_v92.rpy:133 #-#-# translate crowdin ev_v92_003_0aa8f1ce:
 msgid "[Alice_05] Вряд ли ты отсюда успеешь сбежать до того момента, как я тебя прикончу."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:132 #-#-# translate crowdin ev_v92_003_ff3de05c:
+# game/scripts_s1/s1_v92.rpy:134 #-#-# translate crowdin ev_v92_003_ff3de05c:
 msgid "[Max_07] Тоже мне, напугала..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:136 #-#-# translate crowdin ev_v92_003_54412188:
+# game/scripts_s1/s1_v92.rpy:138 #-#-# translate crowdin ev_v92_003_54412188:
 msgid "[Alice_07] Хочешь рискнуть? Не думаю. Теперь ты у меня, как на ладони, и я совершенно спокойно могу подразнить твоё воображение. Например, прямо сейчас я стягиваю с себя свои маленькие полупрозрачные трусики..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:137 #-#-# translate crowdin ev_v92_003_4ef01490:
+# game/scripts_s1/s1_v92.rpy:139 #-#-# translate crowdin ev_v92_003_4ef01490:
 msgid "[Max_09] Ну нет! Раздевайся молча."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:138 #-#-# translate crowdin ev_v92_003_e2eb1d3c:
+# game/scripts_s1/s1_v92.rpy:140 #-#-# translate crowdin ev_v92_003_e2eb1d3c:
 msgid "[Alice_03] Представляешь, Макс, всего в метре от тебя... Прямо за твоей спиной..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:139 #-#-# translate crowdin ev_v92_003_baa53cf5:
+# game/scripts_s1/s1_v92.rpy:141 #-#-# translate crowdin ev_v92_003_baa53cf5:
 msgid "[Max_08] Вот ты сучка какая!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:143 #-#-# translate crowdin ev_v92_003_6471a64e:
+# game/scripts_s1/s1_v92.rpy:145 #-#-# translate crowdin ev_v92_003_6471a64e:
 msgid "[Alice_04] Почему ты ругаешься, Макс? Я всего лишь комментирую то шоу, которое ты пропускаешь. Кстати, я уже сняла трусики и стою совсем голая. Представляешь?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:144 #-#-# translate crowdin ev_v92_003_9c23d531:
+# game/scripts_s1/s1_v92.rpy:146 #-#-# translate crowdin ev_v92_003_9c23d531:
 msgid "[Max_01] Нет, мне всё равно."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:145 #-#-# translate crowdin ev_v92_003_89eb9aae:
+# game/scripts_s1/s1_v92.rpy:147 #-#-# translate crowdin ev_v92_003_89eb9aae:
 msgid "[Alice_05] Что? Мне показалось или это твои джинсы уже начали трещать по швам от возбуждения?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:146 #-#-# translate crowdin ev_v92_003_fe3adc7c:
+# game/scripts_s1/s1_v92.rpy:148 #-#-# translate crowdin ev_v92_003_fe3adc7c:
 msgid "[Max_04] Именно что показалось."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:150 #-#-# translate crowdin ev_v92_003_6350955e:
+# game/scripts_s1/s1_v92.rpy:152 #-#-# translate crowdin ev_v92_003_6350955e:
 msgid "[Alice_08] Тогда, должно быть, это трещал костюм, который я с огромным трудом натягивала на свою голую попку! Но что поделать, это ведь облегающий костюм..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:151 #-#-# translate crowdin ev_v92_003_023b4873:
+# game/scripts_s1/s1_v92.rpy:153 #-#-# translate crowdin ev_v92_003_023b4873:
 msgid "[Max_09] Давай быстрее..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:152 #-#-# translate crowdin ev_v92_003_b2fb08e4:
+# game/scripts_s1/s1_v92.rpy:154 #-#-# translate crowdin ev_v92_003_b2fb08e4:
 msgid "[Alice_07] Ох, Макс... Даже не знаю, удастся ли мне запихнуть свою грудь в этот узенький костюм. Но, уже сейчас, мне очень нравится, как он на мне смотрится."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:153 #-#-# translate crowdin ev_v92_003_4aa5924f:
+# game/scripts_s1/s1_v92.rpy:155 #-#-# translate crowdin ev_v92_003_4aa5924f:
 msgid "[Max_07] Уже можно смотреть?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:158 #-#-# translate crowdin ev_v92_003_11a13257:
+# game/scripts_s1/s1_v92.rpy:160 #-#-# translate crowdin ev_v92_003_11a13257:
 msgid "[Max_07] Алиса, ты почему так долго переодеваешься?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:159 #-#-# translate crowdin ev_v92_003_dd0170b8:
+# game/scripts_s1/s1_v92.rpy:161 #-#-# translate crowdin ev_v92_003_dd0170b8:
 msgid "[Alice] Думаешь, это так просто, натянуть облегающий костюм? Я почти закончила. Можешь оценивать... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:167 #-#-# translate crowdin ev_v92_003_774ba805:
+# game/scripts_s1/s1_v92.rpy:169 #-#-# translate crowdin ev_v92_003_774ba805:
 msgid "[Alice_08] Ну как? Похожа я на Чёрную кошку? Мяу..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:168 #-#-# translate crowdin ev_v92_003_d32545e3:
+# game/scripts_s1/s1_v92.rpy:170 #-#-# translate crowdin ev_v92_003_d32545e3:
 msgid "[Max_05] Ухх... Очень недурно! Какие царапки... А декольте вообще отпад! Мне нравится. Хотя, образ неполный. Тебе бы ещё белые волосы, маску..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:169 #-#-# translate crowdin ev_v92_003_23e89f3b:
+# game/scripts_s1/s1_v92.rpy:171 #-#-# translate crowdin ev_v92_003_23e89f3b:
 msgid "[Alice_07] Дополнением образа я уже займусь полностью сама, если ты оплатишь мне этот костюм. Значит, оставляем... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:174 #-#-# translate crowdin ev_v92_003_1bac621d:
+# game/scripts_s1/s1_v92.rpy:176 #-#-# translate crowdin ev_v92_003_1bac621d:
 msgid "[Alice_02] Без проблем! Смотри, только чтобы голова не закружилась."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:175 #-#-# translate crowdin ev_v92_003_f0e35630:
+# game/scripts_s1/s1_v92.rpy:177 #-#-# translate crowdin ev_v92_003_f0e35630:
 msgid "[Max_03] Да уж, попка блестит просто класс!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:176 #-#-# translate crowdin ev_v92_003_9b6ee6d6:
+# game/scripts_s1/s1_v92.rpy:178 #-#-# translate crowdin ev_v92_003_9b6ee6d6:
 msgid "[Alice_05] Спасибо! Как налюбуешься, можешь шуровать на кассу. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:186 #-#-# translate crowdin ev_v92_003_e8502030:
+# game/scripts_s1/s1_v92.rpy:188 #-#-# translate crowdin ev_v92_003_e8502030:
 msgid "[Christine_03] Ну что, Макс, твоя сестра что-нибудь выбрала?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:187 #-#-# translate crowdin ev_v92_003_95baae5c:
+# game/scripts_s1/s1_v92.rpy:189 #-#-# translate crowdin ev_v92_003_95baae5c:
 msgid "[Max_04] Да, я как раз пришёл оплатить покупку. Костюм Чёрной кошки."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:188 #-#-# translate crowdin ev_v92_003_cb0d83ca:
+# game/scripts_s1/s1_v92.rpy:190 #-#-# translate crowdin ev_v92_003_cb0d83ca:
 msgid "[Christine_01] С тебя $990."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:189 #-#-# translate crowdin ev_v92_003_9e194edf:
+# game/scripts_s1/s1_v92.rpy:191 #-#-# translate crowdin ev_v92_003_9e194edf:
 msgid "[Max_07] Может, как постоянному клиенту, мне полагается скидочка?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:190 #-#-# translate crowdin ev_v92_003_dd467070:
+# game/scripts_s1/s1_v92.rpy:192 #-#-# translate crowdin ev_v92_003_dd467070:
 msgid "[Christine_04] Ты ещё не настолько частый покупатель в нашем магазине, чтобы у тебя появилась скидка."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:191 #-#-# translate crowdin ev_v92_003_ea4836e6:
+# game/scripts_s1/s1_v92.rpy:193 #-#-# translate crowdin ev_v92_003_ea4836e6:
 msgid "[Max_02] Тогда ты мне скидку, а я тебе классный расслабляющий массаж? Тем более, что ты наверняка очень устаёшь за целый день работы за прилавком."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:192 #-#-# translate crowdin ev_v92_003_40c8a61a:
+# game/scripts_s1/s1_v92.rpy:194 #-#-# translate crowdin ev_v92_003_40c8a61a:
 msgid "[Christine_02] Насчёт утомляемости ты прав, но... Вот если бы ты работал в массажном салоне, то да, я к тебе обязательно бы записалась. Так что вот тебе дополнительная цель в жизни."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:193 #-#-# translate crowdin ev_v92_003_0c807ba4:
+# game/scripts_s1/s1_v92.rpy:195 #-#-# translate crowdin ev_v92_003_0c807ba4:
 msgid "[Max_11] Ладно, значит оплачу всю сумму."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:195 #-#-# translate crowdin ev_v92_003_83d014ec:
+# game/scripts_s1/s1_v92.rpy:197 #-#-# translate crowdin ev_v92_003_83d014ec:
 msgid "[Christine_03] Всё, оплата прошла... Спасибо за покупку, Макс. Всегда рада видеть тебя в нашем магазине."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:196 #-#-# translate crowdin ev_v92_003_9a0b31ee:
+# game/scripts_s1/s1_v92.rpy:198 #-#-# translate crowdin ev_v92_003_9a0b31ee:
 msgid "[Max_03] С массажем я тебя ловлю на слове. Пока. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:202 #-#-# translate crowdin ev_v92_003_860d77ee:
+# game/scripts_s1/s1_v92.rpy:204 #-#-# translate crowdin ev_v92_003_860d77ee:
 msgid "[Alice_02] Спасибо за покупку, Макс! Это просто шикарный костюм! Хоть одевать его будет довольно муторно, но я жду не дождусь, когда смогу начать свои трансляции."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:203 #-#-# translate crowdin ev_v92_003_6fadfb8e:
+# game/scripts_s1/s1_v92.rpy:205 #-#-# translate crowdin ev_v92_003_6fadfb8e:
 msgid "[Max_04] Всегда пожалуйста. Тебя определённо нужно пофотографировать в этом костюме. Зрители будут в восторге от этих снимков, в дополнение к твоим трансляциям."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:204 #-#-# translate crowdin ev_v92_003_10eb2133:
+# game/scripts_s1/s1_v92.rpy:206 #-#-# translate crowdin ev_v92_003_10eb2133:
 msgid "[Alice_01] Мне обязательно нужны такие фотки! Но нужно сперва закончить образ. Как только я обзаведусь всеми нужными аксессуарами, то сразу же устроим фотосессию."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:205 #-#-# translate crowdin ev_v92_003_ad67403d:
+# game/scripts_s1/s1_v92.rpy:207 #-#-# translate crowdin ev_v92_003_ad67403d:
 msgid "[Max_01] Конечно. Скажешь, как будешь готова."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:249 #-#-# translate crowdin ev_v92_004_cdb364dc:
+# game/scripts_s1/s1_v92.rpy:252 #-#-# translate crowdin ev_v92_004_cdb364dc:
 msgid "[Alice_13] Макс! Я тебя просила убить его, а не отпускать! Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:251 #-#-# translate crowdin ev_v92_004_3ab4457f:
+# game/scripts_s1/s1_v92.rpy:254 #-#-# translate crowdin ev_v92_004_3ab4457f:
 msgid "[Max_07] Если тебе будет спокойнее, то я могу остаться здесь и охранять тебя?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:252 #-#-# translate crowdin ev_v92_004_c10ef2b8:
+# game/scripts_s1/s1_v92.rpy:255 #-#-# translate crowdin ev_v92_004_c10ef2b8:
 msgid "[Alice_05] Ха! Спокойнее?! С тобой? Ты же как только видишь малейшую возможность, сразу пытаешься меня облапать!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:253 #-#-# translate crowdin ev_v92_004_1b7f2837:
+# game/scripts_s1/s1_v92.rpy:256 #-#-# translate crowdin ev_v92_004_1b7f2837:
 msgid "[Max_01] Обещаю, что не буду."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:254 #-#-# translate crowdin ev_v92_004_90499b6a:
+# game/scripts_s1/s1_v92.rpy:257 #-#-# translate crowdin ev_v92_004_90499b6a:
 msgid "[Alice_03] Ты сам-то веришь в это? Уверена, даже если ты будешь спать, то твои грязные ручонки всё равно беcсознательно поползут ко мне."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:255 #-#-# translate crowdin ev_v92_004_15a91de9:
+# game/scripts_s1/s1_v92.rpy:258 #-#-# translate crowdin ev_v92_004_15a91de9:
 msgid "[Max_02] Ты прямо озабочена моими руками, я смотрю."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:259 #-#-# translate crowdin ev_v92_004_744e5be5:
+# game/scripts_s1/s1_v92.rpy:262 #-#-# translate crowdin ev_v92_004_744e5be5:
 msgid "[Alice_06] Это ты у нас, Макс, озабоченный. Если я соглашусь, то благодаря нашим договорённостям, мне придётся спать полуголой... И ты точно не упустишь возможности глазеть и приставать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:260 #-#-# translate crowdin ev_v92_004_9594f2ec:
+# game/scripts_s1/s1_v92.rpy:263 #-#-# translate crowdin ev_v92_004_9594f2ec:
 msgid "[Max_09] Тогда давай условимся так... Я отменяю договорённость по нижнему белью на эту ночь, но остаюсь тебя охранять от пауков и обещаю не приставать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:261 #-#-# translate crowdin ev_v92_004_d454218f:
+# game/scripts_s1/s1_v92.rpy:264 #-#-# translate crowdin ev_v92_004_d454218f:
 msgid "[Alice_14] То есть, я могу одеть лифчик?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:262 #-#-# translate crowdin ev_v92_004_afc05751:
+# game/scripts_s1/s1_v92.rpy:265 #-#-# translate crowdin ev_v92_004_afc05751:
 msgid "[Max_07] Ну да."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:263 #-#-# translate crowdin ev_v92_004_f4eac3d4:
+# game/scripts_s1/s1_v92.rpy:266 #-#-# translate crowdin ev_v92_004_f4eac3d4:
 msgid "[Alice_12] Хм... Ну, тогда ладно, оставайся. Но я хочу действительно спокойно выспаться! Если ты этой ночью будешь приставать, то я мигом выпну тебя отсюда... Понял?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:264 #-#-# translate crowdin ev_v92_004_1a224943:
+# game/scripts_s1/s1_v92.rpy:267 #-#-# translate crowdin ev_v92_004_1a224943:
 msgid "[Max_01] Договорились. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:270 #-#-# translate crowdin ev_v92_004_a5fcbb70:
+# game/scripts_s1/s1_v92.rpy:273 #-#-# translate crowdin ev_v92_004_a5fcbb70:
 msgid "[Alice_06] Это ты у нас, Макс, озабоченный. Если я соглашусь, то благодаря нашим договорённостям, мне придётся спать голой... И ты точно не упустишь возможности глазеть и приставать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:271 #-#-# translate crowdin ev_v92_004_8efcfe76:
+# game/scripts_s1/s1_v92.rpy:274 #-#-# translate crowdin ev_v92_004_8efcfe76:
 msgid "[Max_09] Тогда давай условимся так... Я упрощаю договорённость по нижнему белью на эту ночь и ты можешь одеть трусики, но остаюсь тебя охранять от пауков и обещаю не приставать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:274 #-#-# translate crowdin ev_v92_004_a4401b3c:
+# game/scripts_s1/s1_v92.rpy:277 #-#-# translate crowdin ev_v92_004_a4401b3c:
 msgid "[Alice_13] А может я и лифчик одену? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:277 #-#-# translate crowdin ev_v92_004_56ba0485:
+# game/scripts_s1/s1_v92.rpy:280 #-#-# translate crowdin ev_v92_004_56ba0485:
 msgid "[Alice_02] Ура! Тогда оставайся. Но я хочу действительно спокойно выспаться! Если ты этой ночью будешь приставать, то я мигом выпну тебя отсюда... Понял? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:282 #-#-# translate crowdin ev_v92_004_93c6b5c3:
+# game/scripts_s1/s1_v92.rpy:285 #-#-# translate crowdin ev_v92_004_93c6b5c3:
 msgid "[Alice_12] Хм... Но ведь ты же однозначно будешь глазеть на мою голую грудь всю ночь. Да ещё и точно лапать полезешь рано или поздно, а я хочу действительно спокойно выспаться!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:283 #-#-# translate crowdin ev_v92_004_12188fcf:
+# game/scripts_s1/s1_v92.rpy:286 #-#-# translate crowdin ev_v92_004_12188fcf:
 msgid "[Max_10] Я же сказал, что обещаю не приставать!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:284 #-#-# translate crowdin ev_v92_004_fe97321d:
+# game/scripts_s1/s1_v92.rpy:287 #-#-# translate crowdin ev_v92_004_fe97321d:
 msgid "[Alice_16] Ой, да в жизни не поверю, что ты не воспользуешься такой возможностью. Не собираюсь я тут всю ночь тебе свою голую грудь на показ выставлять. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:293 #-#-# translate crowdin ev_v92_004_1b84107a:
+# game/scripts_s1/s1_v92.rpy:296 #-#-# translate crowdin ev_v92_004_1b84107a:
 msgid "[Alice_06] Это ты у нас, Макс, озабоченный. И ты точно не упустишь возможности глазеть и приставать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:294 #-#-# translate crowdin ev_v92_004_e391bde1:
+# game/scripts_s1/s1_v92.rpy:297 #-#-# translate crowdin ev_v92_004_e391bde1:
 msgid "[Max_09] Тогда давай условимся так... Я остаюсь тебя охранять от пауков, но если стану приставать этой ночью, то ты получаешь возможность меня персонально наказать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:295 #-#-# translate crowdin ev_v92_004_862ecf22:
+# game/scripts_s1/s1_v92.rpy:298 #-#-# translate crowdin ev_v92_004_862ecf22:
 msgid "[Alice_05] Наказать? Ммм... Это мне нравится..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:296 #-#-# translate crowdin ev_v92_004_548c7eb1:
+# game/scripts_s1/s1_v92.rpy:299 #-#-# translate crowdin ev_v92_004_548c7eb1:
 msgid "[Max_14] А то я не знаю."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:297 #-#-# translate crowdin ev_v92_004_14250ba1:
+# game/scripts_s1/s1_v92.rpy:300 #-#-# translate crowdin ev_v92_004_14250ba1:
 msgid "[Alice_02] Хм... Ну, тогда ладно, оставайся. Но я хочу действительно спокойно выспаться! Если ты этой ночью будешь приставать, то я мигом выпну тебя отсюда... А потом ещё и отшлёпаю твою задницу. Понял?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:298 #-#-# translate crowdin ev_v92_004_1a224943_1:
+# game/scripts_s1/s1_v92.rpy:301 #-#-# translate crowdin ev_v92_004_1a224943_1:
 msgid "[Max_01] Договорились. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:306 #-#-# translate crowdin ev_v92_004_551f63e3:
+# game/scripts_s1/s1_v92.rpy:309 #-#-# translate crowdin ev_v92_004_551f63e3:
 msgid "[Max_19] {m}Жаль, что Алиса одетая. Так бы можно было поглазеть на её сиськи... А если начну приставать, то обидится и прогонит. Оставлю её в покое до утра...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:316 #-#-# translate crowdin ev_v92_004_89c98d2e:
+# game/scripts_s1/s1_v92.rpy:319 #-#-# translate crowdin ev_v92_004_89c98d2e:
 msgid "[Max_07] {m}Ух... Не я один решил встать пораньше! А Алиса ещё спит. Она любит поспать подольше. И кстати, сейчас утро, а я обещал не приставать только ночью...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:321 #-#-# translate crowdin ev_v92_004_ccb1d8fa:
+# game/scripts_s1/s1_v92.rpy:324 #-#-# translate crowdin ev_v92_004_ccb1d8fa:
 msgid "[Max_04] {m}Ох, какие классные сиськи у моей сестры! Так сказать, в прямом доступе и без конфет с ликёром. А спит она крепко. Можно попробовать стянуть с неё лифчик...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:331 #-#-# translate crowdin ev_v92_004_ebdf2e91:
+# game/scripts_s1/s1_v92.rpy:334 #-#-# translate crowdin ev_v92_004_ebdf2e91:
 msgid "[Max_02] {m}Ох, вот теперь вид стал куда милее с голым сосочком моей старшей сестрёнки! А где там второй...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:335 #-#-# translate crowdin ev_v92_004_fb3bceed:
+# game/scripts_s1/s1_v92.rpy:338 #-#-# translate crowdin ev_v92_004_fb3bceed:
 msgid "[Max_03] {m}А вот он где... Красота! Только вот зря я стянул её лифчик... Когда она проснётся, то будет не рада моим похотливым проделкам. Придётся все вернуть на место, но сперва...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:342 #-#-# translate crowdin ev_v92_004_aff97e67:
+# game/scripts_s1/s1_v92.rpy:345 #-#-# translate crowdin ev_v92_004_aff97e67:
 msgid "[Max_05] {m}Ммм... Как же приятно их трогать! Кажется, Алиса стала дышать немного чаще. Может, она проснулась? Да нет, если бы проснулась, то уже бы во всю орала на меня. Так что нужно потихоньку возвращать всё как было...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:349 #-#-# translate crowdin ev_v92_004_50a75285:
+# game/scripts_s1/s1_v92.rpy:352 #-#-# translate crowdin ev_v92_004_50a75285:
 msgid "[Max_01] {m}Вроде получилось! Пока, милые сисечки, мы с вами ещё обязательно увидимся... Не скучайте.{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:371 #-#-# translate crowdin ev_v92_005_f3f02437:
+# game/scripts_s1/s1_v92.rpy:375 #-#-# translate crowdin ev_v92_005_f3f02437:
 msgid "[Alice_13] Макс! Я тебя просила убить его, а не отпускать! Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:382 #-#-# translate crowdin ev_v92_005_b61592d2:
+# game/scripts_s1/s1_v92.rpy:386 #-#-# translate crowdin ev_v92_005_b61592d2:
 msgid "[Alice_06] Но только, если договорённость по нижнему белью мы на ночь отменяем? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:388 #-#-# translate crowdin ev_v92_005_d7802798:
+# game/scripts_s1/s1_v92.rpy:392 #-#-# translate crowdin ev_v92_005_d7802798:
 msgid "[Alice_02] Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:396 #-#-# translate crowdin ev_v92_005_3d62c272:
+# game/scripts_s1/s1_v92.rpy:400 #-#-# translate crowdin ev_v92_005_3d62c272:
 msgid "[Max_19] {m}Да уж, просто спать с такой стройной и красивой девушкой хочется меньше всего, но... ничего другого не остаётся. Утром посмотрим, что можно сделать...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:406 #-#-# translate crowdin ev_v92_005_dc43930d:
+# game/scripts_s1/s1_v92.rpy:410 #-#-# translate crowdin ev_v92_005_dc43930d:
 msgid "[Max_07] {m}Вот и утро. Хорошо, что Алиса долго спит. Самое время урвать небольшую награду за охрану соблазнительного тела моей сестрёнки...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:412 #-#-# translate crowdin ev_v92_005_c30ff023:
+# game/scripts_s1/s1_v92.rpy:416 #-#-# translate crowdin ev_v92_005_c30ff023:
 msgid "[Max_04] {m}Ох, обожаю тискать эти упругие сиськи! Разумеется, куда приятнее это делать, когда они не скрыты нижнем бельём. Так что же делать дальше?{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:430 #-#-# translate crowdin ev_v92_005_58df1afa:
+# game/scripts_s1/s1_v92.rpy:434 #-#-# translate crowdin ev_v92_005_58df1afa:
 msgid "[Max_02] [lucky!t]{m}Ага! Алиса спит довольно крепко. А это значит, что мне можно спокойно глазеть на её грудь без белья! Такую красоту нельзя прятать...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:434 #-#-# translate crowdin ev_v92_005_10de3a3e:
+# game/scripts_s1/s1_v92.rpy:438 #-#-# translate crowdin ev_v92_005_10de3a3e:
 msgid "[Max_03] {m}Как аппетитно они выглядят! Ммм... А теперь главное... Попробовать вернуть всё на место или в конец обнаглеть?{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:440 #-#-# translate crowdin ev_v92_005_56674795:
+# game/scripts_s1/s1_v92.rpy:444 #-#-# translate crowdin ev_v92_005_56674795:
 msgid "[Max_05] {m}Ухх... Какие же у неё нежные сисечки! Такие мягкие и приятные, что аж отпускать не хочется... А Алисе похоже нравится! Она стала глубже дышать. Так и проснуться может... Наверное, самое время попробовать вернуть всё, как было и сваливать.{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:452 #-#-# translate crowdin ev_v92_005_5449fcbe:
+# game/scripts_s1/s1_v92.rpy:456 #-#-# translate crowdin ev_v92_005_5449fcbe:
 msgid "[Max_05] {m}Чёрт, я просто не могу уйти не поиграв с этими милыми торчащими сосочками! Это, конечно, явно чересчур, но я всё равно рискну. Ох, какие они стали твёрденькие! Ммм...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:456 #-#-# translate crowdin ev_v92_005_470cb5de:
+# game/scripts_s1/s1_v92.rpy:460 #-#-# translate crowdin ev_v92_005_470cb5de:
 msgid "[Alice_14] Макс... Эй! Ты что это делаешь? С ума что ли сошёл?!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:457 #-#-# translate crowdin ev_v92_005_3f412bf2:
+# game/scripts_s1/s1_v92.rpy:461 #-#-# translate crowdin ev_v92_005_3f412bf2:
 msgid "[Max_02] Если только слегка... Просто не удержался и решил устроить приятное утро и тебе, и себе. И я знаю, что тебе понравилось!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:458 #-#-# translate crowdin ev_v92_005_897478da:
+# game/scripts_s1/s1_v92.rpy:462 #-#-# translate crowdin ev_v92_005_897478da:
 msgid "[Alice_06] Мне... Что за бред? Э-э-э... Ты совсем сдурел! Не делай так больше, понял меня? И, вообще, проваливай к себе в комнату, пока я тебя не отпинала!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:459 #-#-# translate crowdin ev_v92_005_e65bcf6d:
+# game/scripts_s1/s1_v92.rpy:463 #-#-# translate crowdin ev_v92_005_e65bcf6d:
 msgid "[Max_01] А как спалось, хорошо?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:460 #-#-# translate crowdin ev_v92_005_a81ded0b:
+# game/scripts_s1/s1_v92.rpy:464 #-#-# translate crowdin ev_v92_005_a81ded0b:
 msgid "[Alice_12] Да ну тебя, отстань! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:478 #-#-# translate crowdin ev_v92_005_restore_bra_3473fbd3:
+# game/scripts_s1/s1_v92.rpy:482 #-#-# translate crowdin ev_v92_005_restore_bra_3473fbd3:
 msgid "[Max_01] [lucky!t]{m}Фух! Похоже, всё прошло, как по маслу и Алиса не проснулась. Пока, милые сисечки, мы с вами ещё обязательно увидимся... Не скучайте.{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:490 #-#-# translate crowdin ev_v92_005_bra_fall_811a6deb:
+# game/scripts_s1/s1_v92.rpy:494 #-#-# translate crowdin ev_v92_005_bra_fall_811a6deb:
 msgid "[Alice_12] [unlucky!t]Макс! Ты что это делаешь? Руки свои похотливые ко мне тянешь?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:491 #-#-# translate crowdin ev_v92_005_bra_fall_f120d068:
+# game/scripts_s1/s1_v92.rpy:495 #-#-# translate crowdin ev_v92_005_bra_fall_f120d068:
 msgid "[Max_01] У тебя там просто лифчик съехал, вот я и решил поправить..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:492 #-#-# translate crowdin ev_v92_005_bra_fall_8a45fa77:
+# game/scripts_s1/s1_v92.rpy:496 #-#-# translate crowdin ev_v92_005_bra_fall_8a45fa77:
 msgid "[Alice_16] Что-то мне с трудом верится. И вообще, нечего на меня глазеть! Спасибо, конечно, за охрану, но лучше шуруй к себе в комнату, пока я ещё добрая. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:518 #-#-# translate crowdin ev_v92_006_f3f02437:
+# game/scripts_s1/s1_v92.rpy:523 #-#-# translate crowdin ev_v92_006_f3f02437:
 msgid "[Alice_13] Макс! Я тебя просила убить его, а не отпускать! Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:528 #-#-# translate crowdin ev_v92_006_41206ea0:
+# game/scripts_s1/s1_v92.rpy:533 #-#-# translate crowdin ev_v92_006_41206ea0:
 msgid "[Alice_16] Вот ещё! Чтобы ты опять ко мне приставал? Нет уж, спасибо. Спать спокойнее я не буду зная, что ты только и выжидаешь момент, чтобы облапать меня."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:529 #-#-# translate crowdin ev_v92_006_78c49a54:
+# game/scripts_s1/s1_v92.rpy:534 #-#-# translate crowdin ev_v92_006_78c49a54:
 msgid "[Max_09] Ничего я не выжидаю. То, что было - просто недоразумение. А если вздумаю приставать, даже утром, то можешь меня персонально наказать за это в своём кожаном стиле."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:530 #-#-# translate crowdin ev_v92_006_95c41f95:
+# game/scripts_s1/s1_v92.rpy:535 #-#-# translate crowdin ev_v92_006_95c41f95:
 msgid "[Alice_05] Хм... А вдруг ты из тех извращенцев, которые любят, чтобы их отхлестали по заднице? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:537 #-#-# translate crowdin ev_v92_006_48b58367:
+# game/scripts_s1/s1_v92.rpy:542 #-#-# translate crowdin ev_v92_006_48b58367:
 msgid "[Alice_06] [succes!t]Но только, если договорённость по нижнему белью мы на ночь отменяем? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:542 #-#-# translate crowdin ev_v92_006_d7802798:
+# game/scripts_s1/s1_v92.rpy:547 #-#-# translate crowdin ev_v92_006_d7802798:
 msgid "[Alice_02] Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:544 #-#-# translate crowdin ev_v92_006_e11e77fb:
+# game/scripts_s1/s1_v92.rpy:549 #-#-# translate crowdin ev_v92_006_e11e77fb:
 msgid "[Alice_02] [succes!t]Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:547 #-#-# translate crowdin ev_v92_006_81f1c6a5:
+# game/scripts_s1/s1_v92.rpy:552 #-#-# translate crowdin ev_v92_006_81f1c6a5:
 msgid "[Alice_12] [failed!t]Макс, разве ты не чувствуешь? Попахивает грандиозным подвохом... Уверена, даже если ты будешь спать, то твои грязные ручонки всё равно бессознательно поползут ко мне."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:548 #-#-# translate crowdin ev_v92_006_0bd5e8a1:
+# game/scripts_s1/s1_v92.rpy:553 #-#-# translate crowdin ev_v92_006_0bd5e8a1:
 msgid "[Max_01] Ну, даже если поползут, то ты сможешь меня наказать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:549 #-#-# translate crowdin ev_v92_006_6b55d520:
+# game/scripts_s1/s1_v92.rpy:554 #-#-# translate crowdin ev_v92_006_6b55d520:
 msgid "[Alice_05] Я могу тебя наказать ещё раньше и без риска для себя... Прямо сейчас отправив тебя в добровольно-принудительном порядке в твою постель, а не в мою. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:562 #-#-# translate crowdin ev_v92_006_3d62c272:
+# game/scripts_s1/s1_v92.rpy:567 #-#-# translate crowdin ev_v92_006_3d62c272:
 msgid "[Max_19] {m}Да уж, просто спать с такой стройной и красивой девушкой хочется меньше всего, но... ничего другого не остаётся. Утром посмотрим, что можно сделать...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:572 #-#-# translate crowdin ev_v92_006_dc43930d:
+# game/scripts_s1/s1_v92.rpy:577 #-#-# translate crowdin ev_v92_006_dc43930d:
 msgid "[Max_07] {m}Вот и утро. Хорошо, что Алиса долго спит. Самое время урвать небольшую награду за охрану соблазнительного тела моей сестрёнки...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:579 #-#-# translate crowdin ev_v92_006_c30ff023:
+# game/scripts_s1/s1_v92.rpy:584 #-#-# translate crowdin ev_v92_006_c30ff023:
 msgid "[Max_04] {m}Ох, обожаю тискать эти упругие сиськи! Разумеется, куда приятнее это делать, когда они не скрыты нижнем бельём. Так что же делать дальше?{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:586 #-#-# translate crowdin ev_v92_006_f76389c3:
+# game/scripts_s1/s1_v92.rpy:591 #-#-# translate crowdin ev_v92_006_f76389c3:
 msgid "[Max_19] {m}Раз Алиса пытается запрещать мне распускать руки, то придётся разрешить ей распускать руки вот таким образом... Всё лучше, чем ничего.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:590 #-#-# translate crowdin ev_v92_006_abc195fa:
+# game/scripts_s1/s1_v92.rpy:595 #-#-# translate crowdin ev_v92_006_abc195fa:
 msgid "[Max_08] {m}Ого! Алиса что, начала нежно и не спеша мне дрочить?! Это как так? Может, это она спросонья...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:595 #-#-# translate crowdin ev_v92_006_b96c6e8c:
+# game/scripts_s1/s1_v92.rpy:600 #-#-# translate crowdin ev_v92_006_b96c6e8c:
 msgid "[Alice_09] Ммм... Э-э-э... Что-то я не поняла, что тут происходит? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:602 #-#-# translate crowdin ev_v92_006_644e04a2:
+# game/scripts_s1/s1_v92.rpy:607 #-#-# translate crowdin ev_v92_006_644e04a2:
 msgid "[Alice_15] Макс! Какого чёрта ты сейчас передо мной тут делал? Ты вообще больной?!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:603 #-#-# translate crowdin ev_v92_006_c928968c:
+# game/scripts_s1/s1_v92.rpy:608 #-#-# translate crowdin ev_v92_006_c928968c:
 msgid "[Max_09] В смысле, что я делал?! По-моему, это ты кое что делала..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:604 #-#-# translate crowdin ev_v92_006_52bb1b38:
+# game/scripts_s1/s1_v92.rpy:609 #-#-# translate crowdin ev_v92_006_52bb1b38:
 msgid "[Alice_06] Что за вздор? Э-э-э... Я не могла... Ничего я такого не делала!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:605 #-#-# translate crowdin ev_v92_006_6164a3f0:
+# game/scripts_s1/s1_v92.rpy:610 #-#-# translate crowdin ev_v92_006_6164a3f0:
 msgid "[Max_07] Да я не осуждаю. И даже совсем не против. Подумаешь, тебе захотелось мне подрочить, понимаю. Продолжай..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:606 #-#-# translate crowdin ev_v92_006_de25a684:
+# game/scripts_s1/s1_v92.rpy:611 #-#-# translate crowdin ev_v92_006_de25a684:
 msgid "[Alice_12] Ничего я не хотела, это всё твои проделки!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:607 #-#-# translate crowdin ev_v92_006_d9232f87:
+# game/scripts_s1/s1_v92.rpy:612 #-#-# translate crowdin ev_v92_006_d9232f87:
 msgid "[Max_09] Эй, это не меня поймали с членом в руке! Ты, наверно, просто ещё не до конца проснулась. Туго соображаешь..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:608 #-#-# translate crowdin ev_v92_006_57af673f:
+# game/scripts_s1/s1_v92.rpy:613 #-#-# translate crowdin ev_v92_006_57af673f:
 msgid "[Alice_16] Так, я не... Знаешь, лучше уйди. И запомни, я ничего не делала! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:631 #-#-# translate crowdin ev_v92_007_f3f02437:
+# game/scripts_s1/s1_v92.rpy:638 #-#-# translate crowdin ev_v92_007_f3f02437:
 msgid "[Alice_13] Макс! Я тебя просила убить его, а не отпускать! Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:642 #-#-# translate crowdin ev_v92_007_d6d28668:
+# game/scripts_s1/s1_v92.rpy:649 #-#-# translate crowdin ev_v92_007_d6d28668:
 msgid "[Alice_16] Вот ещё! Мне сюрпризы больше не нужны, спасибо! Спать спокойнее я не буду зная, на какие проделки ты способен."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:643 #-#-# translate crowdin ev_v92_007_79e430fc:
+# game/scripts_s1/s1_v92.rpy:650 #-#-# translate crowdin ev_v92_007_79e430fc:
 msgid "[Max_08] Так я же ничего не делал! Просто лежал и как и обещал - охранял и не приставал."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:644 #-#-# translate crowdin ev_v92_007_8e0fbe07:
+# game/scripts_s1/s1_v92.rpy:651 #-#-# translate crowdin ev_v92_007_8e0fbe07:
 msgid "[Alice_05] Ну да, конечно, это я вдруг просто взяла и решила тебе подрочить с утра пораньше. Наверно, в качестве благодарности, да?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:645 #-#-# translate crowdin ev_v92_007_241e6a9e:
+# game/scripts_s1/s1_v92.rpy:652 #-#-# translate crowdin ev_v92_007_241e6a9e:
 msgid "[Max_01] Кстати, очень даже может быть."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:646 #-#-# translate crowdin ev_v92_007_deee2b06:
+# game/scripts_s1/s1_v92.rpy:653 #-#-# translate crowdin ev_v92_007_deee2b06:
 msgid "[Alice_13] Глупости!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:647 #-#-# translate crowdin ev_v92_007_5c60a74c:
+# game/scripts_s1/s1_v92.rpy:654 #-#-# translate crowdin ev_v92_007_5c60a74c:
 msgid "[Max_09] Так давай проверим, глупости или нет? Я останусь на ночь и посмотрим, повторится это или нет."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:648 #-#-# translate crowdin ev_v92_007_942af9b0:
+# game/scripts_s1/s1_v92.rpy:655 #-#-# translate crowdin ev_v92_007_942af9b0:
 msgid "[Alice_12] Не хочу я это проверять! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:656 #-#-# translate crowdin ev_v92_007_48b58367:
+# game/scripts_s1/s1_v92.rpy:663 #-#-# translate crowdin ev_v92_007_48b58367:
 msgid "[Alice_06] [succes!t]Но только, если договорённость по нижнему белью мы на ночь отменяем? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:659 #-#-# translate crowdin ev_v92_007_d1e36dbb:
+# game/scripts_s1/s1_v92.rpy:668 #-#-# translate crowdin ev_v92_007_d1e36dbb:
 msgid "[Alice_02] Ладно, давай тогда ложиться спать. Только не приставать, а то..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:660 #-#-# translate crowdin ev_v92_007_60b793a7:
+# game/scripts_s1/s1_v92.rpy:669 #-#-# translate crowdin ev_v92_007_60b793a7:
 msgid "[Max_01] Да, я знаю... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:663 #-#-# translate crowdin ev_v92_007_126264e9:
+# game/scripts_s1/s1_v92.rpy:672 #-#-# translate crowdin ev_v92_007_126264e9:
 msgid "[Alice_02] [succes!t]Ладно, давай тогда ложиться спать. Только не приставать, а то..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:664 #-#-# translate crowdin ev_v92_007_60b793a7_1:
+# game/scripts_s1/s1_v92.rpy:673 #-#-# translate crowdin ev_v92_007_60b793a7_1:
 msgid "[Max_01] Да, я знаю... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:667 #-#-# translate crowdin ev_v92_007_6a6a145e:
+# game/scripts_s1/s1_v92.rpy:676 #-#-# translate crowdin ev_v92_007_6a6a145e:
 msgid "[Alice_16] [failed!t]Макс, иди ты на фиг! Не собираюсь я ни в чём разбираться. Давай шуруй к себе в комнату, пока я ещё добрая. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:680 #-#-# translate crowdin ev_v92_007_3d62c272:
+# game/scripts_s1/s1_v92.rpy:689 #-#-# translate crowdin ev_v92_007_3d62c272:
 msgid "[Max_19] {m}Да уж, просто спать с такой стройной и красивой девушкой хочется меньше всего, но... ничего другого не остаётся. Утром посмотрим, что можно сделать...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:690 #-#-# translate crowdin ev_v92_007_dc43930d:
+# game/scripts_s1/s1_v92.rpy:699 #-#-# translate crowdin ev_v92_007_dc43930d:
 msgid "[Max_07] {m}Вот и утро. Хорошо, что Алиса долго спит. Самое время урвать небольшую награду за охрану соблазнительного тела моей сестрёнки...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:697 #-#-# translate crowdin ev_v92_007_c30ff023:
+# game/scripts_s1/s1_v92.rpy:706 #-#-# translate crowdin ev_v92_007_c30ff023:
 msgid "[Max_04] {m}Ох, обожаю тискать эти упругие сиськи! Разумеется, куда приятнее это делать, когда они не скрыты нижнем бельём. Так что же делать дальше?{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:705 #-#-# translate crowdin ev_v92_007_ce7236a7:
+# game/scripts_s1/s1_v92.rpy:714 #-#-# translate crowdin ev_v92_007_ce7236a7:
 msgid "[Max_02] {m}А то я всё, как маленький, щупаю её сиськи... Нет, они конечно обалденные, но ведь есть и другие не менее интересные места на её теле.{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:713 #-#-# translate crowdin ev_v92_007_3c941bcd:
+# game/scripts_s1/s1_v92.rpy:722 #-#-# translate crowdin ev_v92_007_3c941bcd:
 msgid "[Max_04] {m}Вот так... Как тебе такая ответочка за то, что ты мне подрочила, сестрёнка? Можешь не отвечать, я и так чувствую, что тебе нравится.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:714 #-#-# translate crowdin ev_v92_007_f13e1439:
+# game/scripts_s1/s1_v92.rpy:723 #-#-# translate crowdin ev_v92_007_f13e1439:
 msgid "[Alice_09] Охх... Ммм... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:720 #-#-# translate crowdin ev_v92_007_9a6807ad:
+# game/scripts_s1/s1_v92.rpy:729 #-#-# translate crowdin ev_v92_007_9a6807ad:
 msgid "[Alice_15] Что происходит?! Макс, ты куда это свои руки протянул?! Жить что ли надоело?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:721 #-#-# translate crowdin ev_v92_007_652f0066:
+# game/scripts_s1/s1_v92.rpy:730 #-#-# translate crowdin ev_v92_007_652f0066:
 msgid "[Max_03] А что? Я же знаю, что тебе понравилось, ты постанывала..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:722 #-#-# translate crowdin ev_v92_007_7654a13c:
+# game/scripts_s1/s1_v92.rpy:731 #-#-# translate crowdin ev_v92_007_7654a13c:
 msgid "[Alice_17] Ты у меня сейчас тоже застонешь, только не от удовольствия! Тебе дать шанс убрать руку из моих трусов и свалить или сразу оторвать её на фиг?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:723 #-#-# translate crowdin ev_v92_007_3d6ce392:
+# game/scripts_s1/s1_v92.rpy:732 #-#-# translate crowdin ev_v92_007_3d6ce392:
 msgid "[Max_02] Вообще-то, у меня есть идея получше..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:727 #-#-# translate crowdin ev_v92_007_22d5ecf5:
+# game/scripts_s1/s1_v92.rpy:736 #-#-# translate crowdin ev_v92_007_22d5ecf5:
 msgid "[Alice_14] Ты куда это полез, а??? Я тебе сейчас..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:728 #-#-# translate crowdin ev_v92_007_a0787927:
+# game/scripts_s1/s1_v92.rpy:737 #-#-# translate crowdin ev_v92_007_a0787927:
 msgid "[Max_01] Да расслабься ты, Алиса. Я просто отвечаю взаимностью на ту утреннюю дрочку."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:729 #-#-# translate crowdin ev_v92_007_18cda93f:
+# game/scripts_s1/s1_v92.rpy:738 #-#-# translate crowdin ev_v92_007_18cda93f:
 msgid "[Alice_06] Да там случайно всё вышло!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:730 #-#-# translate crowdin ev_v92_007_dc3657f8:
+# game/scripts_s1/s1_v92.rpy:739 #-#-# translate crowdin ev_v92_007_dc3657f8:
 msgid "[Max_02] А у ТВ ты мне ножками дрочила тоже видимо случайно, каждый раз?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:731 #-#-# translate crowdin ev_v92_007_a11893a6:
+# game/scripts_s1/s1_v92.rpy:740 #-#-# translate crowdin ev_v92_007_a11893a6:
 msgid "[Alice_13] Нет, но... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:738 #-#-# translate crowdin ev_v92_007_94df6698:
+# game/scripts_s1/s1_v92.rpy:747 #-#-# translate crowdin ev_v92_007_94df6698:
 msgid "[Alice_15] Вот чёрт! Макс... Ах... Что же ты делаешь... Ммм... Совсем с ума сошёл?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:739 #-#-# translate crowdin ev_v92_007_43df41ee:
+# game/scripts_s1/s1_v92.rpy:748 #-#-# translate crowdin ev_v92_007_43df41ee:
 msgid "[Max_04] {m}Всё! Вот ты и попалась, Алиса. Сейчас я тебе устрою такое приятное утро, о котором ты ещё весь день будешь вспоминать...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:740 #-#-# translate crowdin ev_v92_007_c55b7083:
+# game/scripts_s1/s1_v92.rpy:749 #-#-# translate crowdin ev_v92_007_c55b7083:
 msgid "[Alice_10] Ухх... Как же классно ты это делаешь! Я... Я знаю, что это неправильно, но... чертовски классно... Д-а-а.... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:747 #-#-# translate crowdin ev_v92_007_3f95c1ae:
+# game/scripts_s1/s1_v92.rpy:756 #-#-# translate crowdin ev_v92_007_3f95c1ae:
 msgid "[Alice_11] Да, Макс! Продолжай вот так... Охх... Как хорошо! Д-а-а... Теперь чуть быстрее... Да, вот так! Ещё... чуть-чуть... и я кончу..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:748 #-#-# translate crowdin ev_v92_007_e1e06390:
+# game/scripts_s1/s1_v92.rpy:757 #-#-# translate crowdin ev_v92_007_e1e06390:
 msgid "[Max_07] {m}А вот ты и не угадала! В другой раз - очень может быть, но сейчас самое время тебя обломать.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:752 #-#-# translate crowdin ev_v92_007_26384d70:
+# game/scripts_s1/s1_v92.rpy:761 #-#-# translate crowdin ev_v92_007_26384d70:
 msgid "[Alice_06] Эээ... Макс, что случилось? Почему ты остановился? Я уже почти кончила!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:753 #-#-# translate crowdin ev_v92_007_c2018b44:
+# game/scripts_s1/s1_v92.rpy:762 #-#-# translate crowdin ev_v92_007_c2018b44:
 msgid "[Max_09] Вообще-то всё по-честному! Ты же меня до оргазма не доводила... Так что, если хочешь кончить, то от тебя потребуется взаимная услуга."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:754 #-#-# translate crowdin ev_v92_007_e4bc6df7:
+# game/scripts_s1/s1_v92.rpy:763 #-#-# translate crowdin ev_v92_007_e4bc6df7:
 msgid "[Alice_13] Блин, Макс! Тебе не кажется, что это чересчур?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:755 #-#-# translate crowdin ev_v92_007_d64e8fdf:
+# game/scripts_s1/s1_v92.rpy:764 #-#-# translate crowdin ev_v92_007_d64e8fdf:
 msgid "[Max_15] То есть, тебе всё, а я как-нибудь сам, да? Нет, такое отношение меня не устраивает, Алиса. Так что, лучше задумайся-ка над этим, а я пойду к себе... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:772 #-#-# translate crowdin ev_v92_008_690b168c:
+# game/scripts_s1/s1_v92.rpy:781 #-#-# translate crowdin ev_v92_008_690b168c:
 msgid "[Alice_06] Макс! Вот чёрт, ещё и ты меня напугал! Ко мне здоровенный паук в душ заполз..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:773 #-#-# translate crowdin ev_v92_008_7a7b4f76:
+# game/scripts_s1/s1_v92.rpy:782 #-#-# translate crowdin ev_v92_008_7a7b4f76:
 msgid "[Max_04] Не переживай! Сейчас я его поймаю и выброшу... И ты спокойно домоешься."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:774 #-#-# translate crowdin ev_v92_008_75632a81:
+# game/scripts_s1/s1_v92.rpy:783 #-#-# translate crowdin ev_v92_008_75632a81:
 msgid "[Alice_13] Нет уж, я не смогу пока зайти обратно... Мне нужно время, чтобы перестать думать обо всём этом кошмаре. Лучше принеси мне полотенце, оно там, в ванной... А то слишком уж тебе повезло на меня голую глазеть! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:781 #-#-# translate crowdin ev_v92_008_34d02817:
+# game/scripts_s1/s1_v92.rpy:790 #-#-# translate crowdin ev_v92_008_34d02817:
 msgid "[Alice_12] Это ты сейчас так пошутил, да? Вообще-то, Макс, мне сейчас совсем не до смеха! Мало того, что там паук ползает где-то, так ещё ты будешь пялиться."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:782 #-#-# translate crowdin ev_v92_008_9320408f:
+# game/scripts_s1/s1_v92.rpy:791 #-#-# translate crowdin ev_v92_008_9320408f:
 msgid "[Max_01] Как хочешь. Тогда пойду за полотенцем..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:795 #-#-# translate crowdin ev_v92_009_690b168c:
+# game/scripts_s1/s1_v92.rpy:804 #-#-# translate crowdin ev_v92_009_690b168c:
 msgid "[Alice_06] Макс! Вот чёрт, ещё и ты меня напугал! Ко мне здоровенный паук в душ заполз..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:796 #-#-# translate crowdin ev_v92_009_7a7b4f76:
+# game/scripts_s1/s1_v92.rpy:805 #-#-# translate crowdin ev_v92_009_7a7b4f76:
 msgid "[Max_04] Не переживай! Сейчас я его поймаю и выброшу... И ты спокойно домоешься."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:797 #-#-# translate crowdin ev_v92_009_747cf36e:
+# game/scripts_s1/s1_v92.rpy:806 #-#-# translate crowdin ev_v92_009_747cf36e:
 msgid "[Alice_13] Нет уж, я не смогу пока зайти обратно... Мне нужно время, чтобы перестать думать обо всём этом кошмаре. Лучше принеси мне полотенце, оно там, в ванной..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:798 #-#-# translate crowdin ev_v92_009_d7f9e6c5:
+# game/scripts_s1/s1_v92.rpy:807 #-#-# translate crowdin ev_v92_009_d7f9e6c5:
 msgid "[Max_01] Давай примем душ вместе? Будет не так страшно..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:804 #-#-# translate crowdin ev_v92_009_86fe745a:
+# game/scripts_s1/s1_v92.rpy:813 #-#-# translate crowdin ev_v92_009_86fe745a:
 msgid "[Alice_05] Ага, знаю я, чего ты хочешь! Будешь глазеть на меня и оправдывать это тем, что следишь, чтобы на меня паук не напал."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:805 #-#-# translate crowdin ev_v92_009_9276355f:
+# game/scripts_s1/s1_v92.rpy:814 #-#-# translate crowdin ev_v92_009_9276355f:
 msgid "[Max_09] Ну а как иначе? Если я не буду смотреть по сторонам и он на тебя нападёт, то какой тогда смысл мне находится с тобой в душе?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:806 #-#-# translate crowdin ev_v92_009_3d8d9945:
+# game/scripts_s1/s1_v92.rpy:815 #-#-# translate crowdin ev_v92_009_3d8d9945:
 msgid "[Alice_12] Вот и смотри тогда по сторонам, а не на меня. Понял?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:807 #-#-# translate crowdin ev_v92_009_3cd901ff:
+# game/scripts_s1/s1_v92.rpy:816 #-#-# translate crowdin ev_v92_009_3cd901ff:
 msgid "[Max_03] Не волнуйся, конечно я всё понял!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:808 #-#-# translate crowdin ev_v92_009_6ea959b1:
+# game/scripts_s1/s1_v92.rpy:817 #-#-# translate crowdin ev_v92_009_6ea959b1:
 msgid "[Alice_05] Смотри мне! Я почувствую, если ты будешь сверлить меня своими бесстыжими глазами. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:817 #-#-# translate crowdin ev_v92_009_59b94420:
+# game/scripts_s1/s1_v92.rpy:826 #-#-# translate crowdin ev_v92_009_59b94420:
 msgid "[Max_04] {m}Эх, всего в метре, за моей спиной, Алиса водит руками по своему мокренькому телу... Ммм... На такое нужно обязательно глянуть хоть одним глазком.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:822 #-#-# translate crowdin ev_v92_009_8c247fb1:
+# game/scripts_s1/s1_v92.rpy:831 #-#-# translate crowdin ev_v92_009_8c247fb1:
 msgid "[Alice_06] Эй, хватит на меня пялиться, Макс! Я же тебя предупреждала..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:823 #-#-# translate crowdin ev_v92_009_614f2b5b:
+# game/scripts_s1/s1_v92.rpy:832 #-#-# translate crowdin ev_v92_009_614f2b5b:
 msgid "[Max_02] Я высматриваю паука, не отвлекай!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:824 #-#-# translate crowdin ev_v92_009_b1d86f46:
+# game/scripts_s1/s1_v92.rpy:833 #-#-# translate crowdin ev_v92_009_b1d86f46:
 msgid "[Alice_13] У меня на заднице его точно нет, так что живо глаза в пол!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:825 #-#-# translate crowdin ev_v92_009_2760afa9:
+# game/scripts_s1/s1_v92.rpy:834 #-#-# translate crowdin ev_v92_009_2760afa9:
 msgid "[Max_11] Эх..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:829 #-#-# translate crowdin ev_v92_009_d46c69a9:
+# game/scripts_s1/s1_v92.rpy:838 #-#-# translate crowdin ev_v92_009_d46c69a9:
 msgid "[Alice_14] Ой, мамочки... Макс, он... Он здесь..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:830 #-#-# translate crowdin ev_v92_009_fa5b82eb:
+# game/scripts_s1/s1_v92.rpy:839 #-#-# translate crowdin ev_v92_009_fa5b82eb:
 msgid "[Max_07] Что? Говори громче, из-за шума воды я не расслышал, что ты там бормочешь."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:831 #-#-# translate crowdin ev_v92_009_7c312b34:
+# game/scripts_s1/s1_v92.rpy:840 #-#-# translate crowdin ev_v92_009_7c312b34:
 msgid "[Alice_06] Я... Я говорю, что он уже прямо здесь! Около меня!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:832 #-#-# translate crowdin ev_v92_009_eb86a8c8:
+# game/scripts_s1/s1_v92.rpy:841 #-#-# translate crowdin ev_v92_009_eb86a8c8:
 msgid "[Max_09] Паук? Покажи, где?!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:837 #-#-# translate crowdin ev_v92_009_36173327:
+# game/scripts_s1/s1_v92.rpy:846 #-#-# translate crowdin ev_v92_009_36173327:
 msgid "[Alice_13] Вот! Вот он! Видишь? Убери его скорее отсюда, я боюсь!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:838 #-#-# translate crowdin ev_v92_009_4274508e:
+# game/scripts_s1/s1_v92.rpy:847 #-#-# translate crowdin ev_v92_009_4274508e:
 msgid "[Max_07] Не истери, давай просто спокойно постоим и подождём, может он сам отсюда уползёт."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:839 #-#-# translate crowdin ev_v92_009_296a325e:
+# game/scripts_s1/s1_v92.rpy:848 #-#-# translate crowdin ev_v92_009_296a325e:
 msgid "[Alice_06] Ага, постоим... Чем ко мне прижиматься, лучше бы поскорее избавился от этого паука! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:846 #-#-# translate crowdin ev_v92_009_85d20cd1:
+# game/scripts_s1/s1_v92.rpy:855 #-#-# translate crowdin ev_v92_009_85d20cd1:
 msgid "[Alice_12] Ну же, Макс, скорее! Убери его отсюда! Убери его, пожалуйста, как можно дальше от нашего дома!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:847 #-#-# translate crowdin ev_v92_009_5d7b6602:
+# game/scripts_s1/s1_v92.rpy:856 #-#-# translate crowdin ev_v92_009_5d7b6602:
 msgid "[Max_01] Не переживай, я выпущу его за ворота, чтобы ты уже наконец успокоилась."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:851 #-#-# translate crowdin ev_v92_009_e755cdd5:
+# game/scripts_s1/s1_v92.rpy:860 #-#-# translate crowdin ev_v92_009_e755cdd5:
 msgid "[Max_07] {m}Ползи к своим, паучок. Жаль, что тебя заметила Алиса, а не я.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:856 #-#-# translate crowdin ev_v92_009_14e76f71:
+# game/scripts_s1/s1_v92.rpy:865 #-#-# translate crowdin ev_v92_009_14e76f71:
 msgid "[Max_09] Эй! Ты куда это? Неужели всё..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:857 #-#-# translate crowdin ev_v92_009_b20e0d4a:
+# game/scripts_s1/s1_v92.rpy:866 #-#-# translate crowdin ev_v92_009_b20e0d4a:
 msgid "[Alice_13] Всё, на сегодня с меня потрясений достаточно. Сначала этот паук припёрся, потом ты на меня пялился... Но ты от него избавился и на том спасибо."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:858 #-#-# translate crowdin ev_v92_009_c719e384:
+# game/scripts_s1/s1_v92.rpy:867 #-#-# translate crowdin ev_v92_009_c719e384:
 msgid "[Max_01] А как же обнять спасителя?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:859 #-#-# translate crowdin ev_v92_009_4b8a29fc:
+# game/scripts_s1/s1_v92.rpy:868 #-#-# translate crowdin ev_v92_009_4b8a29fc:
 msgid "[Alice_05] Это я, конечно, могу сделать... Но если вздумаешь с меня полотенце сорвать, то я тебя прибью на фиг!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:860 #-#-# translate crowdin ev_v92_009_ad2935a8:
+# game/scripts_s1/s1_v92.rpy:869 #-#-# translate crowdin ev_v92_009_ad2935a8:
 msgid "[Max_07] Не буду я ничего такого делать! Что я, маленький что ли?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:865 #-#-# translate crowdin ev_v92_009_d7ce64dd:
+# game/scripts_s1/s1_v92.rpy:874 #-#-# translate crowdin ev_v92_009_d7ce64dd:
 msgid "[Alice_03] Таких объятий тебе достаточно? Уж извини, что не обнимаю всеми руками... сам знаешь почему..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:866 #-#-# translate crowdin ev_v92_009_7beed494:
+# game/scripts_s1/s1_v92.rpy:875 #-#-# translate crowdin ev_v92_009_7beed494:
 msgid "[Max_04] Зато у меня руки свободны..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:870 #-#-# translate crowdin ev_v92_009_32effdfa:
+# game/scripts_s1/s1_v92.rpy:879 #-#-# translate crowdin ev_v92_009_32effdfa:
 msgid "[Alice_15] Оу, Макс, может не стоит так сильно прижиматься?! Я уже чувствую, как кое-что увеличивается в размерах..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:874 #-#-# translate crowdin ev_v92_009_a09c6750:
+# game/scripts_s1/s1_v92.rpy:883 #-#-# translate crowdin ev_v92_009_a09c6750:
 msgid "[Max_02] Сложно удержаться и не потискать твою попку..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:875 #-#-# translate crowdin ev_v92_009_338d2b71:
+# game/scripts_s1/s1_v92.rpy:884 #-#-# translate crowdin ev_v92_009_338d2b71:
 msgid "[Alice_05] Я, конечно, очень рада, что моя попка настолько прекрасна, но ты бы мог задействовать свои руки куда продуктивнее, если бы предложил потереть мою спинку, пока мы были в душе..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:876 #-#-# translate crowdin ev_v92_009_5c109c84:
+# game/scripts_s1/s1_v92.rpy:885 #-#-# translate crowdin ev_v92_009_5c109c84:
 msgid "[Max_07] Так тебе же не нравится, что я на тебя глазею? А там без этого никуда..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:880 #-#-# translate crowdin ev_v92_009_bd221504:
+# game/scripts_s1/s1_v92.rpy:889 #-#-# translate crowdin ev_v92_009_bd221504:
 msgid "[Alice_07] Ты же у нас массажист талантливый. Уверена, сможешь прекрасно справиться и с закрытыми глазами, верно?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:881 #-#-# translate crowdin ev_v92_009_b5d916e7:
+# game/scripts_s1/s1_v92.rpy:890 #-#-# translate crowdin ev_v92_009_b5d916e7:
 msgid "[Max_02] Тогда в следующий раз я с радостью займусь твоей спинкой. Ну, если пауки тебя снова вздумают потревожить..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:882 #-#-# translate crowdin ev_v92_009_b4380324:
+# game/scripts_s1/s1_v92.rpy:891 #-#-# translate crowdin ev_v92_009_b4380324:
 msgid "[Alice_05] Надеюсь, не станут, но если что..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:900 #-#-# translate crowdin ev_v92_010_245ddc0e:
+# game/scripts_s1/s1_v92.rpy:909 #-#-# translate crowdin ev_v92_010_245ddc0e:
 msgid "[Alice_06] Макс! Вот чёрт, ещё и ты меня напугал! Ко мне здоровенный паук в душ заполз... Посмотришь, чтобы он до меня не добрался, пока я буду мыться?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:901 #-#-# translate crowdin ev_v92_010_4e32f61e:
+# game/scripts_s1/s1_v92.rpy:910 #-#-# translate crowdin ev_v92_010_4e32f61e:
 msgid "[Max_01] Ну конечно посмотрю, не переживай!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:904 #-#-# translate crowdin ev_v92_010_107a3d85:
+# game/scripts_s1/s1_v92.rpy:916 #-#-# translate crowdin ev_v92_010_107a3d85:
 msgid "[Max_19] {m}Как мне помнится, Алиса зазывала меня потереть ей спинку... Так что никакого смысла скромничать нет. За дело!{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:907 #-#-# translate crowdin ev_v92_010_3d4f578c:
+# game/scripts_s1/s1_v92.rpy:921 #-#-# translate crowdin ev_v92_010_3d4f578c:
 msgid "[Max_07] Эй, Алиса, если это сможет тебя успокоить, то я могу потереть тебе спинку, а то трясёшься вся от страха."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:908 #-#-# translate crowdin ev_v92_010_fed3a4ef:
+# game/scripts_s1/s1_v92.rpy:922 #-#-# translate crowdin ev_v92_010_fed3a4ef:
 msgid "[Alice_13] Руки у тебя волшебные, но мне кажется, что даже они смогут отвлечь мои мысли от паука, который где-то тут ползает сейчас. Бррр..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:909 #-#-# translate crowdin ev_v92_010_b4f114bf:
+# game/scripts_s1/s1_v92.rpy:923 #-#-# translate crowdin ev_v92_010_b4f114bf:
 msgid "[Max_03] Ну, тебе кажется, а я в своих способностях уверен. Останешься довольной, гарантирую."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:911 #-#-# translate crowdin ev_v92_010_4e89b1e1:
+# game/scripts_s1/s1_v92.rpy:925 #-#-# translate crowdin ev_v92_010_4e89b1e1:
 msgid "[Alice_02] Продано! Пробуй... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:915 #-#-# translate crowdin ev_v92_010_fdaf5158:
+# game/scripts_s1/s1_v92.rpy:931 #-#-# translate crowdin ev_v92_010_fdaf5158:
 msgid "[Alice_05] Ммм... Довольно неплохо... Хоть какая-то польза от тебя, а то только и можешь, что подглядывать за мной."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:916 #-#-# translate crowdin ev_v92_010_3a719fa7:
+# game/scripts_s1/s1_v92.rpy:932 #-#-# translate crowdin ev_v92_010_3a719fa7:
 msgid "[Max_01] Лучше бы радовалась. Значит есть, на что посмотреть."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:917 #-#-# translate crowdin ev_v92_010_954b545f:
+# game/scripts_s1/s1_v92.rpy:933 #-#-# translate crowdin ev_v92_010_954b545f:
 msgid "[Alice_06] Хм... Весьма сомнительная радость, красоваться обнажённой перед братом."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:918 #-#-# translate crowdin ev_v92_010_52ccfdee:
+# game/scripts_s1/s1_v92.rpy:934 #-#-# translate crowdin ev_v92_010_52ccfdee:
 msgid "[Max_02] По-моему не сомнительная, а очевидная. Раз я здесь, то тебе приятно моё внимание и мои прикосновения..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:921 #-#-# translate crowdin ev_v92_010_a0f9fd4c:
+# game/scripts_s1/s1_v92.rpy:939 #-#-# translate crowdin ev_v92_010_a0f9fd4c:
 msgid "[Alice_14] Воу-воу! Эй, Макс, ты ничего не перепутал? Разве твои ручонки не должны быть у меня на спине?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:922 #-#-# translate crowdin ev_v92_010_b3b6d6b8:
+# game/scripts_s1/s1_v92.rpy:940 #-#-# translate crowdin ev_v92_010_b3b6d6b8:
 msgid "[Max_04] Побыли и хватит. Может я не хочу ограничиться лишь твоей прелестной спинкой?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:923 #-#-# translate crowdin ev_v92_010_262b4dfa:
+# game/scripts_s1/s1_v92.rpy:941 #-#-# translate crowdin ev_v92_010_262b4dfa:
 msgid "[Alice_12] А ты при этом на пол-то хоть смотришь? Там ведь паук где-то бегает или ты забыл?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:924 #-#-# translate crowdin ev_v92_010_26076e33:
+# game/scripts_s1/s1_v92.rpy:942 #-#-# translate crowdin ev_v92_010_26076e33:
 msgid "[Max_02] У меня всё под контролем. Можешь расслабиться."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:927 #-#-# translate crowdin ev_v92_010_ccd16eec:
+# game/scripts_s1/s1_v92.rpy:947 #-#-# translate crowdin ev_v92_010_ccd16eec:
 msgid "[Alice_04] Охх... Ну, раз так, то я просто таю в твоих чутких руках. Это очень приятно..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:928 #-#-# translate crowdin ev_v92_010_d71bc8ad:
+# game/scripts_s1/s1_v92.rpy:948 #-#-# translate crowdin ev_v92_010_d71bc8ad:
 msgid "[Max_01] И они могут побывать везде, чтобы тебе стало ещё приятнее..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:931 #-#-# translate crowdin ev_v92_010_8f1e3e36:
+# game/scripts_s1/s1_v92.rpy:953 #-#-# translate crowdin ev_v92_010_8f1e3e36:
 msgid "[Alice_08] Ммм... Какое интересное предложение. Прям везде-везде могут?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:932 #-#-# translate crowdin ev_v92_010_3c52977d:
+# game/scripts_s1/s1_v92.rpy:954 #-#-# translate crowdin ev_v92_010_3c52977d:
 msgid "[Max_04] Абсолютно везде! Хочешь попробовать?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:935 #-#-# translate crowdin ev_v92_010_d46c69a9:
+# game/scripts_s1/s1_v92.rpy:959 #-#-# translate crowdin ev_v92_010_d46c69a9:
 msgid "[Alice_14] Ой, мамочки... Макс, он... Он здесь..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:936 #-#-# translate crowdin ev_v92_010_11c49333:
+# game/scripts_s1/s1_v92.rpy:960 #-#-# translate crowdin ev_v92_010_11c49333:
 msgid "[Max_16] Вот чёрт! Как же он не вовремя показался."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:939 #-#-# translate crowdin ev_v92_010_4acb5690:
+# game/scripts_s1/s1_v92.rpy:965 #-#-# translate crowdin ev_v92_010_4acb5690:
 msgid "[Alice_15] А-а-а! Боже мой! Он пополз прямо к нам! Макс, сделай что-нибудь!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:940 #-#-# translate crowdin ev_v92_010_677d72f9:
+# game/scripts_s1/s1_v92.rpy:966 #-#-# translate crowdin ev_v92_010_677d72f9:
 msgid "[Max_08] Уфф... Ничего себе, ты устроилась. Я же не вешалка!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:941 #-#-# translate crowdin ev_v92_010_acaf3bce:
+# game/scripts_s1/s1_v92.rpy:967 #-#-# translate crowdin ev_v92_010_acaf3bce:
 msgid "[Alice_06] Убери его скорее, Макс! Прошу тебя!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:942 #-#-# translate crowdin ev_v92_010_94df0282:
+# game/scripts_s1/s1_v92.rpy:968 #-#-# translate crowdin ev_v92_010_94df0282:
 msgid "[Max_07] Да, я бы с радостью, но у меня руки сейчас заняты, если ты не заметила."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:945 #-#-# translate crowdin ev_v92_010_03d5aa26:
+# game/scripts_s1/s1_v92.rpy:973 #-#-# translate crowdin ev_v92_010_03d5aa26:
 msgid "[Alice_12] Подожди... это... Ты серьёзно? Я тут чуть ли не умираю от страха, а у тебя встал!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:946 #-#-# translate crowdin ev_v92_010_b0ce0556:
+# game/scripts_s1/s1_v92.rpy:974 #-#-# translate crowdin ev_v92_010_b0ce0556:
 msgid "[Max_03] Просто ты очень удачно пристроила свою голенькую попку и мне от этого приятно."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:948 #-#-# translate crowdin ev_v92_010_88920c66:
+# game/scripts_s1/s1_v92.rpy:976 #-#-# translate crowdin ev_v92_010_88920c66:
 msgid "[Alice_13] Я, так уж и быть, тогда слезу с твоей подставки, а ты быстрее лови этого паука... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:952 #-#-# translate crowdin ev_v92_010_85d20cd1:
+# game/scripts_s1/s1_v92.rpy:981 #-#-# translate crowdin ev_v92_010_85d20cd1:
 msgid "[Alice_12] Ну же, Макс, скорее! Убери его отсюда! Убери его, пожалуйста, как можно дальше от нашего дома!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:953 #-#-# translate crowdin ev_v92_010_5d7b6602:
+# game/scripts_s1/s1_v92.rpy:982 #-#-# translate crowdin ev_v92_010_5d7b6602:
 msgid "[Max_01] Не переживай, я выпущу его за ворота, чтобы ты уже наконец успокоилась."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:956 #-#-# translate crowdin ev_v92_010_e755cdd5:
+# game/scripts_s1/s1_v92.rpy:986 #-#-# translate crowdin ev_v92_010_e755cdd5:
 msgid "[Max_07] {m}Ползи к своим, паучок. Жаль, что тебя заметила Алиса, а не я.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:959 #-#-# translate crowdin ev_v92_010_14e76f71:
+# game/scripts_s1/s1_v92.rpy:991 #-#-# translate crowdin ev_v92_010_14e76f71:
 msgid "[Max_09] Эй! Ты куда это? Неужели всё..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:960 #-#-# translate crowdin ev_v92_010_cc0e7134:
+# game/scripts_s1/s1_v92.rpy:992 #-#-# translate crowdin ev_v92_010_cc0e7134:
 msgid "[Alice_05] Относился бы ты к своим обязанностям повнимательнее, может было бы и не всё."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:963 #-#-# translate crowdin ev_v92_010_d7535565:
+# game/scripts_s1/s1_v92.rpy:997 #-#-# translate crowdin ev_v92_010_d7535565:
 msgid "[Max_02] Но... Я ведь ещё не закончил массаж. Мои руки жаждут продолжения..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:964 #-#-# translate crowdin ev_v92_010_03ad419d:
+# game/scripts_s1/s1_v92.rpy:998 #-#-# translate crowdin ev_v92_010_03ad419d:
 msgid "[Alice_02] Да что ты... Возможно в следующий раз нам повезёт больше."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:965 #-#-# translate crowdin ev_v92_010_7aa893d3:
+# game/scripts_s1/s1_v92.rpy:999 #-#-# translate crowdin ev_v92_010_7aa893d3:
 msgid "[Max_11] Как печально..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:968 #-#-# translate crowdin ev_v92_010_dcd82e5e:
+# game/scripts_s1/s1_v92.rpy:1004 #-#-# translate crowdin ev_v92_010_dcd82e5e:
 msgid "[Alice_04] Но за спасение от чудовища пожалуй чмокну тебя разочек. Спасибо тебе."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:969 #-#-# translate crowdin ev_v92_010_e2b5b8ee:
+# game/scripts_s1/s1_v92.rpy:1005 #-#-# translate crowdin ev_v92_010_e2b5b8ee:
 msgid "[Max_01] Рад был помочь."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:987 #-#-# translate crowdin ev_v92_011_245ddc0e:
+# game/scripts_s1/s1_v92.rpy:1023 #-#-# translate crowdin ev_v92_011_245ddc0e:
 msgid "[Alice_06] Макс! Вот чёрт, ещё и ты меня напугал! Ко мне здоровенный паук в душ заполз... Посмотришь, чтобы он до меня не добрался, пока я буду мыться?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:988 #-#-# translate crowdin ev_v92_011_4e32f61e:
+# game/scripts_s1/s1_v92.rpy:1024 #-#-# translate crowdin ev_v92_011_4e32f61e:
 msgid "[Max_01] Ну конечно посмотрю, не переживай!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:991 #-#-# translate crowdin ev_v92_011_0f2caadd:
+# game/scripts_s1/s1_v92.rpy:1030 #-#-# translate crowdin ev_v92_011_0f2caadd:
 msgid "[Max_09] {m}Посмотреть-то я посмотрю, но... из-за этого паука, который может выползти в самый неподходящий момент и всё обломать, я далеко с Алисой не продвинусь по части соблазнения.{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:995 #-#-# translate crowdin ev_v92_011_c518fa1e:
+# game/scripts_s1/s1_v92.rpy:1036 #-#-# translate crowdin ev_v92_011_c518fa1e:
 msgid "[Max_04] {m}Фух, повезло! Наконец-то он выполз с моей стороны. Теперь, пока Алиса ничего не заметила, нужно сделать так, чтобы он не помешал нам. Закину его в ванну и буду надеяться, что он не сможет оттуда свалить...{/m} [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:999 #-#-# translate crowdin ev_v92_011_504bc5b8:
+# game/scripts_s1/s1_v92.rpy:1042 #-#-# translate crowdin ev_v92_011_504bc5b8:
 msgid "[Max_01] Ну, ты как, Алиса, успокоилась? Давай я потру тебе спинку, чтобы ты немного расслабилась."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1000 #-#-# translate crowdin ev_v92_011_a6bc8c51:
+# game/scripts_s1/s1_v92.rpy:1043 #-#-# translate crowdin ev_v92_011_a6bc8c51:
 msgid "[Alice_12] Нет, блин, я просто так прикалываюсь, что боюсь пауков, на самом деле мне нравится сверкать перед тобой голой задницей."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1001 #-#-# translate crowdin ev_v92_011_21bc0fc8:
+# game/scripts_s1/s1_v92.rpy:1044 #-#-# translate crowdin ev_v92_011_21bc0fc8:
 msgid "[Max_02] Мойся спокойно... Я ОЧЕНЬ внимательно прослежу за тем, чтобы всё было хорошо."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1004 #-#-# translate crowdin ev_v92_011_5bad9ffb:
+# game/scripts_s1/s1_v92.rpy:1049 #-#-# translate crowdin ev_v92_011_5bad9ffb:
 msgid "[Alice_13] Лучше бы пошёл и отыскал этого паука, вместо того, чтобы меня успокаивать."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1005 #-#-# translate crowdin ev_v92_011_119f7ffd:
+# game/scripts_s1/s1_v92.rpy:1050 #-#-# translate crowdin ev_v92_011_119f7ffd:
 msgid "[Max_07] И оставить тебя здесь одну, такую беззащитную? Находится в моих руках куда безопаснее... Разве нет?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1008 #-#-# translate crowdin ev_v92_011_bf0b1618:
+# game/scripts_s1/s1_v92.rpy:1054 #-#-# translate crowdin ev_v92_011_bf0b1618:
 msgid "[Alice_02] Ну... Пока ты не лапаешь меня, как какой-нибудь озабоченный грубиян, а проявляешь максимум чуткости и заботы, лучше оставайся рядом."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1009 #-#-# translate crowdin ev_v92_011_b207d195:
+# game/scripts_s1/s1_v92.rpy:1055 #-#-# translate crowdin ev_v92_011_b207d195:
 msgid "[Max_03] С такой красивой сестрёнкой, как ты, находится рядом одно удовольствие."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1012 #-#-# translate crowdin ev_v92_011_6d6001cb:
+# game/scripts_s1/s1_v92.rpy:1060 #-#-# translate crowdin ev_v92_011_6d6001cb:
 msgid "[Alice_08] Ммм... Да, ты прав, от такого удовольствия было бы глупо отказываться. Правда, меня немного смущает то, что я позволяю своему брату скользить руками по всему моему телу..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1013 #-#-# translate crowdin ev_v92_011_b4301b40:
+# game/scripts_s1/s1_v92.rpy:1061 #-#-# translate crowdin ev_v92_011_b4301b40:
 msgid "[Max_04] Что поделать, если руки так и тянутся к прекрасному..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1016 #-#-# translate crowdin ev_v92_011_8cab161b:
+# game/scripts_s1/s1_v92.rpy:1066 #-#-# translate crowdin ev_v92_011_8cab161b:
 msgid "[Alice_06] Охх... Ты полез рукой прямо туда... Твои пальцы... Ммм... Это о-о-очень многообещающее начало, Макс. Ты хоть помнишь, что я пустила тебя сюда не только за этим?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1017 #-#-# translate crowdin ev_v92_011_9fcae7be:
+# game/scripts_s1/s1_v92.rpy:1067 #-#-# translate crowdin ev_v92_011_9fcae7be:
 msgid "[Max_02] На этот раз нам никто не помешает."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1021 #-#-# translate crowdin ev_v92_011_679972ac:
+# game/scripts_s1/s1_v92.rpy:1072 #-#-# translate crowdin ev_v92_011_679972ac:
 msgid "[Alice_09] Ахх... Как же хорошо! Я просто таю в твоих талантливых ручках... Д-а-а... Это так неправильно! Но к чёрту, продолжай... Мне нравится, как ты это делаешь, ммм... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1024 #-#-# translate crowdin ev_v92_011_d9b3b6ff:
+# game/scripts_s1/s1_v92.rpy:1075 #-#-# translate crowdin ev_v92_011_d9b3b6ff:
 msgid "[Alice_10] Ах! Вот чёрт, Макс! Да-а-а... это так классно... быстрее... Как же меня возбуждает твой огромный член!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1025 #-#-# translate crowdin ev_v92_011_1257c037:
+# game/scripts_s1/s1_v92.rpy:1076 #-#-# translate crowdin ev_v92_011_1257c037:
 msgid "[Max_04] {m}Алиса так приятно постанывает... А уж как приятно тереться членом прямо между её упругих и мокрых булочек! Класс...{/m}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1028 #-#-# translate crowdin ev_v92_011_4b702feb:
+# game/scripts_s1/s1_v92.rpy:1081 #-#-# translate crowdin ev_v92_011_4b702feb:
 msgid "[Alice_11] Ах! Я больше не могу, Макс... Кончаю! Да-а-а... Это было что-то невообразимое... Мне о-о-очень понравилось! А ты ещё не кончил?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1029 #-#-# translate crowdin ev_v92_011_19811d05:
+# game/scripts_s1/s1_v92.rpy:1082 #-#-# translate crowdin ev_v92_011_19811d05:
 msgid "[Max_03] Думаешь, что твоя прелестная попка может заставить меня так быстро кончить? Нет, для этого ей нужно очень чувственно подвигаться..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1032 #-#-# translate crowdin ev_v92_011_8db39efa:
+# game/scripts_s1/s1_v92.rpy:1087 #-#-# translate crowdin ev_v92_011_8db39efa:
 msgid "[Alice_07] Сейчас ты узнаешь, на что способна моя попка! Ммм... Никогда бы не подумала, что буду вытворять такое с тобой! Ну и вымахал же у тебя такой член, Макс! Ты уже скоро?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1033 #-#-# translate crowdin ev_v92_011_94ff5038:
+# game/scripts_s1/s1_v92.rpy:1088 #-#-# translate crowdin ev_v92_011_94ff5038:
 msgid "[Max_22] О да, Алиса, так приятно... Давай ещё! Я уже почти... вот-вот... Д-а-а..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1036 #-#-# translate crowdin ev_v92_011_3518bcef:
+# game/scripts_s1/s1_v92.rpy:1093 #-#-# translate crowdin ev_v92_011_3518bcef:
 msgid "[Alice_09] Ого, сколько в тебе было... потенциала... Всю спину мне заляпал! Удобно, что мы сейчас принимаем душ..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1037 #-#-# translate crowdin ev_v92_011_48410418:
+# game/scripts_s1/s1_v92.rpy:1094 #-#-# translate crowdin ev_v92_011_48410418:
 msgid "[Max_02] Я здесь вообще-то, в первую очередь, от паука тебя защищаю, а уже потом всё остальное."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1040 #-#-# translate crowdin ev_v92_011_0870b1e5:
+# game/scripts_s1/s1_v92.rpy:1099 #-#-# translate crowdin ev_v92_011_0870b1e5:
 msgid "[Alice_02] Кстати, я только сейчас обратила внимание, что паука нигде не видно. Твои ручки и правда могут заставить забыться..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1041 #-#-# translate crowdin ev_v92_011_6fdc89b4:
+# game/scripts_s1/s1_v92.rpy:1100 #-#-# translate crowdin ev_v92_011_6fdc89b4:
 msgid "[Max_01] Может он просто услышал твои стоны, испугался и забился в какой-нибудь угол? Или вовсе убежал отсюда куда подальше."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1042 #-#-# translate crowdin ev_v92_011_b1f5f490:
+# game/scripts_s1/s1_v92.rpy:1101 #-#-# translate crowdin ev_v92_011_b1f5f490:
 msgid "[Alice_05] Оу... Если так, то мне теперь будет нужна твоя помощь, потому что какой смысл стонать одной, если есть ты. Ну, конечно, если меня снова будут терроризировать пауки..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1043 #-#-# translate crowdin ev_v92_011_08512c11:
+# game/scripts_s1/s1_v92.rpy:1102 #-#-# translate crowdin ev_v92_011_08512c11:
 msgid "[Max_04] Как всегда, кричи погромче, чтобы я прибежал на помощь."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1046 #-#-# translate crowdin ev_v92_011_e72ab991:
+# game/scripts_s1/s1_v92.rpy:1107 #-#-# translate crowdin ev_v92_011_e72ab991:
 msgid "[Alice_04] Спасибо тебе. И вообще, ты же никому не проболтаешься о том, что тут было?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1047 #-#-# translate crowdin ev_v92_011_7894f632:
+# game/scripts_s1/s1_v92.rpy:1108 #-#-# translate crowdin ev_v92_011_7894f632:
 msgid "[Max_02] Где было? Что было? Не понимаю, о чём ты!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1048 #-#-# translate crowdin ev_v92_011_2ea64efd:
+# game/scripts_s1/s1_v92.rpy:1109 #-#-# translate crowdin ev_v92_011_2ea64efd:
 msgid "[Alice_05] Вот именно, что ничего!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1062 #-#-# translate crowdin ev_v92_012_e2e452f2:
+# game/scripts_s1/s1_v92.rpy:1124 #-#-# translate crowdin ev_v92_012_e2e452f2:
 msgid "[Alice_00] Макс, поглазеть пришёл?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1063 #-#-# translate crowdin ev_v92_012_88fac8d5:
+# game/scripts_s1/s1_v92.rpy:1125 #-#-# translate crowdin ev_v92_012_88fac8d5:
 msgid "[Max_09] Не без этого. Ты же знаешь, что мама осуждает курение на территории нашего дома. Придётся тебя наказать..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1064 #-#-# translate crowdin ev_v92_012_704448bb:
+# game/scripts_s1/s1_v92.rpy:1126 #-#-# translate crowdin ev_v92_012_704448bb:
 msgid "[Alice_13] Но, мы же сможем как-то... договориться?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1065 #-#-# translate crowdin ev_v92_012_af2c2b24:
+# game/scripts_s1/s1_v92.rpy:1127 #-#-# translate crowdin ev_v92_012_af2c2b24:
 msgid "[Max_01] Ну, это зависит от тебя..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1067 #-#-# translate crowdin ev_v92_012_5f3a2548:
+# game/scripts_s1/s1_v92.rpy:1129 #-#-# translate crowdin ev_v92_012_5f3a2548:
 msgid "[Alice_05] Говори, что ты хочешь за то, чтобы моя попка осталась в целости и сохранности? [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1069 #-#-# translate crowdin ev_v92_012_0763ca1c:
+# game/scripts_s1/s1_v92.rpy:1131 #-#-# translate crowdin ev_v92_012_0763ca1c:
 msgid "[Alice_02] Вон ты что удумал! Не даёт тебе покоя моя голая грудь, да, маленький извращенец?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1070 #-#-# translate crowdin ev_v92_012_9e12426a:
+# game/scripts_s1/s1_v92.rpy:1132 #-#-# translate crowdin ev_v92_012_9e12426a:
 msgid "[Max_03] Сисечки тоже хотят загорать!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1071 #-#-# translate crowdin ev_v92_012_a416980f:
+# game/scripts_s1/s1_v92.rpy:1133 #-#-# translate crowdin ev_v92_012_a416980f:
 msgid "[Alice_03] Но только, когда дома кроме нас никого больше нет. Хорошо?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1072 #-#-# translate crowdin ev_v92_012_a2f180ea:
+# game/scripts_s1/s1_v92.rpy:1134 #-#-# translate crowdin ev_v92_012_a2f180ea:
 msgid "[Max_04] Естественно!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1074 #-#-# translate crowdin ev_v92_012_acb01f98:
+# game/scripts_s1/s1_v92.rpy:1136 #-#-# translate crowdin ev_v92_012_acb01f98:
 msgid "[Alice_01] А теперь не отвлекай меня, дай спокойно покурить! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1080 #-#-# translate crowdin ev_v92_012_4969f187:
+# game/scripts_s1/s1_v92.rpy:1142 #-#-# translate crowdin ev_v92_012_4969f187:
 msgid "[Alice_02] Прямо совсем-совсем голая?! Что, фантазия закончилась, скатился до самого простейшего?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1081 #-#-# translate crowdin ev_v92_012_8440a421:
+# game/scripts_s1/s1_v92.rpy:1143 #-#-# translate crowdin ev_v92_012_8440a421:
 msgid "[Max_03] Мне уже от одной мысли, что ты будешь спать голенькая, на душе приятно."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1082 #-#-# translate crowdin ev_v92_012_5aba69a4:
+# game/scripts_s1/s1_v92.rpy:1144 #-#-# translate crowdin ev_v92_012_5aba69a4:
 msgid "[Alice_03] На такой пустяк я соглашусь... Пока ты что-нибудь ещё не попросил."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1083 #-#-# translate crowdin ev_v92_012_201d6989:
+# game/scripts_s1/s1_v92.rpy:1145 #-#-# translate crowdin ev_v92_012_201d6989:
 msgid "[Max_04] Вот и отлично!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1085 #-#-# translate crowdin ev_v92_012_acb01f98_1:
+# game/scripts_s1/s1_v92.rpy:1147 #-#-# translate crowdin ev_v92_012_acb01f98_1:
 msgid "[Alice_01] А теперь не отвлекай меня, дай спокойно покурить! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1094 #-#-# translate crowdin ev_v92_012_18a9f4c1:
+# game/scripts_s1/s1_v92.rpy:1156 #-#-# translate crowdin ev_v92_012_18a9f4c1:
 msgid "[Alice_05] Ну... Только если легонько! Понял?! И дай докурить сперва в тишине и покое... [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1099 #-#-# translate crowdin ev_v92_012_7e122231:
+# game/scripts_s1/s1_v92.rpy:1161 #-#-# translate crowdin ev_v92_012_7e122231:
 msgid "[Alice_06] Сегодня? Значит, попросишь в следующий раз?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1100 #-#-# translate crowdin ev_v92_012_f41a0967:
+# game/scripts_s1/s1_v92.rpy:1162 #-#-# translate crowdin ev_v92_012_f41a0967:
 msgid "[Max_03] Как знать, может быть... Если не бросишь курить."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1102 #-#-# translate crowdin ev_v92_012_1629c481:
+# game/scripts_s1/s1_v92.rpy:1164 #-#-# translate crowdin ev_v92_012_1629c481:
 msgid "[Alice_05] А вот не брошу! И вообще, не отвлекай меня, дай спокойно покурить, раз ты добрый. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1113 #-#-# translate crowdin ev_v92_013_e2e452f2:
+# game/scripts_s1/s1_v92.rpy:1175 #-#-# translate crowdin ev_v92_013_e2e452f2:
 msgid "[Alice_00] Макс, поглазеть пришёл?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1114 #-#-# translate crowdin ev_v92_013_88fac8d5:
+# game/scripts_s1/s1_v92.rpy:1176 #-#-# translate crowdin ev_v92_013_88fac8d5:
 msgid "[Max_09] Не без этого. Ты же знаешь, что мама осуждает курение на территории нашего дома. Придётся тебя наказать..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1116 #-#-# translate crowdin ev_v92_013_a90b4383:
+# game/scripts_s1/s1_v92.rpy:1178 #-#-# translate crowdin ev_v92_013_a90b4383:
 msgid "[Alice_12] Вот ещё! Я ведь нашу договорённость соблюдаю! Провожу время во дворе, сверкая своей голой грудью. Так что ходи и любуйся. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1119 #-#-# translate crowdin ev_v92_013_acb01f98:
+# game/scripts_s1/s1_v92.rpy:1181 #-#-# translate crowdin ev_v92_013_acb01f98:
 msgid "[Alice_01] А теперь не отвлекай меня, дай спокойно покурить! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1123 #-#-# translate crowdin ev_v92_013_45773b81:
+# game/scripts_s1/s1_v92.rpy:1185 #-#-# translate crowdin ev_v92_013_45773b81:
 msgid "[Alice_06] Ты уверен? Значит, решил за моей попкой охоту устроить?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1124 #-#-# translate crowdin ev_v92_013_f41a0967:
+# game/scripts_s1/s1_v92.rpy:1186 #-#-# translate crowdin ev_v92_013_f41a0967:
 msgid "[Max_03] Как знать, может быть... Если не бросишь курить."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1126 #-#-# translate crowdin ev_v92_013_31ccc968:
+# game/scripts_s1/s1_v92.rpy:1188 #-#-# translate crowdin ev_v92_013_31ccc968:
 msgid "[Alice_05] А вот не брошу! И вообще, не отвлекай меня, дай спокойно покурить. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1138 #-#-# translate crowdin ev_v92_014_e2e452f2:
+# game/scripts_s1/s1_v92.rpy:1200 #-#-# translate crowdin ev_v92_014_e2e452f2:
 msgid "[Alice_00] Макс, поглазеть пришёл?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1139 #-#-# translate crowdin ev_v92_014_88fac8d5:
+# game/scripts_s1/s1_v92.rpy:1201 #-#-# translate crowdin ev_v92_014_88fac8d5:
 msgid "[Max_09] Не без этого. Ты же знаешь, что мама осуждает курение на территории нашего дома. Придётся тебя наказать..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1141 #-#-# translate crowdin ev_v92_014_379ecc76:
+# game/scripts_s1/s1_v92.rpy:1203 #-#-# translate crowdin ev_v92_014_379ecc76:
 msgid "[Alice_12] Вот ещё! Я ведь нашу договорённость соблюдаю! Сплю себе спокойненько голышом и никого не трогаю. Так что не приставай. [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1144 #-#-# translate crowdin ev_v92_014_acb01f98:
+# game/scripts_s1/s1_v92.rpy:1206 #-#-# translate crowdin ev_v92_014_acb01f98:
 msgid "[Alice_01] А теперь не отвлекай меня, дай спокойно покурить! [nointeract]"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1148 #-#-# translate crowdin ev_v92_014_45773b81:
+# game/scripts_s1/s1_v92.rpy:1210 #-#-# translate crowdin ev_v92_014_45773b81:
 msgid "[Alice_06] Ты уверен? Значит, решил за моей попкой охоту устроить?"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1149 #-#-# translate crowdin ev_v92_014_f41a0967:
+# game/scripts_s1/s1_v92.rpy:1211 #-#-# translate crowdin ev_v92_014_f41a0967:
 msgid "[Max_03] Как знать, может быть... Если не бросишь курить."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1151 #-#-# translate crowdin ev_v92_014_31ccc968:
+# game/scripts_s1/s1_v92.rpy:1213 #-#-# translate crowdin ev_v92_014_31ccc968:
 msgid "[Alice_05] А вот не брошу! И вообще, не отвлекай меня, дай спокойно покурить. [nointeract]"
 msgstr ""
 
-# §translate crowdin strings: #|#|# # game/scripts_s1/s1_v92.rpy:52
+# game/scripts_s1/s1_v92.rpy:1234 #-#-# translate crowdin ev_v92_015_part0_a3f16ae5:
+msgid "[Alice_13] Макс!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1242 #-#-# translate crowdin ev_v92_015_part0_12221b33:
+msgid "[Alice_12] Макс! Макс! Вставай быстрее! Мне нужна помощь! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1249 #-#-# translate crowdin ev_v92_015_part0_4e92be20:
+msgid "[Alice_06] Макс, помоги. В моей комнате огромный такой, просто гигантский паук! Убей его, пожалуйста! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1258 #-#-# translate crowdin ev_v92_015_part1_f1f76bd4:
+msgid "[Alice_13] Макс, Макс! Вот он! Убери его, скорее!!!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1259 #-#-# translate crowdin ev_v92_015_part1_5b9201e7:
+msgid "[Max_07] Хорошо, где он там..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1265 #-#-# translate crowdin ev_v92_015_part1_fde33a73:
+msgid "[Max_01] Ага, попался! Не бойся, сейчас я выброшу его с балкона и ты будешь в безопасности..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1269 #-#-# translate crowdin ev_v92_015_part1_cc01ecd3:
+msgid "[Max_04] {m}Мягкой тебе посадки, паучок. Может даже ещё встретимся.{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1278 #-#-# translate crowdin ev_v92_015_part1_6d7ec7b4:
+msgid "[Alice_12] Спасибо, конечно, что убрал его из комнаты, но вдруг он вернётся? [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1294 #-#-# translate crowdin ev_v92_015_part1_bda3d8f3:
+msgid "[Alice_02] Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... Я, пожалуй, прямо так и лягу, в одних трусиках. Надоели мне эти лифчики..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1295 #-#-# translate crowdin ev_v92_015_part1_4c5bc1d7:
+msgid "[Max_05] Правильно! Я обеими руками за!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1299 #-#-# translate crowdin ev_v92_015_part1_62a251a5:
+msgid "[Alice_02] Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... И чтобы было честно, одену хотя бы трусики, раз уж я в постели не одна."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1300 #-#-# translate crowdin ev_v92_015_part1_5bba16cf:
+msgid "[Max_05] Хорошо. Так уж и быть, спорить не буду."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1307 #-#-# translate crowdin ev_v92_015_part1_58e83255:
+msgid "[Alice_05] Но если увижу, что ты бесцеремонно пялишься на мою грудь - выпну! И не вздумай мешать мне спать ночью... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1315 #-#-# translate crowdin ev_v92_015_part1_5808b520:
+msgid "[Alice_02] Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... Правила ты помнишь."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1319 #-#-# translate crowdin ev_v92_015_part1_66de57b7:
+msgid "[Alice_02] Ладно, давай тогда ложиться спать. С тобой мне будет спокойнее... Только трусики одену. Правила ты помнишь."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1323 #-#-# translate crowdin ev_v92_015_part1_01bb6cb4:
+msgid "[Max_02] Не пялиться и не приставать ночью. Всё помню."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1325 #-#-# translate crowdin ev_v92_015_part1_73aea83a:
+msgid "[Alice_03] Вот и чудненько. Доброй ночи, Макс. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1333 #-#-# translate crowdin ev_v92_015_part1_7573b7eb:
+msgid "[Max_19] {m}Да уж, просто спать с такой стройной и красивой девушкой хочется меньше всего, но... правила есть правила. Зато утро будет шикарным...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1348 #-#-# translate crowdin ev_v92_015_first_max_dc43930d:
+msgid "[Max_07] {m}Вот и утро. Хорошо, что Алиса долго спит. Самое время урвать небольшую награду за охрану соблазнительного тела моей сестрёнки...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1354 #-#-# translate crowdin ev_v92_015_first_max_9bb27d27:
+msgid "[Max_01] {m}Ухх... Какие же у неё нежные сисечки! Такие мягкие и приятные, что аж отпускать не хочется... Да и Алисе это нравится! Она стала глубже дышать. Как бы мне её поприятнее разбудить?{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1361 #-#-# translate crowdin ev_v92_015_first_max_ae4ba7e7:
+msgid "[Max_02] {m}Чёрт, я просто не могу обделить вниманием эти милые торчащие сосочки! Ох, какими они становятся твёрденькими! Ммм...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1369 #-#-# translate crowdin ev_v92_015_first_max_88ec5343:
+msgid "[Max_04] {m}Алиса то ли ещё не проснулась, то ли очень хорошо притворяется, что спит. Как бы там ни было, у меня есть кое-что, что тебе очень понравится...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1378 #-#-# translate crowdin ev_v92_015_first_max_88ec5343_1:
+msgid "[Max_04] {m}Алиса то ли ещё не проснулась, то ли очень хорошо притворяется, что спит. Как бы там ни было, у меня есть кое-что, что тебе очень понравится...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1387 #-#-# translate crowdin ev_v92_015_first_max_d7161ab4:
+msgid "[Max_04] {m}Похоже, Алиса спит довольно крепко. Но ничего, у меня есть кое-что, что ей очень понравится...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1395 #-#-# translate crowdin ev_v92_015_first_alice_30ab2aa7:
+msgid "[Max_19] {m}Ммм... Кажется, Алиса проснулась раньше и не смогла устоять... Ухх... Мне нравится так приятно просыпаться.{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1399 #-#-# translate crowdin ev_v92_015_first_alice_af445c5b:
+msgid "[Alice_04] Доброе утро, Макс. Ты с утра всегда такой возбуждённый?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1400 #-#-# translate crowdin ev_v92_015_first_alice_d9e8e520:
+msgid "[Max_01] Не то слово. Особенно когда рядом лежит такая секси-сестрёнка!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1402 #-#-# translate crowdin ev_v92_015_first_alice_9b58f3ed:
+msgid "[Alice_03] Оу... А я вот проснулась и решила, как бы мне поприятнее тебя разбудить того, кто всю ночь охранял мой покой... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1413 #-#-# translate crowdin ev_v92_015_first_alice_924640e4:
+msgid "[Alice_05] Ммм... Никогда бы не подумала, что буду вытворять такое с тобой! Ну и вымахал же у тебя такой член, Макс! Может, мне ускориться?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1414 #-#-# translate crowdin ev_v92_015_first_alice_c868c9b9:
+msgid "[Max_03] Я никуда не тороплюсь. Понежнее..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1416 #-#-# translate crowdin ev_v92_015_first_alice_11473623:
+msgid "[Alice_07] О да, я могу быть очень нежной, если ты в свою очередь постараешься не забрызгать мне кровать. И не обделишь меня вниманием... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1421 #-#-# translate crowdin ev_v92_015_first_alice_d9b3b6ff:
+msgid "[Alice_10] Ах! Вот чёрт, Макс! Да-а-а... это так классно... быстрее... Как же меня возбуждает твой огромный член!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1422 #-#-# translate crowdin ev_v92_015_first_alice_87ebfb90:
+msgid "[Max_02] Я сейчас устрою твоей сладкой киске такое, о чём ты будешь вспоминать весь день!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1424 #-#-# translate crowdin ev_v92_015_first_alice_80b8eb4e:
+msgid "[Alice_09] Охх... Обожаю твои пальчики. Они дарят такое наслаждение... Ммм... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1428 #-#-# translate crowdin ev_v92_015_first_alice_ecfd2d1f:
+msgid "[Alice_11] Да, Макс, да! Я кончаю... Загони свои шаловливые пальчики поглубже... Д-а-а! Ох... Это было потрясающе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1429 #-#-# translate crowdin ev_v92_015_first_alice_5995d244:
+msgid "[Max_05] Как ты сладко кончила... Я тоже так хочу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1437 #-#-# translate crowdin ev_v92_015_first_alice_1b57e8e9:
+msgid "[Alice_08] Ммм... Когда ты оказываешься у меня между ног, я вся замираю в предвкушении ещё большего удовольствия... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1443 #-#-# translate crowdin ev_v92_015_first_alice_ab57c1b8:
+msgid "[Alice_09] Ухх... Как же хорошо... Д-а-а... Так и продолжай! Ещё чуть-чуть быстрее... Ммм... Обалденно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1444 #-#-# translate crowdin ev_v92_015_first_alice_c8ad23a6:
+msgid "[Max_19] {m}Как приятно, что Алиса не забывает при всём этом работать своей нежной ручкой. Вцепилась в мой член мёртвой хваткой...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1449 #-#-# translate crowdin ev_v92_015_first_alice_3eb9bef8:
+msgid "[Alice_06] Да, Макс, да! Не останавливайся... У тебя такой быстрый и ловкий язычок, Макс... Ммм... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1453 #-#-# translate crowdin ev_v92_015_first_alice_840fd6d9:
+msgid "[Alice_11] Ах! Я больше не могу, Макс... Кончаю! Д-а-а! Ох... Это было потрясающе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1454 #-#-# translate crowdin ev_v92_015_first_alice_5995d244_1:
+msgid "[Max_05] Как ты сладко кончила... Я тоже так хочу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1462 #-#-# translate crowdin ev_v92_015_fingering_e72c2bb7:
+msgid "[Max_02] {m}О да! Как тебе такое? Постанываешь? Правильно... Твоя киска ещё не так увлажнится, если я буду продолжать ласкать тебя своими озорными пальцами...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1463 #-#-# translate crowdin ev_v92_015_fingering_13a9139b:
+msgid "[Alice_04] Ммм... Макс... Доброе утро. Ахх..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1464 #-#-# translate crowdin ev_v92_015_fingering_96300c2b:
+msgid "[Max_03] Ты, наверное, хотела сказать, какое это возбуждающее утро, да?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1466 #-#-# translate crowdin ev_v92_015_fingering_c373a73c:
+msgid "[Alice_07] Д-а-а... Пожалуй... Мне нравится так приятно просыпаться. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1471 #-#-# translate crowdin ev_v92_015_fingering_7ff4f4c7:
+msgid "[Alice_08] Охх... Обожаю твои пальчики. Давай-ка я тоже займу кое-чем свои ручки... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1483 #-#-# translate crowdin ev_v92_015_penetrate_d9b3b6ff:
+msgid "[Alice_10] Ах! Вот чёрт, Макс! Да-а-а... это так классно... быстрее... Как же меня возбуждает твой огромный член!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1484 #-#-# translate crowdin ev_v92_015_penetrate_87ebfb90:
+msgid "[Max_02] Я сейчас устрою твоей сладкой киске такое, о чём ты будешь вспоминать весь день!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1486 #-#-# translate crowdin ev_v92_015_penetrate_f82216db:
+msgid "[Alice_09] Охх... Как хорошо, что ты остался со мной на ночь. Ммм... Твои ловкие пальчики сводят меня с ума... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1492 #-#-# translate crowdin ev_v92_015_penetrate_ecfd2d1f:
+msgid "[Alice_11] Да, Макс, да! Я кончаю... Загони свои шаловливые пальчики поглубже... Д-а-а! Ох... Это было потрясающе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1493 #-#-# translate crowdin ev_v92_015_penetrate_5995d244:
+msgid "[Max_05] Как ты сладко кончила... Я тоже так хочу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1502 #-#-# translate crowdin ev_v92_015_cuni_1b57e8e9:
+msgid "[Alice_08] Ммм... Когда ты оказываешься у меня между ног, я вся замираю в предвкушении ещё большего удовольствия... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1508 #-#-# translate crowdin ev_v92_015_cuni_161c6115:
+msgid "[Alice_09] Охх... Как хорошо, что ты остался со мной на ночь. Ммм... Твой горячий язычок сводит меня с ума..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1509 #-#-# translate crowdin ev_v92_015_cuni_970d9f8b:
+msgid "[Max_02] {m}Я сейчас устрою твоей сладкой киске такое, о чём ты будешь вспоминать весь день!{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1513 #-#-# translate crowdin ev_v92_015_cuni_d9b3b6ff:
+msgid "[Alice_10] Ах! Вот чёрт, Макс! Да-а-а... это так классно... быстрее... Как же меня возбуждает твой огромный член!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1514 #-#-# translate crowdin ev_v92_015_cuni_c8ad23a6:
+msgid "[Max_19] {m}Как приятно, что Алиса не забывает при всём этом работать своей нежной ручкой. Вцепилась в мой член мёртвой хваткой...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1516 #-#-# translate crowdin ev_v92_015_cuni_75b81793:
+msgid "[Alice_09] Да, Макс, да! Я уже так близко... Не останавливайся... У тебя такой быстрый и ловкий язычок, Макс... Ммм... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1522 #-#-# translate crowdin ev_v92_015_cuni_840fd6d9:
+msgid "[Alice_11] Ах! Я больше не могу, Макс... Кончаю! Д-а-а! Ох... Это было потрясающе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1523 #-#-# translate crowdin ev_v92_015_cuni_5995d244:
+msgid "[Max_05] Как ты сладко кончила... Я тоже так хочу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1537 #-#-# translate crowdin ev_v92_015_alice_job_f5f2248a:
+msgid "[Alice_05] Нравится? Ты хочешь, чтобы я делала это понежнее? Или мне лучше не церемониться, когда ты уже такой твёрдый и горячий... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1541 #-#-# translate crowdin ev_v92_015_alice_job_2824a77b:
+msgid "[Alice_09] Ахх... Макс... Не сдерживайся, а то у меня начинает уставать рука. Я чувствую, что ты уже на грани... Давай... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1547 #-#-# translate crowdin ev_v92_015_alice_job_0d3cfa29:
+msgid "[Alice_08] Честно говоря, я рада, что ты хочешь именно так, потому что хотела то же самое! Наслаждайся..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1552 #-#-# translate crowdin ev_v92_015_alice_job_3bfd0537:
+msgid "[Max_19] О да, сестрёнка... Ты так сладко скользишь своим языком по всей длине моего члена! И про головку не забывай... Ухх..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1554 #-#-# translate crowdin ev_v92_015_alice_job_f84cc00a:
+msgid "[Alice_04] Ммм... Не переживай, мой язычок пройдётся по всему твоему члену! Если ты, конечно, это выдержишь... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1562 #-#-# translate crowdin ev_v92_015_alice_job_4f081e5c:
+msgid "[Alice_08] [restrain!t]А ты стойкий, Макс! Придётся мне взяться за тебя основательно... Смотри, как бы голова от наслаждения не закружилась!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1568 #-#-# translate crowdin ev_v92_015_alice_job_99e135ab:
+msgid "[Max_22] Вот чёрт, Алиса! Ты делаешь это просто потрясающе! Да, продолжай вот так... Ещё быстрее... Вот умница! Я держусь из последних сил... Вот-вот кончу... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1581 #-#-# translate crowdin ev_v92_015_alice_job_05ef44a9:
+msgid "[Alice_08] В таком случае, я буду меньше говорить и больше делать... Тебе понравится!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1586 #-#-# translate crowdin ev_v92_015_alice_job_4a775e1a:
+msgid "[Max_19] Ох, Алиса! Какие у тебя нежные губки... Д-а-а... У тебя хорошо получается, сестрёнка... Давай поактивнее... Как же приятно, д-а-а..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1591 #-#-# translate crowdin ev_v92_015_alice_job_7114f3dc:
+msgid "[Alice_04] Ммм... А как тебе мой язычок? Он тоже может приносить огромное удовольствие! Если ты, конечно, это выдержишь... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1600 #-#-# translate crowdin ev_v92_015_alice_job_f11a86da:
+msgid "[Alice_08] [restrain!t]А ты стойкий, Макс! Придётся мне взяться за тебя основательно... Смотри, как бы голова от наслаждения не закружилась! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1609 #-#-# translate crowdin ev_v92_015_alice_job_2052aec8:
+msgid "[Max_22] Да, вот так! Давай быстрее, сестрёнка... Вижу, что с ним не просто справиться, но у тебя классно получается! Ещё немного... Я сейчас кончу... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1620 #-#-# translate crowdin ev_v92_015_cum_on_her_chest_782f690b:
+msgid "[Alice_08] Да, вот так... Как её много! Молодец, что не забрызгал мне кровать..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1621 #-#-# translate crowdin ev_v92_015_cum_on_her_chest_78b14d3a:
+msgid "[Max_01] Фух... Это потому что я хотел поделиться свои удовольствием с тобой и твоими прелестными сисечками!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1623 #-#-# translate crowdin ev_v92_015_cum_on_her_chest_e7f9e148:
+msgid "[Alice_02] Ох, спасибо! Я бы ещё с радость после такого повалялась, но нужно скорее идти в душ, чтобы никто не успел увидеть, какая я испорченная девчонка. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1631 #-#-# translate crowdin ev_v92_015_cum_in_her_mouth_09572e08:
+msgid "[Alice_13] Ну, Макс! Обязательно было кончать мне прямо в рот? Можно же было на грудь, хотя бы..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1632 #-#-# translate crowdin ev_v92_015_cum_in_her_mouth_0c47f3ee:
+msgid "[Max_01] Фух... Ты так увлечённо со... старалась, что я не был уверен, что не забрызгаю тебе кровать. А может и больше..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1634 #-#-# translate crowdin ev_v92_015_cum_in_her_mouth_e7f9e148:
+msgid "[Alice_02] Ох, спасибо! Я бы ещё с радость после такого повалялась, но нужно скорее идти в душ, чтобы никто не успел увидеть, какая я испорченная девчонка. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1642 #-#-# translate crowdin ev_v92_015_no_restrain_46776b3c:
+msgid "[Alice_08] [norestrain!t]Да, вот так... Как её много! Молодец, что не забрызгал мне кровать..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1643 #-#-# translate crowdin ev_v92_015_no_restrain_78b14d3a:
+msgid "[Max_01] Фух... Это потому что я хотел поделиться свои удовольствием с тобой и твоими прелестными сисечками!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1645 #-#-# translate crowdin ev_v92_015_no_restrain_e7f9e148:
+msgid "[Alice_02] Ох, спасибо! Я бы ещё с радость после такого повалялась, но нужно скорее идти в душ, чтобы никто не успел увидеть, какая я испорченная девчонка. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1659 #-#-# translate crowdin ev_v92_016_8f61a68b:
+msgid "[Alice_03] Эх, Макс... Я так хорошо лежала и загорала. Ну да ладно, где это сделаем?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1665 #-#-# translate crowdin ev_v92_016_smoke_pun_2259f05c:
+msgid "[Alice_03] Всё, я готова. Где это сделаем?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1668 #-#-# translate crowdin ev_v92_016_pun_64b31743:
+msgid "[Max_01] Да прямо тут, во дворе."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1675 #-#-# translate crowdin ev_v92_016_pun_3deebad4:
+msgid "[Alice_05] Тут, так тут. Давай поживее с этим покончим, а то знаешь, я здесь вообще-то отдыхаю!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1676 #-#-# translate crowdin ev_v92_016_pun_714f308a:
+msgid "[Max_02] Сама разденешься или помочь?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1681 #-#-# translate crowdin ev_v92_016_pun_1c0c8b5a:
+msgid "[Alice_04] Вот тебе надо, чтобы я была голая, так сам и раздевай! Не облегчать же тебе работу... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1686 #-#-# translate crowdin ev_v92_016_pun_d739f9b9:
+msgid "[Alice_15] Ну не так же резко, Макс! Смотри, если порвёшь мой купальник, я тебе тоже мигом что-нибудь порву... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1693 #-#-# translate crowdin ev_v92_016_pun_3deebad4_1:
+msgid "[Alice_05] Тут, так тут. Давай поживее с этим покончим, а то знаешь, я здесь вообще-то отдыхаю!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1694 #-#-# translate crowdin ev_v92_016_pun_714f308a_1:
+msgid "[Max_02] Сама разденешься или помочь?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1698 #-#-# translate crowdin ev_v92_016_pun_1c0c8b5a_1:
+msgid "[Alice_04] Вот тебе надо, чтобы я была голая, так сам и раздевай! Не облегчать же тебе работу... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1707 #-#-# translate crowdin ev_v92_016_pun_56f85399:
+msgid "[Alice_06] И чего глазеем? Шлёпай давай! Руки только не распускай слишком сильно. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1729 #-#-# translate crowdin ev_v92_016_usual_3c5c4d81:
+msgid "[Alice_05] Ты там уже начал? А то мне показалось, что это больше тянет на поглаживания, а не на шлепки..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1730 #-#-# translate crowdin ev_v92_016_usual_45713430:
+msgid "[Max_09] Могу сильнее, раз ты заскучала!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1734 #-#-# translate crowdin ev_v92_016_usual_a4f2c5d6:
+msgid "[Alice_06] Ой, Макс! Ну ты чего? Так уже больно. Ты же говорил, что будешь с нежностью шлёпать!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1735 #-#-# translate crowdin ev_v92_016_usual_960d624c:
+msgid "[Max_04] А я потру, чтобы не болело... Так легче?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1739 #-#-# translate crowdin ev_v92_016_usual_42899ba4:
+msgid "[Alice_13] Да, я не жалуюсь... Но можно было ведь и дальше шлёпать легонько."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1740 #-#-# translate crowdin ev_v92_016_usual_bb2ccad5:
+msgid "[Max_07] Это я чисто, чтобы напомнить, что это всё равно наказание."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1741 #-#-# translate crowdin ev_v92_016_usual_c0c2f489:
+msgid "[Alice_02] Ну всё, потискал мою попку и хватит. А то, если тебя не остановить, ты так и будешь залипать, куда не надо..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1745 #-#-# translate crowdin ev_v92_016_usual_ef81ae5b:
+msgid "[Max_03] Я, кстати, кое-что ещё умею делать руками..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1747 #-#-# translate crowdin ev_v92_016_usual_60e37dd3:
+msgid "[Alice_05] Да что ты говоришь... В самом деле? Надо же... Только я лучше откажусь, а то за такое милое наказание ещё попросишь каких-нибудь жутких похабностей. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1751 #-#-# translate crowdin ev_v92_016_usual_09f56963:
+msgid "[Alice_03] Ага, сложно не заметить, сколько радости от этого в твоих шортах. Приму это за комплимент, но спасибо, мне этого хватило!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1753 #-#-# translate crowdin ev_v92_016_usual_8f47acee:
+msgid "[Max_02] Хорошо, до следующего раза. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1758 #-#-# translate crowdin ev_v92_016_hard_punishment_1_13f0ce32:
+msgid "[Alice_12] Эй! С какой это стати будет больно?! Ты чего..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1759 #-#-# translate crowdin ev_v92_016_hard_punishment_1_b4957ac3:
+msgid "[Max_09] Видишь ли, у меня не вызывает особого восторга то, как ты меня наказываешь в своей комнате."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1760 #-#-# translate crowdin ev_v92_016_hard_punishment_1_cf587e24:
+msgid "[Alice_16] Я наказываю по заслугам!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1761 #-#-# translate crowdin ev_v92_016_hard_punishment_1_2306234c:
+msgid "[Max_07] Вот как? Издеваешься, мучаешь и используешь меня, как секс-раба... И было бы за что!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1762 #-#-# translate crowdin ev_v92_016_hard_punishment_1_e7b7a739:
+msgid "[Alice_12] Может быть и чересчур, но это наказание. Оно не должно тебе нравится."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1763 #-#-# translate crowdin ev_v92_016_hard_punishment_1_eebec2f5:
+msgid "[Max_15] Вот и тебе наказание не должно нравится. Так что залазь на шезлонг..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1764 #-#-# translate crowdin ev_v92_016_hard_punishment_1_6cd426b2:
+msgid "[Alice_13] Ну ладно. А что будет дальше?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1769 #-#-# translate crowdin ev_v92_016_hard_punishment_1_f6f4272b:
+msgid "[Max_01] Вот оно, твоё наказание, Алиса..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1770 #-#-# translate crowdin ev_v92_016_hard_punishment_1_9234fa24:
+msgid "[Alice_12] Эээ... В смысле? Ты хочешь, чтобы я тебе подрочила?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1771 #-#-# translate crowdin ev_v92_016_hard_punishment_1_593aaec6:
+msgid "[Max_07] О нет, я хочу, чтобы это наказание было хоть немного соразмерно тому, как наказываешь меня ты. С тебя минет!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1776 #-#-# translate crowdin ev_v92_016_hard_punishment_1_7ecaba69:
+msgid "[Alice_15] Минет?! Блин, Макс... Ты же мой брат!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1777 #-#-# translate crowdin ev_v92_016_hard_punishment_1_303a9320:
+msgid "[Max_09] Да ты что! Правда? Что-то я не могу вспомнить ни одного момента во время наказаний в твоей комнате, где бы ты сетовала на этот счёт. Так что отговорка не засчитывается!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1778 #-#-# translate crowdin ev_v92_016_hard_punishment_1_71ebb5dd:
+msgid "[Alice_13] Чёрт! Может, ты как-то иначе меня накажешь?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1779 #-#-# translate crowdin ev_v92_016_hard_punishment_1_7e7860d2:
+msgid "[Max_15] Я всё по-честному требую. Если ты отказываешься, то я мигом сделаю так, что ты несколько дней нормально сидеть не сможешь."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1784 #-#-# translate crowdin ev_v92_016_hard_punishment_1_25b91491:
+msgid "[Alice_06] Нет-нет, не надо! Лучше уж я немного поработаю своим язычком..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1785 #-#-# translate crowdin ev_v92_016_hard_punishment_1_b68a84d3:
+msgid "[Max_02] Одним своим язычком ты так просто не отделаешься! Я же не только языком тебя ласкал..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1786 #-#-# translate crowdin ev_v92_016_hard_punishment_1_ea73d85e:
+msgid "[Alice_08] Ладно, как скажешь... Всё равно, когда я начну, ты долго не продержишься."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1787 #-#-# translate crowdin ev_v92_016_hard_punishment_1_31af2a2b:
+msgid "[Max_03] Это мы ещё посмотрим! И давай там с чувством, потому что если мне что-то не понравится, то твоей шикарной попке..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1792 #-#-# translate crowdin ev_v92_016_hard_punishment_1_d229f13b:
+msgid "[Max_20] Ухх... несдобровать... Но если ты и дальше продолжишь так смачно... Ммм... сосать, то можешь за неё не переживать! Пока что..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1793 #-#-# translate crowdin ev_v92_016_hard_punishment_1_ef0d3d63:
+msgid "[Max_19] Ох, Алиса! Какие у тебя нежные губы... Д-а-а... У тебя хорошо получается, сестрёнка... Давай поактивнее... Как же приятно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1797 #-#-# translate crowdin ev_v92_016_hard_punishment_1_22f25ed1:
+msgid "[Max_22] Да, продолжай вот так! Давай быстрее, сестрёнка... Вижу, что с ним не просто справиться, но у тебя классно получается! Д-а-а..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1799 #-#-# translate crowdin ev_v92_016_hard_punishment_1_3704ae37:
+msgid "[Max_21] Давай, соси ещё быстрее... Ммм... Вот умница! Я держусь из последних сил... Вот-вот кончу... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1806 #-#-# translate crowdin ev_v92_016_hard_punishment_1_07baa796:
+msgid "[Max_19] {m}Д-а-а... Как же обалденно кончать Алисе в её горячий ротик, чувствуя как её нежный язычок судорожно скользит по головке члена, размазывая мою сперму...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1811 #-#-# translate crowdin ev_v92_016_hard_punishment_1_69a58ab8:
+msgid "[Alice_15] Чёрт возьми, Макс, я чуть не захлебнулась твоей спермой! Ты хоть представляешь, как непросто справиться с таким огромным членом?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1812 #-#-# translate crowdin ev_v92_016_hard_punishment_1_7820b1a0:
+msgid "[Max_04] Слава богу, не представляю! Но ты прекрасно справилась, умничка."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1816 #-#-# translate crowdin ev_v92_016_hard_punishment_1_1bc42779:
+msgid "[Alice_13] Да? Значит наказание засчитано и моей бедной попке ничего больше не угрожает?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1817 #-#-# translate crowdin ev_v92_016_hard_punishment_1_d324433c:
+msgid "[Max_02] Да, сестрёнка, твой ротик поработал на славу! Претензий к тебе больше нет. Пока что..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1818 #-#-# translate crowdin ev_v92_016_hard_punishment_1_9ff8295d:
+msgid "[Alice_12] Может, когда снова появятся, ты больше не будешь кончать мне в рот?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1819 #-#-# translate crowdin ev_v92_016_hard_punishment_1_e7cb3c3f:
+msgid "[Max_03] Конечно. Тебе всего лишь нужно будет выбрать наказание для своей попки."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1820 #-#-# translate crowdin ev_v92_016_hard_punishment_1_2d6c39cf:
+msgid "[Alice_13] А вот может и выберу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1821 #-#-# translate crowdin ev_v92_016_hard_punishment_1_9b7567e7:
+msgid "[Max_01] Это вот как тебе будет угодно."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1827 #-#-# translate crowdin ev_v92_016_blow_job_2ce64213:
+msgid "[Alice_12] [succes!t]Ты что, собираешься больно меня отшлёпать?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1828 #-#-# translate crowdin ev_v92_016_blow_job_c1c660d1:
+msgid "[Max_09] Естественно! Сама же знаешь почему..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1833 #-#-# translate crowdin ev_v92_016_blow_job_6e3d6fa3:
+msgid "[Alice_13] Нет уж... Я лучше тихо и мирно постараюсь этого избежать..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1834 #-#-# translate crowdin ev_v92_016_blow_job_0ddad4cc:
+msgid "[Max_01] Тогда залазь на шезлонг..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1839 #-#-# translate crowdin ev_v92_016_blow_job_81f279e4:
+msgid "[Alice_05] Слушай, а может ограничимся только моими ручками? Они у меня способные..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1840 #-#-# translate crowdin ev_v92_016_blow_job_593aaec6:
+msgid "[Max_07] О нет, я хочу, чтобы это наказание было хоть немного соразмерно тому, как наказываешь меня ты. С тебя минет!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1845 #-#-# translate crowdin ev_v92_016_blow_job_2d6e68b9:
+msgid "[Alice_02] Хм... Ну... Пожалуй, это будет честно. Я постараюсь сделать всё, чтобы ты остался доволен..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1846 #-#-# translate crowdin ev_v92_016_blow_job_6e691423:
+msgid "[Max_04] Вот это другое дело, Алиса."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1851 #-#-# translate crowdin ev_v92_016_blow_job_67969dc2:
+msgid "[Alice_06] Ты уж извини, за те издевательства в моей комнате. Сейчас мой нежный язычок загладит эту вину..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1852 #-#-# translate crowdin ev_v92_016_blow_job_b68a84d3:
+msgid "[Max_02] Одним своим язычком ты так просто не отделаешься! Я же не только языком тебя ласкал..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1857 #-#-# translate crowdin ev_v92_016_blow_job_bd04533c:
+msgid "[Max_20] Ухх... Если ты и дальше продолжишь сосать с таким... Ммм... энтузиазмом, то можешь быть уверена, я приму твои... извинения..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1858 #-#-# translate crowdin ev_v92_016_blow_job_ef0d3d63:
+msgid "[Max_19] Ох, Алиса! Какие у тебя нежные губы... Д-а-а... У тебя хорошо получается, сестрёнка... Давай поактивнее... Как же приятно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1862 #-#-# translate crowdin ev_v92_016_blow_job_22f25ed1:
+msgid "[Max_22] Да, продолжай вот так! Давай быстрее, сестрёнка... Вижу, что с ним не просто справиться, но у тебя классно получается! Д-а-а..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1864 #-#-# translate crowdin ev_v92_016_blow_job_bc36d5f6:
+msgid "[Max_21] Давай, соси ещё быстрее... Ммм... Вот умница! Ох, Алиса, это мне очень нравится! Так приятно... Д-а-а... Давай ещё... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1874 #-#-# translate crowdin ev_v92_016_blow_job_6d242529:
+msgid "[Max_19] [restrain!t]{m}Чёрт, я просто не могу не трахнуть этот узкий ротик! Алиса же любит меня жёстко наказывать... Вот и член она получит тоже жёсткий!{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1880 #-#-# translate crowdin ev_v92_016_blow_job_ac9e68a9:
+msgid "[Max_22] О да, Алиса! Как же глубоко он в тебя заходит... Ухх... Вот это д-а-а! Это невероятно классно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1885 #-#-# translate crowdin ev_v92_016_blow_job_25da6154:
+msgid "[Alice_14] Фух... Господи, Макс! Ты аж до самого моего горла своей громадиной достал! Я чуть не подавилась... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1892 #-#-# translate crowdin ev_v92_016_blow_job_e3d4585b:
+msgid "[Max_20] {m}Ах, вот это я понимаю минет! Ты уж держись, сестрёнка, твой сладкий ротик так и манит засадить ещё глубже, но я уже держусь из последних сил... Вот-вот кончу...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1898 #-#-# translate crowdin ev_v92_016_blow_job_fd9780fe:
+msgid "[Max_22] {m}Д-а-а... Как же обалденно кончать, когда её сочные губки так сильно сжимают мой член! Давай Алиса, нужно постараться всё проглотить...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1903 #-#-# translate crowdin ev_v92_016_blow_job_84570bbe:
+msgid "[Alice_15] Чёрт возьми, Макс, я чуть не захлебнулась твоей спермой! Это ведь очень непросто, справиться с таким огромным членом!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1904 #-#-# translate crowdin ev_v92_016_blow_job_a3a0b973:
+msgid "[Max_04] Ты прекрасно справилась, Алиса! Мне понравилось!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1909 #-#-# translate crowdin ev_v92_016_blow_job_1bc42779:
+msgid "[Alice_13] Да? Значит наказание засчитано и моей бедной попке ничего больше не угрожает?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1910 #-#-# translate crowdin ev_v92_016_blow_job_22f20fb6:
+msgid "[Max_01] Да, сестрёнка, твой ротик поработал на славу! Отдыхай..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1918 #-#-# translate crowdin ev_v92_016_blow_job_c1eeaba1:
+msgid "[Max_19] [norestrain!t]{m}Д-а-а... Как же обалденно кончать Алисе в её горячий ротик, чувствуя как её нежный язычок судорожно скользит по головке члена, размазывая мою сперму...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1923 #-#-# translate crowdin ev_v92_016_blow_job_84570bbe_1:
+msgid "[Alice_15] Чёрт возьми, Макс, я чуть не захлебнулась твоей спермой! Это ведь очень непросто, справиться с таким огромным членом!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1924 #-#-# translate crowdin ev_v92_016_blow_job_a3a0b973_1:
+msgid "[Max_04] Ты прекрасно справилась, Алиса! Мне понравилось!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1929 #-#-# translate crowdin ev_v92_016_blow_job_1bc42779_1:
+msgid "[Alice_13] Да? Значит наказание засчитано и моей бедной попке ничего больше не угрожает?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1930 #-#-# translate crowdin ev_v92_016_blow_job_22f20fb6_1:
+msgid "[Max_01] Да, сестрёнка, твой ротик поработал на славу! Отдыхай..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1935 #-#-# translate crowdin ev_v92_016_hard_punishment_r_79716b68:
+msgid "[Alice_12] [failed!t]Ты что, собираешься больно меня отшлёпать?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1936 #-#-# translate crowdin ev_v92_016_hard_punishment_r_c1c660d1:
+msgid "[Max_09] Естественно! Сама же знаешь почему..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1938 #-#-# translate crowdin ev_v92_016_hard_punishment_r_6b3693ea:
+msgid "[Alice_16] А вот фиг тебе, Макс! Я, так уж и быть, потерплю. [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1944 #-#-# translate crowdin ev_v92_016_hard_punishment_r_59586832:
+msgid "[Alice_18] Ай, ай, ай! Больно же! Мама и то не так сильно шлёпает! Всё, хватит!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1945 #-#-# translate crowdin ev_v92_016_hard_punishment_r_2e2d8d66:
+msgid "[Max_07] Ещё пара шлепков, давай терпи..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1949 #-#-# translate crowdin ev_v92_016_hard_punishment_r_b9eb336f:
+msgid "[Alice_12] Ойй! Мамочки... Хватит, Макс! Ты из меня всю душу уже выбил..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1950 #-#-# translate crowdin ev_v92_016_hard_punishment_r_a5e67f2e:
+msgid "[Max_07] Это же наказание всё-таки, Алиса. Ты сама это выбрала."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1954 #-#-# translate crowdin ev_v92_016_hard_punishment_r_36478e12:
+msgid "[Alice_15] Ох, моя бедная попка... А у тебя ещё и стоит на всё это! Я в шоке! Прикрылся бы хоть..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1955 #-#-# translate crowdin ev_v92_016_hard_punishment_r_023850e4:
+msgid "[Max_03] Ну, ты же девушка... И очень привлекательная!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1956 #-#-# translate crowdin ev_v92_016_hard_punishment_r_e914b8b8:
+msgid "[Alice_17] И что у тебя там, вообще, в башке творится, раз тебя это заводит... Всё, мы закончили."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1957 #-#-# translate crowdin ev_v92_016_hard_punishment_r_1e46a369:
+msgid "[Max_02] Хорошо, до следующего раза. А попка у тебя славная!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1959 #-#-# translate crowdin ev_v92_016_hard_punishment_r_e5a94fd2:
+msgid "[Alice_13] Ох, и зачем я на всё это согласилась... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1978 #-#-# translate crowdin ev_v92_017_in_room_2879aca1:
+msgid "[Alice_02] Ну же, Макс, не тормози. Хватит на меня так пялиться и проходи! Раздевайся давай..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1979 #-#-# translate crowdin ev_v92_017_in_room_dd706ac2:
+msgid "[Max_07] А может без этого? Может, лучше привяжешь меня к стулу и уже там как-нибудь накажешь?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1981 #-#-# translate crowdin ev_v92_017_in_room_39940f2d:
+msgid "[Alice_05] Неужели такому мелкому извращенцу, как ты, стало страшно поворачиваться ко мне задом? Это хорошо... Но раздеться тебе придётся всё равно! Или есть возражения?! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1987 #-#-# translate crowdin ev_v92_017_in_room_c8a300e9:
+msgid "[Alice_12] Хм... А я смотрю, Макс, тебе нравится то, что я делаю. Задницу подставлять боишься, а вот демонстрировать, насколько ты \"большой\" извращенец и близко не стесняешься!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1988 #-#-# translate crowdin ev_v92_017_in_room_809834fe:
+msgid "[Max_04] А чего стесняться? Это естественно, что у парня стоит на такую сексуальную девушку... Да ещё и в таком костюмчике..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1989 #-#-# translate crowdin ev_v92_017_in_room_df544769:
+msgid "[Alice_16] Ах, вот так, да?! Вообще-то, тебя должен настораживать мой внешний вид!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1990 #-#-# translate crowdin ev_v92_017_in_room_0ed5c76a:
+msgid "[Max_03] А меня заводит! С огромной радостью бы залез руками под этот костюмчик, да вот только они связаны..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1994 #-#-# translate crowdin ev_v92_017_in_room_36743246:
+msgid "[Alice_17] Вот ты наглец, Макс! Думаешь, это шуточки такие и я тебя связала ради развлечений?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1995 #-#-# translate crowdin ev_v92_017_in_room_b2cf343b:
+msgid "[Max_07] Нет... Просто у меня не получается по другому реагировать на тебя!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1996 #-#-# translate crowdin ev_v92_017_in_room_05e0ace7:
+msgid "[Alice_05] Ох... Это так мило... У моего младшего брата-извращенца на меня стоит. Должно быть это так мучительно, просто смотреть и мечтать обо мне!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1997 #-#-# translate crowdin ev_v92_017_in_room_ba4b2a5d:
+msgid "[Max_10] А то! Очень мучительно..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1998 #-#-# translate crowdin ev_v92_017_in_room_f44abc52:
+msgid "[Alice_03] Ха! В таком случае, наказывать тебя теперь я буду вот так!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2002 #-#-# translate crowdin ev_v92_017_in_room_f8bdc8dd:
+msgid "[Max_05] Ого! Эти офигенные сисечки всегда радуют мои глаза!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2003 #-#-# translate crowdin ev_v92_017_in_room_57858d48:
+msgid "[Alice_06] Ну ещё бы! Ты же наверняка их уже наизусть запомнил... Но одно дело, когда ты видишь их во время наших с тобой тайных развлечений, и другое, когда ты просто стоишь и бессовестно подглядываешь за мной!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2004 #-#-# translate crowdin ev_v92_017_in_room_096ec6c4:
+msgid "[Max_02] Ну, что тут сказать, виновен по всем пунктам..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2008 #-#-# translate crowdin ev_v92_017_in_room_3a1e2b0a:
+msgid "[Alice_13] Вот что толку просто смотреть, а, Макс? Даже если я нахожусь вот так близко... Ведь тебе же, наверняка, уже не только хочется смотреть?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2009 #-#-# translate crowdin ev_v92_017_in_room_153a407c:
+msgid "[Max_05] О да! Мне хочется обласкать каждый их сантиметр!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2011 #-#-# translate crowdin ev_v92_017_in_room_2de0cc84:
+msgid "[Alice_07] Какая жалость! Похоже, кто-то привязан к стулу и не может делать то, что так сильно хочется... Должно быть, обидно? [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2015 #-#-# translate crowdin ev_v92_017_in_room_a3418458:
+msgid "[Alice_16] Вот ещё! Такое мог попросить только очень плохой мальчик, который совершенно не понимает, как себя надо вести со своей госпожой!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2016 #-#-# translate crowdin ev_v92_017_in_room_cb32de16:
+msgid "[Max_08] А как надо?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2020 #-#-# translate crowdin ev_v92_017_in_room_1001ec6a:
+msgid "[Alice_12] Услужливо! Если ты ещё до сих пор это не усвоил, то я просто обязана тебя наказать... Как ты того и заслужил!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2021 #-#-# translate crowdin ev_v92_017_in_room_b1b05964:
+msgid "[Max_10] Эй! В смысле плёткой что ли?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2027 #-#-# translate crowdin ev_v92_017_in_room_7fe3c6f4:
+msgid "[Alice_03] И правда! Ах, как приятно порой бывает сесть и расслабиться... Приятно, что ты не просто извращенец, а галантный извращенец!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2028 #-#-# translate crowdin ev_v92_017_in_room_916f938b:
+msgid "[Max_04] Таким стройным и красивым ножкам надо давать отдых."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2029 #-#-# translate crowdin ev_v92_017_in_room_a5e87b67:
+msgid "[Alice_08] Ну а моя грудь... Не хочешь поработать над тем, чтобы заслужить милость своей госпожи?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2030 #-#-# translate crowdin ev_v92_017_in_room_657fc844:
+msgid "[Max_02] Буду всеми силами стараться..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2035 #-#-# translate crowdin ev_v92_017_in_room_63f01203:
+msgid "[Alice_07] Смотри, Макс! Я не хочу разочаровываться... Ах-х! Это хорошо... Но если мне хоть что-то не понравится, то я... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2042 #-#-# translate crowdin ev_v92_017_in_room_2c90d23e:
+msgid "[Alice_09] Ахх, Макс! Ты так приятно и нежно посасываешь мои сосочки... Ммм... Я чувствую, твой дружок стал твёрже! Меня это очень возбуждает! Д-а-а... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2057 #-#-# translate crowdin ev_v92_017_caressing_tongue_10c2a7d0:
+msgid "[Alice_08] [like!t]Охх... Да, Макс, ещё! Ммм... Хорошо... Это просто... Ах-х-х... Превосходно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2058 #-#-# translate crowdin ev_v92_017_caressing_tongue_33e78f9e:
+msgid "[Max_02] {m}Ещё бы! Я ведь обожаю твои нежные сисечки, Алиса... Такие мягкие и приятные, что аж отрываться не хочется... Ммм... А какие сосочки твёрденькие...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2062 #-#-# translate crowdin ev_v92_017_caressing_tongue_f5f2f359:
+msgid "[Alice_06] Всё, Макс, я больше не могу! Эти шортики не должны мешать тому, что я хочу от тебя получить..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2063 #-#-# translate crowdin ev_v92_017_caressing_tongue_b091f74a:
+msgid "[Max_03] Оу... И что же это?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2069 #-#-# translate crowdin ev_v92_017_caressing_tongue_f31b0129:
+msgid "[Alice_05] О, небольшой пустячок, Макс. Тебе нужно будет всего лишь поработать за моим столом..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2070 #-#-# translate crowdin ev_v92_017_caressing_tongue_afab32ad:
+msgid "[Max_07] Не понял!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2073 #-#-# translate crowdin ev_v92_017_caressing_tongue_eac56272:
+msgid "[Alice_04] И включим, пожалуй, свет над столом. Так сказать, для создания более интимной обстановки..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2074 #-#-# translate crowdin ev_v92_017_caressing_tongue_8b57be78:
+msgid "[Max_01] Я уже в предвкушении!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2079 #-#-# translate crowdin ev_v92_017_caressing_tongue_5651d866:
+msgid "[Alice_08] Нисколько не сомневалась! Ну так, как? Продолжишь всеми силами ублажать свою госпожу?! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2084 #-#-# translate crowdin ev_v92_017_caressing_tongue_b348ff95:
+msgid "[Alice_05] О, небольшой пустячок, Макс, для которого мне нужно поудобнее устроиться на столе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2085 #-#-# translate crowdin ev_v92_017_caressing_tongue_0852e2e0:
+msgid "[Max_10] Что, опять?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2089 #-#-# translate crowdin ev_v92_017_caressing_tongue_91eeee4f:
+msgid "[Alice_12] Не опять, а снова! И вообще, что это ещё за тон?! Нет, ты конечно можешь предпочесть другую форму наказания, где будет задействован мой стек... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2094 #-#-# translate crowdin ev_v92_017_caressing_tongue_a4972b2a:
+msgid "[Alice_08] Какой хороший мальчик! Надеюсь, мне не нужно ещё более явно намекать на то, как ты должен продолжить всеми силами ублажать свою госпожу?! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2102 #-#-# translate crowdin ev_v92_017_prefer_suck_677302b1:
+msgid "[Alice_16] Макс! Такое мог сказать только очень плохой мальчик, который совершенно не знает, как надо себя вести со своей госпожой! Сейчас я оденусь и устрою тебе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2103 #-#-# translate crowdin ev_v92_017_prefer_suck_f657117f:
+msgid "[Max_09] Я что, слишком много попросил?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2112 #-#-# translate crowdin ev_v92_017_dont_like_4a53814e:
+msgid "[Alice_16] [dont_like!t]Ай! Ты слишком грубо это делаешь! Я люблю грубость, но не до такой же степени... Такое мог сделать только очень плохой мальчик, который совершенно не знает, как надо ублажать свою госпожу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2113 #-#-# translate crowdin ev_v92_017_dont_like_cb32de16:
+msgid "[Max_08] А как надо?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2117 #-#-# translate crowdin ev_v92_017_dont_like_2bdfa3d2:
+msgid "[Alice_12] Приятно и нежно! Если ты так не умеешь, то я просто обязана тебя наказать... Как ты того и заслужил!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2118 #-#-# translate crowdin ev_v92_017_dont_like_b1b05964:
+msgid "[Max_10] Эй! В смысле плёткой что ли?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2129 #-#-# translate crowdin ev_v92_017_caressing_tongue_drink_56f015cb:
+msgid "[Alice_08] Охх... Да, Макс, ещё! Ммм... Хорошо... Это просто... Ах-х-х... Превосходно! Ты, наверно, и целуешься так же хорошо? [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2135 #-#-# translate crowdin ev_v92_017_caressing_tongue_drink_9d6bbf0d:
+msgid "[Max_20] {m}Надеюсь, моего опыта поцелуев хватит, чтобы Алиса приятно удивилась... Она так страстно целуется и трётся о мой член, что вполне могла бы в порыве страсти взять и отсосать мне! Это было бы круто!{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2150 #-#-# translate crowdin ev_v92_017_kiss_1d65d60e:
+msgid "[Max_19] [like!t]{m}Эх, если бы мои руки не были привязаны к стулу, мне бы не пришлось так стараться и мои прикосновения завели её ещё сильнее. Но судя по тому, как сладко наши язычки играют с друг другом, у меня всё получается и так!{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2154 #-#-# translate crowdin ev_v92_017_kiss_f5f2f359:
+msgid "[Alice_06] Всё, Макс, я больше не могу! Эти шортики не должны мешать тому, что я хочу от тебя получить..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2155 #-#-# translate crowdin ev_v92_017_kiss_b091f74a:
+msgid "[Max_03] Оу... И что же это?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2161 #-#-# translate crowdin ev_v92_017_kiss_f31b0129:
+msgid "[Alice_05] О, небольшой пустячок, Макс. Тебе нужно будет всего лишь поработать за моим столом..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2162 #-#-# translate crowdin ev_v92_017_kiss_afab32ad:
+msgid "[Max_07] Не понял!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2166 #-#-# translate crowdin ev_v92_017_kiss_eac56272:
+msgid "[Alice_04] И включим, пожалуй, свет над столом. Так сказать, для создания более интимной обстановки..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2167 #-#-# translate crowdin ev_v92_017_kiss_8b57be78:
+msgid "[Max_01] Я уже в предвкушении!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2172 #-#-# translate crowdin ev_v92_017_kiss_5651d866:
+msgid "[Alice_08] Нисколько не сомневалась! Ну так, как? Продолжишь всеми силами ублажать свою госпожу?! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2178 #-#-# translate crowdin ev_v92_017_kiss_b348ff95:
+msgid "[Alice_05] О, небольшой пустячок, Макс, для которого мне нужно поудобнее устроиться на столе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2179 #-#-# translate crowdin ev_v92_017_kiss_0852e2e0:
+msgid "[Max_10] Что, опять?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2184 #-#-# translate crowdin ev_v92_017_kiss_91eeee4f:
+msgid "[Alice_12] Не опять, а снова! И вообще, что это ещё за тон?! Нет, ты конечно можешь предпочесть другую форму наказания, где будет задействован мой стек... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2189 #-#-# translate crowdin ev_v92_017_kiss_e01ec723:
+msgid "[Alice_08] Какой хороший мальчик! Надеюсь, мне не нужно ещё более явно намекать на то, как именно ты должен продолжить всеми силами ублажать свою госпожу?! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2202 #-#-# translate crowdin ev_v92_017_dont_like_kiss_9299017f:
+msgid "[Alice_16] [dont_like!t]Макс! С чего ты взял, что мне понравится, если ты так грубо будешь напирать своим языком?! Такое мог сделать только очень плохой мальчик, который совершенно не знает, как надо себя вести со своей госпожой!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2203 #-#-# translate crowdin ev_v92_017_dont_like_kiss_cb32de16:
+msgid "[Max_08] А как надо?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2207 #-#-# translate crowdin ev_v92_017_dont_like_kiss_2bdfa3d2:
+msgid "[Alice_12] Приятно и нежно! Если ты так не умеешь, то я просто обязана тебя наказать... Как ты того и заслужил!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2208 #-#-# translate crowdin ev_v92_017_dont_like_kiss_b1b05964:
+msgid "[Max_10] Эй! В смысле плёткой что ли?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2216 #-#-# translate crowdin ev_v92_017_cunnilingus_882a3d6f:
+msgid "[Alice_09] О да! Как хорошо, что ты быстро сообразил, что к чему. Ммм... Пусть твой горячий язычок с самыми страстными чувствами сводит меня с ума! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2230 #-#-# translate crowdin ev_v92_017_cunnilingus_3a4cfc2a:
+msgid "[Alice_10] Ах! Д-а-а... Так и продолжай! Ещё чуть-чуть быстрее... Ухх... Как же хорошо... Ммм..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2231 #-#-# translate crowdin ev_v92_017_cunnilingus_94bc7958:
+msgid "[Max_07] Ого! Алиса с такой силой вдавливает между своих ножек мою голову, что я аж еле дышу! Похоже, что у меня всё получается, как надо и её ножки скоро задрожат от наслаждения..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2236 #-#-# translate crowdin ev_v92_017_cunnilingus_4e322e76:
+msgid "[Alice_06] Да, Макс, да! Не останавливайся... Я уже так близко! У тебя такой быстрый и ловкий язычок, Макс... Охх... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2241 #-#-# translate crowdin ev_v92_017_cunnilingus_91df6b13:
+msgid "[Alice_11] Ах! Ещё, Макс... Всё, я больше не могу... Я кончаю! Д-а-а! Ммм... Как же чертовски хорошо это было..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2242 #-#-# translate crowdin ev_v92_017_cunnilingus_3ec9282d:
+msgid "[Max_03] Да, это было мощно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2246 #-#-# translate crowdin ev_v92_017_cunnilingus_1e956808:
+msgid "[Alice_05] Фух... И не говори! Меня даже ноги с трудом держат... ещё трясутся..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2247 #-#-# translate crowdin ev_v92_017_cunnilingus_8593514e:
+msgid "[Max_07] А я за такое не должен быть вознаграждён?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2254 #-#-# translate crowdin ev_v92_017_cunnilingus_e2f3d045:
+msgid "[Alice_12] Вот что ты точно не должен забывать, Макс, так это то, что мы тут наказываем тебя!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2255 #-#-# translate crowdin ev_v92_017_cunnilingus_032fa13d:
+msgid "[Max_10] Ну Алиса! Так нельзя..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2256 #-#-# translate crowdin ev_v92_017_cunnilingus_cce00283:
+msgid "[Alice_13] Что нельзя, так это подглядывать за мной! Но знаешь, кое-чем я тебе всё же помогу..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2257 #-#-# translate crowdin ev_v92_017_cunnilingus_e8425f39:
+msgid "[Max_07] Отвяжешь от стула?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2261 #-#-# translate crowdin ev_v92_017_cunnilingus_911eca53:
+msgid "[Alice_05] Именно! И ты сможешь уйти без какого-либо вреда для здоровья. А в остальном помоги себе сам!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2265 #-#-# translate crowdin ev_v92_017_cunnilingus_ee60a2e4:
+msgid "[Max_09] {m}Вот так значит, да?! Я тут стараюсь, а она... Наказывает видите ли она меня тут! Нужно было обойтись без конфеты с ликёром, тогда она бы помнила, что вытворяла, а мне было бы что ей предъявить за это!{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2274 #-#-# translate crowdin ev_v92_017_cunnilingus_857f2585:
+msgid "[Max_09] {m}Вот так значит, да?! Я тут стараюсь, а она... Наказывает видите ли она меня тут! Ну всё, сучка, ты у меня скоро такого члена получишь... Тебя ведь тоже ещё будет за что наказать!{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2283 #-#-# translate crowdin ev_v92_017_cunnilingus_e2f3d045_1:
+msgid "[Alice_12] Вот что ты точно не должен забывать, Макс, так это то, что мы тут наказываем тебя!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2284 #-#-# translate crowdin ev_v92_017_cunnilingus_cdc827ee:
+msgid "[Max_09] Ты же понимаешь, что всё равно скоро попадёшься с сигаретами мне или маме?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2285 #-#-# translate crowdin ev_v92_017_cunnilingus_12110362:
+msgid "[Alice_16] И что?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2286 #-#-# translate crowdin ev_v92_017_cunnilingus_6225db26:
+msgid "[Max_02] А то, что я постараюсь как следует отыграться за эти унижения, наказывая тебя."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2290 #-#-# translate crowdin ev_v92_017_cunnilingus_c0684a76:
+msgid "[Alice_05] Ха! Ещё посмотрим, получится ли у тебя поймать меня и наказать. Я тебя даже отпущу сейчас без какого-либо вреда для здоровья, чтобы повысить твои микроскопические шансы на успех."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2292 #-#-# translate crowdin ev_v92_017_cunnilingus_1d5e903b:
+msgid "[Max_15] {m}Всё, доминаторша... Считай ты попала. Я тебя поймаю...{/m} [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2299 #-#-# translate crowdin ev_v92_017_cunnilingus_5f47d0db:
+msgid "[Alice_03] Вознаграждён? Хм... Может быть... Ты очень услужливо себя вёл, но будь осторожен в своих желаниях. Не испорть всё... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2301 #-#-# translate crowdin ev_v92_017_cunnilingus_b2dfd640:
+msgid "[Alice_07] Ой, как приятно! Значит любой? Это хорошо. У меня как раз кое-что есть для тебя..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2302 #-#-# translate crowdin ev_v92_017_cunnilingus_0b1aeff7:
+msgid "[Max_04] Правда? А что?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2307 #-#-# translate crowdin ev_v92_017_cunnilingus_08c1843d:
+msgid "[Alice_09] Сейчас узнаешь! Ммм... Он такой твёрдый и горячий! Я совсем сошла с ума, раз делаю такое... Ох, как же хорошо!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2308 #-#-# translate crowdin ev_v92_017_cunnilingus_f0c0b220:
+msgid "[Max_20] Ухх... Это точно! Но почему бы не посходить с ума, если об этом никто не узнает?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2309 #-#-# translate crowdin ev_v92_017_cunnilingus_5873bed2:
+msgid "[Alice_11] Вот именно! Д-а-а... Я хочу скользить киской по твоему мощному члену до тех пор, пока не кончу! Как приятно... Держись, Макс, ведь я буду это делать всё быстрее и быстрее... Ах-х-х..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2313 #-#-# translate crowdin ev_v92_017_cunnilingus_c7db45fa:
+msgid "[Max_19] {m}Да я этому только рад, сестрёнка! Надеюсь, я не схлопочу по заднице стеком, если кончу от её стонов и жарких поцелуев... Ох, чёрт, а я уже близок к этому...{/m}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2315 #-#-# translate crowdin ev_v92_017_cunnilingus_5bbcc6da:
+msgid "[Alice_10] Ох, Божечки! Макс! Я сейчас кончу... Д-а-а... Ммм... Ещё немножко и... Ах! Д-а-а... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2321 #-#-# translate crowdin ev_v92_017_cunnilingus_1ebb3ff1:
+msgid "[Alice_08] Фух... Это было нечто... Макс... Ты доволен, своей наградой за покорность?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2322 #-#-# translate crowdin ev_v92_017_cunnilingus_667be4e1:
+msgid "[Max_05] Ещё бы! Это было обалденно, Алиса!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2323 #-#-# translate crowdin ev_v92_017_cunnilingus_cd7f856e:
+msgid "[Alice_05] Не забывай, как бы там ни было, но это было наказание! Ещё помнишь за что?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2324 #-#-# translate crowdin ev_v92_017_cunnilingus_e9f8b148:
+msgid "[Max_07] Подглядывать - нехорошо!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2328 #-#-# translate crowdin ev_v92_017_cunnilingus_303e5748:
+msgid "[Alice_03] Именно! А теперь ступай куда-нибудь там... Только шорты не забудь и никому не попадись в таком виде! Иначе возникнет много неудобных вопросов."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2330 #-#-# translate crowdin ev_v92_017_cunnilingus_4905cf94:
+msgid "[Max_08] Такого нам не нужно... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2341 #-#-# translate crowdin ev_v92_017_dont_like_cuni_af2358d4:
+msgid "[Alice_16] Ай! Ты слишком грубо это делаешь! Я люблю грубость, но не до такой же степени... Такое мог сделать только очень плохой мальчик, который совершенно не знает, как надо ублажать свою госпожу!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2342 #-#-# translate crowdin ev_v92_017_dont_like_cuni_cb32de16:
+msgid "[Max_08] А как надо?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2346 #-#-# translate crowdin ev_v92_017_dont_like_cuni_bbd2c54f:
+msgid "[Alice_12] Я же тебе сказала, как! Чувственно! Если ты так не умеешь, то я просто обязана тебя наказать... Как ты того и заслужил! Сейчас я оденусь и устрою тебе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2347 #-#-# translate crowdin ev_v92_017_dont_like_cuni_5e84ae6b:
+msgid "[Max_09] Да блин, я так и делал!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2364 #-#-# translate crowdin ev_v92_018_sit_and_wait_ce55dc2c:
+msgid "[Alice_12] Макс, а в меня, там внизу, упёрлось то, что я думаю?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2365 #-#-# translate crowdin ev_v92_018_sit_and_wait_ea5d4c45:
+msgid "[Max_01] Ага. Мне приятно, что ты о нём думаешь."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2366 #-#-# translate crowdin ev_v92_018_sit_and_wait_8daf6f08:
+msgid "[Alice_13] Ты как всегда! А ещё лучше времени не нашёл для этого?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2367 #-#-# translate crowdin ev_v92_018_sit_and_wait_720cbf34:
+msgid "[Max_02] А ты ещё сильнее прижмись ко мне своими сиськами... Эффект будет ещё ощутимее!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2372 #-#-# translate crowdin ev_v92_018_sit_and_wait_b5d30091:
+msgid "[Alice_06] Паука бы лучше отогнал! [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2374 #-#-# translate crowdin ev_v92_018_sit_and_wait_fcf0a690:
+msgid "[Alice_12] Точно?!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2375 #-#-# translate crowdin ev_v92_018_sit_and_wait_9da1a297:
+msgid "[Max_04] Ага. В траву убежал."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2379 #-#-# translate crowdin ev_v92_018_sit_and_wait_223952aa:
+msgid "[Alice_14] Блин, Макс! Я тут в беде, а у тебя только одно на уме..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2380 #-#-# translate crowdin ev_v92_018_sit_and_wait_7be682f2:
+msgid "[Max_07] Если их не прикрыть, то паук будет любоваться и не уползёт!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2381 #-#-# translate crowdin ev_v92_018_sit_and_wait_007802d5:
+msgid "[Alice_06] Ты ещё большего идиотизма придумать не мог?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2382 #-#-# translate crowdin ev_v92_018_sit_and_wait_1f30d302:
+msgid "[Max_03] Незачем, он и так уползает..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2384 #-#-# translate crowdin ev_v92_018_sit_and_wait_e976f4c1:
+msgid "[Alice_15] Правда, что ли?! Хочешь сказать, сработало?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2385 #-#-# translate crowdin ev_v92_018_sit_and_wait_dc4b3119:
+msgid "[Max_04] Ага. Сама посмотри, его уже нет..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2392 #-#-# translate crowdin ev_v92_018_sit_and_wait_d0f1ccae:
+msgid "[Alice_06] Куда уж ещё ощутимее! Я и так почти что на твоём члене сижу... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2394 #-#-# translate crowdin ev_v92_018_sit_and_wait_04d34ab6:
+msgid "[Alice_15] Правда, что ли?! Хочешь сказать, он убежал?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2395 #-#-# translate crowdin ev_v92_018_sit_and_wait_dc4b3119_1:
+msgid "[Max_04] Ага. Сама посмотри, его уже нет..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2399 #-#-# translate crowdin ev_v92_018_sit_and_wait_223952aa_1:
+msgid "[Alice_14] Блин, Макс! Я тут в беде, а у тебя только одно на уме..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2400 #-#-# translate crowdin ev_v92_018_sit_and_wait_7be682f2_1:
+msgid "[Max_07] Если их не прикрыть, то паук будет любоваться и не уползёт!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2401 #-#-# translate crowdin ev_v92_018_sit_and_wait_007802d5_1:
+msgid "[Alice_06] Ты ещё большего идиотизма придумать не мог?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2402 #-#-# translate crowdin ev_v92_018_sit_and_wait_1f30d302_1:
+msgid "[Max_03] Незачем, он и так уползает..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2404 #-#-# translate crowdin ev_v92_018_sit_and_wait_04d34ab6_1:
+msgid "[Alice_15] Правда, что ли?! Хочешь сказать, он убежал?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2405 #-#-# translate crowdin ev_v92_018_sit_and_wait_dc4b3119_2:
+msgid "[Max_04] Ага. Сама посмотри, его уже нет..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2409 #-#-# translate crowdin ev_v92_018_sit_and_wait_45030154:
+msgid "[Alice_07] Фух... Ладно. Только ты посматривай, временами, чтобы в мою сторону никто не полз."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2410 #-#-# translate crowdin ev_v92_018_sit_and_wait_63bd396f:
+msgid "[Max_02] Хорошо. Но, если что, зови. Ещё посидим."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2412 #-#-# translate crowdin ev_v92_018_sit_and_wait_896eb976:
+msgid "[Alice_05] Тебе хватит. Не обольщайся... [nointeract]"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2419 #-#-# translate crowdin ev_v92_018_hide_behind_4afa2c53:
+msgid "[Alice_06] Нет, я боюсь..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2420 #-#-# translate crowdin ev_v92_018_hide_behind_15ab4ca7:
+msgid "[Max_09] А вдруг он на нас побежит, прямо к твоей попке!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2422 #-#-# translate crowdin ev_v92_018_hide_behind_9657c7e4:
+msgid "[Alice_13] Ой, нет! Не надо к моей попке! Что ему вообще надо тут?! Почему ему в траве не сидится или где он там живёт..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2423 #-#-# translate crowdin ev_v92_018_hide_behind_00ca2aac:
+msgid "[Max_07] Может, займёшь свои ручки чем-нибудь приятным для меня? Всё равно просто сидим..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2425 #-#-# translate crowdin ev_v92_018_hide_behind_33eb5c11:
+msgid "[Alice_05] О, точно! Ты прав... Зачем просто сидеть и ждать, пока паук уползёт? Самое время, чтобы тебя немного развлечь..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2426 #-#-# translate crowdin ev_v92_018_hide_behind_c2e804d6:
+msgid "[Max_03] Вот именно! И паук, наверняка, от такого зрелища испугается и убежит..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2428 #-#-# translate crowdin ev_v92_018_hide_behind_c9cb0b17:
+msgid "[Alice_12] Балда ты, Макс! Правда думаешь, что я стану тебе сейчас дрочить? Мне же страшно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2429 #-#-# translate crowdin ev_v92_018_hide_behind_ce2527cc:
+msgid "[Max_02] Да ладно, давай паука попугаем..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2430 #-#-# translate crowdin ev_v92_018_hide_behind_4e9a093b:
+msgid "[Alice_13] Он и так уползает, кстати..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2431 #-#-# translate crowdin ev_v92_018_hide_behind_d8db5f98:
+msgid "[Max_01] Эх, вот облом! Вернее... Я хотел сказать, правильно сделал, что уполз!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2433 #-#-# translate crowdin ev_v92_018_hide_behind_45030154:
+msgid "[Alice_07] Фух... Ладно. Только ты посматривай, временами, чтобы в мою сторону никто не полз."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2434 #-#-# translate crowdin ev_v92_018_hide_behind_63bd396f:
+msgid "[Max_02] Хорошо. Но, если что, зови. Ещё посидим."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2436 #-#-# translate crowdin ev_v92_018_hide_behind_896eb976:
+msgid "[Alice_05] Тебе хватит. Не обольщайся... [nointeract]"
+msgstr ""
+
+# §translate crowdin strings: #|#|# # game/scripts_s1/s1_v92.rpy:54
 msgid "{i}одеться и подождать Алису{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:52
+# game/scripts_s1/s1_v92.rpy:54
 msgid "{i}подглядывать за Алисой{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:74
+# game/scripts_s1/s1_v92.rpy:76
 msgid "{i}идти в магазин одежды{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:106
+# game/scripts_s1/s1_v92.rpy:108
 msgid "{i}идти к примерочной{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:112
+# game/scripts_s1/s1_v92.rpy:114
 msgid "{i}подсматривать за Алисой{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:123
+# game/scripts_s1/s1_v92.rpy:125
 msgid "{i}зайти к Алисе{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:170
+# game/scripts_s1/s1_v92.rpy:172
 msgid "Покрутись ещё немного..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:170
+# game/scripts_s1/s1_v92.rpy:172
 msgid "{i}пойти оплатить{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:197
+# game/scripts_s1/s1_v92.rpy:199
 msgid "{i}идти домой{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:265
+# game/scripts_s1/s1_v92.rpy:268
 msgid "{i}остаться с Алисой на ночь{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:275
+# game/scripts_s1/s1_v92.rpy:278
 msgid "Эх... Хорошо, одевай."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:275
+# game/scripts_s1/s1_v92.rpy:278
 msgid "Нет. Это уже слишком."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:285
+# game/scripts_s1/s1_v92.rpy:288
 msgid "{i}уйти спать в свою комнату{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:307
+# game/scripts_s1/s1_v92.rpy:310
 msgid "{i}постараться проснуться пораньше{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:317
+# game/scripts_s1/s1_v92.rpy:320
 msgid "{i}потрогать её грудь через одежду{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:317
+# game/scripts_s1/s1_v92.rpy:320
 msgid "{i}стянуть лифчик с её груди{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:336
+# game/scripts_s1/s1_v92.rpy:339
 msgid "{i}потрогать её грудь{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:343
+# game/scripts_s1/s1_v92.rpy:346
 msgid "{i}вернуть лифчик на место{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:372
+# game/scripts_s1/s1_v92.rpy:376
 msgid "Не переживай, я останусь с тобой."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:372
+# game/scripts_s1/s1_v92.rpy:376
 msgid "Ну, значит тебе не повезёт. Спокойной ночи."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:383
+# game/scripts_s1/s1_v92.rpy:387
 msgid "Ага. Можешь одеться..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:531
+# game/scripts_s1/s1_v92.rpy:536
 msgid "Тогда ты уже бы была облапана с ног до головы!"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:580
+# game/scripts_s1/s1_v92.rpy:585
 msgid "{i}положить её руку на свой член{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:591
+# game/scripts_s1/s1_v92.rpy:596
 msgid "{i}наслаждаться{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:649
+# game/scripts_s1/s1_v92.rpy:656
 msgid "Да давай! Нужно же разобраться..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:698
+# game/scripts_s1/s1_v92.rpy:707
 msgid "{i}стянуть трусики с её киски{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:715
+# game/scripts_s1/s1_v92.rpy:724
 msgid "{i}продолжать ласкать{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:741
+# game/scripts_s1/s1_v92.rpy:750
 msgid "{i}ласкать активнее{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:775
+# game/scripts_s1/s1_v92.rpy:784
 msgid "Давай примем душ вместе? Будет не так страшно..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:809
+# game/scripts_s1/s1_v92.rpy:818
 msgid "{i}принимать душ с Алисой{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:840
+# game/scripts_s1/s1_v92.rpy:849
 msgid "{i}поймать паука{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:910
+# game/scripts_s1/s1_v92.rpy:924
 msgid "{i}помассировать Алисе спинку{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:994
+# game/scripts_s1/s1_v92.rpy:1035
 msgid "{i}осторожно поместить паука в ванну{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1020
+# game/scripts_s1/s1_v92.rpy:1071
 msgid "{i}ласкать Алису быстрее{/i}"
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1066
+# game/scripts_s1/s1_v92.rpy:1128
 msgid "Если будешь находиться во дворе без верха купальника, то наказывать не буду."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1066
+# game/scripts_s1/s1_v92.rpy:1128
 msgid "Если будешь спать голая, то наказывать не буду."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1066
+# game/scripts_s1/s1_v92.rpy:1128
 msgid "Ты знаешь, пожалуй, я тебя всё-таки отшлёпаю..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1115
+# game/scripts_s1/s1_v92.rpy:1177
 msgid "Точно! Тогда сверкай и дальше..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1115
+# game/scripts_s1/s1_v92.rpy:1177
 msgid "Чёрт! Тогда с завтрашнего дня прекращай..."
 msgstr ""
 
-# game/scripts_s1/s1_v92.rpy:1140
+# game/scripts_s1/s1_v92.rpy:1202
 msgid "Точно! Тогда продолжай в том же духе..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1277
+msgid "Не переживай, не вернётся. Спокойной ночи."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1401
+msgid "{i}устроиться поудобнее{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1415
+msgid "{i}устроиться у неё между ног{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1423
+msgid "{i}ласкать её киску пальцами быстрее{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1465
+msgid "{i}продолжить ласкать пальцами{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1470
+msgid "{i}устроиться поудобнее и проникнуть в неё пальцами{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1536
+msgid "Да, давай жёстче! Я уже близко..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1536
+msgid "Да, понежнее и язычком..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1599
+msgid "{i}засадить член поглубже ей в рот{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1706
+msgid "Сразу предупреждаю, будет больно!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1706
+msgid "Может, накажем твой ротик вместо попки?"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1746
+msgid "Что ты! Ничего такого..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:1884
+msgid "{i}снова засадить поглубже{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2088
+msgid "Я сделаю всё, что пожелает моя госпожа!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2088
+msgid "Я лучше предпочту, чтобы ты сперва мне отсосала!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2215
+msgid "{i}устроить чувственные ласки{/i}"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2298
+msgid "Я буду рад любой награде от моей госпожи!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2298
+msgid "Хочу, чтобы ты отсосала!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2371
+msgid "Незачем, он и так уползает..."
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2391
+msgid "Зато, он с лёгкостью отпугивает пауков!"
+msgstr ""
+
+# game/scripts_s1/s1_v92.rpy:2391
+msgid "потискать Алису за грудь"
 msgstr ""
 
