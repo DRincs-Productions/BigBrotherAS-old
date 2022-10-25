@@ -1,48 +1,48 @@
-﻿# TODO: Translation updated at 2022-10-09 00:01 #|#|# # §translate crowdin strings: #|#|# # game/core/07_clothes.rpy:399
+﻿# TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/07_clothes.rpy:406
 msgid "Повседневная"
 msgstr "Повседневная"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Для сна"
 msgstr "Для сна"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Для йоги"
 msgstr "Для йоги"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Блог в нижнем белье"
 msgstr "Блог в нижнем белье"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Готовит завтрак"
 msgstr "Готовит завтрак"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Готовит ужин"
 msgstr "Готовит ужин"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Утренний отдых"
 msgstr "Утренний отдых"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Вечерний отдых"
 msgstr "Вечерний отдых"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Купальник"
 msgstr "Купальник"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "За уроками"
 msgstr "За уроками"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Для прогулок"
 msgstr "Для прогулок"
 
-# game/core/07_clothes.rpy:478
+# game/core/07_clothes.rpy:488
 msgid "Влияние Макса недостаточно"
 msgstr "Влияние Макса недостаточно"
 
