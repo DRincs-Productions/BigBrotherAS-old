@@ -10,53 +10,53 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-14 07:08\n"
+"PO-Revision-Date: 2022-10-25 14:56\n"
 
-# TODO: Translation updated at 2022-10-09 00:01 #|#|# # §translate crowdin strings: #|#|# # game/core/07_clothes.rpy:399
+# TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/07_clothes.rpy:406
 msgid "Повседневная"
 msgstr "Informel"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Для сна"
 msgstr "Pour dormir"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Для йоги"
 msgstr "Pour le yoga"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Блог в нижнем белье"
 msgstr "Blog sur la lingerie"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Готовит завтрак"
 msgstr "Préparer le petit-déjeuner"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Готовит ужин"
 msgstr "Dîner du soir"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Утренний отдых"
 msgstr "Repos matinal"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Вечерний отдых"
 msgstr "Repos du soir"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Купальник"
 msgstr "Maillot de bain"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "За уроками"
 msgstr "Pour les leçons"
 
-# game/core/07_clothes.rpy:399
+# game/core/07_clothes.rpy:406
 msgid "Для прогулок"
 msgstr "Pour les promenades"
 
-# game/core/07_clothes.rpy:478
+# game/core/07_clothes.rpy:488
 msgid "Влияние Макса недостаточно"
 msgstr "Le niveau de persuasion de Max n'est pas suffisant"
 
