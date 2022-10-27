@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-25 14:57\n"
+"PO-Revision-Date: 2022-10-27 12:01\n"
 
 # TODO: Translation updated at 2022-10-23 23:54 #|#|# # game/dialogues/alicetalk.rpy:12 #-#-# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -5750,7 +5750,7 @@ msgstr "[Max_01] Oui, ne t'inquiète pas."
 
 # game/dialogues/alicetalk.rpy:4675 #-#-# translate crowdin alice_private_punish_0_8f61a68b:
 msgid "[Alice_03] Эх, Макс... Я так хорошо лежала и загорала. Ну да ладно, где это сделаем?"
-msgstr ""
+msgstr "[Alice_03] Eh, Max... J'étais allongée et je prenais un bain de soleil. Aller, où est-ce qu'on le fait ?"
 
 # game/dialogues/alicetalk.rpy:4679 #-#-# translate crowdin alice_private_punish_0_smoke_0e942505:
 msgid "[Alice_00] Макс, поглазеть пришёл? [nointeract]"
@@ -5886,7 +5886,7 @@ msgstr "[Alice_05] Tu as déjà commencé? Parce que je pensais que ça ressembl
 
 # game/dialogues/alicetalk.rpy:4811 #-#-# translate crowdin alice_private_punish_r_pun_370e3765:
 msgid "[Alice_02] Мне нравится, что не больно. Ну всё, потискал мою попку и хватит. А то, если тебя не остановить, ты так и будешь залипать, куда не надо..."
-msgstr ""
+msgstr "[Alice_02] J'aime que ça ne fasse pas mal. C'est ça, tu as touché mon cul et c'est tout. Sinon, si on ne t'arrête pas, tu continuerais à fourrer ton nez là où il ne faut pas..."
 
 # game/dialogues/alicetalk.rpy:4812 #-#-# translate crowdin alice_private_punish_r_pun_c75cb6e6:
 msgid "[Max_03] Просто зрелище такое... завораживающее."
@@ -6874,7 +6874,7 @@ msgstr "[Max_20] Euh C’est sûr ! Mais pourquoi ne pas devenir folle si person
 
 # game/dialogues/alicetalk.rpy:5583 #-#-# translate crowdin alice_domine_drink_kiss_5873bed2:
 msgid "[Alice_11] Вот именно! Д-а-а... Я хочу скользить киской по твоему мощному члену до тех пор, пока не кончу! Как приятно... Держись, Макс, ведь я буду это делать всё быстрее и быстрее... Ах-х-х..."
-msgstr ""
+msgstr "[Alice_11] Exactement ! A-ah... Je veux faire glisser mes mouvements sur ton puissante érection jusqu’à ce que j’aie fini! Comme c’est agréable... Attends, Max, parce que je vais le faire de plus en plus vite... Ahhh..."
 
 # game/dialogues/alicetalk.rpy:5588 #-#-# translate crowdin alice_domine_drink_kiss_cdcd1179:
 msgid "[Max_19] {m}Да я этому только рад, сестрёнка! Как бы мне не кончить от её стонов и жарких поцелуев... Так можно ей всё удовольствие обломать, а после схлопотать вдогонку по заднице её стеком! Мне лучше и правда держаться, но как же это непросто...{/m} [nointeract]"
@@ -8052,7 +8052,7 @@ msgstr "Eh bien, comme tu veux..."
 
 # game/dialogues/alicetalk.rpy:3075
 msgid "Давай просто подождём, пока он уползёт..."
-msgstr ""
+msgstr "Attendons juste qu'il s'éloigne en rampant..."
 
 # game/dialogues/alicetalk.rpy:3075
 msgid "Спрячься за меня, хотя бы..."
@@ -8064,7 +8064,7 @@ msgstr "{i}presser les seins d'Alice{/i}"
 
 # game/dialogues/alicetalk.rpy:3075
 msgid "Просто спрячься за меня..."
-msgstr ""
+msgstr "Cache-toi derrière moi..."
 
 # game/dialogues/alicetalk.rpy:3216
 msgid "{i}убрать руки{/i}"
