@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2022-10-25 14:55\n"
+"PO-Revision-Date: 2022-10-27 12:01\n"
 
 # TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/09_opportunities.rpy:4
 msgid "Скрытые камеры"
@@ -646,11 +646,11 @@ msgstr "Maintenant Eric est parti et je peux aider Alice en toute sécurité. Je
 
 # game/core/09_opportunities.rpy:4
 msgid "На всякий случай, лучше подкопить деньжат, хотя бы $1500, потому что не понятно, что Алиса захочет купить..."
-msgstr ""
+msgstr "Au cas où, vous feriez mieux d'économiser un peu d'argent, au moins 1500 $, car on ne sait pas vraiment ce qu'Alice voudra acheter..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Похоже, что Алиса загорелась желанием транслировать то, как она играет в видео игры и при этом будет сексуально одеваться под соответствующую играм тематику. И я с радостью поучаствую в этом. Начать мы решили с костюма Чёрной кошки из вселенной Человека-паука, правда Алиса хочет дополнить образ ещё некоторыми аксессуарами. Вот дополнит и я её отщёлкаю... Ну, в смысле, пофотографирую."
-msgstr ""
+msgstr "Il semble qu'Alice ait un désir ardent de diffuser sa façon de jouer aux jeux vidéo et, ce faisant, elle s'habille de façon sexy pour correspondre au thème du jeu. Et j'adorerais y participer. Nous avons décidé de commencer avec le costume de Chat Noir de l'univers Spider-Man, mais Alice veut compléter le look avec d'autres accessoires. Je vais donc prendre une photo d'elle... Je veux dire, prendre des photos."
 
 # game/core/09_opportunities.rpy:4
 msgid "Талантливый массажист"
@@ -1428,64 +1428,69 @@ msgstr "Voilà qui est intéressant ! Je pensais qu'Alice allait, comme d'habitu
 
 # game/core/09_opportunities.rpy:4
 msgid "Потребуются успехи в возможности \"Кто не рискует...\"..."
-msgstr ""
+msgstr "Il faudra réussir dans 'l'opportunité' : 'Contrôle'..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Ночью приставать к Алисе я не стал. Это явная дорога обратно в свою комнату на костылях. А вот утром, пока Алиса ещё спит, это другое дело... \n"
 "Я, конечно, уже кучу раз видел её сиськи, но всё равно было очень приятно стягивать её лифчик и не менее приятно то, что она от этого не проснулась. Самое главное, это то, что я смог попасть в её постель и теперь можно двигаться дальше. \n\n"
 "Интересно, что будет, если она проснётся от моих приставаний? Это и надо выяснить..."
-msgstr ""
+msgstr "Je n'ai pas harcelé Alice la nuit. C'était un chemin clair pour retourner à ma chambre avec des béquilles. Mais le matin, alors qu'Alice dormait encore, c'était une autre affaire... \n"
+"J'avais, bien sûr, vu ses seins un tas de fois auparavant, mais c'était toujours très agréable de baisser son soutien-gorge et tout aussi agréable que cela ne la réveille pas. Le plus important, c'est que j'ai pu aller dans son lit et que je peux maintenant passer à autre chose. \n\n"
+"Je me demande ce qui se passera si elle se réveille à mes avances ? C'est ce que nous devons découvrir..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Желательно, чтобы Алиса проснулась от моих приставаний..."
-msgstr ""
+msgstr "De préférence, Alice se réveille à cause de mon harcèlement..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Ну что, я жив, здоров и полон сил, готов и дальше приставать к Алисе. Она может и попросила меня больше к ней не лезть, но я то знаю, что она сама этого хочет. И ей нужно это показать в следующий раз... \n"
 "Наверняка, чтобы теперь остаться с ней на ночь придётся уговаривать, но мне не в первой этим заниматься."
-msgstr ""
+msgstr "Eh bien, je suis vivant, en bonne santé et plein d'énergie, prêt à continuer à harceler Alice. Elle m'a peut-être demandé d'arrêter de la harceler, mais je sais que c'est ce qu'elle veut. Et elle doit le montrer la prochaine fois... \n"
+"Je suis sûr que je vais devoir la convaincre de rester pour la nuit maintenant, mais ce n'est pas la première fois que je dois le faire."
 
 # game/core/09_opportunities.rpy:4
 msgid "Нужно продолжать оберегать Алису от пауков в её комнате..."
-msgstr ""
+msgstr "Nous devons protéger Alice des araignées dans sa chambre..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Ох уж какая Алиса оказывается проказница! Лежала такая, якобы спала и вдруг бац... уже мне дрочит... А ещё оправдывается! Всё теперь понятно, что у неё на уме и мне стоит ответить в том же ключе... в следующий раз... когда останусь с ней на ночь..."
-msgstr ""
+msgstr "Oh, quelle farceuse Alice s'est avérée être ! Allongé là, faisant semblant de dormir, et soudain... elle est déjà en train de me branler... Et elle trouve des excuses ! Maintenant je sais ce qu'elle a en tête et je devrais répondre de la même manière... la prochaine fois... la prochaine fois que je passe la nuit avec elle..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Всё должно сработать, как надо, если Алиса ещё хотя бы пару раз поработает ножками на трезвую голову, когда я делаю ей массаж у ТВ"
-msgstr ""
+msgstr "Ça devrait fonctionner correctement si Alyssa a au moins deux fois de plus où je lui fais un massage des pieds sobre près de la télé."
 
 # game/core/09_opportunities.rpy:4
 msgid "Всё должно сработать, как надо, если Алиса ещё хотя бы раз поработает ножками на трезвую голову, когда я делаю ей массаж у ТВ"
-msgstr ""
+msgstr "Tout devrait fonctionner correctement si Alice travaille ses pieds à jeun au moins une fois de plus quand je la masse devant la télé"
 
 # game/core/09_opportunities.rpy:4
 msgid "Эх, теряет Алиса хватку... Она мне и так угрожала, и этак, а мне всё ни по чём... Я просто взял и запустил свой язык в её киску! А как я её обломал на самом пике блаженства... Ну ничего, будет знать, что я тоже человек и хочу кончать... на неё... Посмотрим, задумается ли она над этим. \n"
 "И пока лучше перестать подбрасывать пауков в её комнату, а то это и так уже крайне подозрительно. \n"
 "О, может теперь она пустит меня к себе, когда принимает душ?"
-msgstr ""
+msgstr "Eh, Alice perd son emprise... Elle me menaçait de toutes parts, mais je m'en fichais... J'ai juste mis ma langue dans sa chatte. Et la façon dont je l'ai baisée au plus fort de sa félicité... Elle saura que je suis humain aussi et voudra venir... sur elle... Voyons si elle y pense. \n"
+"Et en attendant, je ferais mieux d'arrêter de mettre des araignées dans sa chambre, c'est déjà très suspect. \n"
+"Oh, peut-être que maintenant elle me laissera entrer quand elle se douchera?"
 
 # game/core/09_opportunities.rpy:4
 msgid "Пустит ли меня Алиса к себе в душ для охраны, если её будет терроризировать паук? Стоит проверить..."
-msgstr ""
+msgstr "Alice me laisserait-elle entrer dans sa douche de sécurité si elle était terrorisée par une araignée ? Cela vaut la peine de vérifier..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Как я удачно пригодился Алисе! Оказался прямо там где нужно и когда нужно, чтобы спасти её мокрую попку от паука. А судя по тому, что она дала потискать эту самую попку и намекнула на то, чтобы я в следующий раз не забыл потереть ей спинку - выводы она сделала правильные. По крайней мере, мне так кажется, что правильные. Вопрос только в том, сколько времени она ещё станет ломаться? Ухх... Я уже жду не дождусь дня, когда она будет принимать душ одна..."
-msgstr ""
+msgstr "Quelle chance j'ai eu d'être utile à Alice ! J'étais là où et quand elle avait besoin de moi pour sauver son cul mouillé de l'araignée. Et à en juger par le fait qu'elle m'a laissé toucher ce cul et a laissé entendre que je devrais me souvenir de lui frotter le dos la prochaine fois, elle était arrivée à de bonnes conclusions. Du moins, je pense qu'elle l'a fait. La seule question est, combien de temps encore va-t-elle s'effondrer ? Ugh... Je ne peux pas attendre le jour où elle se douchera seule..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Нужно продолжать оберегать Алису от пауков, когда она принимает душ..."
-msgstr ""
+msgstr "Nous devons protéger Alice des araignées dans sa chambre..."
 
 # game/core/09_opportunities.rpy:4
 msgid "Похоже, что паук теперь мне больше мешает, нежели, помогает. Только я начал подбираться к самому интересному с Алисой, как он выполз к нам и всё испортил. Не сказать, что прямо всё, ведь я получил от Алисы благодарный поцелуйчик, да ещё и успел потереться своим членом об её попку, пока она висела на мне... Но я явно мог получить больше... Может в следующий раз повезёт и я замечу паука первым?"
-msgstr ""
+msgstr "L'araignée semble être plus un obstacle qu'une aide maintenant. J'arrivais juste à la bonne partie avec Alice quand il s'est faufilé et a tout gâché. Je ne dirais pas tout, car j'ai reçu un baiser reconnaissant d'Alice, et j'ai frotté ma bite sur son cul pendant qu'elle était accrochée à moi... Mais j'aurais pu avoir plus... Peut-être que la prochaine fois, j'aurai la chance de repérer l'araignée en premier."
 
 # game/core/09_opportunities.rpy:4
 msgid "О-ля-ля... Вот Алиса наконец и попалась. Для меня открывается много всего интересного с ней, но вместе с тем, стервозиной она быть не перестанет, так что не всё будет гладко и просто."
-msgstr ""
+msgstr "Ooh la la... Voici Alice qui a finalement rattrapé son retard. Beaucoup de choses intéressantes s'ouvrent à moi avec elle, mais en même temps, elle ne va pas cesser d'être une garce, donc ça ne va pas être tout simple et facile."
 
 # game/core/09_opportunities.rpy:4
 msgid "Альфа"
