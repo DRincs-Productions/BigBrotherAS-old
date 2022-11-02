@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-11-02 22:43\n"
+"PO-Revision-Date: 2022-11-02 22:58\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
@@ -234,63 +234,63 @@ msgstr "Non essere triste"
 
 # game/extra/extra.rpy:60
 msgid "В магазин с Алисой"
-msgstr ""
+msgstr "Al negozio con Alice"
 
 # game/extra/extra.rpy:60
 msgid "С добрым утром"
-msgstr ""
+msgstr "Buongiorno"
 
 # game/extra/extra.rpy:60
 msgid "Афера века"
-msgstr ""
+msgstr "La truffa del secolo"
 
 # game/extra/extra.rpy:60
 msgid "Сама напросилась"
-msgstr ""
+msgstr "L'avete chiesto voi."
 
 # game/extra/extra.rpy:60
 msgid "Так себе охранник"
-msgstr ""
+msgstr "Non è un granché come guardia di sicurezza"
 
 # game/extra/extra.rpy:60
 msgid "Хоть на что-то сгодился"
-msgstr ""
+msgstr "Almeno è servito a qualcosa"
 
 # game/extra/extra.rpy:60
 msgid "Пока паук где-то рядом..."
-msgstr ""
+msgstr "Finché il ragno è in giro..."
 
 # game/extra/extra.rpy:60
 msgid "Лучшее пробуждение с Алисой"
-msgstr ""
+msgstr "Il miglior risveglio con Alice"
 
 # game/extra/extra.rpy:60
 msgid "Лучше делать то, что она хочет..."
-msgstr ""
+msgstr "Meglio fare quello che vuole lei..."
 
 # game/extra/extra.rpy:60
 msgid "Покорность будет вознаграждаться..."
-msgstr ""
+msgstr "L'obbedienza sarà ricompensata..."
 
 # game/extra/extra.rpy:60
 msgid "Выбери своё наказание"
-msgstr ""
+msgstr "Scegliete la vostra punizione"
 
 # game/extra/extra.rpy:60
 msgid "Вот и посмотрели ТВ"
-msgstr ""
+msgstr "Alla faccia di chi guarda la TV"
 
 # game/extra/extra.rpy:60
 msgid "В ванную комнату за минетом!"
-msgstr ""
+msgstr "In bagno per un pompino!"
 
 # game/extra/extra.rpy:60
 msgid "Меня ждёт кое-что особенное..."
-msgstr ""
+msgstr "Ho qualcosa di speciale che mi aspetta..."
 
 # game/extra/extra.rpy:60
 msgid "Самый хитрый охранник"
-msgstr ""
+msgstr "La guardia giurata più complicata"
 
 # game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
