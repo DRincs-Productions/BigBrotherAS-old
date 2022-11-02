@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49
+﻿# TODO: Translation updated at 2022-10-30 23:58
 
 translate crowdin strings:
 
@@ -223,6 +223,66 @@ translate crowdin strings:
     new "Не надо печалиться"
 
     # game/extra/extra.rpy:60
+    old "В магазин с Алисой"
+    new "В магазин с Алисой"
+
+    # game/extra/extra.rpy:60
+    old "С добрым утром"
+    new "С добрым утром"
+
+    # game/extra/extra.rpy:60
+    old "Афера века"
+    new "Афера века"
+
+    # game/extra/extra.rpy:60
+    old "Сама напросилась"
+    new "Сама напросилась"
+
+    # game/extra/extra.rpy:60
+    old "Так себе охранник"
+    new "Так себе охранник"
+
+    # game/extra/extra.rpy:60
+    old "Хоть на что-то сгодился"
+    new "Хоть на что-то сгодился"
+
+    # game/extra/extra.rpy:60
+    old "Пока паук где-то рядом..."
+    new "Пока паук где-то рядом..."
+
+    # game/extra/extra.rpy:60
+    old "Лучшее пробуждение с Алисой"
+    new "Лучшее пробуждение с Алисой"
+
+    # game/extra/extra.rpy:60
+    old "Лучше делать то, что она хочет..."
+    new "Лучше делать то, что она хочет..."
+
+    # game/extra/extra.rpy:60
+    old "Покорность будет вознаграждаться..."
+    new "Покорность будет вознаграждаться..."
+
+    # game/extra/extra.rpy:60
+    old "Выбери своё наказание"
+    new "Выбери своё наказание"
+
+    # game/extra/extra.rpy:60
+    old "Вот и посмотрели ТВ"
+    new "Вот и посмотрели ТВ"
+
+    # game/extra/extra.rpy:60
+    old "В ванную комнату за минетом!"
+    new "В ванную комнату за минетом!"
+
+    # game/extra/extra.rpy:60
+    old "Меня ждёт кое-что особенное..."
+    new "Меня ждёт кое-что особенное..."
+
+    # game/extra/extra.rpy:60
+    old "Самый хитрый охранник"
+    new "Самый хитрый охранник"
+
+    # game/extra/extra.rpy:60
     old "Урок по минету от мамы и Эрика"
     new "Урок по минету от мамы и Эрика"
 
@@ -282,35 +342,35 @@ translate crowdin strings:
     old "4-ый интимный урок с Анной"
     new "4-ый интимный урок с Анной"
 
-    # game/extra/extra.rpy:175
+    # game/extra/extra.rpy:192
     old "ВОСПОМИНАНИЯ"
     new "ВОСПОМИНАНИЯ"
 
-    # game/extra/extra.rpy:178
+    # game/extra/extra.rpy:195
     old "ФОТОСНИМКИ"
     new "ФОТОСНИМКИ"
 
-    # game/extra/extra.rpy:231
+    # game/extra/extra.rpy:248
     old "Воспоминание недоступно"
     new "Воспоминание недоступно"
 
-    # game/extra/extra.rpy:237
+    # game/extra/extra.rpy:254
     old "Воспоминание ещё не открыто"
     new "Воспоминание ещё не открыто"
 
-    # game/extra/extra.rpy:243
+    # game/extra/extra.rpy:260
     old "В вашей коллекции ещё нет фотоснимков."
     new "В вашей коллекции ещё нет фотоснимков."
 
-    # game/extra/extra.rpy:312
+    # game/extra/extra.rpy:329
     old "Предыдущий снимок"
     new "Предыдущий снимок"
 
-    # game/extra/extra.rpy:318
+    # game/extra/extra.rpy:335
     old "Вернуться в коллекцию"
     new "Вернуться в коллекцию"
 
-    # game/extra/extra.rpy:323
+    # game/extra/extra.rpy:340
     old "Следующий снимок"
     new "Следующий снимок"
 
