@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2022-10-14 07:11\n"
+"PO-Revision-Date: 2022-11-02 22:43\n"
 
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
+# TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
 msgstr ""
 
@@ -233,6 +233,66 @@ msgid "Не надо печалиться"
 msgstr ""
 
 # game/extra/extra.rpy:60
+msgid "В магазин с Алисой"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "С добрым утром"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Афера века"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Сама напросилась"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Так себе охранник"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Хоть на что-то сгодился"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Пока паук где-то рядом..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Лучшее пробуждение с Алисой"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Лучше делать то, что она хочет..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Покорность будет вознаграждаться..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Выбери своё наказание"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Вот и посмотрели ТВ"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "В ванную комнату за минетом!"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Меня ждёт кое-что особенное..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Самый хитрый охранник"
+msgstr ""
+
+# game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
 msgstr ""
 
@@ -292,35 +352,35 @@ msgstr ""
 msgid "4-ый интимный урок с Анной"
 msgstr ""
 
-# game/extra/extra.rpy:175
+# game/extra/extra.rpy:192
 msgid "ВОСПОМИНАНИЯ"
 msgstr ""
 
-# game/extra/extra.rpy:178
+# game/extra/extra.rpy:195
 msgid "ФОТОСНИМКИ"
 msgstr ""
 
-# game/extra/extra.rpy:231
+# game/extra/extra.rpy:248
 msgid "Воспоминание недоступно"
 msgstr ""
 
-# game/extra/extra.rpy:237
+# game/extra/extra.rpy:254
 msgid "Воспоминание ещё не открыто"
 msgstr ""
 
-# game/extra/extra.rpy:243
+# game/extra/extra.rpy:260
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr ""
 
-# game/extra/extra.rpy:312
+# game/extra/extra.rpy:329
 msgid "Предыдущий снимок"
 msgstr ""
 
-# game/extra/extra.rpy:318
+# game/extra/extra.rpy:335
 msgid "Вернуться в коллекцию"
 msgstr ""
 
-# game/extra/extra.rpy:323
+# game/extra/extra.rpy:340
 msgid "Следующий снимок"
 msgstr ""
 
