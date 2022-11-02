@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-10-14 07:08\n"
+"PO-Revision-Date: 2022-11-02 22:57\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/06_items.rpy:2
 msgid "ПАУК"
@@ -106,7 +106,7 @@ msgstr "SGABELLO"
 
 # game/core/06_items.rpy:2
 msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-msgstr "Una piccola stepladder che ti permette di ottenere ciò per cui non hai abbastanza crescita"
+msgstr "Una piccola scaletta che ti permette di raggiungere ciò per cui non avete l'altezza necessaria"
 
 # game/core/06_items.rpy:2
 msgid "WEB STANDARDS"
