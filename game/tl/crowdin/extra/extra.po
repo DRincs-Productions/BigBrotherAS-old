@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
+﻿# TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
 msgstr "Новый купальник Лизы"
 
@@ -219,6 +219,66 @@ msgid "Не надо печалиться"
 msgstr "Не надо печалиться"
 
 # game/extra/extra.rpy:60
+msgid "В магазин с Алисой"
+msgstr "В магазин с Алисой"
+
+# game/extra/extra.rpy:60
+msgid "С добрым утром"
+msgstr "С добрым утром"
+
+# game/extra/extra.rpy:60
+msgid "Афера века"
+msgstr "Афера века"
+
+# game/extra/extra.rpy:60
+msgid "Сама напросилась"
+msgstr "Сама напросилась"
+
+# game/extra/extra.rpy:60
+msgid "Так себе охранник"
+msgstr "Так себе охранник"
+
+# game/extra/extra.rpy:60
+msgid "Хоть на что-то сгодился"
+msgstr "Хоть на что-то сгодился"
+
+# game/extra/extra.rpy:60
+msgid "Пока паук где-то рядом..."
+msgstr "Пока паук где-то рядом..."
+
+# game/extra/extra.rpy:60
+msgid "Лучшее пробуждение с Алисой"
+msgstr "Лучшее пробуждение с Алисой"
+
+# game/extra/extra.rpy:60
+msgid "Лучше делать то, что она хочет..."
+msgstr "Лучше делать то, что она хочет..."
+
+# game/extra/extra.rpy:60
+msgid "Покорность будет вознаграждаться..."
+msgstr "Покорность будет вознаграждаться..."
+
+# game/extra/extra.rpy:60
+msgid "Выбери своё наказание"
+msgstr "Выбери своё наказание"
+
+# game/extra/extra.rpy:60
+msgid "Вот и посмотрели ТВ"
+msgstr "Вот и посмотрели ТВ"
+
+# game/extra/extra.rpy:60
+msgid "В ванную комнату за минетом!"
+msgstr "В ванную комнату за минетом!"
+
+# game/extra/extra.rpy:60
+msgid "Меня ждёт кое-что особенное..."
+msgstr "Меня ждёт кое-что особенное..."
+
+# game/extra/extra.rpy:60
+msgid "Самый хитрый охранник"
+msgstr "Самый хитрый охранник"
+
+# game/extra/extra.rpy:60
 msgid "Урок по минету от мамы и Эрика"
 msgstr "Урок по минету от мамы и Эрика"
 
@@ -278,35 +338,35 @@ msgstr "3-ый интимный урок с Анной"
 msgid "4-ый интимный урок с Анной"
 msgstr "4-ый интимный урок с Анной"
 
-# game/extra/extra.rpy:175
+# game/extra/extra.rpy:192
 msgid "ВОСПОМИНАНИЯ"
 msgstr "ВОСПОМИНАНИЯ"
 
-# game/extra/extra.rpy:178
+# game/extra/extra.rpy:195
 msgid "ФОТОСНИМКИ"
 msgstr "ФОТОСНИМКИ"
 
-# game/extra/extra.rpy:231
+# game/extra/extra.rpy:248
 msgid "Воспоминание недоступно"
 msgstr "Воспоминание недоступно"
 
-# game/extra/extra.rpy:237
+# game/extra/extra.rpy:254
 msgid "Воспоминание ещё не открыто"
 msgstr "Воспоминание ещё не открыто"
 
-# game/extra/extra.rpy:243
+# game/extra/extra.rpy:260
 msgid "В вашей коллекции ещё нет фотоснимков."
 msgstr "В вашей коллекции ещё нет фотоснимков."
 
-# game/extra/extra.rpy:312
+# game/extra/extra.rpy:329
 msgid "Предыдущий снимок"
 msgstr "Предыдущий снимок"
 
-# game/extra/extra.rpy:318
+# game/extra/extra.rpy:335
 msgid "Вернуться в коллекцию"
 msgstr "Вернуться в коллекцию"
 
-# game/extra/extra.rpy:323
+# game/extra/extra.rpy:340
 msgid "Следующий снимок"
 msgstr "Следующий снимок"
 
