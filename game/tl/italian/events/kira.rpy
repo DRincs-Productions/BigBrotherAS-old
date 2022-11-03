@@ -112,13 +112,13 @@ translate italian kira_bath_kira_mass_bath_first_c457930d:
 translate italian kira_bath_kira_mass_bath_first_93c94ec0:
 
     # Kira_05 "Немного? Это сколько? Раз в неделю? Или раз в день?"
-    Kira_05 "un po'? Quanto? Una volta alla settimana? O una volta al giorno?"
+    Kira_05 "Un po'? Quanto? Una volta alla settimana? O una volta al giorno?"
 
 # game/events/kira.rpy:112
 translate italian kira_bath_kira_mass_bath_first_7b934ba1:
 
     # Max_09 "Ты сдашь меня маме?"
-    Max_09 "Mi consegnerai a tua madre?"
+    Max_09 "Lo direai alla mamma?"
 
 # game/events/kira.rpy:113
 translate italian kira_bath_kira_mass_bath_first_14b70a3b:
@@ -148,7 +148,7 @@ translate italian kira_bath_kira_mass_bath_first_825c8fc0:
 translate italian kira_bath_kira_mass_bath_first_af29342a:
 
     # Kira_01 "Я слышала, ты неплохо так массируешь ножки то одной сестре, то другой..."
-    Kira_01 "ti ho sentito massaggiare così bene le gambe di una sorella o dell'altra..."
+    Kira_01 "Ho sentito che sei molto bravo a massaggiare le gambe di una sorella e l'altra..."
 
 # game/events/kira.rpy:122
 translate italian kira_bath_kira_mass_bath_first_3b03420e:
@@ -160,13 +160,13 @@ translate italian kira_bath_kira_mass_bath_first_3b03420e:
 translate italian kira_bath_kira_mass_bath_first_5ed6b6a0:
 
     # Kira_02 "Я сегодня очень устала... И если бы нашёлся тот, кто помог бы снять усталость с моих ног, то может быть, в качестве благодарности, я бы и не стала рассказывать своей сестре, какой у неё испорченный сын."
-    Kira_02 "oggi sono molto stanco... E se ci fosse qualcuno che mi aiutasse ad alleviare la fatica dalle mie gambe, allora forse, come ringraziamento, non direi a mia sorella che figlio viziato ha."
+    Kira_02 "Oggi sono molto stanca... E se ci fosse qualcuno che mi aiutasse a alleviare la fatica dalle gambe, allora forse, come ringraziamento, non dovrò dire a mia sorella che figlio viziato ha."
 
 # game/events/kira.rpy:124
 translate italian kira_bath_kira_mass_bath_first_50c1f105:
 
     # Max_07 "Э-э-э... Что, прямо здесь?"
-    Max_07 "uh... Cosa, proprio qui?"
+    Max_07 "Ehm... Cosa, proprio qui?"
 
 # game/events/kira.rpy:125
 translate italian kira_bath_kira_mass_bath_first_d286de06:
