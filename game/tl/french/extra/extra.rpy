@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-07-09 12:49
+# TODO: Translation updated at 2022-10-30 23:58
 
 translate french strings:
 
@@ -223,6 +223,66 @@ translate french strings:
     new "Ne sois pas triste"
 
     # game/extra/extra.rpy:60
+    old "В магазин с Алисой"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "С добрым утром"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Афера века"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Сама напросилась"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Так себе охранник"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Хоть на что-то сгодился"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Пока паук где-то рядом..."
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Лучшее пробуждение с Алисой"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Лучше делать то, что она хочет..."
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Покорность будет вознаграждаться..."
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Выбери своё наказание"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Вот и посмотрели ТВ"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "В ванную комнату за минетом!"
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Меня ждёт кое-что особенное..."
+    new ""
+
+    # game/extra/extra.rpy:60
+    old "Самый хитрый охранник"
+    new ""
+
+    # game/extra/extra.rpy:60
     old "Урок по минету от мамы и Эрика"
     new "Leçon de maman et Eric"
 
@@ -282,35 +342,35 @@ translate french strings:
     old "4-ый интимный урок с Анной"
     new "La 4e leçon intime avec Anna"
 
-    # game/extra/extra.rpy:175
+    # game/extra/extra.rpy:192
     old "ВОСПОМИНАНИЯ"
     new "ENREGISTREMENTS"
 
-    # game/extra/extra.rpy:178
+    # game/extra/extra.rpy:195
     old "ФОТОСНИМКИ"
     new "PHOTOS"
 
-    # game/extra/extra.rpy:231
+    # game/extra/extra.rpy:248
     old "Воспоминание недоступно"
     new "Les enregistrements ne sont pas disponible"
 
-    # game/extra/extra.rpy:237
+    # game/extra/extra.rpy:254
     old "Воспоминание ещё не открыто"
     new "La mémoire n'est pas encore ouverte"
 
-    # game/extra/extra.rpy:243
+    # game/extra/extra.rpy:260
     old "В вашей коллекции ещё нет фотоснимков."
     new "Il n'y a pas encore de photos dans votre collection."
 
-    # game/extra/extra.rpy:312
+    # game/extra/extra.rpy:329
     old "Предыдущий снимок"
     new "Photo précédente"
 
-    # game/extra/extra.rpy:318
+    # game/extra/extra.rpy:335
     old "Вернуться в коллекцию"
     new "Retour à la collection"
 
-    # game/extra/extra.rpy:323
+    # game/extra/extra.rpy:340
     old "Следующий снимок"
     new "Photo suivante"
 

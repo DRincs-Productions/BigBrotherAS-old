@@ -96,7 +96,7 @@ translate italian strings:
 
     # game/core/06_items.rpy:2
     old "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-    new "Una piccola stepladder che ti permette di ottenere ciò per cui non hai abbastanza crescita"
+    new "Una piccola scaletta che ti permette di raggiungere ciò per cui non avete l'altezza necessaria"
 
     # game/core/06_items.rpy:2
     old "WEB STANDARDS"

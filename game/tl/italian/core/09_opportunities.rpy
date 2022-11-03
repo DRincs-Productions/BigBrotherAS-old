@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-10-23 23:54
+# TODO: Translation updated at 2022-10-30 23:58
 
 translate italian strings:
 
@@ -1395,8 +1395,8 @@ translate italian strings:
     new "Il ragno sembra essere più un ostacolo che un aiuto. Stavo per arrivare alla parte migliore con Alice quando lui si è intrufolato e ha rovinato tutto. Non direi tutto, perché ho ricevuto un bacio riconoscente da Alice, e sono riuscito a strofinare il mio cazzo sul suo culo mentre lei era appesa a me... Ma avrei potuto avere di più... Forse la prossima volta sarò abbastanza fortunato da individuare il ragno per primo."
 
     # game/core/09_opportunities.rpy:4
-    old "О-ля-ля... Вот Алиса наконец и попалась. Для меня открывается много всего интересного с ней, но вместе с тем, стервозиной она быть не перестанет, так что не всё будет гладко и просто."
-    new "Ooh la la... Ecco Alice finalmente al passo con i tempi. Mi si stanno aprendo molte cose interessanti con lei, ma allo stesso tempo non smetterà di fare la stronza, quindi non sarà tutto liscio e facile."
+    old "О-ля-ля... Вот Алиса наконец и попалась. Для меня открывается много всего интересного с ней, но вместе с тем, стервозиной она быть не перестанет, так что не всё будет гладко и просто. В любом случае, теперь я могу обеспечить себе очень приятное утро рядом с моей старшей сестрёнкой, принять вместе с ней душ, может и из массажа у ТВ удастся извлечь что-то новое..."
+    new "Ooh la la... Ecco Alice finalmente al passo con i tempi. Mi si stanno aprendo molte cose interessanti con lei, ma allo stesso tempo non smetterà di fare la stronza, quindi non sarà tutto liscio e facile. Comunque, ora posso assicurarmi una mattinata molto piacevole accanto alla mia sorellona, fare la doccia con lei, forse posso ricavare qualcosa di nuovo dal massaggio alla TV..."
 
     # game/core/09_opportunities.rpy:4
     old "Альфа"
@@ -1492,7 +1492,7 @@ translate italian strings:
 
     # game/core/09_opportunities.rpy:4
     old "Стоит подсмотреть со стремянки, как тётя Кира принимает ванну. Вдруг удастся увидеть что-то интересное..."
-    new "Vale la pena sbirciare dalla stepladder, mentre zia Kira fa il bagno. All'improvviso sarai in grado di vedere qualcosa di interessante ..."
+    new "Vale la pena di sbirciare zia Kira mentr fa il bagno dalla scaletta. Potrei vedere qualcosa di interessante..."
 
     # game/core/09_opportunities.rpy:4
     old "Хорошо, что я не струсил и пошёл к тёте Кире в ванную. Конечно, я понимал, что после того, что мы делали за просмотром порно она не станет меня ругать, но опасения всё равно были. Уж чего я совершенно не ожидал, что она пригласит меня присоединиться и попросит сделать ей массаж ног! Вид, конечно, был превосходный. Она даже слегка позаигрывала свой ногой с моим членом, как будто случайно, но мы-то с ней знаем, что не случайно... Надо бы повторить всё это. И если мне в дальнейшем всё же светит фут-джоб от тёти Киры, то нужно постараться не кончить слишком быстро, чтобы как следует насладиться этим моментом."
@@ -1913,6 +1913,50 @@ translate italian strings:
     # game/core/09_opportunities.rpy:4
     old "Следует уделять больше внимания ночным развлечениям с тётей Кирой, как в плане поцелуев, так и секса..."
     new "Più attenzione dovrebbe essere prestata all'intrattenimento notturno con zia Kira, sia in termini di baci che di sesso..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Как бы я не старался ей угождать во время наказаний, для большего мне всё равно нужны подвижки в наших отношениях без конфет. Потребуются успехи в возможности \"Арахнофобия\"..."
+    new "Per quanto mi sforzi di accontentarla durante le punizioni, ho ancora bisogno di progressi nel nostro rapporto senza caramelle per ottenere di più. Ci vorranno dei progressi per quanto riguarda l'opportunità di \"aracnofobia\"..."
+
+    # game/core/09_opportunities.rpy:4
+    old "После всех этих приключений с пауками наши отношения с Алисой перешли на новый уровень. Может быть и в наказаниях что-то изменится..."
+    new "Dopo tutte queste avventure con i ragni, il nostro rapporto con Alice ha assunto un nuovo livello. Forse cambierà qualcosa anche nelle punizioni..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Чёрт! Я, на самом деле, рассчитывал не на это... Я думал, что у меня получится развести Алису, уж как минимум, на минет, но похоже этого не будет. \nВ этих наказаниях мне в любом случае придётся подчиняться ей, чтобы уйти с целой задницей и довольствоваться тем, что мой язык побывает в самых разных местах на теле Алисы. Сверху до низу. \n\nИ ведь ей не получится ничего за это предъявить, она не вспомнит содержания этих издевательств надо мной из-за действия конфеты."
+    new "Merda! Non ci contavo proprio... Pensavo di poter ottenere da Alice almeno un pompino, ma sembra che non sarà così. \nIn queste punizioni avrei dovuto sottomettermi a lei in ogni caso, quindi avrei dovuto andarmene con un buco del culo intero e accontentarmi di lasciare che la mia lingua visitasse ogni sorta di posto sul corpo di Alice. Dall'alto in basso. \n\nE dopo tutto, non ne ricaverà nulla, non ricorderà il contenuto di questa prepotenza nei miei confronti a causa dell'azione della caramella."
+
+    # game/core/09_opportunities.rpy:4
+    old "Возможно, получится добиться от неё того же без конфет? Стоит проверить..."
+    new "Forse potete convincerla a fare lo stesso senza caramelle? Vale la pena di controllare..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Теперь Алисе можно будет, так сказать, отплатить той же монетой, когда она снова провинится, а для этого нужно поймать её с сигаретой во рту или спасти он наказания мамы..."
+    new "Ora Alice può, per così dire, essere ripagata con la stessa moneta quando è di nuovo colpevole, e per farlo bisogna beccarla con la sigaretta in bocca o risparmiare la punizione della madre..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Чёрт! Я, на самом деле, рассчитывал не на это... Я думал, что у меня получится развести Алису, уж как минимум, на минет, но похоже этого не будет. \nВ этих наказаниях мне в любом случае придётся подчиняться ей, чтобы уйти с целой задницей и довольствоваться тем, что мой язык побывает в самых разных местах на теле Алисы. Сверху до низу. \n\nХотя... Теперь Алисе можно будет, так сказать, отплатить той же монетой, когда она снова провинится..."
+    new "Merda! Non ci contavo proprio... Pensavo di poter ottenere da Alice almeno un pompino, ma sembra che non sarà così. \nIn queste punizioni avrei dovuto sottomettermi a lei in ogni caso, quindi avrei dovuto andarmene con un buco del culo intero e accontentarmi di lasciare che la mia lingua visitasse ogni sorta di posto sul corpo di Alice. Dall'alto in basso. \n\nAnche se... Ora Alice può, per così dire, essere ripagata con la stessa moneta quando è di nuovo colpevole..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Нужно поймать Алису с сигаретой во рту или спасти он наказания мамы..."
+    new "Dobbiamo beccare Alice con la sigaretta in bocca o evitare la punizione di sua madre..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Вот это Алиса получила от меня сполна! За все издевательства... Я бы с превеликим удовольствием повторил весь этот наказательный процесс ещё кучу раз, даже если Алиса постарается больше не попадаться с сигаретами ни мне, ни маме. Всё равно курить она не бросит..."
+    new "Ecco cosa ha ricevuto Alice da me! Per tutti gli abusi... Ripeterei volentieri l'intera procedura di punizione un mucchio di volte ancora, anche se Alice cercasse di non farsi più beccare con le sigarette, né da me né dalla mamma. Non smetterà comunque di fumare..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Нужно снова попасться Алисе на глаза, когда она принимает душ и дать ей себя наказать... И, пожалуй, стоит попробовать разные варианты - с конфетой и без..."
+    new "Devi catturare di nuovo l'attenzione di Alice mentre fa la doccia e lasciare che si punisca da sola... E probabilmente vale la pena di provare diverse opzioni, con e senza caramelle..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Похоже, Алиса начинает понимать, что отсосать мне во время наказания куда менее ущербно, чем пытаться усидеть на жёстко отшлёпанной попке. \nА раз минет теперь есть при наказании, то он может стать привычным делом и проявиться в других наших с ней... развлечениях... \nМожет, их пока ещё немного, но я вполне могу расcчитывать на минет по утрам в комнате Алисы, не без помощи паука, конечно. Да и благодаря массажу у ТВ, даже без конфеты, уже есть шанс получить что-то интересное от Алисы..."
+    new "Sembra che Alice stia cominciando a capire che succhiarmi durante la punizione è molto meno dannoso che cercare di sedersi su un culo duro sculacciato. \nE ora che i pompini sono lì per punizione, potrebbero diventare comuni negli altri... ...attività... \nForse non sono ancora molti, ma posso contare su un pompino al mattino nella stanza di Alice, non senza l'aiuto di un ragno, ovviamente. E grazie al massaggio della TV, anche senza le caramelle, c'è già la possibilità di ottenere qualcosa di interessante da Alice..."
+
+    # game/core/09_opportunities.rpy:4
+    old "Нужно проверить, появился ли минет в арсенале Алисы, если я защищаю её от пауков и делаю массаж у ТВ без конфет..."
+    new "Bisogna vedere se un pompino è apparso nell'arsenale di Alice se la proteggo dai ragni e le faccio un massaggio alla TV senza le caramelle..."
 
     # game/core/09_opportunities.rpy:4
     old "Контроль"
@@ -2346,83 +2390,83 @@ translate italian strings:
     old "Нужно хоть немного привыкнуть к минету от мамы, чтобы не облажаться с ней в большем. Успешно выдержано минетов от мамы: [ann.flags.held_out] из 3"
     new "Ci vuole almeno un po' di tempo per abituarsi a un pompino da parte della mamma, in modo da non sbagliare più con lei. Ho sopportato con successo un pompino da parte di mia madre:[ann.flags.held_out] di 3"
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Может, стоит всё-таки разобрать коробки, о которых говорила мама..."
     new "Forse vale la pena sistemare le scatole di cui parlava mia madre..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Может, стоит интересоваться, чем живёт моя старшая сестрёнка, когда не сидит в своей комнате..."
     new "Forse dovresti chiederti cosa vive mia sorella maggiore quando non è seduta nella sua stanza..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "А не посмотреть ли вместе с мамой какой-нибудь фильм? Может и стоит..."
     new "E non guardare con mia madre qualche film? Forse dovrebbe..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Может, стоит интересоваться, чем живёт моя младшая сестрёнка, когда не сидит в своей комнате..."
     new "Forse dovresti essere interessato a ciò che vive la mia sorellina quando non è seduta nella sua stanza..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Может быть у Алисы есть какие-нибудь секретные увлечения? Если да, то она явно этим будет заниматься, когда дома меньше всего народу..."
     new "Forse Alice ha qualche hobby segreto? Se è così, ovviamente lo farà quando ci saranno meno persone a casa..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Алиса любит понежиться на солнышке. Интересно, а она бы разрешила мне растереть ей спину каким-нибудь средством для загара? Стоит узнать..."
     new "Alice ama prendere il sole. Mi chiedo se mi lascerebbe strofinare la schiena con una sorta di agente abbronzante. Vale la pena saperlo..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Почему бы не составить Алисе компанию, когда она смотрит ТВ? А чтобы не сидеть без дела, можно и массаж ей сделать. Только нужно хоть какими-то знаниями обзавестись в этом деле..."
     new "Perché non tenere compagnia ad Alice quando guarda la TV? E per non stare seduto inattivo, puoi massaggiarla. Solo tu hai bisogno di almeno un po 'di conoscenza da acquisire in questa materia ..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Чтобы лезть к Лизе с расспросами о её однокласснике, лучше сперва позаботиться о том, чтобы у неё было хорошее настроение..."
     new "Per arrivare a Lisa con domande sulla sua compagna di classe, è meglio prima assicurarsi che abbia un buon umore ..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "С тётей Кирой о стольком можно поговорить! Нужно успевать, пока она нежится на солнце..."
     new "Puoi parlare con zia Kira di così tanto! Devi tenere il passo mentre lei è in ovatta al sole ..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Если мои сёстры увидят, что я подглядываю за тем, как они принимают душ, то у меня будет много проблем. Но вдруг их удастся чем-то задобрить..."
     new "Se le mie sorelle mi vedono spiare loro mentre si fa la doccia, avrò molti problemi. Ma all'improvviso saranno in grado di placarli con qualcosa..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Эта возможность доступна только при дружбе с Эриком..."
     new "Questa opportunità è disponibile solo con un'amicizia con Eric..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Эрик намекнул, что мне можно подглядывать за тем, чем они с мамой занимаются наедине. Теперь за ними спокойно можно подглядывать в спальне..."
     new "Eric ha lasciato intendere che potevo spiare quello che lui e sua madre stavano facendo in privato. Ora puoi tranquillamente spiarli in camera da letto ..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Эрик явно проявляет к Алисе особый интерес. Нужно приглядывать за этой парочкой, когда они вместе. Но что-то непристойное может происходить и ночью, если вдруг не все будут спать..."
     new "Eric ha chiaramente un interesse speciale per Alice. Devi tenere d'occhio questa coppia quando sono insieme. Ma qualcosa di osceno può accadere di notte, se improvvisamente non tutti dormiranno ..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Нет смысла что-либо затевать в отношении Алисиной попки, пока её хотя бы раз не накажут голой..."
     new "Non ha senso iniziare nulla sul di Alisina fino a quando non viene punita nuda almeno una volta..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Я слишком мало защищал Алису от наказаний мамы..."
     new "Ho difeso Alice troppo poco dalla punizione di mia madre..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Нужно опередить Эрика во всём, что он будет делать для Алисы. Особенно в дарении одежды..."
     new "Devi anticipare Eric in tutto ciò che farà per Alice. Soprattutto nel regalo di vestiti..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Нужно и дальше защищать Алису от наказаний..."
     new "È necessario continuare a proteggere Alice dalla punizione ..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Нужно больше времени проводить с мамой. Её утренние занятия йогой помогут нам сблизиться..."
     new "Ho bisogno di passare più tempo con mia madre. Le sue lezioni di yoga mattutine ci aiuteranno ad avvicinarci..."
 
-    # game/core/09_opportunities.rpy:1109
+    # game/core/09_opportunities.rpy:1125
     old "Пока мама встречается с Эриком, мне не занять главное место в нашей семье, а значит потребуются успехи в возможности \"Альфа\"..."
     new "Finché mia madre esce con Eric, non potrò prendere il primo posto nella nostra famiglia, il che significa che ci vorrà un progresso nell'opportunità Alpha..."
 
-    # game/core/09_opportunities.rpy:1147
+    # game/core/09_opportunities.rpy:1163
     old "Эта возможность не доступна при дружбе с Эриком..."
     new "Questa opzione non è disponibile quando sei amico di Eric..."
 
