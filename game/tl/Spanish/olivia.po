@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2022-10-14 07:11\n"
+"PO-Revision-Date: 2022-11-02 22:42\n"
 
-# TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/olivia.rpy:38 #-#-# translate crowdin olivia_lisa_tv_6729ce96:
+# TODO: Translation updated at 2022-10-30 23:58 #|#|# # game/events/olivia.rpy:38 #-#-# translate crowdin olivia_lisa_tv_6729ce96:
 msgid "[Max_07] {m}Девчонки смотрят какой-то сериал, а я бы лучше на них посмотрел... Вот только обещал не мешать...{/m} [nointeract]"
 msgstr "[Max_07] {m}Las chicas ven algunas series de televisión, y yo prefiero mirarlas... Eso solo ha prometido no interferir... {/i} [nointeract]"
 
@@ -1264,119 +1264,119 @@ msgstr ""
 msgid "[Ann_01] Конечно, Оливия. Если тебя не смущает Макс, который только на тебя и пялится, то я не против. Можешь приходить в любое время! Ну а я пойду по делам, а то уже достаточно позагорала. Развлекайтесь!"
 msgstr ""
 
-# game/events/olivia.rpy:1098 #-#-# translate crowdin olivia_ann_meeting_3d9d7b14:
+# game/events/olivia.rpy:1095 #-#-# translate crowdin olivia_ann_meeting_3d9d7b14:
 msgid "[Max_02] Как мне кажется, всё прошло довольно хорошо."
 msgstr ""
 
-# game/events/olivia.rpy:1099 #-#-# translate crowdin olivia_ann_meeting_11a6a1b3:
+# game/events/olivia.rpy:1096 #-#-# translate crowdin olivia_ann_meeting_11a6a1b3:
 msgid "[Olivia_06] Думаешь, твоя мама разрешит нам собираться вместе по ночам?"
 msgstr ""
 
-# game/events/olivia.rpy:1100 #-#-# translate crowdin olivia_ann_meeting_02812b71:
+# game/events/olivia.rpy:1097 #-#-# translate crowdin olivia_ann_meeting_02812b71:
 msgid "[Max_07] Даже если и нет, то я смогу её уговорить. Ну, или как минимум, очень постараюсь уговорить."
 msgstr ""
 
-# game/events/olivia.rpy:1101 #-#-# translate crowdin olivia_ann_meeting_512f166a:
+# game/events/olivia.rpy:1098 #-#-# translate crowdin olivia_ann_meeting_512f166a:
 msgid "[Lisa_13] Ты, главное, про меня не забудь в этих уговорах. А то мама запросто может сказать, что я ещё маленькая, хотя с Оливией мы ровесницы."
 msgstr ""
 
-# game/events/olivia.rpy:1102 #-#-# translate crowdin olivia_ann_meeting_1a2cd1ba:
+# game/events/olivia.rpy:1099 #-#-# translate crowdin olivia_ann_meeting_1a2cd1ba:
 msgid "[Max_09] Не знаю, не знаю, Лиза... Это уже будет непросто. Вот если бы вы с Оливией намазали друг друга кремом для загара, то я бы мог и тебя отстоять перед мамой."
 msgstr ""
 
-# game/events/olivia.rpy:1103 #-#-# translate crowdin olivia_ann_meeting_d996de1a:
+# game/events/olivia.rpy:1100 #-#-# translate crowdin olivia_ann_meeting_d996de1a:
 msgid "[Olivia_03] Ах вот как, да? Это мы запросто!"
 msgstr ""
 
-# game/events/olivia.rpy:1104 #-#-# translate crowdin olivia_ann_meeting_41617c79:
+# game/events/olivia.rpy:1101 #-#-# translate crowdin olivia_ann_meeting_41617c79:
 msgid "[Lisa_02] У тебя-то этот самый крем хоть есть?"
 msgstr ""
 
-# game/events/olivia.rpy:1111 #-#-# translate crowdin olivia_ann_meeting_76e86aa6:
+# game/events/olivia.rpy:1108 #-#-# translate crowdin olivia_ann_meeting_76e86aa6:
 msgid "[Max_10] Сейчас, к сожалению нет, но я обязательно его куплю."
 msgstr ""
 
-# game/events/olivia.rpy:1112 #-#-# translate crowdin olivia_ann_meeting_77380e2d:
+# game/events/olivia.rpy:1109 #-#-# translate crowdin olivia_ann_meeting_77380e2d:
 msgid "[Lisa_01] Очень жаль, Макс. Вот будет крем - мы и намажемся специально для тебя."
 msgstr ""
 
-# game/events/olivia.rpy:1119 #-#-# translate crowdin olivia_ann_meeting_4d4507bf:
+# game/events/olivia.rpy:1116 #-#-# translate crowdin olivia_ann_meeting_4d4507bf:
 msgid "[Max_11] {m}Эх... Такой момент упустил... Теперь только до следующего раза.{/m}"
 msgstr ""
 
-# game/events/olivia.rpy:1123 #-#-# translate crowdin olivia_ann_meeting_32d70104:
+# game/events/olivia.rpy:1120 #-#-# translate crowdin olivia_ann_meeting_32d70104:
 msgid "[Max_05] Разумеется есть! Могу даже сам вас намазать, руки у меня почти не заняты."
 msgstr ""
 
-# game/events/olivia.rpy:1124 #-#-# translate crowdin olivia_ann_meeting_c7b26a60:
+# game/events/olivia.rpy:1121 #-#-# translate crowdin olivia_ann_meeting_c7b26a60:
 msgid "[Lisa_01] О нет... За крем, конечно, спасибо, но от твоей помощи мы как-нибудь воздержимся, правда Оливия? Не хватало, чтобы ты свои озабоченные ручонки распускал."
 msgstr ""
 
-# game/events/olivia.rpy:1126 #-#-# translate crowdin olivia_ann_meeting_2aec5f80:
+# game/events/olivia.rpy:1123 #-#-# translate crowdin olivia_ann_meeting_2aec5f80:
 msgid "[Olivia_05] Ага, мы и сами прекрасно справимся. Давай крем. Чур гостей мажут первыми! [nointeract]"
 msgstr ""
 
-# game/events/olivia.rpy:1144 #-#-# translate crowdin olivia_lisa_sunscreen_0_916ccd9a:
+# game/events/olivia.rpy:1141 #-#-# translate crowdin olivia_lisa_sunscreen_0_916ccd9a:
 msgid "[Lisa_05] Я же ведь помажу только спину, Оливия? Остальное ты сама..."
 msgstr ""
 
-# game/events/olivia.rpy:1145 #-#-# translate crowdin olivia_lisa_sunscreen_0_4b7517eb:
+# game/events/olivia.rpy:1142 #-#-# translate crowdin olivia_lisa_sunscreen_0_4b7517eb:
 msgid "[Max_08] Э-э-э! Какую только спину?! Тебе нужно натереть кремом всё её тело, Лиза."
 msgstr ""
 
-# game/events/olivia.rpy:1146 #-#-# translate crowdin olivia_lisa_sunscreen_0_9a51e79c:
+# game/events/olivia.rpy:1143 #-#-# translate crowdin olivia_lisa_sunscreen_0_9a51e79c:
 msgid "[Olivia_03] Ой, Макс, вот ты разбежался. Может ты тогда за фотоаппаратом или видеокамерой по такому случаю сразу сбегаешь?"
 msgstr ""
 
-# game/events/olivia.rpy:1147 #-#-# translate crowdin olivia_lisa_sunscreen_0_63f097d0:
+# game/events/olivia.rpy:1144 #-#-# translate crowdin olivia_lisa_sunscreen_0_63f097d0:
 msgid "[Max_03] Что-то мне подсказывает, что пока я буду бегать, вы уже закончите. Я лучше останусь здесь, чтобы ничего не пропустить."
 msgstr ""
 
-# game/events/olivia.rpy:1148 #-#-# translate crowdin olivia_lisa_sunscreen_0_62a4a929:
+# game/events/olivia.rpy:1145 #-#-# translate crowdin olivia_lisa_sunscreen_0_62a4a929:
 msgid "[Lisa_02] Эх, а мы ведь могли бы и подождать."
 msgstr ""
 
-# game/events/olivia.rpy:1149 #-#-# translate crowdin olivia_lisa_sunscreen_0_963a3477:
+# game/events/olivia.rpy:1146 #-#-# translate crowdin olivia_lisa_sunscreen_0_963a3477:
 msgid "[Max_09] Нет, меня не проведёшь! Эй, ты ей попку совсем не натёрла, не говоря уже обо всём остальном... Это не дело!"
 msgstr ""
 
-# game/events/olivia.rpy:1150 #-#-# translate crowdin olivia_lisa_sunscreen_0_58ca6b5e:
+# game/events/olivia.rpy:1147 #-#-# translate crowdin olivia_lisa_sunscreen_0_58ca6b5e:
 msgid "[Olivia_05] Со всем остальным я прекрасно справлюсь сама. Поворачивайся ко мне, Лиза, я тебя тоже намажу."
 msgstr ""
 
-# game/events/olivia.rpy:1160 #-#-# translate crowdin olivia_lisa_sunscreen_0_a00e937b:
+# game/events/olivia.rpy:1157 #-#-# translate crowdin olivia_lisa_sunscreen_0_a00e937b:
 msgid "[Max_02] Оливия, ты бы ей купальник развязала. Так будет удобнее..."
 msgstr ""
 
-# game/events/olivia.rpy:1161 #-#-# translate crowdin olivia_lisa_sunscreen_0_1b5600b7:
+# game/events/olivia.rpy:1158 #-#-# translate crowdin olivia_lisa_sunscreen_0_1b5600b7:
 msgid "[Lisa_01] В твоих похотливых идеях, Макс, здесь никто не нуждается! Мы сами разберёмся."
 msgstr ""
 
-# game/events/olivia.rpy:1162 #-#-# translate crowdin olivia_lisa_sunscreen_0_c5a55342:
+# game/events/olivia.rpy:1159 #-#-# translate crowdin olivia_lisa_sunscreen_0_c5a55342:
 msgid "[Max_07] Лиза, я же за тебя переживаю. Вдруг Оливия из-за твоего купальника намажет не всё."
 msgstr ""
 
-# game/events/olivia.rpy:1163 #-#-# translate crowdin olivia_lisa_sunscreen_0_5e735faf:
+# game/events/olivia.rpy:1160 #-#-# translate crowdin olivia_lisa_sunscreen_0_5e735faf:
 msgid "[Olivia_02] Не переживай, я ничего не упущу. Или, может, всё-таки развязать купальник?"
 msgstr ""
 
-# game/events/olivia.rpy:1164 #-#-# translate crowdin olivia_lisa_sunscreen_0_95df47e9:
+# game/events/olivia.rpy:1161 #-#-# translate crowdin olivia_lisa_sunscreen_0_95df47e9:
 msgid "[Max_05] Никаких \"может\". Снимай с неё всё!"
 msgstr ""
 
-# game/events/olivia.rpy:1165 #-#-# translate crowdin olivia_lisa_sunscreen_0_7e394240:
+# game/events/olivia.rpy:1162 #-#-# translate crowdin olivia_lisa_sunscreen_0_7e394240:
 msgid "[Lisa_11] Нет, ребята, вы чего?! Не надо меня раздевать, мне и так хорошо."
 msgstr ""
 
-# game/events/olivia.rpy:1166 #-#-# translate crowdin olivia_lisa_sunscreen_0_2c278307:
+# game/events/olivia.rpy:1163 #-#-# translate crowdin olivia_lisa_sunscreen_0_2c278307:
 msgid "[Olivia_01] Тогда всё, Лиза, я закончила. А тебе, Макс, спасибо за крем."
 msgstr ""
 
-# game/events/olivia.rpy:1167 #-#-# translate crowdin olivia_lisa_sunscreen_0_ffc96ca2:
+# game/events/olivia.rpy:1164 #-#-# translate crowdin olivia_lisa_sunscreen_0_ffc96ca2:
 msgid "[Max_01] Не за что, девчонки. Мне всё понравилось, но можно было это делать и более страстно."
 msgstr ""
 
-# game/events/olivia.rpy:1168 #-#-# translate crowdin olivia_lisa_sunscreen_0_c7bb4508:
+# game/events/olivia.rpy:1165 #-#-# translate crowdin olivia_lisa_sunscreen_0_c7bb4508:
 msgid "[Lisa_03] Других пожеланий я и не ожидала."
 msgstr ""
 
