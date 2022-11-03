@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-11-02 22:42\n"
+"PO-Revision-Date: 2022-11-03 00:54\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # game/dialogues/alicetalk.rpy:12 #-#-# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -1974,7 +1974,7 @@ msgstr "[Alice_16] Che tipo di malcontento è questo?! Immagino di essere caldo 
 
 # game/dialogues/alicetalk.rpy:2055 #-#-# translate crowdin Alice_sorry_1951a195:
 msgid "[Max_08] Э-э-э... Да ладно тебе! Чего ты сразу? Я же просто так... без задней мысли ляпнул..."
-msgstr "[Max_08] uh... Dai! Cosa stai combinando? Io sono proprio così... senza pensarci due volte ho sfocato..."
+msgstr "[Max_08] Uh... Oh, ma dai! Qual è il problema? Stavo solo... Non stavo pensando..."
 
 # game/dialogues/alicetalk.rpy:2056 #-#-# translate crowdin Alice_sorry_db18883b:
 msgid "[Alice_12] Ну конечно, без задней, у тебя все мысли только \"передние\"... Думать надо, что говоришь, особенно когда находишься в таком шатком положении. Ну так что, принимаешь моё предложение?"
