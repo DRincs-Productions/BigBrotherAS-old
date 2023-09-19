@@ -2,4 +2,4 @@ files:
   - source: /game/tl/crowdin/**/*.po
     ignore:
       - /game/tl/crowdin/common.rpy
-    translation: /game/tl/%language%/%original_file_name%
+    translation: /game/tl/%language%/**/%original_file_name%
