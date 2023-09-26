@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/04function.rpy:288
 msgid "+ к навыку скрытности"
@@ -107,23 +107,23 @@ msgstr ""
 
 # game/core/04function.rpy:708
 msgid "Враждебные"
-msgstr ""
+msgstr "Düşmanca"
 
 # game/core/04function.rpy:708
 msgid "Плохие"
-msgstr ""
+msgstr "Kötü"
 
 # game/core/04function.rpy:708
 msgid "Неплохие"
-msgstr ""
+msgstr "Fena değil"
 
 # game/core/04function.rpy:708
 msgid "Хорошие"
-msgstr ""
+msgstr "İyi"
 
 # game/core/04function.rpy:708
 msgid "Тёплые"
-msgstr ""
+msgstr "Ilık"
 
 # game/core/04function.rpy:708
 msgid "Дружеские"
@@ -131,7 +131,7 @@ msgstr ""
 
 # game/core/04function.rpy:708
 msgid "Близкие"
-msgstr ""
+msgstr "Kapalı"
 
 # game/core/04function.rpy:1005
 msgid "Конфеты закончились"
