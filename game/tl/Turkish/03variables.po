@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -62,11 +62,11 @@ msgstr ""
 
 # game/core/03variables.rpy:102
 msgid "Алиса"
-msgstr ""
+msgstr "Alice"
 
 # game/core/03variables.rpy:102
 msgid "Алисы"
-msgstr ""
+msgstr "Alice"
 
 # game/core/03variables.rpy:102
 msgid "Алисе"
@@ -86,11 +86,11 @@ msgstr ""
 
 # game/core/03variables.rpy:102
 msgid "Лиза"
-msgstr ""
+msgstr "Lisa"
 
 # game/core/03variables.rpy:102
 msgid "Лизы"
-msgstr ""
+msgstr "Lisa"
 
 # game/core/03variables.rpy:102
 msgid "Лизе"
@@ -110,11 +110,11 @@ msgstr ""
 
 # game/core/03variables.rpy:102
 msgid "Анна"
-msgstr ""
+msgstr "Anna"
 
 # game/core/03variables.rpy:102
 msgid "Анны"
-msgstr ""
+msgstr "Anna"
 
 # game/core/03variables.rpy:102
 msgid "Анне"
@@ -134,11 +134,11 @@ msgstr ""
 
 # game/core/03variables.rpy:113
 msgid "Макс"
-msgstr ""
+msgstr "Maks"
 
 # game/core/03variables.rpy:113
 msgid "Макса"
-msgstr ""
+msgstr "Max"
 
 # game/core/03variables.rpy:113
 msgid "Максу"
@@ -273,35 +273,35 @@ msgstr ""
 
 # game/core/03variables.rpy:205
 msgid "Навыки общения: Чувства человека"
-msgstr ""
+msgstr "İletişim Becerileri: İnsani Duygular"
 
 # game/core/03variables.rpy:205
 msgid "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
-msgstr ""
+msgstr "Bu, iletişim becerilerinde temel bir derstir ve duyular, bir kişinin sözlerinize nasıl tepki verdiği ve beden dilinin temelleri hakkında temel bilgileri içerir."
 
 # game/core/03variables.rpy:205
 msgid "Навыки общения: Основы коммуникации"
-msgstr ""
+msgstr "İletişim Becerileri: İletişimin Temelleri"
 
 # game/core/03variables.rpy:205
 msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr ""
+msgstr "Bu iletişim becerileri eğitimindeki ikinci derstir. Buradan, bir kişinin kararını kelimeler olmadan nasıl etkileyeceğinizi, hedefinize ulaşmak için doğru durumda doğru kelimeleri nasıl seçeceğinizi öğreneceksiniz."
 
 # game/core/03variables.rpy:205
 msgid "Навыки общения: Без границ"
-msgstr ""
+msgstr "İletişim Becerileri: Sınır Tanımayan"
 
 # game/core/03variables.rpy:205
 msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr ""
+msgstr "Bu, sürekli öğrenmek ve gelişmek isteyenler için tasarlanmış ileri düzey, uzun vadeli bir kurstur. Bu şu anda mevcut olan son kurstur."
 
 # game/core/03variables.rpy:236
 msgid "Эрик"
-msgstr ""
+msgstr "Eric"
 
 # game/core/03variables.rpy:236
 msgid "Эрика"
-msgstr ""
+msgstr "Eric"
 
 # game/core/03variables.rpy:236
 msgid "Эрику"
