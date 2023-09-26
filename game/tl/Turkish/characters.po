@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2023-09-26 17:47\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/characters.rpy:230
 msgid "Мама"
-msgstr ""
+msgstr "Anne"
 
 # game/core/characters.rpy:356
 msgid "Майя"
