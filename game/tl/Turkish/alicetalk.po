@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:43\n"
+"PO-Revision-Date: 2023-09-26 17:47\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # game/dialogues/alicetalk.rpy:12 #-#-# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -7164,7 +7164,7 @@ msgstr ""
 
 # §translate crowdin strings: #|#|# # game/dialogues/alicetalk.rpy:25
 msgid "{i}уйти{/i}"
-msgstr ""
+msgstr "{i}ayrıl{/i}"
 
 # game/dialogues/alicetalk.rpy:67
 msgid "Ок..."
@@ -8021,15 +8021,15 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:2535
 msgid "Массаж ступней"
-msgstr ""
+msgstr "Ayak masajı"
 
 # game/dialogues/alicetalk.rpy:2535
 msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr ""
+msgstr "Bu, vücutta iyileştirici bir etki sağlamayı amaçlayan benzersiz bir masaj tekniğidir. Etkilidir ve aynı zamanda uygulanması kolaydır."
 
 # game/dialogues/alicetalk.rpy:2535
 msgid "Массаж кистей рук"
-msgstr ""
+msgstr "El masajı"
 
 # game/dialogues/alicetalk.rpy:2653
 msgid "{i}массировать молча{/i}"
