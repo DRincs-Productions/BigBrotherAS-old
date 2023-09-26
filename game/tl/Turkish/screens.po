@@ -1,0 +1,439 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 9261\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2023-09-26 16:46\n"
+
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
+msgid "массаж, "
+msgstr "masaj, "
+
+# game/screens.rpy:250
+msgid "убеждение, "
+msgstr "inanç, "
+
+# game/screens.rpy:250
+msgid "сексуальный опыт, "
+msgstr "cinsel deneyim, "
+
+# game/screens.rpy:250
+msgid "поцелуи, "
+msgstr "öpücükler, "
+
+# game/screens.rpy:250
+msgid "удача, "
+msgstr "şans, "
+
+# game/screens.rpy:250
+msgid "скрытность, "
+msgstr "gizlilik, "
+
+# game/screens.rpy:277
+msgid "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
+msgstr "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]şans: [vis]%){/color}{/size}{/i}"
+
+# game/screens.rpy:339
+msgid "История"
+msgstr "Geçmiş"
+
+# game/screens.rpy:340
+msgid "Пропуск"
+msgstr "Atla"
+
+# game/screens.rpy:341
+msgid "Авто"
+msgstr "Otomatik"
+
+# game/screens.rpy:342
+msgid "Сохранить"
+msgstr "Kaydet"
+
+# game/screens.rpy:343
+msgid "Б.Сохр"
+msgstr "Hızlı kaydet"
+
+# game/screens.rpy:344
+msgid "Б.Загр"
+msgstr "Hızlı yükle"
+
+# game/screens.rpy:345
+msgid "Опции"
+msgstr "Seçenekler"
+
+# game/screens.rpy:390
+msgid "Загрузить игру"
+msgstr "Oyunu yükle"
+
+# game/screens.rpy:393
+msgid "Сохранить игру"
+msgstr "Oyunu kaydet"
+
+# game/screens.rpy:396
+msgid "Настройки"
+msgstr "Ayarlar"
+
+# game/screens.rpy:403
+msgid "Завершить повтор"
+msgstr "Tekrarlamayı sonlandır"
+
+# game/screens.rpy:406
+msgid "Главное меню"
+msgstr "Ana menü"
+
+# game/screens.rpy:413
+msgid "Выйти из игры"
+msgstr "Oyundan çık"
+
+# game/screens.rpy:419
+msgid "Назад"
+msgstr "Geri"
+
+# game/screens.rpy:526
+msgid "НОВАЯ ИГРА"
+msgstr "YENİ OYUN"
+
+# game/screens.rpy:532
+msgid "ПРОДОЛЖИТЬ"
+msgstr "DEVAM ET"
+
+# game/screens.rpy:535
+msgid "ЗАГРУЗИТЬ"
+msgstr "YÜKLE"
+
+# game/screens.rpy:539
+msgid "НАСТРОЙКИ"
+msgstr "AYARLAR"
+
+# game/screens.rpy:540
+msgid "ВЫЙТИ"
+msgstr "ÇIKIŞ"
+
+# game/screens.rpy:577
+msgid "МЕНЮ"
+msgstr "MENÜ"
+
+# game/screens.rpy:714
+msgid "Введите описание файла сохранения:"
+msgstr "Kaydetme dosyası için bir açıklama girin:"
+
+# game/screens.rpy:735
+msgid "(Нет описания)"
+msgstr "(Açıklama yok)"
+
+# game/screens.rpy:754
+msgid "{} страница"
+msgstr "{} sayfa"
+
+# game/screens.rpy:754
+msgid "Автосохранения"
+msgstr "Otomatik kaydetmeler"
+
+# game/screens.rpy:754
+msgid "Быстрые сохранения"
+msgstr "Hızlı kaydetme"
+
+# game/screens.rpy:830
+msgid "{#file_time}%a, %d %b %Y, %H:%M"
+msgstr "{#file_time}%a, %d %b %Y, %H:%M"
+
+# game/screens.rpy:830
+msgid "Пустой слот"
+msgstr "Boş yuva"
+
+# game/screens.rpy:838
+msgid "ДЕНЬ [load_day]"
+msgstr "GÜN [load_day]"
+
+# game/screens.rpy:890
+msgid "{#file_time}%d %b %Y, %H:%M"
+msgstr "{#file_time}%d %b %Y, %H:%M"
+
+# game/screens.rpy:914
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:917
+msgid "{#auto_page}Автосохр."
+msgstr "{#auto_page}Otomatik kaydet"
+
+# game/screens.rpy:920
+msgid "{#quick_page}Быстрые сохр."
+msgstr "{#quick_page}Hızlı kaydet"
+
+# game/screens.rpy:926
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:998
+msgid "Режим экрана"
+msgstr "Ekran modu"
+
+# game/screens.rpy:999
+msgid "Оконный"
+msgstr "Pencere"
+
+# game/screens.rpy:1000
+msgid "Полный"
+msgstr "Tam"
+
+# game/screens.rpy:1003
+msgid "Сторона отката"
+msgstr "Geri izleme tarafı"
+
+# game/screens.rpy:1004
+msgid "Отключено"
+msgstr "Devre dışı"
+
+# game/screens.rpy:1005
+msgid "Левая"
+msgstr "Sol"
+
+# game/screens.rpy:1006
+msgid "Правая"
+msgstr "Sağ"
+
+# game/screens.rpy:1012
+msgid "Всего текста"
+msgstr "Tam metin"
+
+# game/screens.rpy:1013
+msgid "После выборов"
+msgstr "Seçimlerden sonra"
+
+# game/screens.rpy:1014
+msgid "Переходов"
+msgstr "Geçişler"
+
+# game/screens.rpy:1017
+msgid "Язык"
+msgstr "Dil"
+
+# game/screens.rpy:1041
+msgid "Дополнительно"
+msgstr "Gelişmiş"
+
+# game/screens.rpy:1042
+msgid "Именованные сохранения"
+msgstr "Adlandırılmış kaydetmeler"
+
+# game/screens.rpy:1043
+msgid "Прозрачное текстовое окно"
+msgstr "Şeffaf metin kutusu"
+
+# game/screens.rpy:1044
+msgid "Отображать все \"Возможности\""
+msgstr "Tüm \"Özellikleri\" göster"
+
+# game/screens.rpy:1045
+msgid "Переодевания Лизы пропускаются, если Макс в комнате"
+msgstr "Max odadaysa Lisa'nın giyinme değişiklikleri atlanır"
+
+# game/screens.rpy:1047
+msgid "Активировать чит-меню"
+msgstr "Hile menüsünü etkinleştir"
+
+# game/screens.rpy:1060
+msgid "Скорость текста"
+msgstr "Metin hızı"
+
+# game/screens.rpy:1064
+msgid "Скорость авточтения"
+msgstr "Otomatik okuma hızı"
+
+# game/screens.rpy:1071
+msgid "Громкость музыки"
+msgstr "Müzik sesi"
+
+# game/screens.rpy:1078
+msgid "Громкость звуков"
+msgstr "Ses seviyesi"
+
+# game/screens.rpy:1084
+msgid "Тест"
+msgstr "Deneme"
+
+# game/screens.rpy:1088
+msgid "Громкость голоса"
+msgstr "Konuşma ses düzeyi"
+
+# game/screens.rpy:1099
+msgid "Без звука"
+msgstr "Sessiz"
+
+# game/screens.rpy:1220
+msgid "История диалогов пуста."
+msgstr "Diyalog geçmişi boş."
+
+# game/screens.rpy:1283
+msgid "Помощь"
+msgstr "Yardım"
+
+# game/screens.rpy:1292
+msgid "Клавиатура"
+msgstr "Klavye"
+
+# game/screens.rpy:1293
+msgid "Мышь"
+msgstr "Fare"
+
+# game/screens.rpy:1296
+msgid "Геймпад"
+msgstr "Oyun kumandası"
+
+# game/screens.rpy:1309
+msgid "Enter"
+msgstr "Enter"
+
+# game/screens.rpy:1310
+msgid "Прохождение диалогов, активация интерфейса."
+msgstr "Diyalogları atlayın, tercih ettiğiniz arayüzü etkinleştirin."
+
+# game/screens.rpy:1313
+msgid "Пробел"
+msgstr "Boşluk"
+
+# game/screens.rpy:1314
+msgid "Прохождение диалогов без возможности делать выбор."
+msgstr "Seçim yapmadan diyalogları atla."
+
+# game/screens.rpy:1317
+msgid "Стрелки"
+msgstr "Oklar"
+
+# game/screens.rpy:1318
+msgid "Навигация по интерфейсу."
+msgstr "Arayüzde gezin."
+
+# game/screens.rpy:1321
+msgid "Esc"
+msgstr "Esc"
+
+# game/screens.rpy:1322
+msgid "Вход в игровое меню."
+msgstr "Oyun menüsüne girer."
+
+# game/screens.rpy:1325
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:1326
+msgid "Пропускает диалоги, пока зажат."
+msgstr "Basılı tutulduğunda diyaloğu atla."
+
+# game/screens.rpy:1329
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:1330
+msgid "Включает режим пропуска."
+msgstr "Atlama modunu etkinleştir."
+
+# game/screens.rpy:1333
+msgid "Page Up"
+msgstr "Page Up"
+
+# game/screens.rpy:1334
+msgid "Откат назад по сюжету игры."
+msgstr "Oyunun geçmişine geri dön."
+
+# game/screens.rpy:1337
+msgid "Page Down"
+msgstr "Page Down"
+
+# game/screens.rpy:1338
+msgid "Откатывает предыдущее действие вперёд."
+msgstr "Önceki eyleme git."
+
+# game/screens.rpy:1342
+msgid "Скрывает интерфейс пользователя."
+msgstr "Kullanıcı arayüzünü gizle."
+
+# game/screens.rpy:1346
+msgid "Делает снимок экрана."
+msgstr "Ekran görüntüsü al."
+
+# game/screens.rpy:1350
+msgid "Включает поддерживаемый {a=https://www.renpy.org/l/voicing}синтезатор речи{/a}."
+msgstr "Desteklenen ses sentezleyiciyi {a=https://www.renpy.org/l/seslendirmeni}{/a} etkinleştir."
+
+# game/screens.rpy:1356
+msgid "Левый клик"
+msgstr "Sol tıklama"
+
+# game/screens.rpy:1360
+msgid "Клик колёсиком"
+msgstr "Tekerleğe tıklama"
+
+# game/screens.rpy:1364
+msgid "Правый клик"
+msgstr "Sağ tıklama"
+
+# game/screens.rpy:1368
+msgid "Колёсико вверх\n"
+"Клик на сторону отката"
+msgstr ""
+
+# game/screens.rpy:1372
+msgid "Колёсико вниз"
+msgstr ""
+
+# game/screens.rpy:1379
+msgid "Правый триггер\n"
+"A/Нижняя кнопка"
+msgstr ""
+
+# game/screens.rpy:1383
+msgid "Левый Триггер\n"
+"Левый Бампер"
+msgstr ""
+
+# game/screens.rpy:1387
+msgid "Правый бампер"
+msgstr ""
+
+# game/screens.rpy:1392
+msgid "Крестовина, Стики"
+msgstr ""
+
+# game/screens.rpy:1396
+msgid "Start, Guide"
+msgstr ""
+
+# game/screens.rpy:1400
+msgid "Y/Верхняя кнопка"
+msgstr ""
+
+# game/screens.rpy:1403
+msgid "Калибровка"
+msgstr ""
+
+# game/screens.rpy:1469
+msgid "Да"
+msgstr "Evet"
+
+# game/screens.rpy:1470
+msgid "Нет"
+msgstr "Hayır"
+
+# game/screens.rpy:1516
+msgid "Пропускаю"
+msgstr "Atla"
+
+# game/screens.rpy:1740
+msgid "Скрыть интерфейс"
+msgstr "Arayüzü gizle"
+
+# game/screens.rpy:1741
+msgid "Меню"
+msgstr "Menü"
+
