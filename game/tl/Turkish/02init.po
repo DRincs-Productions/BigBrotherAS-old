@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:41\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
 
 # TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -226,11 +226,11 @@ msgstr ""
 
 # game/core/02init.rpy:152
 msgid "Не возражаешь против компании?"
-msgstr ""
+msgstr "Şirketin umurunda mı?"
 
 # game/core/02init.rpy:152
 msgid "Что читаешь?"
-msgstr ""
+msgstr "Ne okuyorsun?"
 
 # game/core/02init.rpy:152
 msgid "Хотел извиниться за утренний инцидент..."
@@ -246,11 +246,11 @@ msgstr ""
 
 # game/core/02init.rpy:152
 msgid "Загораешь?"
-msgstr ""
+msgstr "Güneşleniyor musun?"
 
 # game/core/02init.rpy:152
 msgid "У меня для тебя обещанная вкусняшка!"
-msgstr ""
+msgstr "Size söz verdiğim lezzetli ikramım var!"
 
 # game/core/02init.rpy:152
 msgid "Насчёт ванны ночью..."
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/core/02init.rpy:152
 msgid "Тебе помочь накрыть на стол?"
-msgstr ""
+msgstr "Masayı kurmana yardım edeyim mi?"
 
 # game/core/02init.rpy:152
 msgid "Как ты после случившегося?"
@@ -326,11 +326,11 @@ msgstr ""
 
 # game/core/02init.rpy:152
 msgid "Что смотришь?"
-msgstr ""
+msgstr "Ne izliyorsun?"
 
 # game/core/02init.rpy:152
 msgid "Насчёт случая с Лизой..."
-msgstr ""
+msgstr "Lisa'nın durumu hakkında..."
 
 # game/core/02init.rpy:152
 msgid "Мам, а как учатся целоваться?"
@@ -458,7 +458,7 @@ msgstr ""
 
 # game/core/02init.rpy:152
 msgid "Насчёт твоего парня..."
-msgstr ""
+msgstr "Erkek arkadaşın hakkında..."
 
 # game/core/02init.rpy:152
 msgid "Насчёт этого случая утром..."
@@ -534,7 +534,7 @@ msgstr ""
 
 # game/core/02init.rpy:152
 msgid "Насчёт Алекса..."
-msgstr ""
+msgstr "Alex'le ilgili..."
 
 # game/core/02init.rpy:152
 msgid "Есть успехи с Оливией?"
