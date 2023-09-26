@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 16:45\n"
+"PO-Revision-Date: 2023-09-26 17:48\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/lisa.rpy:24 #-#-# translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
@@ -1292,7 +1292,7 @@ msgstr "Dai, non vergognarti di me!"
 
 # game/events/lisa.rpy:599
 msgid "Извини, не удержался... Хорошо выглядишь!"
-msgstr "Scusate, non ho potuto resistere... Guardando un bell'uomo!"
+msgstr "Scusa, non ho resistito... Hai un bell'aspetto!"
 
 # game/events/lisa.rpy:599
 msgid "А ты представь, что меня тут на самом деле нет!"
