@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:41\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/core/01classes.rpy:703
 msgid "Ужасное"
-msgstr "Kötü"
+msgstr "Korkunç"
 
 # game/core/01classes.rpy:703
 msgid "Очень плохое"
@@ -22,23 +22,23 @@ msgstr "Çok Kötü"
 
 # game/core/01classes.rpy:703
 msgid "Плохое"
-msgstr ""
+msgstr "Kötü"
 
 # game/core/01classes.rpy:703
 msgid "Не очень"
-msgstr ""
+msgstr "İyi değil"
 
 # game/core/01classes.rpy:703
 msgid "Нейтральное"
-msgstr ""
+msgstr "Doğal"
 
 # game/core/01classes.rpy:703
 msgid "Неплохое"
-msgstr ""
+msgstr "Fena değil"
 
 # game/core/01classes.rpy:703
 msgid "Хорошее"
-msgstr ""
+msgstr "İyi"
 
 # game/core/01classes.rpy:703
 msgid "Очень хорошее"
@@ -46,7 +46,7 @@ msgstr ""
 
 # game/core/01classes.rpy:703
 msgid "Прекрасное"
-msgstr ""
+msgstr "Güzel"
 
 # game/core/01classes.rpy:1099
 msgid "Приобретен пакет рекламы"
