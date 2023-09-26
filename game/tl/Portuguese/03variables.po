@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -110,7 +110,7 @@ msgstr ""
 
 # game/core/03variables.rpy:102
 msgid "Анна"
-msgstr ""
+msgstr "Ana"
 
 # game/core/03variables.rpy:102
 msgid "Анны"
@@ -301,7 +301,7 @@ msgstr ""
 
 # game/core/03variables.rpy:236
 msgid "Эрика"
-msgstr ""
+msgstr "Erica"
 
 # game/core/03variables.rpy:236
 msgid "Эрику"
