@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 16:46\n"
+"PO-Revision-Date: 2023-09-26 17:49\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "массаж, "
@@ -192,7 +192,7 @@ msgstr "Lato rollback"
 
 # game/screens.rpy:1004
 msgid "Отключено"
-msgstr "Diabilitato"
+msgstr "Disabilitato"
 
 # game/screens.rpy:1005
 msgid "Левая"
