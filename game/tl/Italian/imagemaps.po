@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/imagemaps.rpy:36
 msgid "{i}искать под кроватью{/i}"
@@ -22,7 +22,7 @@ msgstr "{i}guarda nel comodino{/i}"
 
 # game/core/imagemaps.rpy:42
 msgid "{i}искать в столе{/i}"
-msgstr "{i}guarda nella tabella{/i}"
+msgstr "{i}cerca nella scrivania{/i}"
 
 # game/core/imagemaps.rpy:61
 msgid "{i}массировать ступни{/i}"
