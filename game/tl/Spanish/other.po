@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:45\n"
+"PO-Revision-Date: 2023-10-12 22:11\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/other.rpy:11 #-#-# translate crowdin shoping_034007bc:
 msgid "[Ann_05] Макс! Мы ушли на шоппинг. Не скучай тут без нас, хорошо? Вернёмся часа через 3... [nointeract]"
@@ -122,7 +122,7 @@ msgstr "[Lisa_03]  ¡Y Eric me dio un traje de baño! ¡Exactamente lo que quer�
 
 # game/events/other.rpy:86 #-#-# translate crowdin back_shoping_f936ff3c:
 msgid "[Max_11] Ясно..."
-msgstr ""
+msgstr "[Max_11] Bien..."
 
 # game/events/other.rpy:87 #-#-# translate crowdin back_shoping_45a6e528:
 msgid "[Lisa_02] Что? Ты за меня не рад? Я же теперь смогу загорать в нормальном виде!"
@@ -498,15 +498,15 @@ msgstr "[Max_01] {m}¡Muy bien! Es hora...{/m} [nointeract]"
 
 # game/events/other.rpy:436 #-#-# translate crowdin frame_eric_60e127e3:
 msgid "[Max_07] {m}О, да! Моя старшая сестрёнка выглядит потрясающе... На изгибы её совершенно обнажённого тела хочется смотреть вечно!{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_07] {m}Oh, sí. Mi hermana mayor se ve increíble. Las curvas de su cuerpo completamente desnudo es algo que quieres mirar para siempre! {/m} [nointeract]"
 
 # game/events/other.rpy:438 #-#-# translate crowdin frame_eric_58e230bc:
 msgid "[Max_04] {m}Ого! Мне повезло, что Алиса спит спиной к окну... И не подозревает, что демонстрирует свою голенькую попку для меня во всей красе.{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_04] {m}¡Vaya! Tengo suerte de que Alice duerma de espaldas a la ventana... y no se da cuenta de que me está mostrando su trasero desnudo en todo su esplendor. [nointeract]."
 
 # game/events/other.rpy:440 #-#-# translate crowdin frame_eric_f84d87b6:
 msgid "[Max_01] {m}Обалденно! Сестрёнка спит выгнув спину, отчего её голая грудь торчит, как два холмика... Соблазнительное зрелище...{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_01] {m}Es impresionante. Sis duerme con la espalda arqueada, haciendo que sus pechos desnudos sobresalgan como dos montículos..... Un espectáculo seductor...{/m} [nointeract]"
 
 # game/events/other.rpy:450 #-#-# translate crowdin frame_eric_c7dc4684:
 msgid "[Max_07] {m}Уж прости, Алиса, ничего личного. Мне позарез нужно показать всем вам, а особенно маме, что Эрик собирается тут с вами всеми делать...{/m} [nointeract]"
