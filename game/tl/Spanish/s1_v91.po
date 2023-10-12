@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:46\n"
+"PO-Revision-Date: 2023-10-12 22:11\n"
 
 # TODO: Translation updated at 2022-10-09 00:01 #|#|# # game/scripts_s1/s1_v91.rpy:99 #-#-# translate crowdin s1_cheat_skip_2bea6bd9:
 msgid "Есть важные события. Пропуск завершить не удалось."
@@ -1238,11 +1238,11 @@ msgstr "[Ann_17] Y nuestra lección sólo ocurrirá la próxima vez, si llamas a
 
 # game/scripts_s1/s1_v91.rpy:1029 #-#-# translate crowdin s1_ann_intimate_lesson_02_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
-msgstr ""
+msgstr "[Ann] {b}Anna: ¿Quién está ahí? ¡Me estoy bañando!"
 
 # game/scripts_s1/s1_v91.rpy:1030 #-#-# translate crowdin s1_ann_intimate_lesson_02_006aa2f9:
 msgid "[Max_07] Это я, Макс. Можно войти?"
-msgstr ""
+msgstr "[Max_07] Soy yo, Max. ¿Puedo pasar?"
 
 # game/scripts_s1/s1_v91.rpy:1031 #-#-# translate crowdin s1_ann_intimate_lesson_02_896e111e:
 msgid "[Ann] {b}Анна:{/b} Молодец, что постучался. Заходи, только смотри, чтобы никто не увидел... [nointeract]"
@@ -1402,11 +1402,11 @@ msgstr "[Max_00] Muy bien. Hasta la próxima, entonces. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1135 #-#-# translate crowdin s1_ann_intimate_lesson_03_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
-msgstr ""
+msgstr "[Ann] {b}Anna: ¿Quién está ahí? ¡Me estoy bañando!"
 
 # game/scripts_s1/s1_v91.rpy:1136 #-#-# translate crowdin s1_ann_intimate_lesson_03_006aa2f9:
 msgid "[Max_07] Это я, Макс. Можно войти?"
-msgstr ""
+msgstr "[Max_07] Soy yo, Max. ¿Puedo pasar?"
 
 # game/scripts_s1/s1_v91.rpy:1137 #-#-# translate crowdin s1_ann_intimate_lesson_03_896e111e:
 msgid "[Ann] {b}Анна:{/b} Молодец, что постучался. Заходи, только смотри, чтобы никто не увидел... [nointeract]"
@@ -1694,11 +1694,11 @@ msgstr "[Max_20] Ugh. Por supuesto que voy a limpiar, no lo dudes. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1301 #-#-# translate crowdin s1_ann_intimate_lesson_04_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
-msgstr ""
+msgstr "[Ann] {b}Anna: ¿Quién está ahí? ¡Me estoy bañando!"
 
 # game/scripts_s1/s1_v91.rpy:1302 #-#-# translate crowdin s1_ann_intimate_lesson_04_006aa2f9:
 msgid "[Max_07] Это я, Макс. Можно войти?"
-msgstr ""
+msgstr "[Max_07] Soy yo, Max. ¿Puedo pasar?"
 
 # game/scripts_s1/s1_v91.rpy:1303 #-#-# translate crowdin s1_ann_intimate_lesson_04_896e111e:
 msgid "[Ann] {b}Анна:{/b} Молодец, что постучался. Заходи, только смотри, чтобы никто не увидел... [nointeract]"
@@ -1838,11 +1838,11 @@ msgstr "[Ann_17] ¡Olvídalo, hijo! Ahora vete. Necesito asearme. [nointeract]"
 
 # game/scripts_s1/s1_v91.rpy:1424 #-#-# translate crowdin s1_ann_rejection_3aa93926:
 msgid "[Ann] {b}Анна:{/b} Кто там? Я принимаю ванну!"
-msgstr ""
+msgstr "[Ann] {b}Anna: ¿Quién está ahí? ¡Me estoy bañando!"
 
 # game/scripts_s1/s1_v91.rpy:1425 #-#-# translate crowdin s1_ann_rejection_006aa2f9:
 msgid "[Max_07] Это я, Макс. Можно войти?"
-msgstr ""
+msgstr "[Max_07] Soy yo, Max. ¿Puedo pasar?"
 
 # game/scripts_s1/s1_v91.rpy:1426 #-#-# translate crowdin s1_ann_rejection_f1089d36:
 msgid "[Ann] {b}Анна:{/b} Никаких больше уроков. Я ведь уже сказала! Не мешай... [nointeract]"
