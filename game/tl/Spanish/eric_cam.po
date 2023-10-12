@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:44\n"
+"PO-Revision-Date: 2023-10-12 22:11\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/eric_cam.rpy:13 #-#-# translate crowdin cam0_eric_ann_sleep_b363be42:
 msgid "[Max_07] {m}Как же повезло, что у меня такая горячая мама... Стойте-ка, а Эрик где?! Может, пошёл в ванную комнату? Или ещё куда...{/m}"
@@ -78,7 +78,7 @@ msgstr "[Max_08] {m}Maldita sea... ya está acabado. Bastardo con suerte. ¡Salp
 
 # game/events/eric_cam.rpy:120 #-#-# translate crowdin cam1_eric_ann_shower_cea35296:
 msgid "[Max_07] {m}Охх... Боже мой, какие нежности. Похоже, сейчас что-то начнётся...{/m}"
-msgstr ""
+msgstr "[Max_07] {m}Ohh. Dios mío, qué tierno. Parece que algo está a punto de empezar..."
 
 # game/events/eric_cam.rpy:123 #-#-# translate crowdin cam1_eric_ann_shower_7b4dc000:
 msgid "[Max_10] {m}Моя мама снова отсасывает этому... Эрику! Да с такой страстью! Ей что, действительно так нравится это делать или она его настолько любит?{/m}"
