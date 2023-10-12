@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:45\n"
+"PO-Revision-Date: 2023-10-12 22:11\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/lisa.rpy:24 #-#-# translate crowdin lisa_shower_4cc15313:
 msgid "[Max_00] {m}Лиза сейчас принимает душ...{/m} [nointeract]"
@@ -50,7 +50,7 @@ msgstr "[Max_10] {m}Me gustaría echar otro vistazo a mi hermanita desnuda, por 
 
 # game/events/lisa.rpy:76 #-#-# translate crowdin lisa_shower_ladder_76e8b72b:
 msgid "[Max_04] {m}Посмотрим, что у нас тут...{/m}"
-msgstr ""
+msgstr "[Max_04] {m}Veamos qué tenemos aquí..."
 
 # game/events/lisa.rpy:91 #-#-# translate crowdin lisa_shower_ladder_370767aa:
 msgid "[Max_03] {m}Класс! Лиза смотрится в подаренном мною халатике очень соблазнительно... Особенно когда так хорошо видно её упругие сисечки!{/m}"
@@ -66,19 +66,19 @@ msgstr "[Max_06] {m}¡Vaya! ¡Las mañanas pueden ser realmente buenas cuando pu
 
 # game/events/lisa.rpy:100 #-#-# translate crowdin lisa_shower_ladder_1409147d:
 msgid "[Max_07] {m}Мои зрители явно пропускают много всего интересного! Мне однозначно стоит установить сюда ещё одну камеру...{/m}"
-msgstr ""
+msgstr "[Max_07] {m}Está claro que mis espectadores se están perdiendo muchas cosas. Definitivamente debería instalar otra cámara aquí...{/m}"
 
 # game/events/lisa.rpy:101 #-#-# translate crowdin lisa_shower_ladder_63c0b6bb:
 msgid "[Max_00] {m}Хоть и не хочется, но пока меня не заметили, лучше уходить...{/m}"
-msgstr ""
+msgstr "[Max_00] {m}Aunque no me apetece, pero antes de que me vean, mejor me voy...{/m}"
 
 # game/events/lisa.rpy:113 #-#-# translate crowdin lisa_shower_start_peeping_fc5db481:
 msgid "[Max_09] {m}Лучше вообще свести подглядывания к минимуму, пока я не избавлюсь от Эрика. Чтобы никого ещё больше не расстраивать...{/m}"
-msgstr ""
+msgstr "[Max_09] {m}Será mejor que mantenga el espionaje al mínimo hasta que me deshaga de Eric. Para no molestar más a nadie..."
 
 # game/events/lisa.rpy:115 #-#-# translate crowdin lisa_shower_start_peeping_dda24c4d:
 msgid "[Max_01] {m}Хорошо, что это не распространяется на Киру...{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_01] {m}Menos mal que esto no se aplica a Kira...{/m} [nointeract]"
 
 # game/events/lisa.rpy:122 #-#-# translate crowdin lisa_shower_start_peeping_babc130b:
 msgid "[Max_07] {m}Отлично! Моя младшая сестрёнка принимает душ... Даже видно кое-что... Много кое-чего! Только бы она меня не заметила...{/m} [nointeract]"
@@ -548,11 +548,11 @@ msgstr "[Max_09] {m}Tengo que pensar en algo...{/m}"
 
 # game/events/lisa.rpy:782 #-#-# translate crowdin lisa_bath_4a929722:
 msgid "[Max_01] {m}Надеюсь, что ни у кого не возникнет вопроса, а что же здесь делает стремянка... Как, что? Конечно стоит, мало ли что! А теперь начинается самое интересное...{/m}"
-msgstr ""
+msgstr "[Max_01] {m}Esperemos que nadie tenga una pregunta en cuanto a lo que una escalera de mano está haciendo aquí..... ¿Qué, qué? Por supuesto que está aquí, ¡nunca se sabe! Y ahora empieza lo más interesante..."
 
 # game/events/lisa.rpy:794 #-#-# translate crowdin lisa_bath_ladder_76e8b72b:
 msgid "[Max_04] {m}Посмотрим, что у нас тут...{/m}"
-msgstr ""
+msgstr "[Max_04] {m}Veamos qué tenemos aquí..."
 
 # game/events/lisa.rpy:805 #-#-# translate crowdin lisa_bath_ladder_134cfe35:
 msgid "[Max_03] {m}Кажется, Лиза как раз собирается принять ванну... О да, моя младшая сестрёнка хороша... а голенькая, так особенно!{/m} [nointeract]"
