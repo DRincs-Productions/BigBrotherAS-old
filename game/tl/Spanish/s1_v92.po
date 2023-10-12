@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:46\n"
+"PO-Revision-Date: 2023-10-12 22:11\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # game/scripts_s1/s1_v92.rpy:9 #-#-# translate crowdin ev_v92_001_0804b56b:
 msgid "[Alice_02] Эй, Макс... У меня тут, наконец-то, появилось настроение сходить в магазин одежды. Кое-что прикупить... Хочешь со мной?"
@@ -2994,7 +2994,7 @@ msgstr "[Max_20] Oh, Alice. No, no puedo soportarlo más... Ohhhh. ¡Voy a corre
 
 # game/scripts_s1/s1_v92.rpy:2826 #-#-# translate crowdin ev_v92_021_01c3b2fa:
 msgid "[Max_00] {m}Похоже, Алиса принимает душ...{/m} [nointeract]"
-msgstr ""
+msgstr "[Max_00] {m}Parece que Alice se está duchando...{/m} [nointeract]"
 
 # game/scripts_s1/s1_v92.rpy:2835 #-#-# translate crowdin ev_v92_021_c45faf86:
 msgid "[Alice_05] А, Макс... Я тут как раз тебя дожидаюсь, как и обещала... Давай бегом ко мне! [nointeract]"
