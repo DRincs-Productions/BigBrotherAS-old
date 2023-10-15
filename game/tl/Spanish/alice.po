@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:11\n"
+"PO-Revision-Date: 2023-10-15 15:52\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # game/events/alice.rpy:19 #-#-# translate crowdin alice_bath_124b8bc5:
 msgid "[Max_00] {m}Если полночь, значит Алиса отмокает в ванне... Входить без стука - опасно для жизни.{/m} [nointeract]"
@@ -2512,7 +2512,7 @@ msgstr "{i}golpear"
 
 # game/events/alice.rpy:18
 msgid "{i}заглянуть со двора{/i}"
-msgstr "{i}asomándose desde el patio."
+msgstr "{i}mirar desde el patio{/i}"
 
 # game/events/alice.rpy:18
 msgid "{i}установить стремянку{/i}"
