@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:43\n"
+"PO-Revision-Date: 2023-10-15 15:52\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/dialogues/erictalk.rpy:17 #-#-# translate crowdin EricTalkStart_210d83ab:
 msgid "[Eric_01] Чего хотел, Макс? [nointeract]"
@@ -1586,7 +1586,7 @@ msgstr "¡No te llevarás a mis hermanas!"
 
 # game/dialogues/erictalk.rpy:837
 msgid "{i}вернуться в свою комнату{/i}"
-msgstr "{i}vuelve a tu habitación."
+msgstr "{i}vuelve a tu habitación.{/i}"
 
 # game/dialogues/erictalk.rpy:848
 msgid "Не шуми. Держи, всё равно не пригодился..."
