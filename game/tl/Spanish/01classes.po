@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-09-26 16:41\n"
+"PO-Revision-Date: 2023-10-15 15:52\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/core/01classes.rpy:703
 msgid "Ужасное"
-msgstr "Ужасное"
+msgstr "Terrible"
 
 # game/core/01classes.rpy:703
 msgid "Очень плохое"
@@ -30,7 +30,7 @@ msgstr "No mucho"
 
 # game/core/01classes.rpy:703
 msgid "Нейтральное"
-msgstr "Нейтральное"
+msgstr "Neutro"
 
 # game/core/01classes.rpy:703
 msgid "Неплохое"
