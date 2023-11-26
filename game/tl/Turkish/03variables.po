@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 17:46\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -269,7 +269,7 @@ msgstr ""
 
 # game/core/03variables.rpy:205
 msgid "Общение"
-msgstr ""
+msgstr "İletişim"
 
 # game/core/03variables.rpy:205
 msgid "Навыки общения: Чувства человека"
