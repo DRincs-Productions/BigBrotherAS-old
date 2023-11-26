@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-11-26 17:04\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -166,7 +166,7 @@ msgstr ""
 
 # game/core/02init.rpy:144
 msgid "Управление"
-msgstr ""
+msgstr "Kontroller"
 
 # game/core/02init.rpy:144
 msgid "В данной игре предусмотрено управление с помощью клавиатуры. Вы можете сохраняться в любой момент. Быстрые клавиши по-умолчанию:\n"
@@ -188,7 +188,7 @@ msgstr ""
 
 # game/core/02init.rpy:144
 msgid "Настроение"
-msgstr ""
+msgstr "Ruh hali"
 
 # game/core/02init.rpy:144
 msgid "Различные действия или фразы, сказанные Максом, могут вызывать соответствующую реакцию в виде смены настроения персонажа.\n\n\n"
