@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/06_items.rpy:2
 msgid "ПАУК"
@@ -18,7 +18,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Самое страшное существо на свете. С точки зрения Алисы, конечно. Нужно этим воспользоваться в подходящий момент!"
-msgstr ""
+msgstr "Dünyadaki en korkunç yaratık. Alice'in bakış açısından tabii ki. Doğru zaman geldiğinde bundan faydalanmalıyız!"
 
 # game/core/06_items.rpy:2
 msgid "СКРЫТАЯ КАМЕРА"
@@ -26,7 +26,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Высокотехнологичная микро-камера, предназначенная для скрытного наблюдения. Имеет радиомодуль для беспроводной передачи зашифрованного цифрового видеосигнала."
-msgstr ""
+msgstr "Gizli gözetleme için tasarlanmış yüksek teknolojili bir mikro kamera. Şifrelenmiş dijital video sinyalinin kablosuz iletimi için bir radyo modülüne sahiptir."
 
 # game/core/06_items.rpy:2
 msgid "ШЕЛКОВЫЙ ХАЛАТ"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Купальник для тех, кто не стесняется своего тела. Скрывает только самые интимные участки. Всё остальное открыто для солнца и глаз окружающих."
-msgstr ""
+msgstr "Vücudundan utanmayanlar için bir yüzme kostümü. Sadece en mahrem bölgeleri gizler. Geri kalan her şey güneşe ve başkalarının gözlerine açıktır."
 
 # game/core/06_items.rpy:2
 msgid "СИГАРЕТЫ"
@@ -50,7 +50,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Пачка сигарет Lucky Strike. Для настоящих мужчин!"
-msgstr ""
+msgstr "Bir paket Lucky Strike sigarası. Gerçek erkekler için!"
 
 # game/core/06_items.rpy:2
 msgid "МАЛЕНЬКОЕ ЧЕРНОЕ ПЛАТЬЕ"
@@ -58,7 +58,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Отличный подарок для девушки, желающей произвести фурор на вечеринке или дискотеке."
-msgstr ""
+msgstr "Bir partide veya diskoda sansasyon yaratmak isteyen bir kız için harika bir hediye."
 
 # game/core/06_items.rpy:2
 msgid "ЛЮБЯЩАЯ РУБИ"
@@ -66,7 +66,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Роман о запретной любви между секретаршей и её начальником, полный любви, страсти, эмоций и... мистики."
-msgstr ""
+msgstr "Bir sekreter ile patronu arasındaki yasak aşkın aşk, tutku, duygu ve gizem dolu romanı... gizem dolu."
 
 # game/core/06_items.rpy:2
 msgid "ПРЕМЬЕР-МИНИСТР"
@@ -74,7 +74,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Новый эротический роман, входящий в Топ-10 лучших романов и новелл США!"
-msgstr ""
+msgstr "ABD'nin en iyi 10 roman ve novellası arasında yer alan yeni bir erotik aşk romanı!"
 
 # game/core/06_items.rpy:2
 msgid "БЫТЬ КУКЛОЙ"
@@ -82,7 +82,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "В поместье Картера красивые девушки обучаются, чтобы стать идеальными жёнами для самых влиятельных людей этого мира."
-msgstr ""
+msgstr "Carter Malikanesi'nde güzel kızlar, bu dünyadaki en güçlü erkeklere mükemmel eşler olmak için eğitilirler."
 
 # game/core/06_items.rpy:2
 msgid "КНИГА ОРГАЗМОВ"
@@ -90,7 +90,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Что получится, если собрать самые горячие истории об оргазмах от 69 различных авторов?"
-msgstr ""
+msgstr "En ateşli orgazm hikayelerini 69 farklı yazardan topladığınızda ne elde edersiniz?"
 
 # game/core/06_items.rpy:2
 msgid "ИСТОРИЯ О"
@@ -98,7 +98,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Это история о доминировании и подчинении. История об одной прекрасной девушке по имени О."
-msgstr ""
+msgstr "Bu baskınlık ve boyun eğme hakkında bir hikaye. Hikaye O adında güzel bir kız hakkında."
 
 # game/core/06_items.rpy:2
 msgid "СТРЕМЯНКА"
@@ -106,7 +106,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Небольшая стремянка, позволяющая достать то, для чего не хватает роста"
-msgstr ""
+msgstr "Yeterince uzun olmadığınız şeylere ulaşmanızı sağlayan küçük bir merdiven"
 
 # game/core/06_items.rpy:2
 msgid "WEB STANDARDS"
@@ -114,7 +114,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Книга рассказывает о способах создавать свои сайты, работающие на любых устройствах."
-msgstr ""
+msgstr "Kitap, herhangi bir cihazda çalışan kendi web sitelerinizi oluşturmanın yollarını kapsıyor."
 
 # game/core/06_items.rpy:2
 msgid "ЛЁГКАЯ ПИЖАМА"
@@ -122,7 +122,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Удобнейшие маечка и шортики. В них не жарко душными летними ночами, и так же уютно в течение всего года."
-msgstr ""
+msgstr "En rahat atlet ve şort. Bunaltıcı yaz gecelerinde ısınmazlar ve tüm yıl boyunca aynı rahatlıktadırlar."
 
 # game/core/06_items.rpy:2
 msgid "НОЧНУШКА"
@@ -130,51 +130,51 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Полупрозрачные сорочка и трусики. Облегающий фасон подчёркивает все достоинства и изгибы фигуры, а лёгкое кружево придаст ещё больше сексуальности."
-msgstr ""
+msgstr "Yarı transparan gömlek ve külot. Dar kesim, figürün tüm avantajlarını ve kıvrımlarını vurgular ve hafif dantel daha da fazla seksilik verir."
 
 # game/core/06_items.rpy:2
 msgid "Набор косметики"
-msgstr ""
+msgstr "Kozmetik seti"
 
 # game/core/06_items.rpy:2
 msgid "Небольшой набор косметики для повседневного использования. Для женщин - только лучшее..."
-msgstr ""
+msgstr "Günlük kullanım için küçük bir kozmetik seti. Kadınlar için sadece en iyisi..."
 
 # game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
-msgstr ""
+msgstr "Ritter Sport mini çikolata (9 adet)"
 
 # game/core/06_items.rpy:2
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
-msgstr ""
+msgstr "Her durum için bir çikolata lezzeti... Dünyanın dört bir yanından gelen en iyi malzemelerle birçok lezzetli çeşit."
 
 # game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" (4 штуки)"
-msgstr ""
+msgstr "Ritter Sport çikolata (4 adet)"
 
 # game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (16 штук)"
-msgstr ""
+msgstr "Raffaello şekerleri (16 adet)"
 
 # game/core/06_items.rpy:2
 msgid "Хрустящие кокосовые конфеты с цельным миндальным орехом. Вместо тысячи слов..."
-msgstr ""
+msgstr "Bütün bademli çıtır hindistan cevizi şekeri. Binlerce kelime yerine..."
 
 # game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (24 штуки)"
-msgstr ""
+msgstr "Raffaello şekeri (24 adet)"
 
 # game/core/06_items.rpy:2
 msgid "Конфеты \"Ferrero Rocher\" (16 штук)"
-msgstr ""
+msgstr "Ferrero Rocher tatlıları (16 adet)"
 
 # game/core/06_items.rpy:2
 msgid "Сочетание цельного фундука и восхитительного сливочно-орехового крема в хрустящей вафельной оболочке подарит вам неповторимые вкусовые ощущения."
-msgstr ""
+msgstr "Bütün fındık ve lezzetli kremalı fındık kremasının çıtır gofret kabuğundaki birleşimi size eşsiz bir lezzet deneyimi yaşatacak."
 
 # game/core/06_items.rpy:2
 msgid "Конфеты \"Ferrero Rocher\" (24 штуки)"
-msgstr ""
+msgstr "Ferrero Rocher şekerleme (24 adet)"
 
 # game/core/06_items.rpy:2
 msgid "КРЕМ ДЛЯ ЗАГАРА"
@@ -198,7 +198,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Шоколадные конфеты с ликёром. Уникальные ароматизаторы скрывают вкус алкоголя. Отлично поднимают настроение. Очень крепкие."
-msgstr ""
+msgstr "Likörlü çikolatalı tatlılar. Benzersiz aromalar alkol tadını gizler. Harika bir ruh hali güçlendiricidir. Çok güçlüdür."
 
 # game/core/06_items.rpy:2
 msgid "КОМПЛЕКТ ТЁМНОГО НИЖНЕГО БЕЛЬЯ"
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-msgstr ""
+msgstr "Koyu renkte mükemmel iç çamaşırı. En sevdiğiniz kız için harika bir hediye."
 
 # game/core/06_items.rpy:2
 msgid "СЕКС-ОБРАЗОВАНИЕ"
@@ -214,7 +214,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Книга обо всём, связанным с сексом. Отлично подходит для обучения подрастающего поколения."
-msgstr ""
+msgstr "Seksle ilgili her şey hakkında bir kitap. Genç nesillere öğretmek için harika."
 
 # game/core/06_items.rpy:2
 msgid "ФОТОАППАРАТ"
@@ -222,7 +222,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Профессиональный фотоаппарат с объективом. Не новый, но в отличном состоянии. Подойдёт как для новичков, так и для профессионалов."
-msgstr ""
+msgstr "Lensli profesyonel kamera. Yeni değil, ancak mükemmel durumda. Hem yeni başlayanlar hem de profesyoneller için uygundur."
 
 # game/core/06_items.rpy:2
 msgid "КОРОТКАЯ ПИКАНТНАЯ СОРОЧКА"
@@ -230,7 +230,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Соблазнительная чёрная сорочка выполнена из эластичного тюля. В комплект так же входят трусики-стринги."
-msgstr ""
+msgstr "Baştan çıkarıcı siyah gömlek elastik tülden yapılmıştır. Sete tanga külot da dahildir."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ СЕКСУАЛЬНОЕ БОДИ"
@@ -238,7 +238,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Прозрачное сетчатое боди с открытой спиной чёрного цвета."
-msgstr ""
+msgstr "Siyah renkte sırtı açık şeffaf file bodysuit."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНОЕ КРУЖЕВНОЕ БОДИ"
@@ -246,7 +246,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Женское сексуальное нижнее бельё с кружевным узором по краям."
-msgstr ""
+msgstr "Kenarları dantel desenli kadın seksi iç çamaşırı."
 
 # game/core/06_items.rpy:2
 msgid "СПОРТИВНЫЕ ЛИФ И МИНИ ШОРТЫ"
@@ -254,7 +254,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Удобная, открытая и лёгкая одежда для занятий спортом. Так же она прекрасно подойдёт для отдыха на природе."
-msgstr ""
+msgstr "Spor aktiviteleri için rahat, açık ve hafif giysiler. Açık hava rekreasyonu için de mükemmeldir."
 
 # game/core/06_items.rpy:2
 msgid "ФИЛЬМ \"ЦВЕТ НОЧИ\" 1994 ГОД"
@@ -262,7 +262,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Брюс Уиллис в роли нью-йоркского психолога, потерявшего пациентку - она выбросилась в окно прямо во время сеанса. Чтобы прийти в себя, он едет в Лос-Анджелес к своему другу, с которым они вместе учились..."
-msgstr ""
+msgstr "Bruce Willis, bir seans sırasında kendini pencereden atan hastasını kaybeden New Yorklu bir psikolog rolünde. Kendine gelmek için Los Angeles'a, birlikte çalıştıkları arkadaşının yanına gider..."
 
 # game/core/06_items.rpy:2
 msgid "КОМПРОМАТ НА ЭРИКА"
@@ -270,11 +270,11 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Снимок того, как Эрик по ночам дрочит на Алису у окна её комнаты."
-msgstr ""
+msgstr "Eric'in gece Alice'in odasının penceresinde mastürbasyon yaparken çekilmiş bir görüntüsü."
 
 # game/core/06_items.rpy:2
 msgid "Снимки того, как Эрик по ночам сперва дрочил на Алису у окна её комнаты, а затем и в самой комнате."
-msgstr ""
+msgstr "Eric'in gece çekimleri önce Alice'in odasının penceresinde, sonra da odanın içinde ona mastürbasyon yapıyor."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ КОСТЮМ ДЛЯ РОЛЕВЫХ ИГР"
@@ -282,7 +282,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Женский сексуальный комплект из натуральной кожи чёрного цвета. Топ с воротничком и коротенькие шортики, которые застёгиваются на стильные заклёпки."
-msgstr ""
+msgstr "Siyah renkte hakiki deriden yapılmış seksi kadın seti. Yakalı üst ve şık perçinlerle tutturulmuş kısa şort."
 
 # game/core/06_items.rpy:2
 msgid "ЧЁРНЫЙ КОЖАНЫЙ СТЕК"
@@ -290,7 +290,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Стек освежит и разнообразит ваши отношения. Шлепок на конце девайса воспитает дерзкого и непослушного партнера. Секс-игрушка откроет просторы истинного БДСМ."
-msgstr ""
+msgstr "Yığın, ilişkinizi yenileyecek ve çeşitlendirecektir. Cihazın ucuna şaplak atmak, meydan okuyan ve yaramaz bir partneri ortaya çıkaracaktır. Seks oyuncağı gerçek BDSM'nin enginliğini açacak."
 
 # game/core/06_items.rpy:2
 msgid "БЫСТРОДЕЙСТВУЮЩЕЕ СЛАБИТЕЛЬНОЕ"
@@ -298,7 +298,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Эффективное слабительное средство. Эффект не заставит себя ждать. Деликатное решение деликатной проблемы."
-msgstr ""
+msgstr "Etkili bir müshil ilacıdır. Etkisi sizi bekletmeyecektir. Hassas bir soruna hassas bir çözüm."
 
 # game/core/06_items.rpy:2
 msgid "УСПОКОИТЕЛЬНОЕ СРЕДСТВО"
@@ -306,5 +306,5 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Отлично подойдёт тем, кто не хочет перевозбуждаться. Только спокойствие и безмятежность. Перед применением следует обязательно проконсультироваться с врачом для определения нужной дозировки."
-msgstr ""
+msgstr "Aşırı heyecanlanmak istemeyenler için harika. Sadece sakinlik ve dinginlik. Doğru dozajı belirlemek için kullanmadan önce daima bir doktora danışın."
 
