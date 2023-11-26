@@ -1,0 +1,134 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/core/oldfix.po\n"
+"X-Crowdin-File-ID: 9205\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-26 16:42\n"
+
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/core/oldfix.rpy:6 #-#-# translate crowdin old_fix_6c975de3:
+msgid "Сохранения версии техно-демо не поддерживаются. Начните новую игру или выберите другое сохранение."
+msgstr "La versión de demostración técnica no admite partidas guardadas. Inicia una nueva partida o selecciona otro guardado."
+
+# game/core/oldfix.rpy:10 #-#-# translate crowdin old_fix_93331e6b:
+msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+msgstr "Desgraciadamente, las partidas guardadas de esta versión no son compatibles debido a muchos cambios internos. Inicia una nueva partida o selecciona otra partida guardada."
+
+# game/core/oldfix.rpy:14 #-#-# translate crowdin old_fix_93331e6b_1:
+msgid "К сожалению сохранения этой версии не поддерживаются из-за большого количества внутренних изменений. Начните новую игру или выберите другое сохранение."
+msgstr "Desgraciadamente, las partidas guardadas de esta versión no son compatibles debido a muchos cambios internos. Inicia una nueva partida o selecciona otra partida guardada."
+
+# §translate crowdin strings: #|#|# # game/core/oldfix.rpy:49
+msgid "{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+msgstr "{i}{b}Advertencia:{/b} Por ahora, esto es todo lo que se puede hacer para esta \"oportunidad\" en la versión actual del juego.{/i}"
+
+# game/core/oldfix.rpy:51
+msgid "Да, и похоже о своём мальчике Лиза разговаривает только, когда у неё хорошее настроение... \n\n"
+"{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+msgstr "Ah, y parece que Lisa sólo habla de su chico cuando está de buen humor... \n\n"
+"{i}{b}Advertencia:{/b} Esto es todo lo que se puede hacer para esta \"oportunidad\" en la versión actual del juego{/i}"
+
+# game/core/oldfix.rpy:65
+msgid "Правда, Лиза слегка на меня обиделась, но это я переживу. Подарю ей что-нибудь вкусненькое и она оттает... \n\n"
+"{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+msgstr "Es cierto que Lisa se sintió un poco ofendida por mí, pero sobreviviré a esto. Le daré algo delicioso y se descongelará... \n\n"
+"{i}{b}Atención:{/b} Hasta ahora, eso es todo lo que se puede hacer por esta \"oportunidad\" en la versión actual del juego. {/i}"
+
+# game/core/oldfix.rpy:68
+msgid "Сомневаюсь, что теперь получится её подставить, уж слишком большое недоверие она ко мне испытывает. \n\n"
+"{i}{b}Внимание:{/b} Пока это всё, что можно сделать для данной \"возможности\" в текущей версии игры.{/i}"
+msgstr "Dudo que ahora sea posible incriminarla, ella tiene demasiada desconfianza en mí. \n\n"
+"{i}{b}Nota:{/b} Hasta ahora, esto es todo lo que se puede hacer por esta \"oportunidad\" en la versión actual del juego. {/i}"
+
+# game/core/oldfix.rpy:81
+msgid "Я помогал Лизе с уроками какое-то время, причём безвозмездно, но это стало довольно скучным делом и я намеренно стал делать ошибки так, чтобы ей ставили двойки и наказывали... И вот, после очередной двойки и наказания от мамы, она обратилась ко мне за помощью. Я согласился, но с условием, что она будет спать только в футболке и трусиках. И думаю, что мне удастся её ещё на что-нибудь раскрутить..."
+msgstr "Ayudé a Lisa con las lecciones por un tiempo, y de forma gratuita, pero se volvió bastante aburrido y deliberadamente comencé a cometer errores para que le dieran faltas y la castigaran... Y así, después de otra falta y castigo de mi madre, ella se volvió hacia mí en busca de ayuda. Estuve de acuerdo, pero con la condición de que solo durmiera con una camiseta y bragas. Y creo que podré darle vueltas en otra cosa..."
+
+# game/core/oldfix.rpy:138
+msgid "Тётя Кира превосходный учитель поцелуев! Она согласилась меня иногда учить. Кто знает, может быть она научит и чему-то ещё?\n\n"
+"Ну всё. Теперь нужно практиковаться в поцелуях с тётей Кирой и передавать полученные знания Лизе... Только вот её ещё нужно убедить..."
+msgstr "¡La tía Kira es una excelente maestra de besos! Ella aceptó enseñarme a veces. Quién sabe, ¿tal vez ella me enseñe algo más?\n\n"
+"Bueno, eso es todo. Ahora necesitas practicar mas con la tía Kira y transmitir el conocimiento adquirido a Lisa... Pero todavía necesita ser convencida..."
+
+# game/core/oldfix.rpy:292
+msgid "Я поговорил с Лизой насчёт её обучения. Она выдвинула ряд условий, среди которых запрет мне к ней прикасаться, если она против. Ну уже что-то."
+msgstr "Hablé con Lisa sobre su entrenamiento. Ella presentó una serie de condiciones, incluida la prohibición de que yo la tocara si estaba en contra. Bueno, es algo."
+
+# game/core/oldfix.rpy:292
+msgid "Похоже обучаться Лиза согласна только если у неё хорошее настроение..."
+msgstr "Parece que Lisa acepta aprender solo si está de buen humor..."
+
+# game/core/oldfix.rpy:292
+msgid "Мне удалось впечатлить Лизу своим искусством целоваться! Хотя, пока на искусство это не тянет, но ей понравилось! Всё-таки, тётя Кира отличный учитель. Но нужно продолжать практиковаться."
+msgstr "¡Logré impresionar a Lisa con mi arte de besar! Aunque, si bien el arte no tira, ¡pero le gustó! Después de todo, la tía Kira es una gran maestra. Pero hay que seguir practicando."
+
+# game/core/oldfix.rpy:292
+msgid "Я подарил Лизе книжку, которая содержит много ответов на её вопросы. Да мне и самому было бы полезно её почитать, но лень.\n\n\n"
+"Нужно будет поинтересоваться через какое-то время, что она об этой книге думает..."
+msgstr "Le di a Lisa un libro que contiene muchas respuestas a sus preguntas. Sí, sería útil para mí leerlo yo mismo, pero me da pereza.\n\n"
+"Tendré que preguntarle después de un tiempo qué piensa de este libro..."
+
+# game/core/oldfix.rpy:322
+msgid "В результате поисков информации в интернете о том, чем могла бы заняться Алиса, удалось кое-что выяснить. Самыми популярными оказались блоги, где ведущие - девушки. Причём, чем более откровенные наряды и чем больше грудь, тем более популярны шоу. С грудью, конечно, ничего не поделать, а вот наряды... Может быть, поговорить с ней об этом?"
+msgstr "Buscando información en Internet sobre lo que podía hacer Alice, conseguimos averiguar algo. Los más populares eran los blogs en los que las presentadoras eran chicas. Y cuanto más reveladores son los atuendos y más grandes los pechos, más populares son los programas. Por supuesto, no hay nada que puedas hacer con los pechos, pero los trajes..... Tal vez deberíamos hablar con ella al respecto?"
+
+# game/core/oldfix.rpy:322
+msgid "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Она даже при мне его примерила! Правда, я почти ничего не увидел, но было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
+msgstr "Le regalé a Alice un bonito conjunto de lencería. Le encantó. Incluso se la probó delante de mí. Es cierto que apenas podía ver nada, pero era excitante.... Lo más interesante es que insinuó que podríamos buscar algo más... sexy!"
+
+# game/core/oldfix.rpy:346
+msgid "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Правда, увидеть мне ничего не удалось, только Алису уже в этом самом белье, но даже это было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
+msgstr "Le regalé a Alice un bonito conjunto de lencería. A ella le encantó. Sin embargo, no conseguí ver nada, sólo a Alice con la lencería, pero incluso eso era excitante.... Lo más curioso es que ella insinuó que podríamos buscar algo más... ¡sexy!"
+
+# game/core/oldfix.rpy:346
+msgid "Я подарил Алисе симпатичный комплект нижнего белья. Ей очень понравилось. Она даже при мне его примерила! Увидел я не так чтобы много всего, но было волнующе... Что самое любопытное, она намекнула, что можно поискать и что-то более... сексуальное!"
+msgstr "Le regalé a Alice un bonito conjunto de lencería. Le encantó. Incluso se la probó delante de mí. No la vi mucho, pero era excitante..... Lo que es más interesante es que ella insinuó que yo podría buscar algo un poco más... sexy!"
+
+# game/core/oldfix.rpy:362
+msgid "Я рассказал тёте Кире всё про Эрика, вот как есть, так и сказал. Кажется, она сомневается в моих словах, но пообещала аккуратно всё выяснить и разузнать. Может быть, даже с самим Эриком пообщается..."
+msgstr "Le conté a tía Kira todo sobre Eric, tal como se lo había dicho a ella. Ella pareció dudar de mis palabras, pero prometió averiguarlo todo detenidamente. Tal vez incluso hablar con el propio Eric..."
+
+# game/core/oldfix.rpy:362
+msgid "Кира предложила мне немного заработать. Нужно лишь её пофотографировать. Вот только для этих целей нужен фотоаппарат. Конечно, вряд-ли она заплатит мне столько, сколько стоит фотоаппарат, зато есть шанс, что мне что-нибудь обломится другое за эту фотосессию..."
+msgstr "Kira me ofreció algo de dinero. Todo lo que tengo que hacer es tomarle una foto. Excepto que necesito una cámara para ese propósito. Por supuesto, es poco probable que me pague tanto como cuesta la cámara, pero existe la posibilidad de que consiga algo más por esta sesión de fotos..."
+
+# game/core/oldfix.rpy:362
+msgid "Итак, снимки вышли удачными и мы с Кирой договорились на новую фотосессию, пока никого не будет дома. Но ещё не ясно, когда мы её проведём... Интересно, что такое Кира хочет достать для съёмок!? Остаётся только ждать..."
+msgstr "Así que las fotos salieron bien y Kira y yo acordamos hacer otra sesión de fotos mientras no haya nadie en casa. Pero aún no está claro cuándo la haremos... Me pregunto qué querrá Kira para la sesión. Sólo podemos esperar..."
+
+# game/core/oldfix.rpy:380
+msgid "А ещё, будет не лишним, купить для этой фотосессии сексуальную сорочку для моей любимой тёти!"
+msgstr "Además, ¡no estaría de más comprarle algo sexy a mi tía favorita para esta sesión de fotos!"
+
+# game/core/oldfix.rpy:403
+msgid "Что это было? Мама поймала меня на подглядывании за ними, пока они трахались, собиралась наказать, но Эрик сказал нет и мама согласилась?! Моя мама, которая запрещала мне смотреть даже эротику, согласилась, чтобы я присутствовал при таком? Это невероятно. Либо Эрик какой-то колдун, либо дело в другом и нужно в этом разобраться, как следует."
+msgstr "¿Qué fue eso? Mi madre me pilló espiándoles mientras follaban, iba a castigarme, pero Eric dijo que no y mi madre accedió... ¿Mi madre, que ni siquiera me dejaba ver erotismo, accedió a dejarme estar presente en eso? Eso es increible. O Eric es algún tipo de hechicero o es algo más y tenemos que llegar al fondo de esto."
+
+# game/core/oldfix.rpy:440
+msgid "А что если я не буду помогать Лизе какое-то время? Или несколько раз сделаю ошибку в её работе?"
+msgstr "¿Y si no ayudo a Lisa durante un tiempo? ¿O cometo algunos errores en su trabajo?"
+
+# game/core/oldfix.rpy:447
+msgid "Только я подарил Лизе книгу по сексуальному образованию, как тут же нарисовался Эрик. Он, видите ли, вместе с моей мамой, собирается взяться за её сексуальное воспитание! \n\n"
+"В обмен на возможность подглядывать за этим процессом, я согласился его поддержать. Незачем мне враждовать с Эриком."
+msgstr "En cuanto le di a Lisa el libro de educación sexual, apareció Eric. Iba a encargarse de su educación sexual con mi madre. \n\n"
+"A cambio de la oportunidad de espiar el proceso, accedí a apoyarlo. No necesito enemistarme con Eric."
+
+# game/core/oldfix.rpy:479
+msgid "Мне случайно удалось заметить, как Эрик посреди ночи стоит около окна в комнату Алисы и дрочит на неё! Не ожидал я такое увидеть... Мне казалось, что Эрик из тех, кто скорее проститутку снимет, чем будет просто дрочить, но как оказалось... я ошибался.\n\n"
+"Наверняка он делает это уже не первый раз! Надо понаблюдать за ним по ночам, чтобы заполучить снимок с его грязными делишками... Лучше иметь против него козырь, на случай чего..."
+msgstr "Por casualidad vi a Eric junto a la ventana de la habitación de Alice en mitad de la noche masturbándose con ella. No esperaba ver eso. Pensaba que Eric era el tipo de tío que preferiría conseguir una puta antes que masturbarse, pero resulta que...... estaba equivocado.\n\n"
+"¡Apuesto a que no es la primera vez que lo hace! Tendré que vigilarlo por la noche para ver sus sucias acciones..... Es mejor tener una carta de triunfo contra él, por si acaso..."
+
+# game/core/oldfix.rpy:479
+msgid "Получилось! Я сфотографировал, как Эрик дрочит на Алису! Конечно, на самом деле на снимке не понятно, на кого или на что он дрочит, так что не слишком-то эта фотография мне поможет в случае какой-нибудь заварушки с Эриком.\n\n"
+"Было бы хорошо, если бы Эрик обнаглел настолько, что стал дрочить на Алису прямо посреди её комнаты... Вот это уже бы тянуло на компромат! В кадр правда попадёт Алиса, но основное внимание на такой фотографии будет приковано к Эрику. Дело за малым - придумать, как заманить его в комнату Алисы..."
+msgstr "¡Sucedió! ¡Fotografié a Eric masturbándose con Alice! Por supuesto, de hecho, en la imagen no está claro a quién o qué se pajea, por lo que esta imagen no me ayudará demasiado en caso de algún problema con Eric.\n\n"
+"Sería bueno si Eric se volviera tan insolente que comenzara a masturbarse con Alice justo en el medio de su habitación... ¡Eso ya estaría atraído por evidencia comprometedora! Es cierto que Alice entrará en el encuadre, pero la atención principal en una foto así estará fijada en Eric. Hay poco que hacer, descubrir cómo atraerlo a la habitación de Alice... ¡¿Quizás sea posible persuadirla para que duerma desnuda..."
+

@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/core/imagemaps.po\n"
+"X-Crowdin-File-ID: 9203\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-26 16:42\n"
+
+# TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/imagemaps.rpy:36
+msgid "{i}искать под кроватью{/i}"
+msgstr "{i}buscar debajo de la cama{/i}"
+
+# game/core/imagemaps.rpy:39
+msgid "{i}искать в тумбочке{/i}"
+msgstr "{i}mirar en la mesita de noche{/i}"
+
+# game/core/imagemaps.rpy:42
+msgid "{i}искать в столе{/i}"
+msgstr "{i}buscar en el escritorio{/i}"
+
+# game/core/imagemaps.rpy:61
+msgid "{i}массировать ступни{/i}"
+msgstr "{i}masajear los pies{/i}"
+
+# game/core/imagemaps.rpy:69
+msgid "{i}массировать голени{/i}"
+msgstr "masajear las espinillas"
+
+# game/core/imagemaps.rpy:79
+msgid "{i}массировать бёдра{/i}"
+msgstr "{i}masajear los muslos{/i}"
+
+# game/core/imagemaps.rpy:83
+msgid "{i}массировать плечи{/i}"
+msgstr "{i}masajear los hombros{/i}"
+
+# game/core/imagemaps.rpy:87
+msgid "{i}массировать спину{/i}"
+msgstr "{i}masajear la espalda{/i}"
+
+# game/core/imagemaps.rpy:92
+msgid "{i}массировать попку{/i}"
+msgstr "{i}masajear el culo{/i}"
+
+# game/core/imagemaps.rpy:113
+msgid "{i}искать на кровати{/i}"
+msgstr "{i}buscar en la cama{/i}"
+
