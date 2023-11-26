@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 17:46\n"
+"PO-Revision-Date: 2023-11-26 17:04\n"
 
 # TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/02init.rpy:18
 msgid "{color=#00FF00}{i}Убеждение удалось!{/i}{/color}\n"
@@ -631,35 +631,35 @@ msgstr ""
 
 # game/core/02init.rpy:298
 msgid "Одежда"
-msgstr ""
+msgstr "Giyim"
 
 # game/core/02init.rpy:298
 msgid "Книги"
-msgstr ""
+msgstr "Kitaplar"
 
 # game/core/02init.rpy:298
 msgid "Продукты"
-msgstr ""
+msgstr "Ürünler"
 
 # game/core/02init.rpy:298
 msgid "Электроника"
-msgstr ""
+msgstr "Elektronik"
 
 # game/core/02init.rpy:298
 msgid "Товары 18+"
-msgstr ""
+msgstr "18+ ürünler"
 
 # game/core/02init.rpy:298
 msgid "Косметика"
-msgstr ""
+msgstr "Kozmetik"
 
 # game/core/02init.rpy:298
 msgid "Украшения"
-msgstr ""
+msgstr "Mücevherat"
 
 # game/core/02init.rpy:298
 msgid "Другое"
-msgstr ""
+msgstr "Diğer"
 
 # game/core/02init.rpy:309
 msgid "А у меня есть то, о чём ты мечтала..."
