@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:46\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "массаж, "
@@ -381,41 +381,44 @@ msgstr "Sağ tıklama"
 # game/screens.rpy:1368
 msgid "Колёсико вверх\n"
 "Клик на сторону отката"
-msgstr ""
+msgstr "Tekerlek yukarı\n"
+"Geri çekmenin yan tarafına tıklayın"
 
 # game/screens.rpy:1372
 msgid "Колёсико вниз"
-msgstr ""
+msgstr "Tekerlek aşağı"
 
 # game/screens.rpy:1379
 msgid "Правый триггер\n"
 "A/Нижняя кнопка"
-msgstr ""
+msgstr "Sağ tetik\n"
+"A/ Alt düğme"
 
 # game/screens.rpy:1383
 msgid "Левый Триггер\n"
 "Левый Бампер"
-msgstr ""
+msgstr "Sol Tetik\n"
+"Sol Tampon"
 
 # game/screens.rpy:1387
 msgid "Правый бампер"
-msgstr ""
+msgstr "Sağ tampon"
 
 # game/screens.rpy:1392
 msgid "Крестовина, Стики"
-msgstr ""
+msgstr "Çapraz Çubuk, Stikki"
 
 # game/screens.rpy:1396
 msgid "Start, Guide"
-msgstr ""
+msgstr "Başlat, Kılavuz"
 
 # game/screens.rpy:1400
 msgid "Y/Верхняя кнопка"
-msgstr ""
+msgstr "Y/Üst düğme"
 
 # game/screens.rpy:1403
 msgid "Калибровка"
-msgstr ""
+msgstr "Kalibrasyon"
 
 # game/screens.rpy:1469
 msgid "Да"
