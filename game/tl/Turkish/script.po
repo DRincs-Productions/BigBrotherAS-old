@@ -10,143 +10,143 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:46\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/script.rpy:58 #-#-# translate crowdin intro_8dea4dcf:
 msgid "[Max_00] Меня зовут Макс. Я обычный парень из обычной семьи. Ну как обычной... нормальной. Хотя, кого я обманываю. Нормального в моей семье мало. Но обо всём по порядку. [nointeract]"
-msgstr ""
+msgstr "[Max_00] Benim adım Max. Sıradan bir aileden gelen sıradan bir adamım. Normal. Normal. Gerçi kimi kandırıyorum ki? Ailemde çok fazla normal yok. Ama her şey sırayla. [nointeract]"
 
 # game/script.rpy:60 #-#-# translate crowdin intro_0f762891:
 msgid "[Max_01] Недавно меня выперли из школы. Официально - за низкую успеваемость. Хотя оценки были так себе, но настоящая причина в математичке. Говорят, я приставал... Да она сама глазки строила! Директору, её мужу, это почему-то не понравилось..."
-msgstr ""
+msgstr "[Max_01] Geçenlerde okuldan atıldım. Resmi olarak zayıf akademik performans yüzünden. Gerçi notlarım pek iyi değildi ama asıl sebep matematikçi kızdı. Ona asıldığımı söylediler. Sana bakıyordu! Müdür, yani kocası, nedense bundan hoşlanmadı..."
 
 # game/script.rpy:61 #-#-# translate crowdin intro_4e148ae4:
 msgid "[Max_14] В общем, сейчас я с неоконченным средним образованием. Без работы и конкретных планов на будущее... Но всё должно измениться, обязательно!"
-msgstr ""
+msgstr "[Max_14] Her neyse, şimdi yarım kalmış bir orta öğretimim var. İş yok ve gelecek için somut planlar yok.... Ama her şeyin değişeceği kesin!"
 
 # game/script.rpy:63 #-#-# translate crowdin intro_1c9ab78c:
 msgid "[Max_04] Это Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату съёмного жилья, еду и одежду."
-msgstr ""
+msgstr "[Max_04] Bu Anna, annem. Birkaç yıldır beni ve iki kız kardeşimi büyütüyor. Bir şirketin ofisinde çalışıyor. Maaşı oldukça iyi olmasına rağmen, neredeyse her şeyi kira, yemek ve kıyafetlere harcanıyor."
 
 # game/script.rpy:65 #-#-# translate crowdin intro_cb16881c:
 msgid "[Max_00] Ну а это наша квартира. Тот ещё тараканник! Мама пытается заработать на первый взнос, чтобы взять ипотеку, но пока что-то не получается. Все мы мечтаем отсюда съехать, но куда?"
-msgstr ""
+msgstr "[Max_00] Ve burası da bizim dairemiz. Ne hamamböceği ama! Annem mortgage almak için peşinat biriktirmeye çalışıyor ama şu ana kadar işe yaramadı. Hepimiz buradan taşınmak istiyoruz ama nereye?"
 
 # game/script.rpy:67 #-#-# translate crowdin intro_4547bbbc:
 msgid "[Max_08] Алиса, моя старшая сестра. Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
-msgstr ""
+msgstr "[Max_08] Alice, benim ablam. O da okulu yeni bitirdi ve tıpkı benim gibi kendi yolunu arıyor. Bütün gün dizüstü bilgisayarının başında oturuyor ve kendi blogunu yazıyor. Kardeşlerle çoğu zaman olduğu gibi pek iyi anlaşamıyoruz..."
 
 # game/script.rpy:69 #-#-# translate crowdin intro_75876970:
 msgid "[Max_00] Лиза, младшая сестрёнка, ещё учится в школе. Не знаю как учится, но если не выгнали как меня, значит всё в порядке. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
-msgstr ""
+msgstr "[Max_00] Lisa, küçük kardeşim, hala okulda. Nasıl olduğunu bilmiyorum ama o da benim gibi okuldan atılmadıysa iyidir. Ara sıra kavga etsek de Lisa ve ben aynı dalga boyundayız. Ama bir şey olursa, korunmak için bana bakar."
 
 # game/script.rpy:71 #-#-# translate crowdin intro_bebe466e:
 msgid "[Max_14] Отца я плохо помню. Он ушёл, когда мне было лет пять. Мама не хочет рассказывать, что тогда случилось... Ходили слухи, что дела у него пошли в гору. С тех пор мы о нём ничего не слышали. До прошлого месяца, когда пришла та девушка..."
-msgstr ""
+msgstr "[Max_14] Babamı çok iyi hatırlamıyorum. Ben beş yaşındayken gitmiş. Annem bana o zaman ne olduğunu anlatmaz. İyi olduğuna dair söylentiler vardı. O zamandan beri ondan haber almadık. Ta ki geçen ay o kız gelene kadar..."
 
 # game/script.rpy:73 #-#-# translate crowdin intro_fdc8ae44:
 msgid "[Maya_01] Здравствуйте, меня зовут Майя, я адвокат вашего бывшего мужа. У вас найдётся для меня минутка?"
-msgstr ""
+msgstr "[Maya_01] Merhaba, benim adım Maya, eski kocanızın avukatıyım. Benim için bir dakikanız var mı?"
 
 # game/script.rpy:74 #-#-# translate crowdin intro_165806c1:
 msgid "[Ann_00] Здравствуйте, да, конечно. Меня зовут Анна, но вы и так это знаете похоже. Так в чём дело? С ним что-то случилось?"
-msgstr ""
+msgstr "[Ann_00] Merhaba, evet, elbette. Adım Anna, ama sanırım bunu zaten biliyorsunuz. Peki sorun nedir? Ona bir şey mi oldu?"
 
 # game/script.rpy:75 #-#-# translate crowdin intro_32cb457a:
 msgid "[Maya_03] Не переживайте, он жив-здоров, но сам приехать не смог. Сказал, что вы будете не очень рады, хотя новости у меня для вас отличные!"
-msgstr ""
+msgstr "[Maya_03] Merak etme, o hayatta ve iyi, ama kendisi gelemedi. Çok mutlu olmayacağını söyledi, ama sana harika haberlerim var!"
 
 # game/script.rpy:76 #-#-# translate crowdin intro_9858c279:
 msgid "[Ann_01] Любопытно. И что же это за новости спустя столько лет?"
-msgstr ""
+msgstr "[Ann_01] Merak ediyorum. Bunca yıldan sonra ne haber?"
 
 # game/script.rpy:77 #-#-# translate crowdin intro_a97592f1:
 msgid "[Maya_02] Я принесла документы на недвижимость, которую он решил передать вам. Если вы их подпишите, то станете полноправным владельцем."
-msgstr ""
+msgstr "[Maya_02] Size vermeye karar verdiği mülkün tapusunu getirdim. Eğer imzalarsanız, mülkün gerçek sahibi siz olacaksınız."
 
 # game/script.rpy:78 #-#-# translate crowdin intro_8b0c7301:
 msgid "[Ann_17] Что-то я не поняла. Это совсем на него не похоже. Какая недвижимость? О чём речь?"
-msgstr ""
+msgstr "[Ann_17] Anlamıyorum. Bu hiç onun yapacağı bir şey değil. Ne mülkü? Neyden bahsediyorsun?"
 
 # game/script.rpy:79 #-#-# translate crowdin intro_ce5a5dae:
 msgid "[Maya_01] Это двухэтажный дом на юге страны, который построила его компания. А насчёт того, что это на него не похоже... В последние пару лет он очень изменился. Не уверена, что эти изменения пошли на пользу бизнесу."
-msgstr ""
+msgstr "[Maya_01] Güneyde şirketinin inşa ettiği iki katlı bir ev. Ve onun gibi olmamasına gelince.... Son birkaç yılda çok değişti. Bu değişimin iş için iyi olduğundan emin değilim."
 
 # game/script.rpy:80 #-#-# translate crowdin intro_43a9e56e:
 msgid "[Ann_01] Что-то вы меня озадачили. В чём подвох? Я что-то должна? Столько лет никаких вестей, ничего, и тут... дом. И что там с его бизнесом?"
-msgstr ""
+msgstr "[Ann_01] Beni şaşırttın. Ne yakaladın? Sana bir borcum mu var? Bunca yıl haber yok, hiçbir şey yok, ve sonra. Bir ev. Peki ya işi?"
 
 # game/script.rpy:81 #-#-# translate crowdin intro_60f50736:
 msgid "[Maya_02] В данный момент он продал большую часть недвижимости, чтобы погасить налоговую задолженность, но этот дом решил передать вам. Я не знаю причин, да они меня и не касаются."
-msgstr ""
+msgstr "[Maya_02] Vergi borcunu ödemek için mülkün büyük bir kısmını sattı ama bu evi size vermeye karar verdi. Sebeplerini bilmiyorum ve beni ilgilendirmiyor."
 
 # game/script.rpy:82 #-#-# translate crowdin intro_ea2ebd5a:
 msgid "[Ann_00] Вы знаете, Майя, я не могу принять такой... подарок. Во-первых, я не в курсе его махинаций или что он там придумал, а во-вторых, мы с ним уже столько лет не общались, и мне не нужно от него ничего!"
-msgstr ""
+msgstr "[Ann_00] Biliyorsun Maya, böyle bir şeyi kabul edemem. kabul edemem. Birincisi, onun entrikalarından ya da neyin peşinde olduğundan haberim yok ve ikincisi, onunla yıllardır konuşmadım ve ondan hiçbir şeye ihtiyacım yok!"
 
 # game/script.rpy:83 #-#-# translate crowdin intro_734c8765:
 msgid "[Maya_01] Да, он предупреждал меня о такой вашей реакции... С юридической точки зрения дом абсолютно чист, и вы ничем не рискуете. Кроме того, ваши дети растут и им нужно место, своё личное пространство..."
-msgstr ""
+msgstr "[Maya_01] Evet, tepkiniz konusunda beni uyarmıştı. Yasal olarak, ev tamamen temiz ve tehlikede değilsiniz. Ayrıca, çocuklarınız büyüyor ve kendi alanlarına, kendi mahremiyetlerine ihtiyaçları var..."
 
 # game/script.rpy:84 #-#-# translate crowdin intro_8db9c9f1:
 msgid "[Ann_14] С этим не поспоришь. У меня есть время подумать обо всём?"
-msgstr ""
+msgstr "[Ann_14] Buna itiraz edemezsin. Bunu düşünecek zamanım var mı?"
 
 # game/script.rpy:86 #-#-# translate crowdin intro_8e21e5ab:
 msgid "[Maya_03] Конечно, Анна. Вот моя визитка. Позвоните, когда будете готовы принять решение. Также я оставлю копии всех документов. До свидания. [nointeract]"
-msgstr ""
+msgstr "[Maya_03] Elbette, Anna. İşte kartım. Karar vermeye hazır olduğunuzda beni arayın. Tüm belgelerin kopyalarını da bırakacağım. Hoşça kalın. [nointeract]"
 
 # game/script.rpy:90 #-#-# translate crowdin intro_eaf717b9:
 msgid "[Max_04] К счастью, мама приняла верное решение. Когда мы увидели дом, не поверили своим глазам! Вживую он оказался гораздо больше и красивее, чем на фотографиях. Но самым приятным сюрпризом оказался бассейн!"
-msgstr ""
+msgstr "[Max_04] Neyse ki annem doğru kararı verdi. Evi gördüğümüzde gözlerimize inanamadık! Fotoğraflarda göründüğünden çok daha büyük ve güzeldi. Ama en hoş sürpriz yüzme havuzuydu!"
 
 # game/script.rpy:92 #-#-# translate crowdin intro_afbd2795:
 msgid "[Max_00] Алиса сразу заняла одну из спален. Кстати, их оказалось всего две. Несмотря на огромную гостиную с кухней и просторную ванную, в доме всего три отдельные комнаты: две спальни и кабинет."
-msgstr ""
+msgstr "[Max_00] Alice hemen yatak odalarından birini aldı. Bu arada, sadece iki tane vardı. İçinde mutfak ve geniş bir banyo bulunan kocaman bir oturma odasına rağmen evde sadece üç ayrı oda vardı: iki yatak odası ve bir çalışma odası."
 
 # game/script.rpy:94 #-#-# translate crowdin intro_5fc10bfc:
 msgid "[Max_08] В кабинете мебели почти не оказалось, и мне пришла в голову отличная идея разместить здесь наши с Лизой кровати из старой квартиры."
-msgstr ""
+msgstr "[Max_08] Çalışma odasında neredeyse hiç mobilya yoktu ve Lisa ile benim eski dairemizdeki yataklarımızı buraya koymak gibi harika bir fikir geldi aklıma."
 
 # game/script.rpy:95 #-#-# translate crowdin intro_c174fdf7:
 msgid "[Ann_01] Что-то мне не нравится эта твоя идея, Макс. Вы уже взрослые, чтобы спать в одной комнате. Давай этот офис выделим тебе, а вторую спальню - Лизе. Ну а я буду спать в гостиной. Там отличные диванчики..."
-msgstr ""
+msgstr "[Ann_01] Bu fikrini beğenmedim, Max. Aynı odada uyuyacak kadar büyüdünüz. Sana bu ofisi, Lisa'ya da diğer yatak odasını verelim. Ben de oturma odasında uyurum. Harika koltukları var..."
 
 # game/script.rpy:96 #-#-# translate crowdin intro_8132e149:
 msgid "[Max_01] Мам, мы и так все жили как селёдки в бочке, нам не привыкать. А тут такие огромные комнаты. Нам с Лизой места хватит. Правда, сестрёнка?"
-msgstr ""
+msgstr "[Max_01] Anne, hepimiz fıçıdaki ringa balıkları gibi yaşıyoruz, buna alıştık. Ve bu odalar çok büyük. Lisa ve benim için bir sürü oda var. Değil mi, abla?"
 
 # game/script.rpy:97 #-#-# translate crowdin intro_fbedb073:
 msgid "[Lisa_02] Конечно! Мам, мы нормально с Максом уживаемся. А если будет косячить, выгоню его в эту самую гостиную! А ты свою комнату точно заслужила. И не спорь. Мы все так думаем."
-msgstr ""
+msgstr "[Lisa_02] Tabii ki! Anne, Max ve ben iyi anlaşıyoruz. Ve eğer işleri berbat ederse, onu oturma odasına atarım! Kendi odanı hak ediyorsun. Tartışmayın. Hepimiz böyle düşünüyoruz."
 
 # game/script.rpy:99 #-#-# translate crowdin intro_07cd4260:
 msgid "[Ann_07] Ну хорошо. Транспортная компания сообщила, что наши вещи задерживаются. Что-то я уже жалею, что с ними связалась... Так или иначе, через неделю переезжаем! [nointeract]"
-msgstr ""
+msgstr "[Ann_07] Pekala. Nakliye şirketi eşyalarımızın geciktiğini söylüyor. Onlara bulaştığım için şimdiden pişmanım. Her neyse, bir hafta içinde taşınıyoruz! [nointeract]"
 
 # game/script.rpy:103 #-#-# translate crowdin intro_dbd412b7:
 msgid "[Max_00] Спустя неделю часть наших вещей из старой квартиры доставили. Но только часть. Как я понял, кое-что потерялось в пути. Надеюсь, компенсируют это как-то..."
-msgstr ""
+msgstr "[Max_00] Bir hafta sonra, eski dairedeki eşyalarımızın bir kısmı teslim edildi. Ama sadece bir kısmı. Anladığım kadarıyla bir kısmı nakliye sırasında kaybolmuş. Umarım bir şekilde telafi ederler..."
 
 # game/script.rpy:105 #-#-# translate crowdin intro_356cd733:
 msgid "[Max_04] Мама устроилась на новую работу. Лиза пошла в местную школу. Алиса так и сидит в своём ноуте, а я... На этом мой рассказ заканчивается и начинается что-то новое и интересное! [nointeract]"
-msgstr ""
+msgstr "[Max_04] Annem yeni bir iş buldu. Lisa yerel bir okula gitti. Alice hala dizüstü bilgisayarında oturuyor ve ben.... Bu benim hikayemin sonu ve yeni ve ilginç bir şeyin başlangıcı! [nointeract]"
 
 # game/script.rpy:118 #-#-# translate crowdin about_poss_0cd5a085:
 msgid "[Max_00] \"Возможности\" - это особые пути, по которым можно пройти, чтобы достичь какого-то результата. Обычно они скрыты и не очень очевидны."
-msgstr ""
+msgstr "[Max_00] \"Fırsatlar\" bir sonuca ulaşmak için izlenebilecek belirli yollardır. Genellikle gizlidirler ve çok belirgin değildirler."
 
 # game/script.rpy:119 #-#-# translate crowdin about_poss_0f75481c:
 msgid "[Max_03] Некоторые действия в игре открывают такие \"возможности\". Увидеть их можно на соответствующем экране, который можно открыть через верхнее меню."
-msgstr ""
+msgstr "[Max_03] Oyundaki belirli eylemler bu tür \"olasılıkları\" açar. Bunları, üst menüden erişilebilen ilgili ekranda görebilirsiniz."
 
 # game/script.rpy:120 #-#-# translate crowdin about_poss_09cf07b7:
 msgid "[Max_00] Некоторые \"возможности\" временные. Некоторые могут привести к нежелательному результату. Не стоит хвататься за первую попавшуюся и слепо следовать подсказкам!"
-msgstr ""
+msgstr "[Max_00] Bazı \"fırsatlar\" geçicidir. Bazıları istenmeyen sonuçlara yol açabilir. Karşınıza çıkan ilk fırsatı kaçırmayın ve ipuçlarını körü körüne takip etmeyin!"
 
 # game/script.rpy:122 #-#-# translate crowdin about_poss_95f72849:
 msgid "[Max_04] Но и бояться их не стоит. Именно благодаря \"возможностям\" можно добиться того, о чём некоторые даже не мечтают! [nointeract]"
-msgstr ""
+msgstr "[Max_04] Ancak onlardan da korkmamalısınız. Bazı insanların hayal bile edemeyeceği şeyleri \"fırsatlar\" sayesinde başarabilirsiniz! [nointeract]"
 
 # §translate crowdin strings: #|#|# # game/script.rpy:57
 msgid "{i}далее{/i}"
@@ -158,7 +158,7 @@ msgstr ""
 
 # game/script.rpy:85
 msgid "{i}пару недель спустя...{/i}"
-msgstr ""
+msgstr "{i}Birkaç hafta sonra...{/i}"
 
 # game/script.rpy:98
 msgid "{i}спустя неделю...{/i}"
@@ -170,13 +170,13 @@ msgstr ""
 
 # game/script.rpy:104
 msgid "{i}Повторить историю{/i}"
-msgstr ""
+msgstr "{i}Hikayeyi tekrarla{/i}"
 
 # game/script.rpy:121
 msgid "{i}всё ясно{/i}"
-msgstr ""
+msgstr "{i}hepsi temiz{/i}"
 
 # game/script.rpy:121
 msgid "{i}повторить{/i}"
-msgstr ""
+msgstr "{i}tekrarla{/i}"
 
