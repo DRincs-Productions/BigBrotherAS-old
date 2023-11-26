@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:45\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
 msgid "Новый купальник Лизы"
@@ -98,39 +98,39 @@ msgstr "Ben kötü bir kızdım"
 
 # game/extra/extra.rpy:60
 msgid "Как тебе такое?"
-msgstr ""
+msgstr "Kulağa nasıl geliyor?"
 
 # game/extra/extra.rpy:60
 msgid "Я принес тебе полотенце!"
-msgstr ""
+msgstr "Sana havlu getirdim!"
 
 # game/extra/extra.rpy:60
 msgid "Первые снимки для блога Алисы"
-msgstr ""
+msgstr "Alice'in blogu için ilk görüntüler"
 
 # game/extra/extra.rpy:60
 msgid "Я обошёл Эрика с подарком для Алисы"
-msgstr ""
+msgstr "Eric'in yanından Alice için bir hediyeyle geçtim"
 
 # game/extra/extra.rpy:60
 msgid "Попка, которую я теперь могу отшлёпать"
-msgstr ""
+msgstr "Artık şaplak atabileceğim bir kıç"
 
 # game/extra/extra.rpy:60
 msgid "Меня нужно наказать именно так!"
-msgstr ""
+msgstr "Aynen böyle cezalandırılmam gerek!"
 
 # game/extra/extra.rpy:60
 msgid "Смотрим порно вместе с тётей"
-msgstr ""
+msgstr "Teyzemle porno izlemek"
 
 # game/extra/extra.rpy:60
 msgid "Первый урок поцелуев"
-msgstr ""
+msgstr "İlk öpüşme dersi"
 
 # game/extra/extra.rpy:60
 msgid "А это уже совсем не массаж!"
-msgstr ""
+msgstr "Ve bu hiç de masaj değil!"
 
 # game/extra/extra.rpy:60
 msgid "Второй урок поцелуев"
@@ -146,111 +146,111 @@ msgstr ""
 
 # game/extra/extra.rpy:60
 msgid "Небольшое приключение перед сном"
-msgstr ""
+msgstr "Küçük bir uyku vakti macerası"
 
 # game/extra/extra.rpy:60
 msgid "Не зря купил сорочку"
-msgstr ""
+msgstr "Boşuna gömlek almadım"
 
 # game/extra/extra.rpy:60
 msgid "С меня приятный должок"
-msgstr ""
+msgstr "Sana güzel bir iyilik borçluyum"
 
 # game/extra/extra.rpy:60
 msgid "Стриптиз после клуба"
-msgstr ""
+msgstr "Kulüpten sonra striptiz"
 
 # game/extra/extra.rpy:60
 msgid "Порно-портфолио для Киры"
-msgstr ""
+msgstr "Kira için bir porno portföyü"
 
 # game/extra/extra.rpy:60
 msgid "Немного БДСМ от Киры"
-msgstr ""
+msgstr "Kira'dan küçük bir BDSM"
 
 # game/extra/extra.rpy:60
 msgid "Хватит мять сиськи"
-msgstr ""
+msgstr "Göğüslerini sıkmayı bırak."
 
 # game/extra/extra.rpy:60
 msgid "И помылись, и порезвились"
-msgstr ""
+msgstr "Yıkandık ve oynaştık"
 
 # game/extra/extra.rpy:60
 msgid "Кто нас фотографирует?"
-msgstr ""
+msgstr "Kim fotoğrafımızı çekiyor?"
 
 # game/extra/extra.rpy:60
 msgid "Вместо ночного плаванья"
-msgstr ""
+msgstr "Gece yüzmek yerine"
 
 # game/extra/extra.rpy:60
 msgid "Вкусные уроки с сестрёнкой"
-msgstr ""
+msgstr "Kız kardeşimle lezzetli dersler"
 
 # game/extra/extra.rpy:60
 msgid "Кажется, мы что-то забыли"
-msgstr ""
+msgstr "Sanırım bir şeyi unutuyoruz"
 
 # game/extra/extra.rpy:60
 msgid "Всё ниже и ниже"
-msgstr ""
+msgstr "Daha aşağı ve daha aşağı"
 
 # game/extra/extra.rpy:60
 msgid "Больше, чем помощь с домашним заданием"
-msgstr ""
+msgstr "Ev ödevi yardımından daha fazlası"
 
 # game/extra/extra.rpy:60
 msgid "Ужастики в обнимку с Лизой"
-msgstr ""
+msgstr "Lisa'nın kollarında olduğu korku hikayeleri"
 
 # game/extra/extra.rpy:60
 msgid "Без майки куда интереснее"
-msgstr ""
+msgstr "Gömlek olmadan çok daha ilginç"
 
 # game/extra/extra.rpy:60
 msgid "Долой смущение"
-msgstr ""
+msgstr "Utanç içinde"
 
 # game/extra/extra.rpy:60
 msgid "Это точно триллер-детектив?"
-msgstr ""
+msgstr "Bunun bir gerilim-dedektiflik olduğuna emin misin?"
 
 # game/extra/extra.rpy:60
 msgid "Полотенце снова сползает..."
-msgstr ""
+msgstr "Havlu tekrar kayıyor..."
 
 # game/extra/extra.rpy:60
 msgid "Йога с мамой"
-msgstr ""
+msgstr "Annemle Yoga"
 
 # game/extra/extra.rpy:60
 msgid "Ещё больше массажа у ТВ"
-msgstr ""
+msgstr "TV'de daha fazla masaj"
 
 # game/extra/extra.rpy:60
 msgid "Не надо печалиться"
-msgstr ""
+msgstr "Üzülme"
 
 # game/extra/extra.rpy:60
 msgid "В магазин с Алисой"
-msgstr ""
+msgstr "Alice ile dükkana"
 
 # game/extra/extra.rpy:60
 msgid "С добрым утром"
-msgstr ""
+msgstr "Günaydın"
 
 # game/extra/extra.rpy:60
 msgid "Афера века"
-msgstr ""
+msgstr "Yüzyılın dolandırıcılığı"
 
 # game/extra/extra.rpy:60
 msgid "Сама напросилась"
-msgstr ""
+msgstr "Bunu sen istedin"
 
 # game/extra/extra.rpy:60
 msgid "Так себе охранник"
-msgstr ""
+msgstr "Pek güvenlik görevlisi sayılmaz"
 
 # game/extra/extra.rpy:60
 msgid "Хоть на что-то сгодился"
