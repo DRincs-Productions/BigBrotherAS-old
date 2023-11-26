@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2023-09-26 16:43\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/core/screens.rpy:165
 msgid "{b}ИНТЕРНЕТ-МАГАЗИН{/b}"
@@ -42,7 +42,7 @@ msgstr ""
 
 # game/core/screens.rpy:253
 msgid "ВЫГОДНЫЕ ЗАЙМЫ ИНТЕРНЕТ-ПРЕДПРИНИМАТЕЛЯМ"
-msgstr ""
+msgstr "İNTERNET GİRİŞİMCİLERİNE UYGUN KREDİLER"
 
 # game/core/screens.rpy:260
 msgid "Задолженность: {color=[_col]}$[mgg.credit.debt]{/color}"
@@ -62,11 +62,11 @@ msgstr ""
 
 # game/core/screens.rpy:275
 msgid "ВЗЯТЬ КРЕДИТ"
-msgstr ""
+msgstr "KREDI ALMAK"
 
 # game/core/screens.rpy:313
 msgid "Что будем искать?"
-msgstr ""
+msgstr "Ne arıyoruz?"
 
 # game/core/screens.rpy:384
 msgid "{i}{b}КУПЛЕНО{/b}{/i}"
@@ -74,15 +74,15 @@ msgstr ""
 
 # game/core/screens.rpy:459
 msgid "ОНЛАЙН-КУРСЫ"
-msgstr ""
+msgstr "ONLINE KURSLAR"
 
 # game/core/screens.rpy:477
 msgid "Вы прошли все доступные курсы и занятия из этой категории. Возможно, новые уроки появятся в следующей версии игры."
-msgstr ""
+msgstr "Bu kategorideki mevcut tüm kursları ve dersleri tamamladınız. Oyunun bir sonraki sürümünde yeni dersler görünebilir."
 
 # game/core/screens.rpy:486
 msgid "Вы уже оплатили этот курс и можете в любой момент включить следующий доступный видеоурок."
-msgstr ""
+msgstr "Bu kurs için zaten ödeme yaptınız ve istediğiniz zaman bir sonraki mevcut video dersini açabilirsiniz."
 
 # game/core/screens.rpy:490
 msgid "Занятие [text1] из [text2]"
@@ -156,7 +156,7 @@ msgstr ""
 
 # game/core/screens.rpy:711
 msgid "Общий доход:"
-msgstr ""
+msgstr "Toplam Gelir:"
 
 # game/core/screens.rpy:712
 msgid "Доход сегодня:"
@@ -212,11 +212,11 @@ msgstr ""
 
 # game/core/screens.rpy:1328
 msgid "Ни один предмет не выбран"
-msgstr ""
+msgstr "Tek bir öğe bile seçilmedi"
 
 # game/core/screens.rpy:1330
 msgid "В данный момент в инвентаре ничего нет"
-msgstr ""
+msgstr "Şu anda envanterde bir şey yok"
 
 # game/core/screens.rpy:1397
 msgid "ПЕРСОНАЖИ"
@@ -364,27 +364,27 @@ msgstr ""
 
 # game/core/screens.rpy:1908
 msgid "ВНИМАНИЕ"
-msgstr ""
+msgstr "DİKKAT"
 
 # game/core/screens.rpy:1909
 msgid "КОНТЕНТ ДЛЯ ВЗРОСЛЫХ"
-msgstr ""
+msgstr "YETİŞKİN İÇERİĞİ"
 
 # game/core/screens.rpy:1913
 msgid "Эта игра содержит контент сексуального характера"
-msgstr ""
+msgstr "Bu oyun cinsel içerikli içerik barındırmaktadır"
 
 # game/core/screens.rpy:1914
 msgid "Продолжая, ты подтверждаешь, что достаточно взрослый для такого контента"
-msgstr ""
+msgstr "Devam ederek, bu tür içerikler için yeterince büyük olduğunuzu onaylıyorsunuz"
 
 # game/core/screens.rpy:1916
 msgid "Все персонажи, изображённые в этой игре, вымышлены и старше 18 лет"
-msgstr ""
+msgstr "Bu oyunda tasvir edilen tüm karakterler kurgusaldır ve 18 yaşından büyüktür"
 
 # game/core/screens.rpy:1920
 msgid "Продолжить"
-msgstr ""
+msgstr "Devam Et"
 
 # game/core/screens.rpy:1944
 msgid "ОДЕЖДА ПЕРСОНАЖЕЙ В ГЛАВНОМ МЕНЮ"
