@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-15 15:52\n"
+"PO-Revision-Date: 2024-01-15 14:10\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # game/dialogues/anntalk.rpy:22 #-#-# translate crowdin AnnTalkStart_11c2aa45:
 msgid "[Ann_17] Уйди, Макс. Нам не о чем говорить, пока ты не вернёшь Эрику деньги и не извинишься перед ним и всеми нами! [nointeract]"
@@ -1866,7 +1866,7 @@ msgstr "Te dejo..."
 
 # game/dialogues/anntalk.rpy:225
 msgid "Нет, не слышал о таком. Давай смотреть!"
-msgstr "No, no he oído hablar de él. Veámoslo."
+msgstr "No, no he oído hablar de ella. ¡Veámosla!"
 
 # game/dialogues/anntalk.rpy:225
 msgid "Да, слышал кое-что о нём..."
