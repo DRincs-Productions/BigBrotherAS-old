@@ -10,36 +10,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2023-09-26 16:46\n"
+"PO-Revision-Date: 2024-01-23 15:21\n"
 
 # TODO: Translation updated at 2022-09-25 19:46 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:250
 msgid "массаж, "
-msgstr ""
+msgstr "μασάζ, "
 
 # game/screens.rpy:250
 msgid "убеждение, "
-msgstr ""
+msgstr "καταδίκη, "
 
 # game/screens.rpy:250
 msgid "сексуальный опыт, "
-msgstr ""
+msgstr "σεξουαλική εμπειρία, "
 
 # game/screens.rpy:250
 msgid "поцелуи, "
-msgstr ""
+msgstr "φιλιά, "
 
 # game/screens.rpy:250
 msgid "удача, "
-msgstr ""
+msgstr "τύχη, "
 
 # game/screens.rpy:250
 msgid "скрытность, "
-msgstr ""
+msgstr "stealth, "
 
 # game/screens.rpy:277
 msgid "[txt] \n"
 "{i}{size=[sz]}{color=[col]}([skill!t]шанс: [vis]%){/color}{/size}{/i}"
-msgstr ""
+msgstr "[txt] \n"
+"{i}{size=[sz]}{color=[col]}([skill!t]chance: [vis]%){/color}{/size}{/i}"
 
 # game/screens.rpy:339
 msgid "История"
@@ -71,11 +72,11 @@ msgstr ""
 
 # game/screens.rpy:390
 msgid "Загрузить игру"
-msgstr ""
+msgstr "Κατεβάστε το παιχνίδι"
 
 # game/screens.rpy:393
 msgid "Сохранить игру"
-msgstr ""
+msgstr "Αποθηκεύστε το παιχνίδι"
 
 # game/screens.rpy:396
 msgid "Настройки"
@@ -91,7 +92,7 @@ msgstr ""
 
 # game/screens.rpy:413
 msgid "Выйти из игры"
-msgstr ""
+msgstr "Εγκαταλείψτε το παιχνίδι"
 
 # game/screens.rpy:419
 msgid "Назад"
@@ -99,35 +100,35 @@ msgstr ""
 
 # game/screens.rpy:526
 msgid "НОВАЯ ИГРА"
-msgstr ""
+msgstr "ΝΕΟ ΠΑΙΧΝΙΔΙ"
 
 # game/screens.rpy:532
 msgid "ПРОДОЛЖИТЬ"
-msgstr ""
+msgstr "ΣΥΝΕΧΙΣΤΕ"
 
 # game/screens.rpy:535
 msgid "ЗАГРУЗИТЬ"
-msgstr ""
+msgstr "ΦΟΡΤΊΟ"
 
 # game/screens.rpy:539
 msgid "НАСТРОЙКИ"
-msgstr ""
+msgstr "ΡΥΘΜΙΣΕΙΣ"
 
 # game/screens.rpy:540
 msgid "ВЫЙТИ"
-msgstr ""
+msgstr "ΕΛΑ ΕΞΩ"
 
 # game/screens.rpy:577
 msgid "МЕНЮ"
-msgstr ""
+msgstr "ΜΕΝΟΥ"
 
 # game/screens.rpy:714
 msgid "Введите описание файла сохранения:"
-msgstr ""
+msgstr "Εισάγετε μια περιγραφή του αρχείου αποθήκευσης:"
 
 # game/screens.rpy:735
 msgid "(Нет описания)"
-msgstr ""
+msgstr "(Χωρίς περιγραφή)"
 
 # game/screens.rpy:754
 msgid "{} страница"
@@ -143,7 +144,7 @@ msgstr ""
 
 # game/screens.rpy:830
 msgid "{#file_time}%a, %d %b %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%a, %d %b %Y, %H:%M"
 
 # game/screens.rpy:830
 msgid "Пустой слот"
@@ -151,27 +152,27 @@ msgstr ""
 
 # game/screens.rpy:838
 msgid "ДЕНЬ [load_day]"
-msgstr ""
+msgstr "ΗΜΕΡΑ [load_day]."
 
 # game/screens.rpy:890
 msgid "{#file_time}%d %b %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%d %b %Y, %H:%M"
 
 # game/screens.rpy:914
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:917
 msgid "{#auto_page}Автосохр."
-msgstr ""
+msgstr "{#auto_page}Αυτόματη αποθήκευση."
 
 # game/screens.rpy:920
 msgid "{#quick_page}Быстрые сохр."
-msgstr ""
+msgstr "{#quick_page}Γρήγορες αποταμιεύσεις."
 
 # game/screens.rpy:926
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:998
 msgid "Режим экрана"
@@ -203,43 +204,43 @@ msgstr ""
 
 # game/screens.rpy:1012
 msgid "Всего текста"
-msgstr ""
+msgstr "Συνολικό κείμενο"
 
 # game/screens.rpy:1013
 msgid "После выборов"
-msgstr ""
+msgstr "Μετά τις εκλογές."
 
 # game/screens.rpy:1014
 msgid "Переходов"
-msgstr ""
+msgstr "Μεταβάσεις"
 
 # game/screens.rpy:1017
 msgid "Язык"
-msgstr ""
+msgstr "Γλώσσα"
 
 # game/screens.rpy:1041
 msgid "Дополнительно"
-msgstr ""
+msgstr "Επιπλέον"
 
 # game/screens.rpy:1042
 msgid "Именованные сохранения"
-msgstr ""
+msgstr "Ονοματοδοτημένες κονσέρβες"
 
 # game/screens.rpy:1043
 msgid "Прозрачное текстовое окно"
-msgstr ""
+msgstr "Διαφανές παράθυρο κειμένου"
 
 # game/screens.rpy:1044
 msgid "Отображать все \"Возможности\""
-msgstr ""
+msgstr "Εμφάνιση όλων των \"Ευκαιριών\""
 
 # game/screens.rpy:1045
 msgid "Переодевания Лизы пропускаются, если Макс в комнате"
-msgstr ""
+msgstr "Η αλλαγή ρούχων της Λίζα παραλείπεται αν ο Μαξ βρίσκεται στο δωμάτιο."
 
 # game/screens.rpy:1047
 msgid "Активировать чит-меню"
-msgstr ""
+msgstr "Ενεργοποίηση του μενού εξαπάτησης"
 
 # game/screens.rpy:1060
 msgid "Скорость текста"
@@ -430,7 +431,7 @@ msgstr ""
 
 # game/screens.rpy:1740
 msgid "Скрыть интерфейс"
-msgstr ""
+msgstr "Απόκρυψη διεπαφής"
 
 # game/screens.rpy:1741
 msgid "Меню"
