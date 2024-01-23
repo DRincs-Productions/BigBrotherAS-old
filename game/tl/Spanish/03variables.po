@@ -1,0 +1,388 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/core/03variables.po\n"
+"X-Crowdin-File-ID: 9185\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-26 16:41\n"
+
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/03variables.rpy:39
+msgid "МОЯ\n"
+"КОМНАТА"
+msgstr "MI \n"
+"HABITACIÓN"
+
+# game/core/03variables.rpy:39
+msgid "МОЯ КОМНАТА"
+msgstr "MI HABITACIÓN"
+
+# game/core/03variables.rpy:39
+msgid "КОМНАТА\n"
+"АЛИСЫ"
+msgstr "HABITACIÓN \n"
+"DE ALICE"
+
+# game/core/03variables.rpy:39
+msgid "КОМНАТА АЛИСЫ"
+msgstr "HABITACIÓN DE ALICE"
+
+# game/core/03variables.rpy:39
+msgid "КОМНАТА\n"
+"АННЫ"
+msgstr "HABITACIÓN\n"
+"DE MAMÁ"
+
+# game/core/03variables.rpy:39
+msgid "КОМНАТА АННЫ"
+msgstr "HABITACIÓN DE MAMÁ"
+
+# game/core/03variables.rpy:39
+msgid "ВАННАЯ\n"
+"КОМНАТА"
+msgstr "CUARTO\n"
+"DE BAÑO"
+
+# game/core/03variables.rpy:39
+msgid "ВАННАЯ КОМНАТА"
+msgstr "CUARTO DE BAÑO"
+
+# game/core/03variables.rpy:39
+msgid "ГОСТИНАЯ"
+msgstr "SALÓN"
+
+# game/core/03variables.rpy:39
+msgid "ВЕРАНДА"
+msgstr "TERRAZA"
+
+# game/core/03variables.rpy:39
+msgid "ДВОР"
+msgstr "PATIO"
+
+# game/core/03variables.rpy:102
+msgid "Алиса"
+msgstr "Alice"
+
+# game/core/03variables.rpy:102
+msgid "Алисы"
+msgstr "Alice"
+
+# game/core/03variables.rpy:102
+msgid "Алисе"
+msgstr "Alice"
+
+# game/core/03variables.rpy:102
+msgid "Алису"
+msgstr "Alice"
+
+# game/core/03variables.rpy:102
+msgid "Алисой"
+msgstr "Alice"
+
+# game/core/03variables.rpy:102
+msgid "Алиса, моя старшая сестра.  В любой непонятной ситуации бьёт по лицу (в лучшем случае). Недавно закончила школу и, так же, как и я, ищет свой путь. Целыми днями сидит в ноутбуке и занимается каким-то своим блогом. Как это часто бывает с братьями и старшими сёстрами, мы не очень ладим..."
+msgstr "Alice, mi hermana mayor.  Ante cualquier situación incomprensible, me da un puñetazo en la cara (en el mejor de los casos). Acaba de terminar sus estudios y, como yo, busca su camino. Se pasa el día sentada en su portátil haciendo una especie de blog propio. Como suele ocurrir con los hermanos, no nos llevamos muy bien..."
+
+# game/core/03variables.rpy:102
+msgid "Лиза"
+msgstr "Lisa"
+
+# game/core/03variables.rpy:102
+msgid "Лизы"
+msgstr "Lisa"
+
+# game/core/03variables.rpy:102
+msgid "Лизе"
+msgstr "Lisa"
+
+# game/core/03variables.rpy:102
+msgid "Лизу"
+msgstr "Lisa"
+
+# game/core/03variables.rpy:102
+msgid "Лизой"
+msgstr "Lisa"
+
+# game/core/03variables.rpy:102
+msgid "Лиза, младшая сестрёнка. Милая и весёлая. Она ещё учится в школе. С Лизой мы общаемся на одной волне, хотя изредка ссоримся. Но если что-то случается, защиты ищет именно у меня."
+msgstr "Lisa, la hermana pequeña. Dulce y divertida. Todavía está en la escuela. Lisa y yo estamos en la misma onda, aunque nos peleamos de vez en cuando. Pero si pasa algo, es a mí a quien busca protección."
+
+# game/core/03variables.rpy:102
+msgid "Анна"
+msgstr "Ann"
+
+# game/core/03variables.rpy:102
+msgid "Анны"
+msgstr "Ann"
+
+# game/core/03variables.rpy:102
+msgid "Анне"
+msgstr "Ann"
+
+# game/core/03variables.rpy:102
+msgid "Анну"
+msgstr "Ann"
+
+# game/core/03variables.rpy:102
+msgid "Анной"
+msgstr "Ann"
+
+# game/core/03variables.rpy:102
+msgid "Анна, моя мама. Сама воспитывает нас с двумя сёстрами уже несколько лет. Работает в офисе какой-то компании. Хотя, зарплата у неё вполне приличная, но почти всё уходит на оплату жилья, еду и одежду."
+msgstr "Ann, mi madre. Nos cría a mis dos hermanas y a mí desde hace varios años. Trabaja en la oficina de una empresa. Aunque su sueldo es bastante decente, casi todo se va en pagar la vivienda, la comida y la ropa."
+
+# game/core/03variables.rpy:113
+msgid "Макс"
+msgstr "Max"
+
+# game/core/03variables.rpy:113
+msgid "Макса"
+msgstr "Max"
+
+# game/core/03variables.rpy:113
+msgid "Максу"
+msgstr "Max"
+
+# game/core/03variables.rpy:113
+msgid "Максом"
+msgstr "Max"
+
+# game/core/03variables.rpy:113
+msgid "Максе"
+msgstr "Max"
+
+# game/core/03variables.rpy:113
+msgid "Всегда в поисках приключений на свою пятую точку."
+msgstr "Siempre estoy buscando aventura, aun cuando me meta en problemas."
+
+# game/core/03variables.rpy:149
+msgid "ПОСМОТРЕТЬ\n"
+"ФИЛЬМ"
+msgstr "VER\n"
+"PELICULA"
+
+# game/core/03variables.rpy:149
+msgid "ВЫЙТИ\n"
+"ИЗ ДОМА"
+msgstr "IR\n"
+"FUERA DE CASA"
+
+# game/core/03variables.rpy:149
+msgid "ПОИГРАТЬ\n"
+"С ЛИЗОЙ"
+msgstr "JUGAR\n"
+"CON LISA"
+
+# game/core/03variables.rpy:149
+msgid "УСТАНОВИТЬ\n"
+"КЕЙЛОГГЕР"
+msgstr "INSTALAR\n"
+"KEYLOGGER"
+
+# game/core/03variables.rpy:149
+msgid "УСТАНОВИТЬ\n"
+"КАМЕРУ"
+msgstr "INSTALAR\n"
+"CÁMARA"
+
+# game/core/03variables.rpy:149
+msgid "СПРЯТАТЬ\n"
+"ПАУКА"
+msgstr "OCULTAR\n"
+"ARAÑA"
+
+# game/core/03variables.rpy:149
+msgid "БРОСИТЬ\n"
+"ПАУКА"
+msgstr "LANZAR\n"
+"ARAÑA"
+
+# game/core/03variables.rpy:149
+msgid "ИСКАТЬ\n"
+"ПАУКОВ"
+msgstr "BÚSCAR\n"
+"ARAÑAS"
+
+# game/core/03variables.rpy:149
+msgid "ИСКАТЬ\n"
+"СИГАРЕТЫ"
+msgstr "BSUCAR \n"
+"CIGARRILLOS"
+
+# game/core/03variables.rpy:149
+msgid "ИСКАТЬ\n"
+"КНИГУ"
+msgstr "BUSCAR\n"
+"LIBRO"
+
+# game/core/03variables.rpy:149
+msgid "ЧИСТИТЬ\n"
+"БАССЕЙН"
+msgstr "LIMPIAR\n"
+"PISCINA"
+
+# game/core/03variables.rpy:149
+msgid "ЧИТАТЬ"
+msgstr "LEER MÁS"
+
+# game/core/03variables.rpy:149
+msgid "ИСКАТЬ\n"
+"КАМЕРУ"
+msgstr "BUSCAR\n"
+"CÁMARA"
+
+# game/core/03variables.rpy:149
+msgid "ИСКАТЬ\n"
+"ТЕЛЕФОН"
+msgstr "BUSCAR\n"
+"TELÉFONO"
+
+# game/core/03variables.rpy:149
+msgid "РАЗОБРАТЬ\n"
+"КОРОБКИ"
+msgstr "DESHACER \n"
+"CAJAS"
+
+# game/core/03variables.rpy:149
+msgid "ВКЛЮЧИТЬ\n"
+"НОУТБУК"
+msgstr "ENCENDER \n"
+"EL PORTÁTIL"
+
+# game/core/03variables.rpy:149
+msgid "СПАТЬ"
+msgstr "DORMIR"
+
+# game/core/03variables.rpy:149
+msgid "УСТАНОВИТЬ\n"
+"БУДИЛЬНИК"
+msgstr "PONER\n"
+"ALARMA"
+
+# game/core/03variables.rpy:149
+msgid "ВЗДРЕМНУТЬ"
+msgstr "SIESTA"
+
+# game/core/03variables.rpy:149
+msgid "ПРИНЯТЬ\n"
+"ДУШ"
+msgstr "DARTE\n"
+"DUCHA"
+
+# game/core/03variables.rpy:149
+msgid "ПРИНЯТЬ\n"
+"ВАННУ"
+msgstr "DARTE\n"
+"BAÑO"
+
+# game/core/03variables.rpy:149
+msgid "ПОГОВОРИТЬ"
+msgstr "HABLAR"
+
+# game/core/03variables.rpy:149
+msgid "МЫТЬ\n"
+"ПОСУДУ"
+msgstr "LAVAR\n"
+"PLATOS"
+
+# game/core/03variables.rpy:205
+msgid "Общение"
+msgstr "Comunicación"
+
+# game/core/03variables.rpy:205
+msgid "Навыки общения: Чувства человека"
+msgstr "Habilidades de comunicación: sentimientos humanos"
+
+# game/core/03variables.rpy:205
+msgid "Это базовый курс обучения навыкам общения и содержит в себе основную информацию об органах чувств, о реакции человека на ваши слова, а также основы языка тела."
+msgstr "Se trata de un curso básico de habilidades de comunicación y contiene información básica sobre los sentidos, cómo reacciona la gente a tus palabras y los fundamentos del lenguaje corporal."
+
+# game/core/03variables.rpy:205
+msgid "Навыки общения: Основы коммуникации"
+msgstr "Habilidades de comunicación: Fundamentos de la comunicación"
+
+# game/core/03variables.rpy:205
+msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
+msgstr "Este es el segundo curso de habilidades de comunicación. En él aprenderás a influir en la decisión de una persona sin palabras, a elegir las palabras adecuadas en la situación adecuada para lograr tu objetivo."
+
+# game/core/03variables.rpy:205
+msgid "Навыки общения: Без границ"
+msgstr "Habilidades de comunicación: Sin límites"
+
+# game/core/03variables.rpy:205
+msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
+msgstr "Se trata de un curso avanzado de larga duración diseñado para quienes desean aprender y mejorar continuamente. Este es el último curso disponible en este momento."
+
+# game/core/03variables.rpy:236
+msgid "Эрик"
+msgstr "Eric"
+
+# game/core/03variables.rpy:236
+msgid "Эрика"
+msgstr "Eric"
+
+# game/core/03variables.rpy:236
+msgid "Эрику"
+msgstr "Eric"
+
+# game/core/03variables.rpy:236
+msgid "Эриком"
+msgstr "Eric"
+
+# game/core/03variables.rpy:236
+msgid "Эрике"
+msgstr "Eric"
+
+# game/core/03variables.rpy:236
+msgid "Ещё до того, как мама познакомила меня со своим внезапным ухажёром Эриком, я начал чувствовать, что ничего хорошего он в мою жизнь не принесёт. Слишком уж он подозрительный..."
+msgstr "Incluso antes de que mi madre me presentara a su repentino novio Eric, empecé a sentir que no iba a aportar nada bueno a mi vida. Era demasiado desconfiado..."
+
+# game/core/03variables.rpy:250
+msgid "Кира"
+msgstr "Kira"
+
+# game/core/03variables.rpy:250
+msgid "Киры"
+msgstr "Kira"
+
+# game/core/03variables.rpy:250
+msgid "Кире"
+msgstr "Kira"
+
+# game/core/03variables.rpy:250
+msgid "Киру"
+msgstr "Kira"
+
+# game/core/03variables.rpy:250
+msgid "Кирой"
+msgstr "Kira"
+
+# game/core/03variables.rpy:250
+msgid "Тётя Кира, мамина младшая сестра. Конечно, у неё и раньше не были замечены какие-либо комплексы, но сейчас она стала такой... такой..."
+msgstr "Tía Kira, la hermana pequeña de mamá. Por supuesto, ella no había tenido complejos antes, pero ahora estaba tan... tan..."
+
+# game/core/03variables.rpy:286
+msgid "Оливия"
+msgstr "Olivia"
+
+# game/core/03variables.rpy:286
+msgid "Оливии"
+msgstr "Olivia"
+
+# game/core/03variables.rpy:286
+msgid "Оливию"
+msgstr "Olivia"
+
+# game/core/03variables.rpy:286
+msgid "Оливией"
+msgstr "Olivia"
+
+# game/core/03variables.rpy:286
+msgid "Оливия, одноклассница моей младшей сестрёнки Лизы. Довольно милая девчонка. А главное с изюминкой... Ходит по школе без трусиков, а у себя по дому вообще голая, как и её родители, они ведь натуристы. Это классно, что у Лизы появилась такая интересная подружка!"
+msgstr "Olivia, la compañera de clase de mi hermana pequeña Lisa. Es una chica muy dulce. Y tiene una peculiaridad. Va al colegio sin bragas, y en casa desnuda, como sus padres, que son naturistas. ¡Es genial que Lisa tenga una amiga tan interesante!"
+

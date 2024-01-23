@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/core/01classes.po\n"
+"X-Crowdin-File-ID: 9181\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2023-09-26 17:46\n"
+
+# TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/core/01classes.rpy:703
+msgid "Ужасное"
+msgstr "Korkunç"
+
+# game/core/01classes.rpy:703
+msgid "Очень плохое"
+msgstr "Çok Kötü"
+
+# game/core/01classes.rpy:703
+msgid "Плохое"
+msgstr "Kötü"
+
+# game/core/01classes.rpy:703
+msgid "Не очень"
+msgstr "İyi değil"
+
+# game/core/01classes.rpy:703
+msgid "Нейтральное"
+msgstr "Doğal"
+
+# game/core/01classes.rpy:703
+msgid "Неплохое"
+msgstr "Fena değil"
+
+# game/core/01classes.rpy:703
+msgid "Хорошее"
+msgstr "İyi"
+
+# game/core/01classes.rpy:703
+msgid "Очень хорошее"
+msgstr ""
+
+# game/core/01classes.rpy:703
+msgid "Прекрасное"
+msgstr "Güzel"
+
+# game/core/01classes.rpy:1099
+msgid "Приобретен пакет рекламы"
+msgstr ""
+
+# game/core/01classes.rpy:1354
+msgid "{color=[lime]}{i}{b}Внимание:{/b} Получена новая \"возможность\"!{/i}{/color}"
+msgstr ""
+
