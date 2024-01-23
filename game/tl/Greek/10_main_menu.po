@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2024-01-23 15:19\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/10_main_menu.rpy:51
 msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
@@ -18,133 +18,133 @@ msgstr "{color=[lime]}Personalização detalhada aberta para um dos trajes %s no
 
 # game/core/10_main_menu.rpy:289
 msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
-msgstr ""
+msgstr "{color=#00FF00}Άνοιξε ένα νέο κοστούμι %s για το κύριο μενού{/color}"
 
 # game/core/10_main_menu.rpy:421
 msgid "Шорты"
-msgstr ""
+msgstr "Σορτς"
 
 # game/core/10_main_menu.rpy:421
 msgid "Трусы"
-msgstr ""
+msgstr "Παντελόνι"
 
 # game/core/10_main_menu.rpy:421
 msgid "Шапка"
-msgstr ""
+msgstr "Το καπέλο"
 
 # game/core/10_main_menu.rpy:421
 msgid "Борода"
-msgstr ""
+msgstr "Γενειάδα"
 
 # game/core/10_main_menu.rpy:421
 msgid "Трусы #1"
-msgstr ""
+msgstr "Παντελόνι #1"
 
 # game/core/10_main_menu.rpy:421
 msgid "Трусы #2"
-msgstr ""
+msgstr "Παντελόνι #2"
 
 # game/core/10_main_menu.rpy:421
 msgid "Маечка"
-msgstr ""
+msgstr "T-shirt"
 
 # game/core/10_main_menu.rpy:421
 msgid "Минишортики"
-msgstr ""
+msgstr "Μίνι σορτς"
 
 # game/core/10_main_menu.rpy:421
 msgid "Лиф"
-msgstr ""
+msgstr "Φύλλο"
 
 # game/core/10_main_menu.rpy:421
 msgid "Плавки"
-msgstr ""
+msgstr "Μαγιό"
 
 # game/core/10_main_menu.rpy:421
 msgid "Лифчик"
-msgstr ""
+msgstr "Σουτιέν"
 
 # game/core/10_main_menu.rpy:421
 msgid "Трусики"
-msgstr ""
+msgstr "Εσώρουχα"
 
 # game/core/10_main_menu.rpy:421
 msgid "Шапочка"
-msgstr ""
+msgstr "Καπάκι"
 
 # game/core/10_main_menu.rpy:421
 msgid "Бант на шею"
-msgstr ""
+msgstr "Τόξο στο λαιμό"
 
 # game/core/10_main_menu.rpy:421
 msgid "Кружевное платье"
-msgstr ""
+msgstr "Φόρεμα από δαντέλα"
 
 # game/core/10_main_menu.rpy:421
 msgid "Чулочки"
-msgstr ""
+msgstr "Κάλτσες"
 
 # game/core/10_main_menu.rpy:421
 msgid "Топик"
-msgstr ""
+msgstr "Topeka"
 
 # game/core/10_main_menu.rpy:421
 msgid "Шортики"
-msgstr ""
+msgstr "Σορτς"
 
 # game/core/10_main_menu.rpy:421
 msgid "Шляпка"
-msgstr ""
+msgstr "Καπέλο"
 
 # game/core/10_main_menu.rpy:421
 msgid "Бабочка на шею"
-msgstr ""
+msgstr "Πεταλούδα γύρω από το λαιμό"
 
 # game/core/10_main_menu.rpy:421
 msgid "Мишура на груди"
-msgstr ""
+msgstr "Χρυσαφένια πούλιες στο στήθος"
 
 # game/core/10_main_menu.rpy:421
 msgid "Минилиф"
-msgstr ""
+msgstr "Minilief"
 
 # game/core/10_main_menu.rpy:421
 msgid "Миниплавки"
-msgstr ""
+msgstr "Μίνι τήξεις"
 
 # game/core/10_main_menu.rpy:421
 msgid "Сорочка"
-msgstr ""
+msgstr "Πουκάμισο"
 
 # game/core/10_main_menu.rpy:421
 msgid "Свитер без рукавов"
-msgstr ""
+msgstr "Αμάνικο πουλόβερ"
 
 # game/core/10_main_menu.rpy:421
 msgid "Откровенный корсет"
-msgstr ""
+msgstr "Αποκαλυπτικός κορσές"
 
 # game/core/10_main_menu.rpy:421
 msgid "Браслетики на запястья"
-msgstr ""
+msgstr "Βραχιόλια καρπού"
 
 # game/core/10_main_menu.rpy:421
 msgid "Юбочка"
-msgstr ""
+msgstr "Φούστα"
 
 # game/core/10_main_menu.rpy:421
 msgid "Штанишки"
-msgstr ""
+msgstr "Παντελόνι"
 
 # game/core/10_main_menu.rpy:421
 msgid "Леденец на шею"
-msgstr ""
+msgstr "Ένα γλειφιτζούρι γύρω από το λαιμό σου"
 
 # game/core/10_main_menu.rpy:421
 msgid "Свитер с рукавами"
-msgstr ""
+msgstr "Πουλόβερ με μανίκια"
 
 # game/core/10_main_menu.rpy:421
 msgid "Колготки"
-msgstr ""
+msgstr "Καλσόν"
 
