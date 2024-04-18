@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Greek\n"
 "Language: el_GR\n"
-"PO-Revision-Date: 2023-09-26 16:43\n"
+"PO-Revision-Date: 2024-04-18 08:30\n"
 
 # TODO: Translation updated at 2022-10-30 23:58 #|#|# # game/dialogues/alicetalk.rpy:12 #-#-# translate crowdin AliceTalkStart_123d1aca:
 msgid "[Max_07] {m}Алиса сейчас как раз должна отходить от конфеты с ликёром, так что лучше оставить её на сегодня в покое...{/m}"
@@ -8025,7 +8025,7 @@ msgstr ""
 
 # game/dialogues/alicetalk.rpy:2535
 msgid "Это уникальная методика массажа с целью оказания оздоравливающего воздействия на организм. Она эффективна и в тоже время несложна в исполнении."
-msgstr ""
+msgstr "Πρόκειται για μια μοναδική μέθοδο μασάζ με στόχο την παροχή θεραπευτικού αποτελέσματος στο σώμα. Είναι αποτελεσματική και ταυτόχρονα όχι δύσκολη στην εκτέλεση."
 
 # game/dialogues/alicetalk.rpy:2535
 msgid "Массаж кистей рук"
