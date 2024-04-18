@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2024-04-18 08:31\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/06_items.rpy:2
 msgid "ПАУК"
@@ -206,7 +206,7 @@ msgstr ""
 
 # game/core/06_items.rpy:2
 msgid "Отличное нижнее бельё тёмного цвета. Отличный подарок для любимой девушки."
-msgstr ""
+msgstr "Excelente roupa interior em cor escura. Um ótimo presente para a sua rapariga favorita."
 
 # game/core/06_items.rpy:2
 msgid "СЕКС-ОБРАЗОВАНИЕ"
