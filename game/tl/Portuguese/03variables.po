@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Portuguese\n"
 "Language: pt_PT\n"
-"PO-Revision-Date: 2023-09-26 17:46\n"
+"PO-Revision-Date: 2024-04-18 08:31\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/03variables.rpy:39
 msgid "МОЯ\n"
@@ -285,7 +285,7 @@ msgstr ""
 
 # game/core/03variables.rpy:205
 msgid "Это второй курс обучения навыкам общения. Из него вы узнаете как повлиять на решение человека без слов, как подобрать правильный слова в нужной ситуации для достижения своей цели."
-msgstr ""
+msgstr "Este é o segundo curso de competências de comunicação. Nele aprenderá como influenciar a decisão de uma pessoa sem palavras, como escolher as palavras certas na situação certa para atingir o seu objetivo."
 
 # game/core/03variables.rpy:205
 msgid "Навыки общения: Без границ"
@@ -293,7 +293,7 @@ msgstr ""
 
 # game/core/03variables.rpy:205
 msgid "Это продвинутый длительный курс, предназначенный для тех, кто хочет постоянно обучаться и совершенствоваться. На данный момент это последний доступный курс."
-msgstr ""
+msgstr "Este é um curso avançado de longa duração concebido para aqueles que querem aprender e melhorar continuamente. Este é o último curso disponível neste momento."
 
 # game/core/03variables.rpy:236
 msgid "Эрик"
