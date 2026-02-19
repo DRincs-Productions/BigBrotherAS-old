@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-09-26 16:42\n"
+"PO-Revision-Date: 2026-02-19 09:42\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/06_items.rpy:2
 msgid "ПАУК"
@@ -142,7 +142,7 @@ msgstr "Un piccolo set di cosmetici per l'uso quotidiano. Per le donne - solo il
 
 # game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" mini (9 штук)"
-msgstr "Cioccolato \"Ritter Sport\" mini (9 pz)"
+msgstr "Cioccolato \"Ritter Sport\" mini (4 pezzi)"
 
 # game/core/06_items.rpy:2
 msgid "Шоколадное наслаждение для каждого случая... Множество лакомых сортов с лучшими ингредиентами со всего мира."
@@ -150,7 +150,7 @@ msgstr "Delizia al cioccolato per ogni occasione... Molte varietà gustose con i
 
 # game/core/06_items.rpy:2
 msgid "Шоколад \"Ritter Sport\" (4 штуки)"
-msgstr "Cioccolato \"Ritter Sport\" (4 pezzi)"
+msgstr "Cioccolato \"Ritter Sport\" (9 pezzi)"
 
 # game/core/06_items.rpy:2
 msgid "Конфеты \"Raffaello\" (16 штук)"
