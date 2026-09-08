@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2023-10-12 22:11\n"
+"PO-Revision-Date: 2026-09-08 08:17\n"
 
 # TODO: Translation updated at 2022-07-09 12:49 #|#|# # game/events/ann_cam.rpy:7 #-#-# translate crowdin cam0_ann_sleep_e0ca90ce:
 msgid "[Max_09] Хм... Мамы нет. Где же она?"
@@ -18,7 +18,7 @@ msgstr "[Max_09] Hmm. Mamá no está aquí. ¿Dónde está ella?"
 
 # game/events/ann_cam.rpy:15 #-#-# translate crowdin cam0_ann_sleep_97963875:
 msgid "[Max_01] {m}Как же повезло, что у меня такая горячая мама... Выглядит потрясающе, аж глаза отрывать не хочется!{/m}"
-msgstr "[Max_01] {m}Tengo tanta suerte de tener una madre tan sexy. Esto tiene una pinta increíble, ¡no puedo quitarle los ojos de encima!{/m}"
+msgstr "[Max_01] {m}Tengo tanta suerte  tener una madre tan sexy. Esto tiene una pinta increíble, ¡no puedo quitarle los ojos de encima!{/m}"
 
 # game/events/ann_cam.rpy:24 #-#-# translate crowdin cam0_ann_shower_16f87e0e:
 msgid "[Max_09] {m}Мамы не видно через эту камеру... Может посмотреть через другую?{/m}"
