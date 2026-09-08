@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/core/07_clothes.po\n"
+"X-Crowdin-File-ID: 9191\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Spanish\n"
+"Language: es_ES\n"
+"PO-Revision-Date: 2023-09-26 16:42\n"
+
+# TODO: Translation updated at 2022-10-23 23:54 #|#|# # §translate crowdin strings: #|#|# # game/core/07_clothes.rpy:406
+msgid "Повседневная"
+msgstr "Casual"
+
+# game/core/07_clothes.rpy:406
+msgid "Для сна"
+msgstr "Para dormir"
+
+# game/core/07_clothes.rpy:406
+msgid "Для йоги"
+msgstr "Para Yoga"
+
+# game/core/07_clothes.rpy:406
+msgid "Блог в нижнем белье"
+msgstr "Blog de lencería"
+
+# game/core/07_clothes.rpy:406
+msgid "Готовит завтрак"
+msgstr "Preparar el desayuno"
+
+# game/core/07_clothes.rpy:406
+msgid "Готовит ужин"
+msgstr "Cocinar la cena"
+
+# game/core/07_clothes.rpy:406
+msgid "Утренний отдых"
+msgstr "Descanso matutino"
+
+# game/core/07_clothes.rpy:406
+msgid "Вечерний отдых"
+msgstr "Descanso nocturno"
+
+# game/core/07_clothes.rpy:406
+msgid "Купальник"
+msgstr "Bañador"
+
+# game/core/07_clothes.rpy:406
+msgid "За уроками"
+msgstr "Para lecciones"
+
+# game/core/07_clothes.rpy:406
+msgid "Для прогулок"
+msgstr "Para paseos"
+
+# game/core/07_clothes.rpy:488
+msgid "Влияние Макса недостаточно"
+msgstr "La influencia de Max no es suficiente"
+

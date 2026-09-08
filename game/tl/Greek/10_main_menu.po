@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: el\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/core/10_main_menu.po\n"
+"X-Crowdin-File-ID: 9197\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Greek\n"
+"Language: el_GR\n"
+"PO-Revision-Date: 2024-01-23 15:19\n"
+
+# TODO: Translation updated at 2022-07-09 12:49 #|#|# # §translate crowdin strings: #|#|# # game/core/10_main_menu.rpy:51
+msgid "{color=[lime]}Открыта детальная настройка для одного из костюмов %s в главном меню{/color}"
+msgstr "{color=[lime]}Personalização detalhada aberta para um dos trajes %s no menu principal{/color}"
+
+# game/core/10_main_menu.rpy:289
+msgid "{color=#00FF00}Открыт новый костюм %s для главного меню{/color}"
+msgstr "{color=#00FF00}Άνοιξε ένα νέο κοστούμι %s για το κύριο μενού{/color}"
+
+# game/core/10_main_menu.rpy:421
+msgid "Шорты"
+msgstr "Σορτς"
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусы"
+msgstr "Παντελόνι"
+
+# game/core/10_main_menu.rpy:421
+msgid "Шапка"
+msgstr "Το καπέλο"
+
+# game/core/10_main_menu.rpy:421
+msgid "Борода"
+msgstr "Γενειάδα"
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусы #1"
+msgstr "Παντελόνι #1"
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусы #2"
+msgstr "Παντελόνι #2"
+
+# game/core/10_main_menu.rpy:421
+msgid "Маечка"
+msgstr "T-shirt"
+
+# game/core/10_main_menu.rpy:421
+msgid "Минишортики"
+msgstr "Μίνι σορτς"
+
+# game/core/10_main_menu.rpy:421
+msgid "Лиф"
+msgstr "Φύλλο"
+
+# game/core/10_main_menu.rpy:421
+msgid "Плавки"
+msgstr "Μαγιό"
+
+# game/core/10_main_menu.rpy:421
+msgid "Лифчик"
+msgstr "Σουτιέν"
+
+# game/core/10_main_menu.rpy:421
+msgid "Трусики"
+msgstr "Εσώρουχα"
+
+# game/core/10_main_menu.rpy:421
+msgid "Шапочка"
+msgstr "Καπάκι"
+
+# game/core/10_main_menu.rpy:421
+msgid "Бант на шею"
+msgstr "Τόξο στο λαιμό"
+
+# game/core/10_main_menu.rpy:421
+msgid "Кружевное платье"
+msgstr "Φόρεμα από δαντέλα"
+
+# game/core/10_main_menu.rpy:421
+msgid "Чулочки"
+msgstr "Κάλτσες"
+
+# game/core/10_main_menu.rpy:421
+msgid "Топик"
+msgstr "Topeka"
+
+# game/core/10_main_menu.rpy:421
+msgid "Шортики"
+msgstr "Σορτς"
+
+# game/core/10_main_menu.rpy:421
+msgid "Шляпка"
+msgstr "Καπέλο"
+
+# game/core/10_main_menu.rpy:421
+msgid "Бабочка на шею"
+msgstr "Πεταλούδα γύρω από το λαιμό"
+
+# game/core/10_main_menu.rpy:421
+msgid "Мишура на груди"
+msgstr "Χρυσαφένια πούλιες στο στήθος"
+
+# game/core/10_main_menu.rpy:421
+msgid "Минилиф"
+msgstr "Minilief"
+
+# game/core/10_main_menu.rpy:421
+msgid "Миниплавки"
+msgstr "Μίνι τήξεις"
+
+# game/core/10_main_menu.rpy:421
+msgid "Сорочка"
+msgstr "Πουκάμισο"
+
+# game/core/10_main_menu.rpy:421
+msgid "Свитер без рукавов"
+msgstr "Αμάνικο πουλόβερ"
+
+# game/core/10_main_menu.rpy:421
+msgid "Откровенный корсет"
+msgstr "Αποκαλυπτικός κορσές"
+
+# game/core/10_main_menu.rpy:421
+msgid "Браслетики на запястья"
+msgstr "Βραχιόλια καρπού"
+
+# game/core/10_main_menu.rpy:421
+msgid "Юбочка"
+msgstr "Φούστα"
+
+# game/core/10_main_menu.rpy:421
+msgid "Штанишки"
+msgstr "Παντελόνι"
+
+# game/core/10_main_menu.rpy:421
+msgid "Леденец на шею"
+msgstr "Ένα γλειφιτζούρι γύρω από το λαιμό σου"
+
+# game/core/10_main_menu.rpy:421
+msgid "Свитер с рукавами"
+msgstr "Πουλόβερ με μανίκια"
+
+# game/core/10_main_menu.rpy:421
+msgid "Колготки"
+msgstr "Καλσόν"
+

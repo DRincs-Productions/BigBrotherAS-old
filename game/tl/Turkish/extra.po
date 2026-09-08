@@ -1,0 +1,386 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: big-brother-as\n"
+"X-Crowdin-Project-ID: 461654\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /[DRincs-Productions.BigBrotherAS-old] main/game/tl/crowdin/extra/extra.po\n"
+"X-Crowdin-File-ID: 9257\n"
+"Project-Id-Version: big-brother-as\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2023-11-26 18:50\n"
+
+# TODO: Translation updated at 2022-10-30 23:58 #|#|# # §translate crowdin strings: #|#|# # game/extra/extra.rpy:60
+msgid "Новый купальник Лизы"
+msgstr "Lisa'nın yeni mayosu"
+
+# game/extra/extra.rpy:60
+msgid "Извинительная пижамка для Алисы"
+msgstr "Alice için özür pijaması"
+
+# game/extra/extra.rpy:60
+msgid "Тёмное кружево"
+msgstr "Koyu dantel"
+
+# game/extra/extra.rpy:60
+msgid "Влажные фантазии"
+msgstr "Islak fanteziler"
+
+# game/extra/extra.rpy:60
+msgid "Давай я нанесу крем"
+msgstr "Kremi süreyim"
+
+# game/extra/extra.rpy:60
+msgid "Ножкам приятно"
+msgstr "Ayağınızı iyi hissettiriyor"
+
+# game/extra/extra.rpy:60
+msgid "Помассирую не только ножки"
+msgstr "Sadece ayaklarına masaj yapmayacağım"
+
+# game/extra/extra.rpy:60
+msgid "Могу не только руками"
+msgstr "Bunu sadece ellerimle yapamam"
+
+# game/extra/extra.rpy:60
+msgid "Ответная благодарность"
+msgstr "Karşılıklı şükran"
+
+# game/extra/extra.rpy:60
+msgid "Первый массаж ног"
+msgstr "İlk ayak masajı"
+
+# game/extra/extra.rpy:60
+msgid "Внимание к пальчикам"
+msgstr "Parmaklara dikkat"
+
+# game/extra/extra.rpy:60
+msgid "Разомнём и плечики"
+msgstr "Biraz omuzları esnetelim"
+
+# game/extra/extra.rpy:60
+msgid "Массаж для любимой тёти"
+msgstr "Sevgili teyzem için masaj"
+
+# game/extra/extra.rpy:60
+msgid "Совсем другой массаж"
+msgstr "Tamamen farklı bir masaj"
+
+# game/extra/extra.rpy:60
+msgid "Я спасу их от солнца"
+msgstr "Onları güneşten koruyacağım"
+
+# game/extra/extra.rpy:60
+msgid "Ночные страхи"
+msgstr "Gece terörü"
+
+# game/extra/extra.rpy:60
+msgid "Кто это там ползёт"
+msgstr "Orada sürünen kim?"
+
+# game/extra/extra.rpy:60
+msgid "Монстр в ванной комнате"
+msgstr "Banyodaki canavar"
+
+# game/extra/extra.rpy:60
+msgid "Держи и не отпускай"
+msgstr "Tut ve bırakma"
+
+# game/extra/extra.rpy:60
+msgid "После клуба"
+msgstr "Kulüpten sonra"
+
+# game/extra/extra.rpy:60
+msgid "Я была плохой девочкой"
+msgstr "Ben kötü bir kızdım"
+
+# game/extra/extra.rpy:60
+msgid "Как тебе такое?"
+msgstr "Kulağa nasıl geliyor?"
+
+# game/extra/extra.rpy:60
+msgid "Я принес тебе полотенце!"
+msgstr "Sana havlu getirdim!"
+
+# game/extra/extra.rpy:60
+msgid "Первые снимки для блога Алисы"
+msgstr "Alice'in blogu için ilk görüntüler"
+
+# game/extra/extra.rpy:60
+msgid "Я обошёл Эрика с подарком для Алисы"
+msgstr "Eric'in yanından Alice için bir hediyeyle geçtim"
+
+# game/extra/extra.rpy:60
+msgid "Попка, которую я теперь могу отшлёпать"
+msgstr "Artık şaplak atabileceğim bir kıç"
+
+# game/extra/extra.rpy:60
+msgid "Меня нужно наказать именно так!"
+msgstr "Aynen böyle cezalandırılmam gerek!"
+
+# game/extra/extra.rpy:60
+msgid "Смотрим порно вместе с тётей"
+msgstr "Teyzemle porno izlemek"
+
+# game/extra/extra.rpy:60
+msgid "Первый урок поцелуев"
+msgstr "İlk öpüşme dersi"
+
+# game/extra/extra.rpy:60
+msgid "А это уже совсем не массаж!"
+msgstr "Ve bu hiç de masaj değil!"
+
+# game/extra/extra.rpy:60
+msgid "Второй урок поцелуев"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Третий урок поцелуев"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Горячее, чем порно"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Небольшое приключение перед сном"
+msgstr "Küçük bir uyku vakti macerası"
+
+# game/extra/extra.rpy:60
+msgid "Не зря купил сорочку"
+msgstr "Boşuna gömlek almadım"
+
+# game/extra/extra.rpy:60
+msgid "С меня приятный должок"
+msgstr "Sana güzel bir iyilik borçluyum"
+
+# game/extra/extra.rpy:60
+msgid "Стриптиз после клуба"
+msgstr "Kulüpten sonra striptiz"
+
+# game/extra/extra.rpy:60
+msgid "Порно-портфолио для Киры"
+msgstr "Kira için bir porno portföyü"
+
+# game/extra/extra.rpy:60
+msgid "Немного БДСМ от Киры"
+msgstr "Kira'dan küçük bir BDSM"
+
+# game/extra/extra.rpy:60
+msgid "Хватит мять сиськи"
+msgstr "Göğüslerini sıkmayı bırak."
+
+# game/extra/extra.rpy:60
+msgid "И помылись, и порезвились"
+msgstr "Yıkandık ve oynaştık"
+
+# game/extra/extra.rpy:60
+msgid "Кто нас фотографирует?"
+msgstr "Kim fotoğrafımızı çekiyor?"
+
+# game/extra/extra.rpy:60
+msgid "Вместо ночного плаванья"
+msgstr "Gece yüzmek yerine"
+
+# game/extra/extra.rpy:60
+msgid "Вкусные уроки с сестрёнкой"
+msgstr "Kız kardeşimle lezzetli dersler"
+
+# game/extra/extra.rpy:60
+msgid "Кажется, мы что-то забыли"
+msgstr "Sanırım bir şeyi unutuyoruz"
+
+# game/extra/extra.rpy:60
+msgid "Всё ниже и ниже"
+msgstr "Daha aşağı ve daha aşağı"
+
+# game/extra/extra.rpy:60
+msgid "Больше, чем помощь с домашним заданием"
+msgstr "Ev ödevi yardımından daha fazlası"
+
+# game/extra/extra.rpy:60
+msgid "Ужастики в обнимку с Лизой"
+msgstr "Lisa'nın kollarında olduğu korku hikayeleri"
+
+# game/extra/extra.rpy:60
+msgid "Без майки куда интереснее"
+msgstr "Gömlek olmadan çok daha ilginç"
+
+# game/extra/extra.rpy:60
+msgid "Долой смущение"
+msgstr "Utanç içinde"
+
+# game/extra/extra.rpy:60
+msgid "Это точно триллер-детектив?"
+msgstr "Bunun bir gerilim-dedektiflik olduğuna emin misin?"
+
+# game/extra/extra.rpy:60
+msgid "Полотенце снова сползает..."
+msgstr "Havlu tekrar kayıyor..."
+
+# game/extra/extra.rpy:60
+msgid "Йога с мамой"
+msgstr "Annemle Yoga"
+
+# game/extra/extra.rpy:60
+msgid "Ещё больше массажа у ТВ"
+msgstr "TV'de daha fazla masaj"
+
+# game/extra/extra.rpy:60
+msgid "Не надо печалиться"
+msgstr "Üzülme"
+
+# game/extra/extra.rpy:60
+msgid "В магазин с Алисой"
+msgstr "Alice ile dükkana"
+
+# game/extra/extra.rpy:60
+msgid "С добрым утром"
+msgstr "Günaydın"
+
+# game/extra/extra.rpy:60
+msgid "Афера века"
+msgstr "Yüzyılın dolandırıcılığı"
+
+# game/extra/extra.rpy:60
+msgid "Сама напросилась"
+msgstr "Bunu sen istedin"
+
+# game/extra/extra.rpy:60
+msgid "Так себе охранник"
+msgstr "Pek güvenlik görevlisi sayılmaz"
+
+# game/extra/extra.rpy:60
+msgid "Хоть на что-то сгодился"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Пока паук где-то рядом..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Лучшее пробуждение с Алисой"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Лучше делать то, что она хочет..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Покорность будет вознаграждаться..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Выбери своё наказание"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Вот и посмотрели ТВ"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "В ванную комнату за минетом!"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Меня ждёт кое-что особенное..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Самый хитрый охранник"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Урок по минету от мамы и Эрика"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Так близко к маминой попке"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Глубокий минет в мамином исполнении"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Секс-шоу с первых рядов"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Её первые познания..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Как возбудить ещё больше?"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Нежно и аккуратно!"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Как долго это нужно делать?"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Стесняется трогать..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Ещё стесняется, но трогает..."
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "Кружевное боди для Алисы от Эрика"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "1-ый интимный урок с Анной"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "2-ый интимный урок с Анной"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "3-ый интимный урок с Анной"
+msgstr ""
+
+# game/extra/extra.rpy:60
+msgid "4-ый интимный урок с Анной"
+msgstr ""
+
+# game/extra/extra.rpy:192
+msgid "ВОСПОМИНАНИЯ"
+msgstr ""
+
+# game/extra/extra.rpy:195
+msgid "ФОТОСНИМКИ"
+msgstr ""
+
+# game/extra/extra.rpy:248
+msgid "Воспоминание недоступно"
+msgstr ""
+
+# game/extra/extra.rpy:254
+msgid "Воспоминание ещё не открыто"
+msgstr ""
+
+# game/extra/extra.rpy:260
+msgid "В вашей коллекции ещё нет фотоснимков."
+msgstr ""
+
+# game/extra/extra.rpy:329
+msgid "Предыдущий снимок"
+msgstr ""
+
+# game/extra/extra.rpy:335
+msgid "Вернуться в коллекцию"
+msgstr ""
+
+# game/extra/extra.rpy:340
+msgid "Следующий снимок"
+msgstr ""
+
